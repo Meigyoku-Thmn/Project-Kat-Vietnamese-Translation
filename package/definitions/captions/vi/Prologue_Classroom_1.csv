@@ -1,0 +1,56 @@
+,en,vi
+story.Prologue_Classroom_1.event_boxpuzzle_fail.text.c5aee63788641e3591cd00243336ec5332b5e037,I think I'll just do it later.,Thôi để làm sau đi.
+story.Prologue_Classroom_1.event_boxpuzzle_success.text.ec34c9e31a757fa730189b514a47c8a682d03a33,That was easy.,Đơn giản vậy.
+story.Prologue_Classroom_1.item_candles_on_desks.text.87d3eaef68887c05be7b24ccd160e1b33ab3106e,This isn't the right classroom for that.,Làm chuyện này thì ở phòng đây không đúng rồi.
+story.Prologue_Classroom_1.item_chalk.text.004ccd56b002de2e15a0e5e583d482e9b2363b6e,The path is already drawn.,Con đường đã được vẽ rồi.
+story.Prologue_Classroom_1.item_chalk.text.948d8b2c36e66fc40d736faa8415a54c32e2e197,Not yet. I'd rather make sure I have everything I need first.,Chưa được. Trước tiên phải thu thập hết cái mình cần đã.
+story.Prologue_Classroom_1.item_chalk.text.ccb1964d634b8a6efbb6a1762c66e590109e0ed9,Not yet. I want to finish preparing the classrooms first.,Chưa được. Trước tiên phải chuẩn bị xong lớp học đã.
+story.Prologue_Classroom_1.item_chalk_get.text.d35f976759b8e3d3410d8d4183aaa53330857dde,There's some chalk here.,Có một vài cây phấn viết ở đây.
+story.Prologue_Classroom_1.item_chalk_get.choice.text.e8d32d47491e2462d1e83b81526638ac486785c4,Take it?,Lấy chứ?
+story.Prologue_Classroom_1.item_chalk_get.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Lấy
+story.Prologue_Classroom_1.item_chalk_get.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi
+story.Prologue_Classroom_1.item_chalk_on_chalkboard.text.f65fd7db1d4855f7802d390a5a1ae1656c3ad1bb,I'd rather not get into anymore trouble than I already am.,Mình chẳng muốn gây thêm rắc rối hơn cái mình đang làm đâu.
+story.Prologue_Classroom_1.item_hairpin_get.text.5d0bcddb564a5ccefc3db7515c86f3ba2b95098f,This is my desk. I keep all kinds of cool stuff here.,Bàn học của mình nè. Cất toàn mấy thứ hay ho ở đây.
+story.Prologue_Classroom_1.item_hairpin_get.text.74b9c1a0742b52656e356411833abed9d754f074,This might be useful.,Cái này có khi được việc.
+story.Prologue_Classroom_1.item_hairpin_get.choice.text.a2e1c4af7890c4ad0dd620398fba479098e5f7bc,Take Dusty Hairpin?,Lấy Kẹp tóc Xỉn màu?
+story.Prologue_Classroom_1.item_hairpin_get.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Lấy
+story.Prologue_Classroom_1.item_hairpin_get.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi
+story.Prologue_Classroom_1.item_hairpin_get.text.8547d6d3a10f3bcc5bab57a1f8d7229b598f0b4f,There's nothing else of use for today.,Chẳng còn thứ gì được việc hôm nay nữa cả.
+story.Prologue_Classroom_1.item_hairpin_get.text.936d729d7b510bcf05a40b259ceec5e0eabe1923,My desk. I don't need anything from it right now.,Bàn học của mình. Giờ không cần kiếm cái gì bên trong nữa.
+story.Prologue_Classroom_1.item_lighter_on_desks.text.3adfe6b1f1e9026c0734b1e39793ba66e53343ed,Burning the school down is not part of the ritual.,Trong quy trình nghi thức làm gì có trò đốt trường hử.
+story.Prologue_Classroom_1.item_lighter_on_window1.text.4f991da92f6952d95a516d344927d59a4e7bee2e,I think I'll pass on burning the school down today.,Thôi hôm nay không đốt trường học đâu.
+story.Prologue_Classroom_1.item_lighter_on_window2.text.4f991da92f6952d95a516d344927d59a4e7bee2e,I think I'll pass on burning the school down today.,Thôi hôm nay không đốt trường học đâu.
+story.Prologue_Classroom_1.item_lighter_on_window3.text.4f991da92f6952d95a516d344927d59a4e7bee2e,I think I'll pass on burning the school down today.,Thôi hôm nay không đốt trường học đâu.
+story.Prologue_Classroom_1.item_scissors.text.03a3ffa5b4df2f341b2e103bf765a7f6d6fe2a13,There's a pair of scissors here.,Có kéo đây này.
+story.Prologue_Classroom_1.item_scissors.choice.text.737b4a88619929e4c0dbe0c99e1855c6308e3cc9,Take Scissors?,Lấy kéo chứ?
+story.Prologue_Classroom_1.item_scissors.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Lấy
+story.Prologue_Classroom_1.item_scissors.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi
+story.Prologue_Classroom_1.item_scissors_on_plant.text.32c9aa0ef29cbdc3d781c065a4a0f57fba68afcd,It's already done.,Đã cắt rồi.
+story.Prologue_Classroom_1.item_scissors_on_plant.text.e3c35488f648b0db0375773a5a07c86be37d04e0,This isn't the time for that.,Giờ không phải lúc làm chuyện đó.
+story.Prologue_Classroom_1.item_scissors_on_shelf.choice.text.20a379d7867faf6c0ee3d157ce850f9bdcd5f19e,Return scissors?,Trả lại kéo?
+story.Prologue_Classroom_1.item_scissors_on_shelf.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Trả lại
+story.Prologue_Classroom_1.item_scissors_on_shelf.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi khỏi
+story.Prologue_Classroom_1.misc_books.text.34db7baba60e689bbf5a20d028970ba0ee310895,Some geometry books.,Mấy cuốn sách giáo khoa hình học.
+story.Prologue_Classroom_1.misc_chalkboard.text.996c7ffde7f4de6e04435eeeafaf0751c8d69a1c,A clean chalkboard.,Một tấm bảng đen sạch nhẵn.
+story.Prologue_Classroom_1.misc_desk.text.9eb16580a197d2cf1a69fc82764f982b5be5d5e7,A wooden desk.,Một chiếc bàn gỗ.
+story.Prologue_Classroom_1.misc_paper.text.7a8513c8b86872e6f345677972049ae1a79eaa6d,A paper slip with rules for students.,Một miếng giấy ghi nội quy trường.
+story.Prologue_Classroom_1.misc_paper.text.9b51fa75eb214b4950d4c5125c200db923b3232b,There's no time for rules right now.,Giờ không có thời gian mà tuân thủ nội quy.
+story.Prologue_Classroom_1.misc_pinboard.text.33e38a6ca97d020cf943319b0b6050a281afb2ca,Some classroom attendance sheets and schedules.,Vài cái điểm danh biểu và thời khóa biểu.
+story.Prologue_Classroom_1.misc_plant.text.7219399b824ee80374fd4252111163dbe7afa70c,A happy green plant.,Một cái cây lá cảnh vui vẻ.
+story.Prologue_Classroom_1.misc_plant.text.125dd56afe0d4478e1a7f34c9ec48fc2a7e4bd6c,The plant is no longer happy.,Cái cây lá cảnh chẳng còn vui nữa.
+story.Prologue_Classroom_1.misc_podium.text.760df8526ebfc0a8d9b9154494a4cd9c6baf7726,The teacher's podium.,Cái bục giảng của giáo viên.
+story.Prologue_Classroom_1.misc_shelf.text.bd28c802e52a8bcdea8b40a5aeb08aab922efd18,Some boring textbooks.,Mấy cuốn sách giáo khoa chán phèo.
+story.Prologue_Classroom_1.misc_shelf2a.text.bdec03e7317af0a79fa94cc26f0693db67eac16f,"Some very thick, school-related books.","Mấy cuốn sách liên quan trường học, rất là dầy."
+story.Prologue_Classroom_1.misc_shelf2b.text.5976341a7cf838c5d3c59c8187b2f487abe54dc7,Some books and... chalk.,Mấy cuốn sách và... phấn viết.
+story.Prologue_Classroom_1.misc_shelf2b.choice.text.e8d32d47491e2462d1e83b81526638ac486785c4,Take it?,Lấy chứ?
+story.Prologue_Classroom_1.misc_shelf2b.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Lấy
+story.Prologue_Classroom_1.misc_shelf2b.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi
+story.Prologue_Classroom_1.misc_shelf2b.text.9dd1b82a5e4f409f34a6c727d6cf043f271ad8f9,There's nothing else of use.,Chẳng còn gì khác xài được đâu.
+story.Prologue_Classroom_1.misc_trashcan.text.db154de6c1bfa2ac326a5f45ae897e0179a04d0e,A simple trash can. Its contents look trashy.,Một cái thùng rác đơn sơ. Bên trong trông rất ư là rác rến.
+story.Prologue_Classroom_1.misc_window1.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.,Phải để yên rèm khép kín lại.
+story.Prologue_Classroom_1.misc_window2.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.,Phải để yên rèm khép kín lại.
+story.Prologue_Classroom_1.misc_window3.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.,Phải để yên rèm khép kín lại.
+story.Prologue_Classroom_1.move_enter.choice.text.de94a1b5f3e96666575b288236ae55f16301c4ff,Should I sort the desks in this classroom now?,Sắp xếp lại bàn trong lớp học luôn chứ?
+story.Prologue_Classroom_1.move_enter.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Sắp xếp luôn
+story.Prologue_Classroom_1.move_enter.choice.8de95fd5b4121e2d7c337a70f664f13c28c3c275,Not yet,"Chưa, gượm đã"
+story.Prologue_Classroom_1.move_enter.text.1d662b8bd43f3310cc6e0175c8854c1e9a1465f1,This should be easy.,Cái này dễ ấy mà.

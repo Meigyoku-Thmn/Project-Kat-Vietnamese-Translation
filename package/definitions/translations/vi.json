@@ -1,0 +1,12 @@
+{
+	"locale": "vi",
+	"name": "Tiếng Việt",
+	"author": "Meigyoku Thmn",
+	"resourceRemaps": {
+		"res://resources/font/default.tres": "res://translation-resources/vi/default.tres",
+		"res://resources/font/default_title.tres": "res://translation-resources/vi/default_title.tres",
+		"res://resources/font/creepy.tres": "res://translation-resources/vi/creepy.tres",
+		"res://assets/img/cg/prologue/instructions1.png": "res://translation-resources/vi/instructions1.png",
+		"res://assets/img/cg/prologue/instructions2.png": "res://translation-resources/vi/instructions2.png"
+	}
+}

@@ -1,0 +1,164 @@
+,en,vi
+system.actions.action,Action/OK,Hành động/OK
+system.actions.cancel,Cancel,Hủy thao tác
+system.actions.down,Down,Xuống
+system.actions.left,Left,Trái
+system.actions.menu,Menu,Menu
+system.actions.right,Right,Phải
+system.actions.run,Run,Chạy
+system.actions.special,Special,Đặc biệt
+system.actions.up,Up,Lên
+system.common.apply,Apply,Áp dụng
+system.common.auto,Auto,Tự động
+system.common.axis,Axis,Trục
+system.common.back,Back,Quay lại
+system.common.button,Button,Nút
+system.common.cancel,Cancel,Thôi
+system.common.controller,Controller,Bộ điều khiển
+system.common.done,Done,Xong
+system.common.key,Key,Phím
+system.common.keyboard,Keyboard,Bàn phím
+system.common.loading,Loading...,Đang tải...
+system.common.next,Next,Tiếp theo
+system.common.no,No,Không
+system.common.off,Off,Tắt
+system.common.on,On,Bật
+system.common.yes,Yes,Có
+system.credits.artdesign,Art,Vẽ
+system.credits.codescripting,Code,Code
+system.credits.fonts,Fonts,Font (Bản tiếng Anh)
+system.credits.godotengine,Godot Engine,Godot Engine
+system.credits.logo,Paper Lily Logo,Paper Lily Logo
+system.credits.madeby,Created By,Chế tác
+system.credits.madewith,Made Using,Tạo bằng
+system.credits.music,Music,Âm nhạc
+system.credits.sfx,SFX,Tiếng hiệu ứng
+system.credits.story,Designed By,Thiết kế
+system.credits.thanksforplaying,Thank You for Playing!,Cảm ơn bạn đã chơi!
+system.credits.ui,UI Design,Thiết kế UI
+system.endings.k1,True End K1 - Curiosity Killed the Kat,Kết Đúng K1 - Tò mò Hại chết Con mèo
+system.locations.prologue.event.ending,Paper Lily: Chapter 1,Paper Lily: Chương 1
+system.locations.prologue.event.nightmare,Prologue: Into the Door,Phần tựa: Vào Cửa
+system.locations.prologue.hod,Prologue: Hallway of Doors,Phần tựa: Hành lang Cửa
+system.locations.prologue.school,Prologue: School,Phần tựa: Trường học
+system.locations.prologue.school.occult,Prologue: Occult Club,Phần tựa: Câu lạc bộ Huyền bí
+system.menu.continue,Continue,Chơi tiếp
+system.menu.credits,Credits,Credits
+system.menu.debugroom,Debug Room,Phòng Debug
+system.menu.extras,Extras,Extras
+system.menu.gallery,Gallery,Phòng tranh
+system.menu.info,{0} Select {1} Back,{0} Chọn {1} Quay lại
+system.menu.inventory,Inventory,Kho đồ
+system.menu.load,Load,Tải phần chơi
+system.menu.load.game,Load Game,Tải phần chơi
+system.menu.log,Log,Log
+system.menu.mainmenu,Main Menu,Menu chính
+system.menu.newgame,New Game,Chơi mới
+system.menu.objectives,Objectives,Mục tiêu
+system.menu.objectives.empty,(There are no objectives),(Không có mục tiêu nào cả)
+system.menu.paused,Game Paused!,Phần chơi đã tạm dừng!
+system.menu.quit,Quit,Thoát ra
+system.menu.quit.areyousure,Are you sure you want to quit? Unsaved progress will be lost.,"Bạn có chắc là muốn thoát chứ?
+Quá trình chưa được lưu sẽ bị mất đấy."
+system.menu.quit.debugroom,Go to Debug Room,Đi đến Phòng Debug
+system.menu.quit.desktop,Quit to Desktop,Thoát ra Desktop
+system.menu.quit.mainmenu,Quit to Title Screen,Thoát ra Màn hình Tiêu đề
+system.menu.save,Save,Lưu
+system.menu.save.corrupted,CORRUPTED,BỊ HỎNG
+system.menu.save.game,Save Game,Lưu phần chơi
+system.menu.save.location.unknown,Unknown Location,Địa điểm Không rõ
+system.menu.save.overwrite.areyousure,Are you sure you want to overwrite this save file?,Bạn chắc là muốn ghi đè file lưu này chứ?
+system.menu.save.slot,SLOT {0},SLOT {0}
+system.menu.save.slot.empty,<EMPTY>,<TRỐNG>
+system.menu.settings,Settings,Thiết lập
+system.menu.startup.settings.info,{0} Change {1} Confirm,{0} Thay đổi {1} Xác nhận
+system.menu.status,Status,Tình trạng
+system.menu.website,Website,Website
+system.menu.website.itchio,Itch.io Page,Trang Itch.io
+system.minigames.boxpuzzle.info,{0} Give Up {1} Reset,{0} Bỏ cuộc {1} Reset
+system.objectives.done,(Done),(Xong)
+system.objectives.updated,Objectives Updated!,Mục tiêu đã được cập nhật!
+system.screen.notefromdevs,"Note from the devs:
+We really appreciate you taking the time to play our little game! It means the world to us! 
+
+What you have played is the prologue of Paper Lily, a larger project we are currently working on. We got amazing feedback for Project Kat so far - and we hope you'll look forward to Chapter 1, coming soon!
+
+If you liked what you played, it would help us a lot if you could leave a review!
+
+Thank you so much!!!","Lời nhắn từ các dev:
+Chúng tôi vô cùng cảm kích bạn đã chơi qua trò chơi bé nhỏ này! Với chúng tôi, đó là niềm vui không gì thay thế được!
+
+Cái mà bạn vừa chơi xong là phần mở đầu của Paper Lily, một dự án lớn hơn mà chúng tôi hiện tại đang tiến hành. Chúng tôi đã nhận được những phản hồi rất thú vị cho Project Kat cho đến giờ - mong các bạn hãy ngóng đợi Chương 1, sẽ sớm thôi!
+
+Nếu bạn thích thú với trò chơi này thì hãy để lại đánh giá nhé, làm thế sẽ giúp đỡ chúng tôi nhiều lắm!
+
+Cảm ơn các bạn rất nhiều!!!"
+system.screen.projectkat.warning,"WARNING
+
+This game may contain flashing lights and effects,
+as well as depictions of violence and strong language.","CẢNH BÁO
+
+Trò chơi này có thể chứa ánh sáng và hiệu ứng chớp nháy,
+cùng với nội dung có miêu tả bạo lực và ngôn từ thô lỗ."
+system.screen.specialthanks,Special Thanks,Trân trọng cảm ơn
+system.screen.specialthanks.comment,Everyone who left a comment or rating,Những người đã để lại bình luận và đánh giá
+system.screen.specialthanks.family,Our families and friends,Bạn bè và gia đình của chúng tôi
+system.screen.specialthanks.survey,Everyone who completed the survey,Những người đã hoàn thành khảo sát
+system.screen.specialthanks.video,Everyone who made a video or stream,Những người đã làm video hay stream về trò chơi này
+system.screen.specialthanks.you,And You!,Và bạn!
+system.settings.advanced,Advanced Settings,Thiết lập Cao cấp
+system.settings.audio,Sound Settings,Thiết lập Âm thanh
+system.settings.batterysaver,Battery Saver Mode,Chế độ Tiết kiệm điện
+system.settings.brightness,Brightness,Độ sáng
+system.settings.compvsync,Comp.V-Sync,V-Sync Phức hợp
+system.settings.contrast,Contrast,Độ tương phản
+system.settings.current,Current: {0},Hiện tại: {0}
+system.settings.fpslimit,FPS Limit,Giới hạn FPS
+system.settings.fpsunlocked,Unlocked,Không giới hạn
+system.settings.fullscreen,Full Screen,Toàn màn hình
+system.settings.game,Game Settings,Thiết lập Trò chơi
+system.settings.game.language,Language,Ngôn ngữ
+system.settings.game.language.select,Select Language,Lựa chọn Ngôn ngữ
+system.settings.game.skipenabled,Skip Dialogue,Bỏ qua Hội thoại
+system.settings.gamma,Gamma,Gamma
+system.settings.hidecursor,Hide Mouse Cursor,Ẩn Con trỏ chuột
+system.settings.input,Control Settings,Thiết lập Điều khiển
+system.settings.input.autoswitch,Auto Switch,Hoán chuyển Tự động
+system.settings.input.deadzone,Controller Deadzone,Deadzone Bộ điều khiển
+system.settings.input.pressbutton,Press a button to assign to {0}...,Bấm nút gán cho {0}...
+system.settings.input.presskey,Press a key to assign to {0}...,Bấm phím gán cho {0}...
+system.settings.input.profile,Profile,Profile
+system.settings.input.profile.azerty,Azerty Classic,Azerty Classic
+system.settings.input.profile.azerty-wasd,Azerty WASD,Azerty WASD
+system.settings.input.profile.caption,{0}: {1},{0}: {1}
+system.settings.input.profile.classic,Classic,Classic
+system.settings.input.profile.custom,Custom,Custom
+system.settings.input.profile.ds4,DualShock 4,DualShock 4
+system.settings.input.profile.ds4jp,DualShock 4 (JP),DualShock 4 (JP)
+system.settings.input.profile.dvorak,Dvorak Classic,Dvorak Classic
+system.settings.input.profile.dvorak-wasd,Dvorak WASD,Dvorak WASD
+system.settings.input.profile.genericpad,Generic,Generic
+system.settings.input.profile.switchpro,Switch Pro,Switch Pro
+system.settings.input.profile.wasd,WASD,WASD
+system.settings.input.profile.xbox,Xbox,Xbox
+system.settings.notrecommended,Not recommended,Không khuyên dùng
+system.settings.objectivenotifications,Objective Notifications,Thông báo Mục tiêu
+system.settings.renderer,Renderer,Bộ kết xuất
+system.settings.renderer.gles2,OpenGL ES 2.x,OpenGL ES 2.x
+system.settings.renderer.gles3,OpenGL ES 3.x,OpenGL ES 3.x
+system.settings.resolution,Resolution,Độ phân giải
+system.settings.resolutionscale,Internal Resolution,Độ phân giải Nội bộ
+system.settings.restartrequired,Restart required,Cần khởi động lại
+system.settings.revertall,Revert Settings to Default,Khôi phục Thiết lập Mặc định
+system.settings.saturation,Saturation,Độ bão hòa
+system.settings.video,Screen Settings,Thiết lập Màn hình
+system.settings.volume.bgm,BGM Volume,Âm lượng Nhạc nền
+system.settings.volume.master,General Volume,Âm lượng Chung
+system.settings.volume.mute,Mute All Audio,Tắt hết tiếng
+system.settings.volume.sfx,SFX Volume,Âm lượng Tiếng hiệu ứng
+system.settings.volume.system,Interface Volume,Âm lượng Giao diện
+system.settings.volume.text,Text Scrolling Volume,Âm lượng Trải văn bản
+system.settings.vsync,V-Sync,V-Sync
+system.settings.windowsize,Window Size,Kích cỡ Cửa sổ
+system.storyplayer.item.get,Obtained {0} {1},Đã nhận được {0} {1}
+system.tutorials.info,{0} Okay,{0} Ô kê

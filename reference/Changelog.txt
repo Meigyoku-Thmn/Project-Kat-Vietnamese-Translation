@@ -1,0 +1,772 @@
+Project Kat Translation Package v1.3.1 Changelog
+
+
+Changes between v1.2.1 and v1.3.1
+--------------------------------------------------------------------------------
+
+New files in v1.3.1:
+
+Prologue_Closet.csv
+Prologue_Ending_K3.csv
+Prologue_Ending_K5.csv
+Prologue_Ending_K7_1.csv
+Prologue_Ending_K7_2.csv
+Prologue_Ending_K7_3.csv
+Prologue_Hallway_2.csv
+Prologue_Nightmare_Office.csv
+
+
+Key changes in v1.3.1:
+
+characters.csv
+--------------
+New Key: characters.hoodie.name
+
+Global.csv
+----------
+New Key: story.Global.prologue_check_plants_cut.text.6329e8a7c52b3f3d8e22117c3eb6d3ca2ae1ff42
+New Key: story.Global.prologue_check_plants_cut.text.c994deb18593c8d8a50b63c6872c2e7774cf2711
+New Key: story.Global.prologue_check_plants_cut.text.be9de4cb21c061133a2d908557b21c5a8b41cfa6
+New Key: story.Global.prologue_check_plants_cut.text.14823da364c5b4ffe05585bf06e9182d494771ac
+New Key: story.Global.prologue_check_plants_cut.text.f965096ab02c7c90ddc4f72df5ebd77885ea3387
+New Key: story.Global.prologue_check_plants_cut.text.8799a772c4fb396e35f00a4b0f74e8928980c961
+New Key: story.Global.prologue_check_plants_cut.text.d2b100e7d08f55aeecc15e13110b72d7aabbc9d5
+New Key: story.Global.prologue_check_plants_cut.text.ef3aada0e2404993532733408a29bc6d65522cab
+New Key: story.Global.prologue_check_plants_cut.text.80f3007acea925bd534b9a7cb9354a891d6b8eab
+New Key: story.Global.prologue_check_plants_cut.text.be9e520a9337bc2952919f7d9d0ece6283f51964
+New Key: story.Global.prologue_check_plants_cut.text.35f1a0ab71339bc315e57b1aeddeeea76e10bade
+New Key: story.Global.prologue_cutscene_ritual_2.text.8d3b11b3af0674578a90b532930e58ba5424b056
+New Key: story.Global.prologue_cutscene_ritual_2.text.665f5b8d399a51e10d35037f2968524c99e2e67f
+New Key: story.Global.prologue_cutscene_ritual_2.choice.text.74d5410fad0d438c102abf44d6543734b697b0c0
+New Key: story.Global.prologue_cutscene_ritual_2.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae
+New Key: story.Global.prologue_cutscene_ritual_2.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103
+New Key: story.Global.prologue_cutscene_ritual_girls.text.8a13d9b29bbc375ec3d2b8f5d400c7cbc5ec379c
+New Key: story.Global.prologue_cutscene_ritual_girls.text.27f2c10be5c805961a9008743ee8e7a62ac35fc4
+New Key: story.Global.prologue_cutscene_ritual_girls.text.e39e8fd285238907b4d9a2fb34c0cbd48d6d1fca
+New Key: story.Global.prologue_cutscene_ritual_girls.text.e324f5a71a8d0364cddb546dfb1c1d2b0d2f3f9e
+New Key: story.Global.prologue_cutscene_ritual_girls.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+New Key: story.Global.prologue_cutscene_ritual_girls.text.27c0e8fdd475ae6dc459f6e4cf2e0ed5804d363c
+New Key: story.Global.prologue_cutscene_ritual_girls.text.d7a4adf621d07eb2f91b7b6a4c3acfd0958aa0ca
+New Key: story.Global.prologue_cutscene_ritual_girls.text.cc6e467c405ff6e899ff6afb85ecff3f4a545291
+New Key: story.Global.prologue_cutscene_ritual_girls.text.f85169cbc60fba5a5872a63a9642688388bdaa89
+New Key: story.Global.prologue_cutscene_ritual_girls.text.3c201f47af7989c9c537b3b9632d943d09c25cc0
+New Key: story.Global.prologue_cutscene_ritual_girls.text.f6d83edc45f0b5db67760927a6156b71e8e91b28
+New Key: story.Global.prologue_cutscene_ritual_girls.text.e7da47b65ddbdbb71c9821469db4be65290b7dfe
+New Key: story.Global.prologue_cutscene_ritual_girls.text.48ddf60ef6d01c2d11e1a5c09b8e7c3e7b5ee3d7
+New Key: story.Global.prologue_cutscene_ritual_girls.text.0cf48a4caa4a9cf4d8c7817934cfc7322a61eb8e
+New Key: story.Global.prologue_cutscene_ritual_girls.text.fc99d18a3b6169273fb557aae017c984dba4663f
+New Key: story.Global.prologue_cutscene_ritual_girls.text.9baa59f88b821933467def38048f2a9ff7a7a947
+New Key: story.Global.prologue_cutscene_ritual_girls.text.1d724c012150715dedf43215e3bf63986157eda9
+New Key: story.Global.prologue_cutscene_ritual_girls.text.689f1069f423b0c9e7cc1f62ced369d544041a13
+New Key: story.Global.prologue_cutscene_ritual_girls.text.ac3388fc02adb7f378c4cdcf30cbfee771c97ae6
+New Key: story.Global.prologue_cutscene_ritual_girls.text.068893a5585241b8386e4e7264367e5cbe030672
+New Key: story.Global.prologue_cutscene_ritual_girls.text.960c9f1cb1af598a9e1b23e38c15a5a96de76e07
+New Key: story.Global.prologue_cutscene_ritual_girls.text.fa97725633bd52ddb8fb0409986f9de3133d8182
+New Key: story.Global.prologue_cutscene_ritual_girls.text.aaf408076f7109a1ecd347ef7835013d24f86125
+New Key: story.Global.prologue_cutscene_ritual_girls.text.a07a79135caa2bf195bacb1024cf4442daefb9d2
+New Key: story.Global.prologue_cutscene_ritual_girls.text.e20bec7cd385c6c6736841d877125bbf0f13a6a4
+New Key: story.Global.prologue_cutscene_ritual_girls.text.ea0f9ea2d6bd15acf991bebdbee7ec5dcc487911
+New Key: story.Global.prologue_cutscene_ritual_girls.text.2b541c08b795c762aa27e41c4d40b590b5d8b87a
+New Key: story.Global.prologue_cutscene_ritual_girls.text.a4807c7808158dae30ae05a09ae9984f7dff2a00
+New Key: story.Global.prologue_cutscene_ritual_girls.text.e8c307e57c585c2080bf7332bccab4909fba12d5
+New Key: story.Global.prologue_cutscene_ritual_girls.text.c45dcb552b34dc913238cb26305b3073dd783ecd
+New Key: story.Global.prologue_cutscene_ritual_girls.text.d24b63256b9e38d0c2b4d91259c5f755fde9cc55
+New Key: story.Global.prologue_cutscene_ritual_girls.text.a78e6701b02292287dbaa5e15dc69ca645092a47
+New Key: story.Global.prologue_cutscene_ritual_girls.text.ce3d7224f2b8f596af766145d1cc69ceb42395bb
+New Key: story.Global.prologue_cutscene_ritual_girls.text.4fa71a53c1d14c68b45d72ea32880bc3f1b67c1f
+New Key: story.Global.prologue_ending_k2.text.a7f4a8991d8b9edf5f397781c6891c4c4a821f78
+New Key: story.Global.prologue_ending_k2.text.453e77b4d7d5b7cdaa716bbe7c273236d5bb4754
+New Key: story.Global.prologue_ending_k2.text.899676bc9ee27a7eb0ddb2ffef68513153b440a6
+New Key: story.Global.prologue_ending_k2.text.13d445dc136b68ee35d5592f937d5a138c74da5e
+New Key: story.Global.prologue_ending_k2.text.9c6806e368df7cac1664af6e0667d347196b7b5a
+New Key: story.Global.prologue_ending_k2.text.6069f127223610f828c0bb834e13b00f7fb65212
+New Key: story.Global.prologue_ending_k2.text.448474fd6f3cf8f077c86efad23a4d1df14eec9e
+New Key: story.Global.prologue_ending_k3.text.5ec90e03adac13c26c70a0f18fb22b00a704c941
+New Key: story.Global.prologue_ending_k3.text.7c24fec035c27d28c9facc402b14e29a8c961852
+New Key: story.Global.prologue_ending_k3.text.c6eb6366d092e365582ffe29b8e2156c8cffab88
+New Key: story.Global.prologue_ending_k3.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+New Key: story.Global.prologue_ending_k3.text.ffe8092755554f948d96549dfd89f84a367015d1
+New Key: story.Global.prologue_ending_k3.text.357ca62ff09f0bd75252c36764cb58d2af7f3a4e
+New Key: story.Global.prologue_ending_k3.text.5c20c2c8d65fea9cf9b0f46d8bf06151419b6954
+New Key: story.Global.prologue_ending_k3.text.18267c3683cd57be130cae9149dad441e6a7a9d1
+New Key: story.Global.prologue_ending_k3.text.c74685cc0e5821d48377e92e437ede148e75bfb5
+New Key: story.Global.prologue_ending_k3.text.d2367e10c90397c4383f247e46d48580fe87eb23
+New Key: story.Global.prologue_ending_k3.text.2883d5ef81c1db09562b0b8d77b3e8c7d896ff7b
+New Key: story.Global.prologue_ending_k3.text.440f67107d599d20783ddfaee2ba9d94690d1c8c
+New Key: story.Global.prologue_ending_k3.text.f7745e562735a7ca48a43588623ec796a18533c5
+New Key: story.Global.prologue_ending_k3.text.f9a5c2bd90ffb99555b553709dd52d3acdfb2a4a
+New Key: story.Global.prologue_ending_k3_pt2.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+New Key: story.Global.prologue_ending_k3_pt2.text.f1f173c2b0c85eed09c9fbc9091c443f407069b0
+New Key: story.Global.prologue_ending_k3_pt2.text.76147416d1febf63ccd6e5b3f3057e222408b294
+New Key: story.Global.prologue_ending_k3_pt2.text.cb032a9f62589faa5f11e5776478c318abeb7ba2
+New Key: story.Global.prologue_ending_k3_pt2.text.a20ebfaa8efc301dc73ad1956e11e2c35037ce14
+New Key: story.Global.prologue_ending_k4.text.ad08572b11066fa1409d4000078d5f724ef0dd09
+New Key: story.Global.prologue_ending_k4.text.8cf9812954c97fee678942f0fb77b95634a568d4
+New Key: story.Global.prologue_ending_k4.text.ed70d04c7aa6ddd501bda35a91779c39ae4dc453
+New Key: story.Global.prologue_ending_k4.text.8cd40009ea9f87bdf90b06f0449c5d83fa27a2af
+New Key: story.Global.prologue_ending_k4.text.f8d684cf65bb786433e6c29f6a11364e3c3ec4eb
+New Key: story.Global.prologue_ending_k5.text.648ea3e9db14318a79d3ad4291b6080d76493ff3
+New Key: story.Global.prologue_ending_k5.text.137ae09f0c4e5df2ca0377491d7fc9eb7fa6f11f
+New Key: story.Global.prologue_ending_k5.text.7a51f962c6363a63ecbad7289dd060fb99b819eb
+New Key: story.Global.prologue_ending_k5.text.f7746926aec26f9b15e290bd2d30f7f6897cacf6
+New Key: story.Global.prologue_ending_k5.text.ffb2e34bd15ce1c357de1f44923aadd666b35467
+New Key: story.Global.prologue_ending_k5.text.e37b99ef62b4c4792fe603ed06f08cb60c1fe54e
+New Key: story.Global.prologue_ending_k5.text.1a4c965c08d02b772a9715d4a3a7e813285ce82b
+New Key: story.Global.prologue_ending_k5.text.87cece88105f59cf36df372cccfa7bb269cf63f3
+New Key: story.Global.prologue_ending_k6.text.416ce944d4068566c5f09cf6e6a40427c699960b
+New Key: story.Global.prologue_ending_k6.text.7556ced05c7bb1aa9688e0fa3b800f3e24da4f39
+New Key: story.Global.prologue_ending_k6.text.9f55d20ac2f4c2ab9a99f63923a6d9681e83a56d
+New Key: story.Global.prologue_ending_k6.text.774565040c017d7c82eeed4ec753e5ce628d6e9a
+New Key: story.Global.prologue_ending_k7.text.1faf6ee8c43bd3f7f83824702bfa6cd9079f99bb
+New Key: story.Global.prologue_ending_k7.text.4d1b355e80d9d842ff1a26fe9efdbbdfac8d806f
+New Key: story.Global.prologue_ending_k7.text.907838182d990909f8f5e5e8a7c142be8f83ab52
+New Key: story.Global.prologue_ending_k7.text.ef61cdc800bd79da44754d0f5bcea2af848705cb
+New Key: story.Global.prologue_ending_k7.text.8cbf1b32fd90c465be5900317712e467d251be55
+New Key: story.Global.prologue_ending_k7.text.70090abb90491ec03c80856de5f7d41470fb1e41
+New Key: story.Global.prologue_ending_k7.text.0c97c13d16a5f3e38294ef6e2b1fc8196e18ba85
+New Key: story.Global.prologue_ending_k7.text.884f7ac1174030ede1347d792260f5342765472f
+New Key: story.Global.prologue_ending_k7.text.91fbe4ea81fd3d03a8efdb9d972054a6e43175d7
+New Key: story.Global.prologue_ending_k7.text.afc2c43d835d6d238d10a8a9ef286bf73e23c624
+New Key: story.Global.prologue_ending_k7.text.922a788ffc9d0e6de4257c07aaabdbe39aa05249
+New Key: story.Global.prologue_ending_k7.text.afb42674fbfa842e149878bc03f27d023121f3a7
+New Key: story.Global.prologue_ending_k7.text.ab7d36f2f9a7a7c2fbbed88e12147b8f0eee4b16
+New Key: story.Global.prologue_ending_k7.text.c7572d80c587c5afc9d310549d578e2df0ee0d71
+New Key: story.Global.prologue_ending_k7.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+New Key: story.Global.prologue_ending_k7.text.feb6c3a737798b01159cc78037f9ff846933372f
+New Key: story.Global.prologue_ending_k7.text.12775f7f3ee5ad0ca46f8240a8f2fdc54df04c80
+New Key: story.Global.prologue_ending_k7.text.a6994f91e52e1cc39934cd111c242a0b2cd789e3
+New Key: story.Global.prologue_ending_k7.text.e777cea75af6ed97e936e9232e0161af3deec82e
+New Key: story.Global.prologue_ending_k7.text.470ed3ac582c3f926ff995b637c8bc241dffe029
+New Key: story.Global.prologue_ending_k7.text.73fef01e230300ae6fc10ffd739157b067709157
+New Key: story.Global.prologue_ending_k7.text.0dfd56e8980ca5af124dfd0f239edf245e345ceb
+New Key: story.Global.prologue_ending_k7.text.b9eb95fd69a10e7e704eea3ec036707e94f75521
+New Key: story.Global.prologue_ending_k7.text.513b2c5b6fe87d3e8d7d1057569c029897216eb1
+New Key: story.Global.prologue_ending_k7.text.39060fa865f06ea4f250f71a23d2f6445b4534db
+New Key: story.Global.prologue_ending_k7.text.95741f01ba97bd1346a0081f0d435d592539f3b3
+New Key: story.Global.prologue_ending_k7.text.33e594b2f4dbc10ffc99749b3fae1c0c0204d7f4
+New Key: story.Global.prologue_ending_k7.text.2863dac37c7151d249f68af6ee435665b58f7361
+New Key: story.Global.prologue_ending_k8.text.aadb3c228ce36e4bd6a5b91c1b9af0295c221ed1
+New Key: story.Global.prologue_ending_k8.text.011cf5f485dda252a5db605095168574100eec84
+New Key: story.Global.prologue_ending_k8.text.a85defd134c6ca4337254087d04c2d2177af347a
+New Key: story.Global.prologue_ending_k8.text.1215744cbb42a3f53737c44a88eac5aed283de43
+New Key: story.Global.prologue_ending_k8.text.2fd2dad3266f20c1f944788ddc4f880332d8b52b
+New Key: story.Global.prologue_event_attempted_exit_girls.text.2d1147175f6d5d127925dd07225512b2f8b07e0d
+New Key: story.Global.prologue_event_attempted_exit_girls.text.c81fe5e920aca4e4d853deb47f4e771e37dce1f6
+New Key: story.Global.prologue_event_attempted_exit_girls.text.00ae205e25c912628e5a4f8cb5c410e415536ba4
+New Key: story.Global.prologue_event_attempted_exit_girls.text.37f0039c54a1e51837084fcf9e29b6f3481de199
+New Key: story.Global.prologue_event_sit_with_girls.text.28180a9bb790b972e3fbe0f59c1d6d904c052c9d
+New Key: story.Global.prologue_event_sit_with_girls.text.6bcbb02d937ec25095efec431109deaf9da90b8e
+New Key: story.Global.prologue_event_sit_with_girls.text.70e168b5ef8eb7401ba86e482f21ceab6c4b2121
+New Key: story.Global.prologue_event_sit_with_girls.text.b7984130377205db885aa7383d60c46edb4d4684
+New Key: story.Global.prologue_event_sit_with_girls.text.934fe08714d06b52c3b05d52c68f96f7ece24d0e
+New Key: story.Global.prologue_event_sit_with_girls.text.d61ba31e4f266bf4129a55bd68aab8388f577e5d
+New Key: story.Global.prologue_event_sit_with_girls.text.0d8a0a7b871631e9389919f8b8058d760daa49f7
+New Key: story.Global.prologue_event_sit_with_girls.text.4c77c6bc11442bb3368aeace77d96ce4ff347d98
+New Key: story.Global.prologue_event_sit_with_girls.text.d7e50e5d4bcde63c91096535519913a17af4470b
+New Key: story.Global.prologue_event_sit_with_girls.text.033b205074155231d5e3dfae0b781e967157882d
+New Key: story.Global.prologue_event_sit_with_girls.text.c3e9d2ea53efa91a565e62bdb6a96974f85914ff
+New Key: story.Global.prologue_event_sit_with_girls.text.49cbcaaefe9016eddbceee5b087374bdfaf41fd7
+New Key: story.Global.prologue_event_sit_with_girls.text.6cdcae6600a2e2c8c28356bb5b80f487b77e2c02
+New Key: story.Global.prologue_event_sit_with_girls.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+New Key: story.Global.prologue_event_sit_with_girls.text.cc523523e6c9525733e32983eafcc406747a4d89
+New Key: story.Global.prologue_event_sit_with_girls.text.a183bf089d90c341b4636dd8bc976b71f03c60b3
+New Key: story.Global.prologue_event_sit_with_girls.text.7e044b515cf648e1fe0f1de4aab42fa7e0914aa1
+New Key: story.Global.prologue_event_sit_with_girls.text.1477c7c6da8527cfd566cd2f5a868015bb88870b
+New Key: story.Global.prologue_event_sit_with_girls.text.3fca5477fa872a76a953cd6fde6bb02a5f073ce5
+New Key: story.Global.prologue_hod_event_wake_up.text.5c63ff31864c31803e6e16cbd7f2e8361ab99123
+New Key: story.Global.prologue_intro.text.fa92faa7deab6c7fda5948018c93ae668070a383
+New Key: story.Global.prologue_intro.text.913cd79aaf0435f0844f8473d4c420bea559abfd
+New Key: story.Global.prologue_item_chalk_get.text.59a38df9efa8b663acdc42eed3b4b771b1058a83
+New Key: story.Global.prologue_item_lighter_on_plant.text.13e7c99c448e036b88626da6d4785e0b2d0a510c
+New Key: story.Global.prologue_item_scissors.text.78513c428da3e82b3d9c0e31eaa6102d16f7c005
+New Key: story.Global.prologue_item_scissors.text.79e6a54246ee62a14f305087f065be2ea7a2b604
+New Key: story.Global.prologue_item_scissors.text.e0d56e99f7f18c0f7f197515332e77d24b1068e9
+New Key: story.Global.prologue_item_scissors.text.2ef875b9bf67843ac034ca44671c7357f60255b4
+New Key: story.Global.prologue_item_scissors.text.d4c6c3f8b8516e6a743b615a77e03bc80be2ddbc
+New Key: story.Global.prologue_item_scissors.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+New Key: story.Global.prologue_item_scissors.text.e30f3c86e1e54871aa0c80885c778267a1aca22f
+New Key: story.Global.prologue_item_scissors.text.b1e1fd09c18df25d856d59b0e362e11e80ed68fc
+New Key: story.Global.prologue_item_scissors.text.5c377cf4c3299f9f518367c13d3863d0ab1b545a
+New Key: story.Global.prologue_item_scissors.text.6b8efc2754ea972eea1dcb93b3fca3738da20471
+New Key: story.Global.prologue_item_scissors.text.fa7f93dd464072501445b80148b6d229f773d94c
+New Key: story.Global.prologue_item_scissors.text.82ba6b6db8766abe5f278ec33f1f6d3cf2719ca3
+New Key: story.Global.prologue_item_scissors.text.5ecb60ad93beec9f6d69bbf790ed1d33b9749cdc
+New Key: story.Global.prologue_item_scissors.text.410bf23a3f080def9c7a976a16305bcde7943ed1
+New Key: story.Global.prologue_item_scissors.text.ec464bdb4829dcbd6f74720473f19a797656aea5
+New Key: story.Global.prologue_item_scissors.text.17187cd84374b97703ac5802bc0c9ea23b8311a4
+New Key: story.Global.prologue_item_scissors.rename.item.desc.b924a78017636f3735c09c529b33c86aeacaa900
+New Key: story.Global.prologue_item_scissors.text.1da20795f84bb9c5e16697aea34f14720e38fc37
+New Key: story.Global.prologue_item_scissors.text.35eb9e717891b07fff1a471c25fa342413fc864e
+New Key: story.Global.prologue_unlock_extra_room.text.fd69fc482977a9f7aee2cc389fdb6172df339e82
+New Key: story.Global.prologue_unlock_extra_room.text.e9a66c9adb3c4ff81064de30207c4eeb1e9029fd
+New Key: story.Global.prologue_unlock_extra_room.text.becb9893fa83fdafc979a198cb7f898809f30294
+New Key: story.Global.prologue_unlock_extra_room.text.2547c30e4bc8144ed37b99051b2836bfc5d9ede1
+New Key: story.Global.prologue_unlock_extra_room.text.14813cc09f979c94bf360c77d29a79f295111cab
+New Key: story.Global.prologue_unlock_extra_room.text.3b81e6f71341dc61374695996b441fa43ba7a530
+Deleted Key: story.Global.prologue_cutscene_ritual_2.text.e6f6d38a64f52936401ca3c436f21fdb7378dc0e
+Deleted Key: story.Global.prologue_cutscene_ritual_2.text.9a8af19b4dcca0c6624b00a2cd8968fbe5bf3355
+Deleted Key: story.Global.prologue_hod_event_wake_up.text.82286de95311b564edea94b4cfcb4b550a5a4011
+Deleted Key: story.Global.prologue_hod_event_wake_up.text.93988264e088e0364c3d1986f87379be068675e0
+Deleted Key: story.Global.prologue_intro.text.a74deb087813cf7da9ce930797c0db1e4819a7a6
+Deleted Key: story.Global.prologue_intro.text.0a019511c30c3fec62d6e8c8dc03ab7e613ffa67
+Deleted Key: story.Global.prologue_item_lighter_on_plant.text.045443648650103d0260706f30de1ed235aecef8
+
+items.csv
+---------
+New Key: items.prologue.lighter2.name
+New Key: items.prologue.lighter2.description
+New Key: items.prologue.lettuce.name
+New Key: items.prologue.lettuce.description
+New Key: items.prologue.locker_key.name
+New Key: items.prologue.locker_key.description
+New Key: items.prologue.blueprints.name
+New Key: items.prologue.blueprints.description
+Changed Key: items.prologue.girl1_notebook.description
+Deleted Key: items.prologue.rune_jara.name
+Deleted Key: items.prologue.rune_jara.description
+
+objectives.csv
+--------------
+New Key: objectives.prologue.explore_garden.name
+New Key: objectives.prologue.explore_garden.description
+New Key: objectives.prologue.ending_k3.name
+New Key: objectives.prologue.ending_k3.description
+New Key: objectives.prologue.ending_k3_pt2.name
+New Key: objectives.prologue.ending_k3_pt2.description
+Changed Key: objectives.prologue.enter_theater_club.description
+
+Prologue_Classroom_1.csv
+------------------------
+New Key: story.Prologue_Classroom_1.item_candles_on_desks.text.87d3eaef68887c05be7b24ccd160e1b33ab3106e
+New Key: story.Prologue_Classroom_1.item_scissors_on_plant.text.e3c35488f648b0db0375773a5a07c86be37d04e0
+Deleted Key: story.Prologue_Classroom_1.item_candles.text.87d3eaef68887c05be7b24ccd160e1b33ab3106e
+
+Prologue_Classroom_2.csv
+------------------------
+New Key: story.Prologue_Classroom_2.item_curtains_on_window.text.76c29a93fe94eeb00efa716fd7ef16db3b05efa0
+New Key: story.Prologue_Classroom_2.item_scissors_on_plant.text.e3c35488f648b0db0375773a5a07c86be37d04e0
+New Key: story.Prologue_Classroom_2.misc_books.text.ecafba81262c9d73e1722128e1b05b057af90b0f
+New Key: story.Prologue_Classroom_2.misc_window2.text.bb49205795011c96080a894408f2257c668a6635
+Deleted Key: story.Prologue_Classroom_2.misc_books.text.18755a8f81866c1a187857b2c5fa37f30de8ca44
+
+Prologue_Classroom_3.csv
+------------------------
+New Key: story.Prologue_Classroom_3.event_saki_desk.text.0d661add80126c7a3f9f8c72113e68227aba3614
+New Key: story.Prologue_Classroom_3.event_saki_desk.text.fd141e42cc289e104322660970b444bacc80870f
+New Key: story.Prologue_Classroom_3.event_saki_desk.text.3868b1980eefb18f01f9f111cab289a3af14c584
+New Key: story.Prologue_Classroom_3.event_saki_desk.text.918d904c3f954c2dc44debd8abc0a2d11e120e73
+New Key: story.Prologue_Classroom_3.item_candles_on_desks.text.87d3eaef68887c05be7b24ccd160e1b33ab3106e
+New Key: story.Prologue_Classroom_3.item_curtains_on_window.text.fb2d41d9de9ffb9d4f4d9b210f62b288a52a7d3b
+New Key: story.Prologue_Classroom_3.item_lighter_on_desks.text.3adfe6b1f1e9026c0734b1e39793ba66e53343ed
+New Key: story.Prologue_Classroom_3.item_scissors_on_plant.text.e3c35488f648b0db0375773a5a07c86be37d04e0
+New Key: story.Prologue_Classroom_3.misc_books.text.67366504024c50438a61f97e7e4853fc1d3894ca
+New Key: story.Prologue_Classroom_3.misc_books.text.50578934420c3b27390c65b91950a7a9516bac63
+Deleted Key: story.Prologue_Classroom_3.item_candles.text.87d3eaef68887c05be7b24ccd160e1b33ab3106e
+
+Prologue_Club_Occult.csv
+------------------------
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.5a60498288556038fa802bf3fb6e5865b2ce9284
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.c6992d838875685d1cc03b66cd02a2e9af1c4677
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.afe357b0abf8008bda4bb8484a590d114a2d53ee
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.37851965160b4af3be509604918e7345edb00cda
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.f9e3ecd15bbd7744d3fbcc9fa8e43ac4ab3632df
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.ae2c1b37641f882428966175474df7e97f1d43c5
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.bf8207f9b94ce43a78e3ba21a48059e30fb5d64e
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.9d7522a099881f2703db97cc96862476ada25e6f
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.83b769ed6217abe389ba5682f6a143656b3fdc77
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.4e8b588e9ebc23799acfed070773c9f438e67f5b
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.824059dbe3eda0d45398a6feeed9e54c70f680f2
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.aa830d42494510481ddf6ac46c2e9e38ef712501
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.4d478fc99da6c3eb757e1b3c69937b34c47d2502
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.e59a1f53454ba6531ce18fe1116cdfff365e6cb5
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.feb3f704fb11b8e679389d9e0dcea5111f6277c9
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.53f9546958c48512f810653f8779a1cfc0d42170
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.b5af77ffe202ac10e4b0ad4b3c9b3dfd7ad3249f
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.7e287a68cb19763f13e311ae76bd472cfc0a0632
+New Key: story.Prologue_Club_Occult.event_bag_with_girls.text.35eb9e717891b07fff1a471c25fa342413fc864e
+New Key: story.Prologue_Club_Occult.event_break_crow.text.fd5385765655803e431925931cf2fb6a8712490f
+New Key: story.Prologue_Club_Occult.event_break_crow.text.d64c2846fa57a8beb81708dd2780696d44a13c42
+New Key: story.Prologue_Club_Occult.event_break_crow.text.b9a27a9dc256a72174e84e6859faa7a87467ab5c
+New Key: story.Prologue_Club_Occult.event_break_crow.text.d989051705a724c008f1e8ce2c9e2e22a82c6cf0
+New Key: story.Prologue_Club_Occult.event_break_crow.text.b5af77ffe202ac10e4b0ad4b3c9b3dfd7ad3249f
+New Key: story.Prologue_Club_Occult.event_break_crow.text.24d74780620e6cb377813ae79d0a80081d8f8ef9
+New Key: story.Prologue_Club_Occult.event_break_crow.text.789728ecb1d8b85725c863319fd43b76bbc6b788
+New Key: story.Prologue_Club_Occult.event_break_crow.text.35eb9e717891b07fff1a471c25fa342413fc864e
+New Key: story.Prologue_Club_Occult.event_conversation_girl3_extra.text.e1f5627f5acd4aff0df0066eef13152f88c7e60b
+New Key: story.Prologue_Club_Occult.event_conversation_girl3_extra.text.c4b236969b05273249bb7a046a83455df6a3ef61
+New Key: story.Prologue_Club_Occult.event_conversation_girl3_extra.text.fa97725633bd52ddb8fb0409986f9de3133d8182
+New Key: story.Prologue_Club_Occult.event_drawing_react_girls.text.abf50765b96509feb083c33cff8bdd0342b582b2
+New Key: story.Prologue_Club_Occult.event_drawing_react_girls.text.a0908b83198b163bf333ff0dc7d2abe433dc9322
+New Key: story.Prologue_Club_Occult.event_drawing_react_girls.text.58e623035484acf9c8b3fe46282793dd236a7ae1
+New Key: story.Prologue_Club_Occult.event_drawing_react_girls.text.797474ad802e18679e2c64bde25e921c948062da
+New Key: story.Prologue_Club_Occult.event_drawing_react_girls.text.8dd076998f56958c4f7004354cb2847b1282c3e0
+New Key: story.Prologue_Club_Occult.event_drawing_react_girls.text.43322b1b2a5d6f934fd12d903fa4b134a66e06f8
+New Key: story.Prologue_Club_Occult.event_drawing_react_girls.text.b4f322d63061daad0429350a5fe1f1d35719d051
+New Key: story.Prologue_Club_Occult.event_drawing_react_girls.text.c65a6a18dc893aefd8c437241ec1f3bca22fb889
+New Key: story.Prologue_Club_Occult.event_drawing_react_girls.text.5c3dbddeb29396d0343d48b155247220dc716b5e
+New Key: story.Prologue_Club_Occult.event_key_request.rename.item.name.3b7476708ee09c1d72e039582c99839e37942ab6
+New Key: story.Prologue_Club_Occult.event_key_request.rename.item.desc.463a8937d7be87671f781e35f2f1c92200d48521
+New Key: story.Prologue_Club_Occult.event_key_request.text.34534e230ce63fd215ea680acc67045b81607e66
+New Key: story.Prologue_Club_Occult.event_key_request.text.b219b67c54a45220f5d4c6808cc4e97e3ced8265
+New Key: story.Prologue_Club_Occult.event_open_box.text.ea4a17b27cc8b9ff50f607187619d1b0c5a12507
+New Key: story.Prologue_Club_Occult.event_open_box.text.52fc2c5b37a13b33ffd6946b51b200348cbcd334
+New Key: story.Prologue_Club_Occult.event_open_box.text.a703afe3e05e73d76c24d71a301988bf360d6c47
+New Key: story.Prologue_Club_Occult.event_open_box.choice.text.5448909afde37af0e3792b10d637896c7d65d18e
+New Key: story.Prologue_Club_Occult.event_open_box.choice.e1da94bc5822b49d64e85608f56ba48ab98ccb6e
+New Key: story.Prologue_Club_Occult.event_open_box.choice.ef2749c8f1634ee7093ee55ffe0eae3aced4143b
+New Key: story.Prologue_Club_Occult.event_open_box.choice.c1310eee2491276ac0b1c674f547363ffae070b7
+New Key: story.Prologue_Club_Occult.event_open_box.text.2669cc23ec9a922ca884004193bd4d8e1e422462
+New Key: story.Prologue_Club_Occult.event_open_box.text.8693ebe42c2b21b44bbb06fbafb3ace1c3e28258
+New Key: story.Prologue_Club_Occult.event_open_box.text.06b2c135c0cd5ad382fc2e7bf514ca2bf8828d46
+New Key: story.Prologue_Club_Occult.event_open_box.text.f6d83edc45f0b5db67760927a6156b71e8e91b28
+New Key: story.Prologue_Club_Occult.event_open_box.text.8f80f3174aa4c4e9263ba69b2c89e2cd69d3f4dd
+New Key: story.Prologue_Club_Occult.event_read_letter.text.bab79d53c711295bcee6a0ca286445826fec5c6d
+New Key: story.Prologue_Club_Occult.event_read_letter.text.7169a9fe242bf1537fcb89e9b96d1f00c9745eed
+New Key: story.Prologue_Club_Occult.event_read_letter.text.b0427f3bd719f15830402c4070925bc3106f7d19
+New Key: story.Prologue_Club_Occult.event_read_letter.text.b3133c3a2016adf349093b16433315bf27abf26c
+New Key: story.Prologue_Club_Occult.event_read_letter.text.7cd6e5dcad4488ac0ea03d2eb71b7e9519c96699
+New Key: story.Prologue_Club_Occult.event_read_letter.text.d729e1bb7dc16de6acff6000908d152bcc7418b0
+New Key: story.Prologue_Club_Occult.event_switched_runes.text.bf36462a3375a4c4d2aeefc4c5a541ec37b014f2
+New Key: story.Prologue_Club_Occult.event_switched_runes.text.82ab28432a84699eecd594331cf455abb4815fa7
+New Key: story.Prologue_Club_Occult.event_switched_runes.text.6d4d51077cbe74dd495a2c1ae43e57dbb4dc3359
+New Key: story.Prologue_Club_Occult.item_lighter_on_girl1.text.458054c53b529fa60461d0dc660e531eded328ef
+New Key: story.Prologue_Club_Occult.item_lighter_on_girl1.text.0a13fdc37aa0c2f0a5cef5bce55128c6b008cf61
+New Key: story.Prologue_Club_Occult.item_scissors_on_girl1.text.1f76ec6d4b74c6a4be984a899b92046761b005c9
+New Key: story.Prologue_Club_Occult.item_scissors_on_girl1.text.47d4e1871904ab116f7cd1c7edfdb9079ee8df98
+New Key: story.Prologue_Club_Occult.item_scissors_on_girl1.text.8dfea2fb080f54f0db9accdf57eefe73ea31f1c5
+New Key: story.Prologue_Club_Occult.item_scissors_on_girl1.text.2bef55a285b2593ba6a535008d9f4f511a8dabf9
+New Key: story.Prologue_Club_Occult.item_scissors_on_girl2.text.77a46c7d2755db882c1396bde1f852655095a8df
+New Key: story.Prologue_Club_Occult.item_scissors_on_girl2.text.e9f3fdeb83a1929c7ad74f804cddf50e2b00d519
+New Key: story.Prologue_Club_Occult.item_scissors_on_girl2.text.6329e8a7c52b3f3d8e22117c3eb6d3ca2ae1ff42
+New Key: story.Prologue_Club_Occult.item_scissors_on_girl2.text.64425502ca8b7ef4e4a77c3138768079540b7440
+New Key: story.Prologue_Club_Occult.item_scissors_on_girl3.text.b7206931ca52e0a7fa21ead98956ef53e2ee338a
+New Key: story.Prologue_Club_Occult.item_scissors_on_girl3.text.6a94640039e106891b5b1aa121af8a22dbf5e43e
+New Key: story.Prologue_Club_Occult.item_scissors_on_girl3.text.65e18df6cccfbb649bea90062c8e63da8c952328
+New Key: story.Prologue_Club_Occult.item_scissors_on_girl3.text.f3603b7aacbc91746c86f567c0745e40b7012c20
+New Key: story.Prologue_Club_Occult.misc_bag.text.09965c48d0837b3d1863ee7aef708b74f2f591d9
+New Key: story.Prologue_Club_Occult.misc_boardgame_box.text.85a8b7beb0f1c2f2d7cb042ec08f1767f5145e2b
+New Key: story.Prologue_Club_Occult.misc_boxes.choice.text.b9c4634b568eaa3fe5b42e6e93e12e29a46f1f3f
+New Key: story.Prologue_Club_Occult.misc_boxes.choice.061b9b5b31814bcf92f8b71b4306f6f2a474c055
+New Key: story.Prologue_Club_Occult.misc_boxes.choice.d268ba5209c487d727e01c5fd074cb9328ec5243
+New Key: story.Prologue_Club_Occult.misc_boxes.choice.text.364f3b8241b4f79217df8002ad501427faeae4ac
+New Key: story.Prologue_Club_Occult.misc_boxes.choice.e1da94bc5822b49d64e85608f56ba48ab98ccb6e
+New Key: story.Prologue_Club_Occult.misc_boxes.choice.ef2749c8f1634ee7093ee55ffe0eae3aced4143b
+New Key: story.Prologue_Club_Occult.misc_boxes.choice.c1310eee2491276ac0b1c674f547363ffae070b7
+New Key: story.Prologue_Club_Occult.misc_boxes.choice.9c1fd18744204f49b058eb2dbb595e2e043b6c22
+New Key: story.Prologue_Club_Occult.misc_boxes.text.88829eeb81b156c54eea33437150dccc3520f687
+New Key: story.Prologue_Club_Occult.misc_boxes.text.732195e80785fe0aa5db704b175401d29a26a9e2
+New Key: story.Prologue_Club_Occult.misc_boxes.text.9013b43a877e2030e126c6a0ad8d0cdb69104f68
+New Key: story.Prologue_Club_Occult.misc_boxes.text.63540bac2757743606f51ef006f23b6fd8aeaa6c
+New Key: story.Prologue_Club_Occult.misc_boxes.text.ec9109b5cbf8912b36fb9bba480a264c28fa3cdb
+New Key: story.Prologue_Club_Occult.misc_boxes.text.7b1901acce7fe9f092f093ed67404eaf7d0a1854
+New Key: story.Prologue_Club_Occult.misc_boxes.text.3a4779e0d409b0c5dc75ad21958852c31bc89a0f
+New Key: story.Prologue_Club_Occult.misc_boxes.text.dff354d7fab23bc4edc211c333f5935bfcf8b744
+New Key: story.Prologue_Club_Occult.misc_boxes.text.c7594c0eeae514527c3b5b4bf32a9120f31b86a5
+New Key: story.Prologue_Club_Occult.misc_boxes.text.f50145a7a5ef8d6e20df628c48fb3c992d31bead
+New Key: story.Prologue_Club_Occult.misc_boxes.text.c0ce14ad7f8d6951d59a3cdd7db2e3e97e45f14e
+New Key: story.Prologue_Club_Occult.misc_boxes.text.cec6d534805a899e1bf61f7378181b780dacc099
+New Key: story.Prologue_Club_Occult.misc_crow.text.4ab44a312db92c5bd534737e05a5b2152eecfe49
+New Key: story.Prologue_Club_Occult.misc_crow.text.1002cfc2ddd3de36c70d1685e6ec8acb84a58c96
+New Key: story.Prologue_Club_Occult.misc_crow.text.963843d9b1419f842efb896ae4d902dd3799d02b
+New Key: story.Prologue_Club_Occult.misc_empty_chair.text.5a0047e953f9f37117e932daa0286a2961816c5d
+New Key: story.Prologue_Club_Occult.misc_empty_chair.choice.text.f8c2a80fe03491d57442b18b22db31625299ebb0
+New Key: story.Prologue_Club_Occult.misc_empty_chair.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae
+New Key: story.Prologue_Club_Occult.misc_empty_chair.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103
+New Key: story.Prologue_Club_Occult.misc_girl_gone.text.09965c48d0837b3d1863ee7aef708b74f2f591d9
+New Key: story.Prologue_Club_Occult.misc_radio.text.fbd01273fca14ebd0813f30da5c56351603a1c2b
+New Key: story.Prologue_Club_Occult.misc_window.text.b6d5320ae2c86b9cd50d3a122657315748eea073
+New Key: story.Prologue_Club_Occult.misc_window.text.e6c6896c71015c851847b1516e2f6c3d828aad29
+Deleted Key: story.Prologue_Club_Occult.misc_empty_chair.text.775c945aa913d5a17b574bc6a27f4aa79e385ea8
+Deleted Key: story.Prologue_Club_Occult.item_lighter_on_girl1.text.51502c85ed246b15d4aa5e4c54f65dcc26f0da87
+Deleted Key: story.Prologue_Club_Occult.item_scissors_on_box.text.ea4a17b27cc8b9ff50f607187619d1b0c5a12507
+Deleted Key: story.Prologue_Club_Occult.item_scissors_on_box.text.52fc2c5b37a13b33ffd6946b51b200348cbcd334
+Deleted Key: story.Prologue_Club_Occult.item_scissors_on_box.text.a703afe3e05e73d76c24d71a301988bf360d6c47
+Deleted Key: story.Prologue_Club_Occult.item_scissors_on_box.choice.text.5448909afde37af0e3792b10d637896c7d65d18e
+Deleted Key: story.Prologue_Club_Occult.item_scissors_on_box.choice.e1da94bc5822b49d64e85608f56ba48ab98ccb6e
+Deleted Key: story.Prologue_Club_Occult.item_scissors_on_box.choice.ef2749c8f1634ee7093ee55ffe0eae3aced4143b
+Deleted Key: story.Prologue_Club_Occult.item_scissors_on_box.choice.c1310eee2491276ac0b1c674f547363ffae070b7
+Deleted Key: story.Prologue_Club_Occult.event_cut_girls_hair.text.1f76ec6d4b74c6a4be984a899b92046761b005c9
+Deleted Key: story.Prologue_Club_Occult.event_cut_girls_hair.text.47d4e1871904ab116f7cd1c7edfdb9079ee8df98
+Deleted Key: story.Prologue_Club_Occult.event_cut_girls_hair.text.8dfea2fb080f54f0db9accdf57eefe73ea31f1c5
+Deleted Key: story.Prologue_Club_Occult.event_cut_girls_hair.text.2bef55a285b2593ba6a535008d9f4f511a8dabf9
+Deleted Key: story.Prologue_Club_Occult.event_key_request.text.397896df7f61498c0851b5cfa7dfa4e2c226606c
+Deleted Key: story.Prologue_Club_Occult.event_key_request.text.8207a120277c03651993a04cd0e0463c0751b2af
+
+Prologue_Club_Theater.csv
+-------------------------
+New Key: story.Prologue_Club_Theater.event_blanket_with_girls.text.4c2d8a638aa3c19312387020eff561157ad52547
+New Key: story.Prologue_Club_Theater.event_blanket_with_girls.text.241dfaafc6b632a8901b1fcd3bf2ee503c92fb0f
+New Key: story.Prologue_Club_Theater.event_broke_light.text.3f3c5a118bcade28eb397c1e7115f8ba179c5864
+New Key: story.Prologue_Club_Theater.event_broke_light.text.bc05611b43ebffdfc385c18af6a20de36fe60aa7
+New Key: story.Prologue_Club_Theater.event_broke_light.text.bfbce03699719848712cd75a4081e6f8c9f5a778
+New Key: story.Prologue_Club_Theater.event_broke_light.text.27362b962f0875d9c84f6d2beefbd9c957025b01
+New Key: story.Prologue_Club_Theater.event_read_letter.text.6ccf1296ed0e7a858165286bc98f1b231adac870
+New Key: story.Prologue_Club_Theater.event_read_letter.text.274dc44a901fe8bc73ab84b6d5b8e460f21beac6
+New Key: story.Prologue_Club_Theater.event_read_letter.text.c86204783cc1781dd7bf9edb0423c857d537c1bb
+New Key: story.Prologue_Club_Theater.event_read_letter.text.2f3fe79fdc9aca07ad09452e309732f4fede50be
+New Key: story.Prologue_Club_Theater.event_read_letter.text.b5089f6c6b5dcb9f150eb269a4fee0d8ca307c54
+New Key: story.Prologue_Club_Theater.event_read_letter.text.3ccdbf5756bedf81c5c41e428dc7b9556b188af6
+New Key: story.Prologue_Club_Theater.event_read_letter.text.01b9a27028be72a12a29d887050352893057170b
+New Key: story.Prologue_Club_Theater.item_chalk_on_chalkboard.text.917a80a8b7976769ba308612a7c9127b2fd85f98
+New Key: story.Prologue_Club_Theater.item_lighter_on_box.text.ae78d23e418b00ffd21cf4c6c0ae859d10e4e2f8
+New Key: story.Prologue_Club_Theater.item_lighter_on_curtain.text.583ed21a9497f79dfda0c41f07d5d9f1339fa489
+New Key: story.Prologue_Club_Theater.item_lighter_on_rack_clothes.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+New Key: story.Prologue_Club_Theater.misc_chalkboard.text.cd74b8208a8586773228bef978f3cf72d07ae731
+New Key: story.Prologue_Club_Theater.misc_chalkboard.text.21b19c9e143790e788896e29f3261d3dc0f89c8d
+New Key: story.Prologue_Club_Theater.misc_chalkboard.text.6957adfa2f1a0283214dd319309f179fec3aa41d
+New Key: story.Prologue_Club_Theater.misc_chalkboard.text.4fc4d2f5bdc5ee1e0e461fdd9af31204cb74d9bf
+New Key: story.Prologue_Club_Theater.misc_rack_clothes.text.dcb3b825ca9bde777dbf253e73cd4ded127755ad
+New Key: story.Prologue_Club_Theater.misc_table.text.b41d4fbd59f3a95b03a98e76208a90cef215c98b
+New Key: story.Prologue_Club_Theater.misc_table.text.9fb1930b4d344ba2eb5d009cf966acae52b5befc
+New Key: story.Prologue_Club_Theater.misc_table.text.306cd66020925bf21e6fa707760531b6abd47114
+Deleted Key: story.Prologue_Club_Theater.item_lighter_on_box.text.65422a84e9ff1c544ae05d17873b6e1da23eb976
+Deleted Key: story.Prologue_Club_Theater.event_read_letter.text.4afac57b83607fad102d43adddb2d3e1a2fdea71
+Deleted Key: story.Prologue_Club_Theater.event_read_letter.text.c24c3406bc50d2508eea91657d06caf27ebf3dba
+Deleted Key: story.Prologue_Club_Theater.event_read_letter.text.83d99a802280fc22dfe807dd2151779b15c0d5fa
+Deleted Key: story.Prologue_Club_Theater.event_read_letter.text.d2f937cdf95bfbae8c15b3a2c39a8b9415ac94ad
+Deleted Key: story.Prologue_Club_Theater.event_read_letter.text.65678f69ed166bf7125a52255d8391cc1e39502f
+
+Prologue_Garden.csv
+-------------------
+New Key: story.Prologue_Garden.event_bad_solution.text.e2613d8333cd43316df239498df6e5de6087c99c
+New Key: story.Prologue_Garden.event_bad_solution.text.bef736ee3072ed68815ed580732162970d471b32
+New Key: story.Prologue_Garden.event_bad_solution.text.5e8b13dc0c50ea3e5c3f2efc55cc71584d3976f6
+New Key: story.Prologue_Garden.event_bad_solution.text.eae00ae6306f732b2502939de6bd80f258600b41
+New Key: story.Prologue_Garden.event_bad_solution.text.bfc6aa79cea94e1c711ffd3288f1beebc7541fbd
+New Key: story.Prologue_Garden.event_good_solution.text.2a238afab266ca4c0d0c180aca8a35393d468e44
+New Key: story.Prologue_Garden.event_good_solution.text.b1cd359f15bcfa1ce2b75d70e5f8bf3143d9bf8c
+New Key: story.Prologue_Garden.event_good_solution.text.bfc6aa79cea94e1c711ffd3288f1beebc7541fbd
+Deleted Key: story.Prologue_Garden.event_good_solution.text.abd7b8d1006750c003ba5c0c7069fe82463273eb
+Deleted Key: story.Prologue_Garden.event_good_solution.text.e5d090027df5482ec2d6cc4701d95c7be3990cc4
+Deleted Key: story.Prologue_Garden.event_good_solution.text.f205f76443fc3440e9a5b59d2e10626dbe4cb03a
+Deleted Key: story.Prologue_Garden.event_good_solution.text.e751b438ce83fe7aa90cd656edc9202f17e9e981
+Deleted Key: story.Prologue_Garden.event_bad_solution.text.32ccd3fe3d0b612c4a1c62bbea755d43b271ea9e
+Deleted Key: story.Prologue_Garden.event_bad_solution.text.d2f9789556fd5512ef6988de3912e200c918db70
+Deleted Key: story.Prologue_Garden.event_bad_solution.text.abd7b8d1006750c003ba5c0c7069fe82463273eb
+Deleted Key: story.Prologue_Garden.event_bad_solution.text.4b8dd121ad35511ae46dd75b53ce7c758fabd2af
+Deleted Key: story.Prologue_Garden.event_bad_solution.text.dceec1ad613b302b1260e07dac5766f73c12ce44
+Deleted Key: story.Prologue_Garden.event_bad_solution.text.e751b438ce83fe7aa90cd656edc9202f17e9e981
+
+Prologue_Hallway.csv
+--------------------
+New Key: story.Prologue_Hallway.event_closet_door_locked_forever.text.db2f9877d0f6f90134d8355730c91e84e4f0c528
+New Key: story.Prologue_Hallway.event_closet_door_locked_forever.text.2aea4d8500673644a5867607bc4fc22d7ab3d699
+New Key: story.Prologue_Hallway.event_closet_door_locked_forever.text.f689591d19bc83db04d80b8be36a30be62a7e51b
+New Key: story.Prologue_Hallway.event_closet_door_locked_forever.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+New Key: story.Prologue_Hallway.event_exit.text.d9ff225b339ce0c71158adad95dcaf862ec42734
+New Key: story.Prologue_Hallway.event_exit.text.30da629656cc7cd2d0fd9c76a165b781d444434b
+New Key: story.Prologue_Hallway.event_exit.text.5b9cf0772c9f5c57587509bdceac0c4814974f06
+New Key: story.Prologue_Hallway.event_exit.choice.text.218340ff245ad56e76aa4b163d9f84ced20e3694
+New Key: story.Prologue_Hallway.event_exit.choice.0ecdb1487f73a79a39bd0dbcf37b64fa6920c993
+New Key: story.Prologue_Hallway.event_exit.choice.ebb19f20d41e0103e3e11e0d6f9d0b6f30b736eb
+New Key: story.Prologue_Hallway.event_exit.text.b36d367c606e5d74547c9070d7bf6f93c04716f1
+New Key: story.Prologue_Hallway.event_exit.choice.text.e2f033826024b1c973e85c59f0a88480c9bf6ecd
+New Key: story.Prologue_Hallway.event_exit.choice.a849a86ea8744e427b4d033af84f646695dd92df
+New Key: story.Prologue_Hallway.event_exit.choice.bcac1df79ec80fa8aa38e3d2a45cf9aebd19a26d
+New Key: story.Prologue_Hallway.event_exit.text.fca0572517893dc5807fb2725066c96beca0022c
+New Key: story.Prologue_Hallway.event_exit_2.text.faec884e3f6d7f2b98d09a898858624fd36dea7e
+New Key: story.Prologue_Hallway.event_exit_2.text.96d1f366163acc15715db9bc2490426e15fb2e7d
+New Key: story.Prologue_Hallway.event_exit_2.choice.text.218340ff245ad56e76aa4b163d9f84ced20e3694
+New Key: story.Prologue_Hallway.event_exit_2.choice.85f57b94b622e802439b4bd38d5b567ff7b92899
+New Key: story.Prologue_Hallway.event_exit_2.choice.b720077b964126f5b75ee3185d5deb031f494706
+New Key: story.Prologue_Hallway.event_lockpick_closet_fail.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+New Key: story.Prologue_Hallway.event_lockpick_closet_success.text.f79c8d11189f1dbf961110f8c8a9fab86c46107b
+New Key: story.Prologue_Hallway.event_lockpick_theater_fail.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+New Key: story.Prologue_Hallway.event_lockpick_theater_fail.text.dda80c8b79e331c1ed166f893a63d9cd5e8285f0
+New Key: story.Prologue_Hallway.event_see_closet_door.text.a17c7690aeab045d071cab3c08f4d4c2f4344a99
+New Key: story.Prologue_Hallway.event_see_closet_door.text.72bdf46f82455dcaa2b3b971969984b90e60fc50
+New Key: story.Prologue_Hallway.event_see_closet_door.text.8457cb82ae8c79e300c75bf5d15437dfc026b3b8
+New Key: story.Prologue_Hallway.event_see_closet_door.text.6f04e8684c494f9f89e543aa4318cabb0b86fcb9
+New Key: story.Prologue_Hallway.event_see_closet_door.text.553bdcb657e76b6dd77cc1d66e534436752993b2
+New Key: story.Prologue_Hallway.event_see_closet_door.text.974d6215b516f92ee6b086303edd10edb1ac55d1
+New Key: story.Prologue_Hallway.event_see_closet_door.text.71a3b0540eaa26c2e68dbb0c4f05633ab0cfcec5
+New Key: story.Prologue_Hallway.event_see_closet_door.text.48fe5a4bc773af7503bf2d1463dc58f7444af3ef
+New Key: story.Prologue_Hallway.event_see_closet_door.text.7b88d60bf7db6da624f0635e62bfb8e343757f50
+New Key: story.Prologue_Hallway.event_see_closet_door.text.eada98214a0f210eab93a8b93b29246435326c23
+New Key: story.Prologue_Hallway.event_see_closet_door.text.170b0e4e470ef1983704c1cfb289ab0efb8436ab
+New Key: story.Prologue_Hallway.event_see_closet_door.text.d368cd6ca1776ce3f28d302d71f96cf5149fc69a
+New Key: story.Prologue_Hallway.event_see_closet_door.text.30ff5db18c209a4fdc670036b587b020bcd7b8e5
+New Key: story.Prologue_Hallway.item_hairpin_on_door_closet.text.30f6726025ad0e27cae6960152f74866e78dd122
+New Key: story.Prologue_Hallway.item_hairpin_on_door_closet.text.b7fd5715a3202e03aee35ff7ba1e84695154d1ff
+New Key: story.Prologue_Hallway.item_hairpin_on_door_closet.text.0e0faa8ef50d64f9e6c614e97cfde531cb0a8012
+New Key: story.Prologue_Hallway.item_hairpin_on_door_closet.text.78ec0fc84c5e6461d575f11637281ea40c00a027
+New Key: story.Prologue_Hallway.item_hairpin_on_door_theater.text.fd2cdaa9e6fd3f499b5f0061f19162117c1a326f
+New Key: story.Prologue_Hallway.item_key_on_door_closet.text.3715c0c9b7f1208bc096adccf9820f36c100d219
+New Key: story.Prologue_Hallway.item_scissors_on_doors.text.da6f295372f6aca924f08c4b293649adc584cf5c
+New Key: story.Prologue_Hallway.misc_paper4.text.36ea812beecc1445d829ada7b360a448925cca87
+New Key: story.Prologue_Hallway.misc_trashcan1.text.2ba5d0b4aa448ba9445bf8b57217119036c5e607
+New Key: story.Prologue_Hallway.misc_trashcan2.text.38210f804489bf93b819393f276962e093d8766d
+New Key: story.Prologue_Hallway.misc_window_crack.text.480b2a72cdf5f25e24d0e5387d7064bb61074777
+New Key: story.Prologue_Hallway.move_closet.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0
+New Key: story.Prologue_Hallway.move_closet.text.359590d95487bbd2ed7cd0beb12cb27f3ac49872
+Deleted Key: story.Prologue_Hallway.move_unknown.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0
+Deleted Key: story.Prologue_Hallway.move_unknown.text.a17c7690aeab045d071cab3c08f4d4c2f4344a99
+Deleted Key: story.Prologue_Hallway.move_unknown.text.72bdf46f82455dcaa2b3b971969984b90e60fc50
+Deleted Key: story.Prologue_Hallway.move_unknown.text.8457cb82ae8c79e300c75bf5d15437dfc026b3b8
+Deleted Key: story.Prologue_Hallway.move_exit.text.d9ff225b339ce0c71158adad95dcaf862ec42734
+Deleted Key: story.Prologue_Hallway.move_exit.text.30da629656cc7cd2d0fd9c76a165b781d444434b
+Deleted Key: story.Prologue_Hallway.move_exit.text.5b9cf0772c9f5c57587509bdceac0c4814974f06
+Deleted Key: story.Prologue_Hallway.move_exit.text.faec884e3f6d7f2b98d09a898858624fd36dea7e
+Deleted Key: story.Prologue_Hallway.move_exit.text.96d1f366163acc15715db9bc2490426e15fb2e7d
+Deleted Key: story.Prologue_Hallway.move_exit.text.20618018619ed0bd86e23afd5609ddf2615aaf68
+Deleted Key: story.Prologue_Hallway.misc_trashcan.text.2ba5d0b4aa448ba9445bf8b57217119036c5e607
+Deleted Key: story.Prologue_Hallway.misc_trashcan_2.text.38210f804489bf93b819393f276962e093d8766d
+Deleted Key: story.Prologue_Hallway.item_key_on_door_unknown.text.3715c0c9b7f1208bc096adccf9820f36c100d219
+Deleted Key: story.Prologue_Hallway.item_hairpin_on_door_unknown.text.30f6726025ad0e27cae6960152f74866e78dd122
+Deleted Key: story.Prologue_Hallway.item_hairpin_on_door_unknown.text.b7fd5715a3202e03aee35ff7ba1e84695154d1ff
+Deleted Key: story.Prologue_Hallway.event_lockpick_fail.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+Deleted Key: story.Prologue_Hallway.event_lockpick_fail.text.dda80c8b79e331c1ed166f893a63d9cd5e8285f0
+
+Prologue_HOD.csv
+----------------
+New Key: story.Prologue_HOD.event_move_to_hallway.choice.text.f99761c9689562534806b858abb1fb34f5225554
+New Key: story.Prologue_HOD.event_move_to_hallway.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae
+New Key: story.Prologue_HOD.event_move_to_hallway.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103
+New Key: story.Prologue_HOD.item_lighter_on_door2.text.21d07523b7ce000b5e1a7b7df7117afa8cbaf55b
+New Key: story.Prologue_HOD.item_lighter_on_goop.text.999d087b27c7b5a835572a67031638c0f1308ceb
+New Key: story.Prologue_HOD.item_lighter_on_goop.text.1d820b19cc0bb8ac2102968b154e14a1f5c6ca4b
+New Key: story.Prologue_HOD.item_lighter_on_goop.text.f89549a77a794bdf314546357a6b84e5847ec51a
+New Key: story.Prologue_HOD.misc_mirrors.text.f4f3b3044cb5258d31cfa714135e09da25e9a2b7
+New Key: story.Prologue_HOD.misc_mirrors.text.20e054ae8bf664c4e3de721de0bdd30d37154d77
+New Key: story.Prologue_HOD.misc_mirrors.text.6499eea611cfc68deab171bee6fc24a800099d0c
+New Key: story.Prologue_HOD.misc_mirrors.text.34cfed3bc123c80c134568fe7db6245c960e809c
+New Key: story.Prologue_HOD.move_door5.text.3a597447863a6ab302c74bec49eb5408c70ad2e3
+Deleted Key: story.Prologue_HOD.item_lighter_on_door2.text.0c8af6456a952ee989e6bcb2c427a925980dab66
+
+Prologue_HOD_Death.csv
+----------------------
+New Key: story.Prologue_HOD_Death.event_ending.text.329690f61f5870b314e322ba8d5d5ea81bbe0dfc
+New Key: story.Prologue_HOD_Death.event_ending.text.2a130670091d09bfd06b560fb9d359a3a0080380
+Deleted Key: story.Prologue_HOD_Death.event_ending.text.4333fa5028e189e3bc79110c8c395f29d2767127
+Deleted Key: story.Prologue_HOD_Death.event_ending.text.bf45a6f5455ffd60e341375095e9ff361b472206
+
+Prologue_Nightmare_1.csv
+------------------------
+New Key: story.Prologue_Nightmare_1.move_next.text.a3d06d74dd389a32ea826f4f2b14f55c53e5a714
+New Key: story.Prologue_Nightmare_1.move_next.text.1b3f141ab87179d0755abc1d4da67f0c04e3ab7c
+New Key: story.Prologue_Nightmare_1.move_next.text.73fef01e230300ae6fc10ffd739157b067709157
+New Key: story.Prologue_Nightmare_1.move_next.text.65e1a38dec4fca259fb275e92535a31acb8fa965
+Deleted Key: story.Prologue_Nightmare_1.move_next.text.2fb0ed5b1b767190ab36b0ac5c214b25f060ab4a
+Deleted Key: story.Prologue_Nightmare_1.move_next.text.5b51b64fd25333bb8d16b0ec9425216016f8cd69
+
+Prologue_Nightmare_2.csv
+------------------------
+New Key: story.Prologue_Nightmare_2.misc_man.text.45be88071f2d4abbd0d135660354929b4af0cf76
+New Key: story.Prologue_Nightmare_2.misc_man.text.758065e344c242e010f648b78d5329288ad12027
+New Key: story.Prologue_Nightmare_2.move_next.text.e1a9d316db30e9965098c1cd8d879c26328eb46f
+New Key: story.Prologue_Nightmare_2.move_next.text.4e1d74846ae55956c90698b953836f34c1bf3470
+New Key: story.Prologue_Nightmare_2.move_next.text.94bfcbe5294da633b3b99aa6f766056f2eb78bdf
+New Key: story.Prologue_Nightmare_2.move_next.text.d2581e58a340be7dc5425bbd6aa4e6088082e275
+Deleted Key: story.Prologue_Nightmare_2.move_next.text.51646a1990e4e10052a72735259312a719dd1bb9
+
+Prologue_Nightmare_3.csv
+------------------------
+New Key: story.Prologue_Nightmare_3.misc_letters.text.4a861b35acb076cf06695d42b4e8cb5f07eeee74
+New Key: story.Prologue_Nightmare_3.misc_letters.text.51e3f0c277d985fbedd0fd18b052b01466524c7a
+New Key: story.Prologue_Nightmare_3.misc_letters.text.eada78379c61acdac230cc52647b8459adaea322
+New Key: story.Prologue_Nightmare_3.misc_letters.text.4a594ef5e6a7f9f9c49da1216eea2d84331a3ce3
+New Key: story.Prologue_Nightmare_3.misc_letters.text.53afec55e4496356222efe92d559a643f1bf054f
+New Key: story.Prologue_Nightmare_3.misc_letters.text.1cbd889f38d9757d9ed8f5261b0e099481e9aa4e
+New Key: story.Prologue_Nightmare_3.misc_letters.text.a1fbdcf25c86b182c744a49a6c9fe6d1efa58baf
+New Key: story.Prologue_Nightmare_3.misc_letters.text.56f65e6d77a3baffe6432e1e7ba1e5fad44ca569
+New Key: story.Prologue_Nightmare_3.misc_letters.text.d3806871ffc3229d6eb69004d55c8e2a90b07111
+New Key: story.Prologue_Nightmare_3.move_next.text.8cc680251dd7f2a6da2516f40686bbc8d96568f4
+New Key: story.Prologue_Nightmare_3.move_next.text.39613520b4600a689685f68f629eddc1d5bf3c8c
+New Key: story.Prologue_Nightmare_3.move_next.text.a36933294f6f9383885a65b20551639ceb239c20
+New Key: story.Prologue_Nightmare_3.move_next.text.6fab6dc67090833d316f2770d6f370576d44ed1c
+New Key: story.Prologue_Nightmare_3.move_next.text.e0624ba536e6dfd5a378a1f04395f0cfb3e9a8ac
+Deleted Key: story.Prologue_Nightmare_3.move_next.text.90d521ed85fbc0214af073b9db01ec1a0e55b340
+Deleted Key: story.Prologue_Nightmare_3.move_next.text.cd5eefb383632cb546e8700da6361622004ca0e1
+
+Prologue_Nightmare_4.csv
+------------------------
+New Key: story.Prologue_Nightmare_4.misc_windows.text.1346562c4b198c458bbdf6c6b757ad10e804bb57
+New Key: story.Prologue_Nightmare_4.move_next.text.cfcdde2a89011de8148fe55c7e12e1c6cbeffad3
+New Key: story.Prologue_Nightmare_4.move_next.text.82faf57516f4f9491ba18d10bea4812a0641956d
+New Key: story.Prologue_Nightmare_4.move_next.text.2c44aaeb20fecdb82de17e74b81266c26d8f7070
+New Key: story.Prologue_Nightmare_4.move_next.text.c9decb0516e895034f590cfd322fb26573c9e488
+Deleted Key: story.Prologue_Nightmare_4.misc_windows.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+Deleted Key: story.Prologue_Nightmare_4.move_next.text.c7dbe6d6df0f8bbbb1475d66def165abd8697efd
+Deleted Key: story.Prologue_Nightmare_4.move_next.text.ff8d07a1c1c8cfcf9236c6dc5c5bd003db1e1fcf
+
+Prologue_Nightmare_5.csv
+------------------------
+New Key: story.Prologue_Nightmare_5.misc_paper1.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+New Key: story.Prologue_Nightmare_5.misc_paper2.text.f34b8f40fd6a803db242f934bb176fc337ac5fbf
+New Key: story.Prologue_Nightmare_5.misc_paper2.text.bd087d00db4b07fb84677df09477cd94e5e65a6c
+New Key: story.Prologue_Nightmare_5.misc_paper3.text.09f41fd267fc204cfb11ba687e33a016edd49c1d
+New Key: story.Prologue_Nightmare_5.misc_paper3.text.6f530d9c7e186bd069ecd1c379e81ed4cc94e641
+New Key: story.Prologue_Nightmare_5.misc_paper4.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+New Key: story.Prologue_Nightmare_5.misc_windows.text.df0112d8945ba0c3854bf9e80bc35af1f0b5a352
+New Key: story.Prologue_Nightmare_5.misc_windows.text.30787af8abc90a2681756afc00f3c94916f8932d
+New Key: story.Prologue_Nightmare_5.move_next.text.75976aca268c5b1b286a366bc6511e903417da37
+New Key: story.Prologue_Nightmare_5.move_next.text.bb03504c016c2f38301cf65b4d8a5801039f5b65
+New Key: story.Prologue_Nightmare_5.move_next.text.557c93b7b87a2196ecf61c82b3f7da68e70dd3c3
+Deleted Key: story.Prologue_Nightmare_5.misc_paper2.text.174cf2ab4fcab360070ba75482b6eeb15a75a9cb
+Deleted Key: story.Prologue_Nightmare_5.misc_paper2.text.b6d49234df8bbad1d5596af685bab4cfbdcb3a64
+Deleted Key: story.Prologue_Nightmare_5.misc_paper3.text.a997967e9923e76ed2dab27af16eed61156237c5
+Deleted Key: story.Prologue_Nightmare_5.misc_paper3.text.25bbee560d7a5074217718676494f16119cb2de5
+Deleted Key: story.Prologue_Nightmare_5.misc_paper3.text.8ace83c39456d400fb93dc7ebc15de7bce264b75
+Deleted Key: story.Prologue_Nightmare_5.misc_windows.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+Deleted Key: story.Prologue_Nightmare_5.move_next.text.2c5198850e47d3c52bf310cb12f423580efd16c9
+Deleted Key: story.Prologue_Nightmare_5.move_next.text.292935f6f4f8516280f7721f9bbbfe26a772bd85
+Deleted Key: story.Prologue_Nightmare_5.move_next.text.769dc56cfc8b3ca19c0941098f000e728b8c732f
+Deleted Key: story.Prologue_Nightmare_5.move_next.text.de6c38edf1220e5947f76658933940b1555165b3
+
+Prologue_Nightmare_8.csv
+------------------------
+New Key: story.Prologue_Nightmare_8.event_break.text.64149efb5df397160f49febd9f524b1f59b965ee
+New Key: story.Prologue_Nightmare_8.event_break.text.59f1cca19fdfe100fee281df66df959c9706bca4
+New Key: story.Prologue_Nightmare_8.event_break.choice.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46
+New Key: story.Prologue_Nightmare_8.event_break.choice.e4ae3da3fceb15c7ec9515f785a0829799bd2380
+New Key: story.Prologue_Nightmare_8.event_break.choice.c65cacb292be7a5b26907b7bed410adc47b8f314
+New Key: story.Prologue_Nightmare_8.event_break.text.6242cdb7914f2250fc600a7084c3d8acc14facf9
+New Key: story.Prologue_Nightmare_8.event_break.text.5e59819500b18ed44d89ca223c48e9b9b58ca7cb
+New Key: story.Prologue_Nightmare_8.event_break.text.79bdebe4f267da67bb4b31d83e45d4fb81736f59
+New Key: story.Prologue_Nightmare_8.event_break.text.bc936537036bd1b6c02b15e67c5074e81d129bac
+New Key: story.Prologue_Nightmare_8.event_break.text.4fe30016ed10d12ecf2dfd8580486982f0dfe344
+New Key: story.Prologue_Nightmare_8.event_break.text.04e86213aff580f57900a9ff4e7f39463a0aa0fc
+New Key: story.Prologue_Nightmare_8.event_break.text.74b37ea91d86f98bdd31d4027df4b0529098b35f
+New Key: story.Prologue_Nightmare_8.event_voice_1.text.956faceef277de40146ed99f671c2799effb2dcb
+New Key: story.Prologue_Nightmare_8.event_voice_2.text.01fd0a95066bda80ddf3210db7197504c9bb413c
+Deleted Key: story.Prologue_Nightmare_8.event_voice_1.text.613921df41794cb2fb1dbc7cc1fce1616b6aaf85
+Deleted Key: story.Prologue_Nightmare_8.event_voice_2.text.ff601edfd6d457f9212cecd7ba0b0e156eaec805
+Deleted Key: story.Prologue_Nightmare_8.event_break.text.bffd1159d814faa3d3b5b2860be61dd9644ddce0
+Deleted Key: story.Prologue_Nightmare_8.event_break.text.df5e4def95de26f4f2b537fe21ffb6036490f853
+Deleted Key: story.Prologue_Nightmare_8.event_break.text.661679f2ac3a8f202ab1d062674f367e87116fa4
+
+system.csv
+----------
+New Key: system.common.off
+New Key: system.common.on
+Changed Key: system.credits.artdesign
+Changed Key: system.credits.codescripting
+New Key: system.credits.logo
+Changed Key: system.credits.story
+Changed Key: system.credits.thanksforplaying
+New Key: system.credits.ui
+New Key: system.endings.k1
+New Key: system.locations.prologue.event.ending
+New Key: system.locations.prologue.event.nightmare
+New Key: system.locations.prologue.hod
+New Key: system.locations.prologue.school
+New Key: system.locations.prologue.school.occult
+New Key: system.menu.credits
+New Key: system.menu.extras
+New Key: system.menu.gallery
+New Key: system.menu.load
+New Key: system.menu.load.game
+New Key: system.menu.log
+New Key: system.menu.objectives.empty
+New Key: system.menu.paused
+Changed Key: system.menu.quit.areyousure
+New Key: system.menu.quit.debugroom
+New Key: system.menu.quit.desktop
+New Key: system.menu.quit.mainmenu
+New Key: system.menu.save
+New Key: system.menu.save.corrupted
+New Key: system.menu.save.game
+New Key: system.menu.save.location.unknown
+New Key: system.menu.save.overwrite.areyousure
+New Key: system.menu.save.slot
+New Key: system.menu.save.slot.empty
+Changed Key: system.screen.notefromdevs
+New Key: system.screen.projectkat.warning
+Changed Key: system.screen.specialthanks.video
+Changed Key: system.settings.audio
+New Key: system.settings.game
+New Key: system.settings.game.language
+New Key: system.settings.game.skipenabled
+Changed Key: system.settings.input
+New Key: system.settings.input.autoswitch
+New Key: system.settings.objectivenotifications
+Changed Key: system.settings.video
+Changed Key: system.settings.volume.master
+Changed Key: system.settings.volume.system
+New Key: system.settings.volume.text
+Deleted Key: system.screen.autosave.warning
+
+tutorials.csv
+-------------
+New Key: tutorials.save.name
+New Key: tutorials.save.text
+Changed Key: tutorials.interaction.text
+Changed Key: tutorials.itemuse.text
+Changed Key: tutorials.menu.text
+Changed Key: tutorials.movement.text
+Changed Key: tutorials.pickup.text
+Changed Key: tutorials.running.text
+Changed Key: tutorials.stairs.text
+Changed Key: tutorials.timingbar.text
+
+
+Changes between v1.2.0 and v1.2.1
+--------------------------------------------------------------------------------
+
+Key changes in v1.2.1:
+
+system.csv
+----------
+New Key: system.common.button
+New Key: system.common.controller
+New Key: system.common.keyboard
+New Key: system.settings.input.profile.caption
+Changed Key: system.common.key
+Changed Key: system.menu.info
+Changed Key: system.minigames.boxpuzzle.info
+Changed Key: system.tutorials.info
+
+tutorials.csv
+-------------
+Changed Key: tutorials.movement.text
+
+
+Changes between v1.1.0 and v1.2.0
+--------------------------------------------------------------------------------
+
+Key changes in v1.2.0:
+
+system.csv
+----------
+New Key: system.actions.action
+New Key: system.actions.cancel
+New Key: system.actions.down
+New Key: system.actions.left
+New Key: system.actions.menu
+New Key: system.actions.right
+New Key: system.actions.run
+New Key: system.actions.special
+New Key: system.actions.up
+New Key: system.common.axis
+New Key: system.common.key
+New Key: system.common.loading
+New Key: system.settings.hidecursor
+New Key: system.settings.input
+New Key: system.settings.input.pressbutton
+New Key: system.settings.input.presskey
+New Key: system.settings.input.profile
+New Key: system.settings.input.profile.azerty
+New Key: system.settings.input.profile.azerty-wasd
+New Key: system.settings.input.profile.classic
+New Key: system.settings.input.profile.custom
+New Key: system.settings.input.profile.ds4
+New Key: system.settings.input.profile.ds4jp
+New Key: system.settings.input.profile.dvorak
+New Key: system.settings.input.profile.dvorak-wasd
+New Key: system.settings.input.profile.genericpad
+New Key: system.settings.input.profile.switchpro
+New Key: system.settings.input.profile.wasd
+New Key: system.settings.input.profile.xbox
+New Key: system.settings.volume.mute
+Changed Key: system.tutorials.info
+
+tutorials.csv
+-------------
+Changed Key: tutorials.interaction.text
+Changed Key: tutorials.itemuse.text
+Changed Key: tutorials.menu.text
+Changed Key: tutorials.movement.text
+Changed Key: tutorials.pickup.text
+Changed Key: tutorials.running.text
+Changed Key: tutorials.stairs.text
+Changed Key: tutorials.timingbar.text

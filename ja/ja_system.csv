@@ -1,0 +1,178 @@
+,en,ja
+system.actions.action,Action/OK,アクション
+system.actions.cancel,Cancel,キャンセル
+system.actions.down,Down,下
+system.actions.left,Left,左
+system.actions.menu,Menu,メニュー
+system.actions.right,Right,右
+system.actions.run,Run,ダッシュ
+system.actions.special,Special,スペシャル
+system.actions.up,Up,上
+system.common.apply,Apply,適用
+system.common.auto,Auto,自動
+system.common.axis,Axis,軸
+system.common.back,Back,戻る
+system.common.button,Button,ボタン
+system.common.cancel,Cancel,キャンセル
+system.common.controller,Controller,コントローラ
+system.common.done,Done,完了
+system.common.key,Key,キー
+system.common.keyboard,Keyboard,キーボード
+system.common.loading,Loading...,ロード中……
+system.common.next,Next,次
+system.common.no,No,No
+system.common.off,Off,オフ
+system.common.ok,OK,OK
+system.common.on,On,オン
+system.common.yes,Yes,Yes
+system.credits.artdesign,Art,アート
+system.credits.codescripting,Code,コード
+system.credits.fonts,Fonts,フォント(英語版)
+system.credits.godotengine,Godot Engine,Godot Engine
+system.credits.logo,Paper Lily Logo,Paper Lily ロゴ
+system.credits.madeby,Created By,製作
+system.credits.madewith,Made Using,使用エンジン
+system.credits.music,Music,音楽
+system.credits.sfx,SFX,効果音
+system.credits.story,Designed By,デザイン
+system.credits.thanksforplaying,Thank You for Playing!,プレイしていただきありがとうございました！
+system.credits.ui,UI Design,UIデザイン
+system.endings.k1,True End K1 - Curiosity Killed the Kat,True End K1 - 好奇心猫をも殺す
+system.locations.prologue.event.ending,Paper Lily: Chapter 1,Paper Lily: 第1章
+system.locations.prologue.event.nightmare,Prologue: Into the Door,プロローグ: 扉を抜けて
+system.locations.prologue.hod,Prologue: Hallway of Doors,プロローグ: 扉の廊下
+system.locations.prologue.school,Prologue: School,プロローグ: 学校
+system.locations.prologue.school.occult,Prologue: Occult Club,プロローグ: オカルト部
+system.locations.ch1.home,Chapter 1: Home,第1章: 家
+system.locations.ch1.home_night,Chapter 1: Home (Night),第1章: 家 (夜)
+system.locations.ch1.forest_stop,Chapter 1: Bus Stop,第1章: バス停
+system.locations.ch1.forest,Chapter 1: Forest,第1章: 森
+system.locations.ch1.forest_red,Chapter 1: Red's Treehouse,第1章: レッドのツリーハウス
+system.locations.ch1.forest_lakeside_south,Chapter 1: Lakeside,第1章: 湖畔
+system.locations.ch1.forest_lakeside_north,Chapter 1: Lavender Area,第1章: ラベンダーエリア
+system.locations.ch1.facility,Chapter 1: Facility,第1章: 施設
+system.locations.ch1.mk,Chapter 1: Miss Knives' Home,第1章: ミス・ナイヴズの家
+system.locations.ch1.event.ending,Paper Lily: Chapter 2,Paper Lily: 第2章
+system.menu.continue,Continue,コンティニュー
+system.menu.credits,Credits,クレジット
+system.menu.debugroom,Debug Room,デバッグルーム
+system.menu.extras,Extras,エクストラ
+system.menu.gallery,Gallery,ギャラリー
+system.menu.info,{0} Select {1} Back,{0} 選択 {1} 戻る
+system.menu.inventory,Inventory,インベントリ
+system.menu.load,Load,ロード
+system.menu.load.game,Load Game,ロード
+system.menu.log,Log,ログ
+system.menu.mainmenu,Main Menu,メインメニュー
+system.menu.newgame,New Game,ニューゲーム
+system.menu.objectives,Objectives,目標
+system.menu.objectives.empty,(There are no objectives),(目標はありません)
+system.menu.paused,Game Paused!,ゲームをポーズしました！
+system.menu.startup.settings.info,{0} Change {1} Confirm,{0} 変更 {1} 決定
+system.menu.quit,Quit,終了
+system.menu.quit.areyousure,Are you sure you want to quit? Unsaved progress will be lost.,本当に終了しますか？　未保存の進行状況は失われます。
+system.menu.quit.debugroom,Go to Debug Room,デバッグルームへ行く
+system.menu.quit.desktop,Quit to Desktop,デスクトップに戻る
+system.menu.quit.mainmenu,Quit to Title Screen,タイトル画面に戻る
+system.menu.save,Save,セーブ
+system.menu.save.corrupted,CORRUPTED,破損
+system.menu.save.game,Save Game,セーブ
+system.menu.save.location.unknown,Unknown Location,不明な地点
+system.menu.save.overwrite.areyousure,Are you sure you want to overwrite this save file?,このセーブファイルに上書きしますか？
+system.menu.save.slot,SLOT {0},スロット {0}
+system.menu.save.slot.empty,<EMPTY>,<データ無し>
+system.menu.settings,Settings,設定
+system.menu.status,Status,ステータス
+system.menu.website,Website,ウェブサイト
+system.menu.website.itchio,Itch.io Page,Itch.ioページ
+system.menu.website.kickstarter,Kickstarter,Kickstarter
+system.minigames.boxpuzzle.info,{0} Give Up {1} Reset,{0} ギブアップ  {1}リセット
+system.objectives.done,(Done),(完了)
+system.objectives.updated,Objectives Updated!,目標が更新されました！
+system.screen.notefromdevs,"Note from the devs:
+We really appreciate you taking the time to play our little game! It means the world to us! 
+
+What you have played is the prologue of Paper Lily, a larger project we are currently working on. We got amazing feedback for Project Kat so far - and we hope you'll look forward to Chapter 1, coming in January!
+
+If you liked what you played, it would help us a lot if you could leave a review or follow our Kickstarter!
+
+Thank you so much!","開発者より:
+私たちのささやかなゲームをプレイして下さりありがとうございます！私たちにとっては何物にも代えがたい喜びです！
+
+今プレイして頂いたのは、私たちが現在取り組んでいる、より大きなプロジェクト、
+Paper Lilyのプロローグに当たるものです。これまで、Project Katには素晴らしいフィードバックを頂けています ― 2023年1月公開の第1章を楽しみにしていただければ幸いです！
+
+楽しんでいただけたなら、レビューを書いたり、Kickstarterで私たちをフォローしたりしていただけるととても助かります！
+
+本当にありがとうございました！"
+system.screen.projectkat.warning,"WARNING
+
+This game may contain flashing lights and effects,
+as well as depictions of violence and strong language.","警告
+
+このゲームには激しい光の点滅、
+および暴力描写や乱暴な台詞が含まれます。"
+system.screen.specialthanks,Special Thanks,スペシャルサンクス
+system.screen.specialthanks.comment,Everyone who left a comment or rating,コメントや評価をくださった皆様
+system.screen.specialthanks.family,Our families and friends,家族と友人の皆様
+system.screen.specialthanks.survey,Everyone who completed the survey,アンケートに協力してくださった皆様
+system.screen.specialthanks.video,Everyone who made a video or stream,動画投稿や配信をしてくださった皆様
+system.screen.specialthanks.you,And You!,そしてあなた！
+system.settings.advanced,Advanced Settings,高度な設定
+system.settings.audio,Sound Settings,サウンド設定
+system.settings.batterysaver,Battery Saver Mode,節電モード
+system.settings.brightness,Brightness,明るさ
+system.settings.compvsync,Comp.V-Sync,複合垂直同期
+system.settings.contrast,Contrast,コントラスト
+system.settings.current,Current: {0},現在: {0}
+system.settings.fpslimit,FPS Limit,FPS上限
+system.settings.fpsunlocked,Unlocked,無制限
+system.settings.fullscreen,Full Screen,全画面
+system.settings.game,Game Settings,ゲーム設定
+system.settings.game.language,Language,言語
+system.settings.game.language.select,Select Language,言語を選択
+system.settings.game.skipenabled,Skip Dialogue,会話のスキップ
+system.settings.gamma,Gamma,ガンマ
+system.settings.gsync,G-Sync,G-Sync
+system.settings.hidecursor,Hide Mouse Cursor,カーソル非表示
+system.settings.input,Control Settings,操作設定
+system.settings.input.autoswitch,Auto Switch,自動切換
+system.settings.input.deadzone,Controller Deadzone,コントローラ感度
+system.settings.input.error,Invalid custom controls: All actions need to be assigned!,無効なカスタム操作設定です: 割り当てていない操作があります！
+system.settings.input.pressbutton,Press a button to assign to {0}...,{0} に登録するボタンを押してください……
+system.settings.input.presskey,Press a key to assign to {0}...,{0} に登録するキーを押してください……
+system.settings.input.profile,Profile,プロファイル
+system.settings.input.profile.azerty,Azerty Classic,AZERTY クラシック
+system.settings.input.profile.azerty-wasd,Azerty WASD,AZERTY WASD
+system.settings.input.profile.caption,{0}: {1},{0}: {1}
+system.settings.input.profile.classic,Classic,クラシック
+system.settings.input.profile.custom,Custom,カスタム
+system.settings.input.profile.ds4,DualShock 4,DualShock 4
+system.settings.input.profile.ds4jp,DualShock 4 (JP),DualShock 4 (日本)
+system.settings.input.profile.dvorak,Dvorak Classic,DVORAK クラシック
+system.settings.input.profile.dvorak-wasd,Dvorak WASD,DVORAK WASD
+system.settings.input.profile.genericpad,Generic,ジェネリック
+system.settings.input.profile.switchpro,Switch Pro,Switch Pro
+system.settings.input.profile.wasd,WASD,WASD
+system.settings.input.profile.xbox,Xbox,Xbox
+system.settings.notrecommended,Not recommended,非推奨
+system.settings.objectivenotifications,Objective Notifications,目標の通知
+system.settings.renderer,Renderer,レンダラ
+system.settings.renderer.gles2,OpenGL ES 2.x,OpenGL ES 2.x
+system.settings.renderer.gles3,OpenGL ES 3.x,OpenGL ES 3.x
+system.settings.resolution,Resolution,解像度
+system.settings.resolutionscale,Internal Resolution,内部解像度
+system.settings.restartrequired,Restart required,リスタートが必要です
+system.settings.revertall,Revert Settings to Default,デフォルトに戻す
+system.settings.saturation,Saturation,彩度
+system.settings.video,Screen Settings,画面設定
+system.settings.volume.bgm,BGM Volume,BGM音量
+system.settings.volume.master,General Volume,全体音量
+system.settings.volume.mute,Mute All Audio,ミュート
+system.settings.volume.sfx,SFX Volume,効果音音量
+system.settings.volume.system,Interface Volume,システム音量
+system.settings.volume.text,Text Scrolling Volume,文字送り音量
+system.settings.vsync,V-Sync,垂直同期
+system.settings.windowsize,Window Size,ウィンドウサイズ
+system.storyplayer.item.get,Obtained {0} {1},{0} {1}を手に入れた
+system.tutorials.info,{0} Okay,{0} OK

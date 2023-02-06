@@ -1,0 +1,39 @@
+﻿,en,ja
+objectives.prologue.explore_garden.name,Explore your surroundings,辺りを探索する
+objectives.prologue.explore_garden.description,I woke up in a strange garden. Where am I?,不思議な庭で目が覚めた。ここはどこだろう？
+objectives.prologue.refresh_memory.name,Check your notes to refresh your memory,メモを見て記憶を整理する
+objectives.prologue.refresh_memory.description,I should go over my ritual notes to make sure I don't forget anything.,記憶に抜けがないように儀式のメモに目を通しておかないと。
+objectives.prologue.items.get_chalk.name,Chalk,チョーク
+objectives.prologue.items.get_chalk.description,This is a school - surely I can find chalk here.,ここは学校 ― チョークは絶対にあるはず。
+objectives.prologue.items.get_candles.name,Candles,ロウソク
+objectives.prologue.items.get_candles.description,I brought some from home.,家からいくつか持ってきてある。
+objectives.prologue.items.get_hair_tuft.name,A tuft of hair,髪の毛ひとふさ
+objectives.prologue.items.get_hair_tuft.description,It has to be human hair.,人間のじゃないといけない。
+objectives.prologue.items.find_runes.name,A rune,ルーン
+objectives.prologue.items.find_runes.description,"My friend said that the occult club keeps some runes somewhere in their room. I need one for my ritual, so I should look for it there.",オカルト部の部室のどこかにルーンがあるって友達に聞いた。儀式に1個必要だから、行って探さなくちゃいけない。
+objectives.prologue.items.name,Gather items for the ritual,儀式の道具を集める
+objectives.prologue.items.description,I should gather everything I'll need for the ritual first.,まず儀式に必要なものを全部集める必要がある。
+objectives.prologue.open_box.name,Find a way to open the box with the runes,ルーンの入った箱を開ける方法を見つける
+objectives.prologue.open_box.description,"I found the box with the runes in the occult club, but it's sealed with tape - anything pointy should do the trick.",オカルト部でルーンの入った箱を見つけたけど、テープで閉じられてた。何か鋭いものが必要だ。
+objectives.prologue.sort_desks.name,Sort the desks in all three classrooms,3つの教室全部の机を脇に寄せる
+objectives.prologue.sort_desks.description,"According to the ritual instructions, I need to get the desks out of the way in all three of the classrooms.",儀式の手順によると、3つの教室全てで机を脇に寄せる必要があるらしい。
+objectives.prologue.shut_curtains.name,Shut the curtains in all three classrooms,3つの教室全部のカーテンを閉める
+objectives.prologue.shut_curtains.description,"According to the ritual instructions, I need to make it as dark as possible in all three classrooms, so curtains should be shut.",儀式の手順によると、教室を可能な限り暗くしなきゃいけないらしい。なので、カーテンを閉める必要がある。
+objectives.prologue.enter_theater_club.name,Find a way into the Theater Club room,演劇部室に入る方法を見つける
+objectives.prologue.enter_theater_club.description,"I'm fairly sure I can find some curtains in the Theater Club room, but it's locked. I need to find a way in.",演劇部室にはきっとカーテンがあるはずだけど、鍵がかかってた。入る方法を探さなきゃいけない。
+objectives.prologue.retrieve_notebook.name,Retrieve the girl's notebook,女の子のノートを取ってくる
+objectives.prologue.retrieve_notebook.description,"One of the girls forgot her notebook in classroom 3-C. If I get it, she might lend me her Theater Club room key. She said not to look through it.",女の子の一人が3-C教室にノートを忘れてきたらしい。取ってきたら演劇部の鍵を貸してくれるかもしれない。ノートの中身は見るなって言ってた。
+objectives.prologue.draw_chalk.name,Draw a path with chalk in all 3 classrooms,3つの教室全てにチョークで道を描く
+objectives.prologue.draw_chalk.description,I need to draw a path with chalk on the floor connecting all 3 classrooms. My drawing may help me visualize it.,3つの教室全てをつなぐように、床に線を描かなきゃいけない。メモの絵が参考になるかも。
+objectives.prologue.set_candles.name,Set and light candles in the middle room,真ん中の部屋にロウソクを置いて火を灯す
+objectives.prologue.set_candles.description,I need to set and light the candles on top of all the desks in classroom 3-B.,3-B教室の机全部にロウソクを置いて、火を灯す必要がある。
+objectives.prologue.start_ritual.name,Burn the hair tuft on a candle,ロウソクで髪の毛の束を燃やす
+objectives.prologue.start_ritual.description,Preparations are complete. Let's burn the hair tuft on a candle to start the ritual.,準備は完了。髪の毛をロウソクで燃やして、儀式を始めよう。
+objectives.prologue.explore_world.name,Explore the strange place,奇妙な場所を探索する
+objectives.prologue.explore_world.description,"I arrived at a mysterious location, let's take a look around!",不思議な場所に来たから、辺りを見て回ろう！
+objectives.prologue.escape_world.name,Escape this cursed place,呪われた場所から脱出する
+objectives.prologue.escape_world.description,This isn't fun anymore. I need to find a way back!,もう楽しくなくなった。帰る方法を見つけなきゃ！
+objectives.prologue.ending_k3.name,Go home,家に帰る
+objectives.prologue.ending_k3.description,I'm going home. Maybe I'll finish the ritual some other time.,家に帰る。儀式はまたいつかやろう。
+objectives.prologue.ending_k3_pt2.name,Test your theory,仮説を検証する
+objectives.prologue.ending_k3_pt2.description,"If I'm really trapped in a loop, then the X will still be there when I go up or down. But that couldn't be the case... right?",もし本当にループに閉じ込められてるなら、×印は上るか下りるかした先にもまだあるはず。でも、そんなことはありえない……よね？

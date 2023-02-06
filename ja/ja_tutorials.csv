@@ -1,0 +1,21 @@
+﻿,en,ja
+tutorials.boxpuzzle.name,Minigame: Box Puzzle,ミニゲーム: ボックスパズル
+tutorials.boxpuzzle.text,Push the desks into the green zones to complete the puzzle,緑の領域に机を動かして、パズルを完成させよう
+tutorials.interaction.name,Interacting,インタラクト
+tutorials.interaction.text,Press {0} to interact with the environment,{0}で周囲の人や物に対して行動
+tutorials.itemuse.name,Using Items,アイテムを使う
+tutorials.itemuse.text,"To use an item, stand close and select the item from the menu ({0})",アイテムを使うには、使いたいものの近くでメニュー({0})からアイテムを選択
+tutorials.menu.name,Opening the Menu,メニューを開く
+tutorials.menu.text,Press {0} to open the menu and see your items,{0}でメニューを開き、アイテムを確認できる。
+tutorials.movement.name,Moving,移動
+tutorials.movement.text,Use {0}{1}{2}{3} to move,{0}{1}{2}{3}で移動
+tutorials.pickup.name,Picking Up Items,アイテムを拾う
+tutorials.pickup.text,Press {0} to pick up items,{0}でアイテムを拾う
+tutorials.running.name,Running,走る
+tutorials.running.text,"While moving, hold {0} to run",移動中に{0}を押すと走れる
+tutorials.save.name,Saving the Game,ゲームをセーブする
+tutorials.save.text,"Crows can save your game. Save often, since the future is uncertain",カラスでゲームをセーブできる。未来のことはわからないので、頻繁にセーブしよう
+tutorials.stairs.name,Climbing Stairs,階段を登る
+tutorials.stairs.text,Hold {0} while moving to climb up the stairs,{0}を押しながら移動で階段を登る
+tutorials.timingbar.name,Minigame: Timing Bar,ミニゲーム: タイミングバー
+tutorials.timingbar.text,Press {0} when the indicator matches the green zone,インジケータが緑の領域に重なるタイミングで{0}を押そう
