@@ -1,9 +1,10 @@
-﻿,en,ja
+,en,ja
 story.Global.prologue_boxpuzzle_explanation.text.5127ee45f5d64a6fbfe3f27c37d8beea71cf8b3f,"Alright, let's see...",さて、えっと……
 story.Global.prologue_boxpuzzle_explanation.text.0e38c332e3a68470735df29d9b4ef5dd21c1a5c2,According to my notes...,メモによれば……
 story.Global.prologue_boxpuzzle_explanation.text.7a6a98d9c89edd44dda70c219ee11bdc71cb190d,I need to move the desks to the sides in all three classrooms.,まず、3つの教室全部の机を脇に寄せる。
 story.Global.prologue_boxpuzzle_explanation.text.1f4aee5ce6fd5c23c3d0ba0466edc66749f2521a,"Then I can draw a ""path"" in the middle of each one with chalk.",それから、それぞれの教室の真ん中にチョークで「道」を描く。
 story.Global.prologue_boxpuzzle_explanation.text.6a36f5c97736b9ab9013672b97d67d453de9145c,"Well, I'll leave the chalk drawing for last. I want to gather everything I need first.",道を描くのは最後にしましょう。先に必要なものを集めておかなきゃ。
+,,
 story.Global.prologue_check_plants_cut.text.6329e8a7c52b3f3d8e22117c3eb6d3ca2ae1ff42,Oh no...,な……
 story.Global.prologue_check_plants_cut.text.c994deb18593c8d8a50b63c6872c2e7774cf2711,What are you doing...? Is this part of the ritual?,何してるの……？ それも儀式の一部？
 story.Global.prologue_check_plants_cut.text.be9de4cb21c061133a2d908557b21c5a8b41cfa6,Um... what's wrong with you?,ねぇ……一体どうしたのよ？
@@ -15,8 +16,10 @@ story.Global.prologue_check_plants_cut.text.ef3aada0e2404993532733408a29bc6d6552
 story.Global.prologue_check_plants_cut.text.80f3007acea925bd534b9a7cb9354a891d6b8eab,I don't like this ritual anymore...,こんな儀式、私は嫌だよ……
 story.Global.prologue_check_plants_cut.text.be9e520a9337bc2952919f7d9d0ece6283f51964,"Don't worry Kaya, we're going home now.",大丈夫よカヤ、私たちはもう帰りましょう。
 story.Global.prologue_check_plants_cut.text.35f1a0ab71339bc315e57b1aeddeeea76e10bade,Don't talk to us again.,もう話しかけないで。
+,,
 story.Global.prologue_classroom_misc_cubicles.text.24a04612760725bc6b9a45f8a60a34fa9e573db8,Shelves for the students to place their school bags.,生徒が鞄を置く棚。
 story.Global.prologue_classroom_misc_cubicles.text.7141dd76d5f74b98e7baa6a346b65f5424b3c338,There are no bags right now though.,でも今はひとつも置かれてない。
+,,
 story.Global.prologue_cutscene_ritual_1.text.a64bab41229e760e6a3777df0df4d89b8fa7373f,Everything's ready.,これで準備は完了ね。
 story.Global.prologue_cutscene_ritual_1.text.e9a37dc0299fbe32789eb529cb417520a49733e8,All that's left is to wait 5 minutes and then burn the hair.,あとは5分待って、髪の毛を燃やすだけだわ。
 story.Global.prologue_cutscene_ritual_1.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,...,……
@@ -42,6 +45,7 @@ story.Global.prologue_cutscene_ritual_1.text.b4c780012d6db8d0ded87a45b256d81cd87
 story.Global.prologue_cutscene_ritual_1.text.0003951eb45f1c8b0e23224b586f5bd60d09f659,"Thanks, you're the best!",ありがと、最高！
 story.Global.prologue_cutscene_ritual_1.text.73fef01e230300ae6fc10ffd739157b067709157,Huh?,んん？
 story.Global.prologue_cutscene_ritual_1.text.3d39d3bfb8b32f98d718cb1c17c6cd4477420392,(Is there somebody at the door..?),(ドアのところに誰かいる……？)
+,,
 story.Global.prologue_cutscene_ritual_2.text.8d3b11b3af0674578a90b532930e58ba5424b056,"Alright, now I just have to blow the candles off. So let's-",よし、あとはロウソクを吹き消すだけだわ。さっそく ―
 story.Global.prologue_cutscene_ritual_2.text.03d0a57262180f83cc0cda3f4f24f4e5194dc881,Huh? The candles... Did they just...?,えっ？ ロウソクが……勝手に……？
 story.Global.prologue_cutscene_ritual_2.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,...,……
@@ -69,9 +73,11 @@ story.Global.prologue_cutscene_ritual_2.text.86239d7d2894a5917154f5401cb4d85e376
 story.Global.prologue_cutscene_ritual_2.text.2186014984095c8986fe6cd46f87af61ae0bec1e,"THIS IS SO EXCITING, I CAN'T BELIEVE IT WORKED!",あぁ興奮する、本当にうまくいくなんて！
 story.Global.prologue_cutscene_ritual_2.text.665f5b8d399a51e10d35037f2968524c99e2e67f,"If I wake up from this and it turns out to be a dream... well... that would be disappointing, to say the least.",これで目が覚めて、夢だったりしたら……まぁ……がっかりするわね、少なくとも。
 story.Global.prologue_cutscene_ritual_2.text.4131739729f99357ddf308bdc72abd6408d5e2ad,Okay. I definitely need to check this place out.,オーケー。これはこの場所を調べて回るっきゃないわね。
+,,
 story.Global.prologue_cutscene_ritual_2.choice.text.74d5410fad0d438c102abf44d6543734b697b0c0,Do you wish to save your progress?,進行状況をセーブしますか？
 story.Global.prologue_cutscene_ritual_2.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,する
 story.Global.prologue_cutscene_ritual_2.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,しない
+,,
 story.Global.prologue_cutscene_ritual_girls.text.8a13d9b29bbc375ec3d2b8f5d400c7cbc5ec379c,Now what?,それで？
 story.Global.prologue_cutscene_ritual_girls.text.27f2c10be5c805961a9008743ee8e7a62ac35fc4,Now we just wait 5 minutes.,5分間待つ。
 story.Global.prologue_cutscene_ritual_girls.text.e39e8fd285238907b4d9a2fb34c0cbd48d6d1fca,Doing nothing?,何もせずに？
@@ -106,9 +112,11 @@ story.Global.prologue_cutscene_ritual_girls.text.d24b63256b9e38d0c2b4d91259c5f75
 story.Global.prologue_cutscene_ritual_girls.text.a78e6701b02292287dbaa5e15dc69ca645092a47,Huh...?,あれ……？
 story.Global.prologue_cutscene_ritual_girls.text.ce3d7224f2b8f596af766145d1cc69ceb42395bb,What the...?,な……？
 story.Global.prologue_cutscene_ritual_girls.text.4fa71a53c1d14c68b45d72ea32880bc3f1b67c1f,Are those...?,これは……？
+,,
 story.Global.prologue_draw_chalk.text.5a053350f6b83e0f6b083698c6c4c35858dd38b2,"Well... my lines aren't perfect, but it should do the job!",まぁ……完璧とはいえないけど、これで事足りるはずよ！
 story.Global.prologue_draw_chalk.text.c6387a980df306afaac67616985533cf376033fb,I need to do this in all three rooms.,これを3つの教室全部でやらなきゃいけない。
 story.Global.prologue_draw_chalk.text.b29396525f24fbe7ad65c8f824655c0ea82d59ad,"Two down, one to go.",2つ終わって、残りはあと1つね。
+,,
 story.Global.prologue_ending_k2.text.a7f4a8991d8b9edf5f397781c6891c4c4a821f78,"That night... I got cold feet, I guess.",あの晩……私は怖気づいたんだと思う。
 story.Global.prologue_ending_k2.text.453e77b4d7d5b7cdaa716bbe7c273236d5bb4754,I went home without completing the ritual.,儀式を終えないまま、私は家に帰った。
 story.Global.prologue_ending_k2.text.899676bc9ee27a7eb0ddb2ffef68513153b440a6,"Despite that, I made plans to try again.",それでも、再挑戦の計画は立てた。
@@ -116,6 +124,7 @@ story.Global.prologue_ending_k2.text.13d445dc136b68ee35d5592f937d5a138c74da5e,"H
 story.Global.prologue_ending_k2.text.9c6806e368df7cac1664af6e0667d347196b7b5a,I tried telling myself that maybe the ritual was a scam anyways...,あの儀式はどのみち偽物だったんだと、私は自分に言い聞かせた……
 story.Global.prologue_ending_k2.text.6069f127223610f828c0bb834e13b00f7fb65212,But now... how will I ever know?,でも……本当にそうだったんだと、いったいどうやったらわかるだろう？
 story.Global.prologue_ending_k2.text.448474fd6f3cf8f077c86efad23a4d1df14eec9e,Dead End K2 - Cold Kat Feet,Dead End K2 - 鳴く猫は鼠を取らず
+,,
 story.Global.prologue_ending_k3.text.5ec90e03adac13c26c70a0f18fb22b00a704c941,What's... going on?,一体……どうなってるの？
 story.Global.prologue_ending_k3.text.7c24fec035c27d28c9facc402b14e29a8c961852,These stairs are making no sense right now.,この階段、おかしいわ。
 story.Global.prologue_ending_k3.text.c6eb6366d092e365582ffe29b8e2156c8cffab88,This building has only 3 floors. I've taken these stairs every day...,校舎は3階建てのはず。毎日使ってる階段なのに……
