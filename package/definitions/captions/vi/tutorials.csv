@@ -14,8 +14,9 @@ tutorials.pickup.text,Press {0} to pick up items,Bấm {0} để nhặt đồ
 tutorials.running.name,Running,Chạy
 tutorials.running.text,"While moving, hold {0} to run","Khi đang đi chuyển, nhấn giữ {0} để chạy"
 tutorials.save.name,Saving the Game,Lưu phần chơi
-tutorials.save.text,"Crows can save your game. Save often, since the future is uncertain",Quạ có thể lưu phần chơi cho bạn. Lưu thường xuyên nhé vì chuyện tương lai không biết được đâu
+tutorials.save.text,"Crows can save your game. Save often, since the future is uncertain","Quạ có thể lưu phần chơi cho bạn.
+Lưu thường xuyên nhé vì chuyện tương lai không biết được đâu"
 tutorials.stairs.name,Climbing Stairs,Bước lên cầu thang
 tutorials.stairs.text,Hold {0} while moving to climb up the stairs,Nhấn giữ {0} khi đang di chuyển để bước lên cầu thang
 tutorials.timingbar.name,Minigame: Timing Bar,Minigame: Canh Vạch
-tutorials.timingbar.text,Press {0} when the indicator matches the green zone,Bấm {0} khi vạch chỉ thị lọt vào vùng màu xanh lá
+tutorials.timingbar.text,Press {0} when the indicator matches the green zone,Bấm {0} khi vạch kẻ lọt vào vùng màu xanh lá
