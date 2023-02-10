@@ -1,20 +1,20 @@
 ,en
 story.Prologue_Ending_K7_2.event_already_open.text.968cf294d2af6de9dd83458665405ede889fc78c,It's already unlocked.
-story.Prologue_Ending_K7_2.event_check_secret_open.text.69851c726ce9e637dcadf0296c0a917ad54d47a0,...but there's nothing inside.
+story.Prologue_Ending_K7_2.event_check_secret_open.text.69851c726ce9e637dcadf0296c0a917ad54d47a0,…but there's nothing inside.
 story.Prologue_Ending_K7_2.event_check_secret_open.text.065e84d428f9061a0f9e2bdd5b2b5ea32f3ce38d,There's some schematics for some sort of machine you don't really understand.
 story.Prologue_Ending_K7_2.event_check_secret_open.text.2669cc23ec9a922ca884004193bd4d8e1e422462,What's that?
-story.Prologue_Ending_K7_2.event_check_secret_open.text.0c3ed6989600027bf834b5dbdae6827da3e4d4be,Not a clue... but I'm taking it.
+story.Prologue_Ending_K7_2.event_check_secret_open.text.0c3ed6989600027bf834b5dbdae6827da3e4d4be,Not a clue… but I'm taking it.
 story.Prologue_Ending_K7_2.event_read_documents.text.b6d244c0e8be2cce7eda1c8f8cb17b9403609fb7,There's some official-looking documents here.
 story.Prologue_Ending_K7_2.event_read_documents.choice.text.669a9ddb15528f0c9e0a315083c81df92b8ff096,Read them?
 story.Prologue_Ending_K7_2.event_read_documents.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes
 story.Prologue_Ending_K7_2.event_read_documents.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No
 story.Prologue_Ending_K7_2.event_read_documents.text.a5ca1b97a1d069b86e0927db82527e5d7e1bd2ab,${img:stamp_council} MEETING 176 NOTES
-story.Prologue_Ending_K7_2.event_read_documents.text.dc1e8cf357a7552a09f1c308741b2556785d773a,"""...disagreements on the distribution of the...."""
-story.Prologue_Ending_K7_2.event_read_documents.text.1d80b08628c2a209bcba2bc7c76a233ab49cf275,"""...is still not participating in our..."""
-story.Prologue_Ending_K7_2.event_read_documents.text.4d0f59cdc6688ae030f8d700c2d5f613168c5ecc,"""...the secondary duty of guardians..."""
-story.Prologue_Ending_K7_2.event_read_documents.text.cf254c0dae43bb11b82ce3b653d2e38ef10e9f2e,"""...collection of stones from every..."""
+story.Prologue_Ending_K7_2.event_read_documents.text.dc1e8cf357a7552a09f1c308741b2556785d773a,"""…disagreements on the distribution of the…."""
+story.Prologue_Ending_K7_2.event_read_documents.text.1d80b08628c2a209bcba2bc7c76a233ab49cf275,"""…is still not participating in our…"""
+story.Prologue_Ending_K7_2.event_read_documents.text.4d0f59cdc6688ae030f8d700c2d5f613168c5ecc,"""…the secondary duty of guardians…"""
+story.Prologue_Ending_K7_2.event_read_documents.text.cf254c0dae43bb11b82ce3b653d2e38ef10e9f2e,"""…collection of stones from every…"""
 story.Prologue_Ending_K7_2.event_read_documents.text.38044dad011511ac1b7b0d254e9d631fe371af5b,The document continues making little sense for several pages.
-story.Prologue_Ending_K7_2.event_read_documents.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,...
+story.Prologue_Ending_K7_2.event_read_documents.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…
 story.Prologue_Ending_K7_2.event_read_documents.text.ef64927c0bf5c8cbe1cdaea41eacb7d07a69075f,What the hell am I reading?
 story.Prologue_Ending_K7_2.event_read_documents.text.fa49cb307a80bc610227416132f07cab1aeb96d4,There's nothing else of interest.
 story.Prologue_Ending_K7_2.item_hairpin_on_locker.text.2b8fda9ac1cebeb67f7ea62bcc3893c4f740d7a4,The hairpin doesn't fit into this lock.
@@ -50,10 +50,10 @@ story.Prologue_Ending_K7_2.misc_trashcan.text.c151769c9b7c94a0bc56d85aa96edce07f
 story.Prologue_Ending_K7_2.misc_trashcan.text.d9caba56ca74e503dd949c7f046065cdc0baeced,Some black goo can be seen at the bottom.
 story.Prologue_Ending_K7_2.misc_trashcans.text.524ba9242b167d28e4d3d5615933c89db8318513,A pile of trash cans.
 story.Prologue_Ending_K7_2.misc_trashcans.text.16739b61c5a3940f01aa28b51a8457767a5e884c,They seem to be stuck together.
-story.Prologue_Ending_K7_2.move_enter.text.0d760fca65be9738a45f425251b44d19a6361ebf,So... maybe the ritual worked?
+story.Prologue_Ending_K7_2.move_enter.text.0d760fca65be9738a45f425251b44d19a6361ebf,So… maybe the ritual worked?
 story.Prologue_Ending_K7_2.move_enter.text.bcbcd2ecd528289215e2b6121962cc4527ffeaa4,But the ritual wasn't finished.
 story.Prologue_Ending_K7_2.move_enter.text.7344407b3355bbb7fcc931167e97e2f0d3b3529d,"Which means either the school has a bunch of cursed-looking rooms and a dark secret, or this isn't the school anymore."
 story.Prologue_Ending_K7_2.move_enter.text.abc7624541537b0f7c2de0907516ceaf9b2d647e,"If it's not the school, then what is it?"
 story.Prologue_Ending_K7_2.move_enter.text.f6d83edc45f0b5db67760927a6156b71e8e91b28,No idea.
-story.Prologue_Ending_K7_2.move_enter.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,...
+story.Prologue_Ending_K7_2.move_enter.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…
 story.Prologue_Ending_K7_2.move_enter.text.72192521ede59e8e0711d87f59e11e46de95adea,"In any case, it doesn't feel too dangerous, so let's continue."

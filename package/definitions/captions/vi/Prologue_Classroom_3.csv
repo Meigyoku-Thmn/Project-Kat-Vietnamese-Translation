@@ -2,8 +2,8 @@
 story.Prologue_Classroom_3.event_boxpuzzle_fail.text.57f9f313ef9b933534f125ca2240fca642f775cc,"On second thought, I don't feel like it."
 story.Prologue_Classroom_3.event_boxpuzzle_success.text.ad8b5428ef886ff5b431a2e97eef79ef8fffb226,Phew!
 story.Prologue_Classroom_3.event_saki_desk.text.0d661add80126c7a3f9f8c72113e68227aba3614,"This is my desk. Juli sits in front of me, and Kaya sits behind."
-story.Prologue_Classroom_3.event_saki_desk.text.fd141e42cc289e104322660970b444bacc80870f,I see...
-story.Prologue_Classroom_3.event_saki_desk.text.3868b1980eefb18f01f9f111cab289a3af14c584,Thanks for letting me know...?
+story.Prologue_Classroom_3.event_saki_desk.text.fd141e42cc289e104322660970b444bacc80870f,I see…
+story.Prologue_Classroom_3.event_saki_desk.text.3868b1980eefb18f01f9f111cab289a3af14c584,Thanks for letting me know…?
 story.Prologue_Classroom_3.event_saki_desk.text.918d904c3f954c2dc44debd8abc0a2d11e120e73,Saki's desk.
 story.Prologue_Classroom_3.item_candles_on_desks.text.87d3eaef68887c05be7b24ccd160e1b33ab3106e,This isn't the right classroom for that.
 story.Prologue_Classroom_3.item_chalk.text.004ccd56b002de2e15a0e5e583d482e9b2363b6e,The path is already drawn.
@@ -22,7 +22,7 @@ story.Prologue_Classroom_3.item_scissors_on_plant.text.32c9aa0ef29cbdc3d781c065a
 story.Prologue_Classroom_3.item_scissors_on_plant.text.e3c35488f648b0db0375773a5a07c86be37d04e0,This isn't the time for that.
 story.Prologue_Classroom_3.misc_books.text.a69f16b3e1b41228da2b583f8b133947006c0658,Some world encyclopedias.
 story.Prologue_Classroom_3.misc_books.text.122c53a85b3a3d2d63a44c7586aed2871c388ca2,I would definitely steal one of these if they weren't so darn heavy.
-story.Prologue_Classroom_3.misc_books.text.67366504024c50438a61f97e7e4853fc1d3894ca,You can borrow my books if you need...
+story.Prologue_Classroom_3.misc_books.text.67366504024c50438a61f97e7e4853fc1d3894ca,You can borrow my books if you need…
 story.Prologue_Classroom_3.misc_books.text.50578934420c3b27390c65b91950a7a9516bac63,I'll keep that in mind.
 story.Prologue_Classroom_3.misc_chalkboard.text.996c7ffde7f4de6e04435eeeafaf0751c8d69a1c,A clean chalkboard.
 story.Prologue_Classroom_3.misc_desk.text.9eb16580a197d2cf1a69fc82764f982b5be5d5e7,A wooden desk.
@@ -37,7 +37,7 @@ story.Prologue_Classroom_3.misc_podium.text.760df8526ebfc0a8d9b9154494a4cd9c6baf
 story.Prologue_Classroom_3.misc_podium.text.6ce15ca27f5ca48d71b4a016f33833bcd78fb44f,A geography book and a globe sit atop it.
 story.Prologue_Classroom_3.misc_shelf.text.bd28c802e52a8bcdea8b40a5aeb08aab922efd18,Some boring textbooks.
 story.Prologue_Classroom_3.misc_shelf2a.text.bdec03e7317af0a79fa94cc26f0693db67eac16f,"Some very thick, school-related books."
-story.Prologue_Classroom_3.misc_shelf2b.text.5976341a7cf838c5d3c59c8187b2f487abe54dc7,Some books and... chalk.
+story.Prologue_Classroom_3.misc_shelf2b.text.5976341a7cf838c5d3c59c8187b2f487abe54dc7,Some books and… chalk.
 story.Prologue_Classroom_3.misc_shelf2b.choice.text.e8d32d47491e2462d1e83b81526638ac486785c4,Take it?
 story.Prologue_Classroom_3.misc_shelf2b.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes
 story.Prologue_Classroom_3.misc_shelf2b.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No

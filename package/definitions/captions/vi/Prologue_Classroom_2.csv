@@ -46,7 +46,7 @@ story.Prologue_Classroom_2.misc_podium.text.760df8526ebfc0a8d9b9154494a4cd9c6baf
 story.Prologue_Classroom_2.misc_podium.text.83c315a9d18485836886e4a04bb77f356db9f464,There's a useless history book as well.
 story.Prologue_Classroom_2.misc_shelf.text.bd28c802e52a8bcdea8b40a5aeb08aab922efd18,Some boring textbooks.
 story.Prologue_Classroom_2.misc_shelf2a.text.bdec03e7317af0a79fa94cc26f0693db67eac16f,"Some very thick, school-related books."
-story.Prologue_Classroom_2.misc_shelf2b.text.5976341a7cf838c5d3c59c8187b2f487abe54dc7,Some books and... chalk.
+story.Prologue_Classroom_2.misc_shelf2b.text.5976341a7cf838c5d3c59c8187b2f487abe54dc7,Some books and… chalk.
 story.Prologue_Classroom_2.misc_shelf2b.choice.text.e8d32d47491e2462d1e83b81526638ac486785c4,Take it?
 story.Prologue_Classroom_2.misc_shelf2b.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes
 story.Prologue_Classroom_2.misc_shelf2b.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No
@@ -54,8 +54,8 @@ story.Prologue_Classroom_2.misc_shelf2b.text.9dd1b82a5e4f409f34a6c727d6cf043f271
 story.Prologue_Classroom_2.misc_trashcan.text.38b1869a785c91f5257ba98f3c80c99e1d930256,A trash can. You feel uninclined to dig through it.
 story.Prologue_Classroom_2.misc_window1.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.
 story.Prologue_Classroom_2.misc_window2.text.ef8d523e8f4c07efb7c37dd7287bb66fa9da57a6,Uh-oh. The curtains here are missing.
-story.Prologue_Classroom_2.misc_window2.text.8da8e34ff6cb360688e83e42cc370d32bb6400ce,"According to the ritual instructions, I need to black out all the rooms..."
-story.Prologue_Classroom_2.misc_window2.text.bbaac21a3466e316e11fa3830301430e94131627,But where will I find new curtains...?
+story.Prologue_Classroom_2.misc_window2.text.8da8e34ff6cb360688e83e42cc370d32bb6400ce,"According to the ritual instructions, I need to black out all the rooms…"
+story.Prologue_Classroom_2.misc_window2.text.bbaac21a3466e316e11fa3830301430e94131627,But where will I find new curtains…?
 story.Prologue_Classroom_2.misc_window2.text.fcb1a52363e86744d6c1ccf6be173d63640dce56,Maybe the theater club has some curtains I can borrow?
 story.Prologue_Classroom_2.misc_window2.text.bb49205795011c96080a894408f2257c668a6635,"Yeah, it does."
 story.Prologue_Classroom_2.misc_window2.text.a655db256e6a509b7e8bfc6cc7e9ef1c8c25fca7,I hope these curtains will work.

@@ -18,7 +18,7 @@ system.common.controller,Controller,Bộ điều khiển
 system.common.done,Done,Xong
 system.common.key,Key,Phím
 system.common.keyboard,Keyboard,Bàn phím
-system.common.loading,Loading...,Đang tải…
+system.common.loading,Loading…,Đang tải…
 system.common.next,Next,Tiếp theo
 system.common.no,No,Không
 system.common.off,Off,Tắt
@@ -125,8 +125,8 @@ system.settings.hidecursor,Hide Mouse Cursor,Ẩn Con trỏ chuột
 system.settings.input,Control Settings,Thiết lập Điều khiển
 system.settings.input.autoswitch,Auto Switch,Hoán chuyển Tự động
 system.settings.input.deadzone,Controller Deadzone,Deadzone Bộ điều khiển
-system.settings.input.pressbutton,Press a button to assign to {0}...,Bấm nút gán cho {0}…
-system.settings.input.presskey,Press a key to assign to {0}...,Bấm phím gán cho {0}…
+system.settings.input.pressbutton,Press a button to assign to {0}…,Bấm nút gán cho {0}…
+system.settings.input.presskey,Press a key to assign to {0}…,Bấm phím gán cho {0}…
 system.settings.input.profile,Profile,Profile
 system.settings.input.profile.azerty,Azerty Classic,Azerty Classic
 system.settings.input.profile.azerty-wasd,Azerty WASD,Azerty WASD

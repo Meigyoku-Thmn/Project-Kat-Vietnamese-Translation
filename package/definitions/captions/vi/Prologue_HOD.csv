@@ -1,12 +1,12 @@
 ,en
 story.Prologue_HOD.event_kat_explore_1.text.6ce4b8ea6a33af7fa5b6d2f548ee820834c63e4a,That's strange.
 story.Prologue_HOD.event_kat_explore_1.text.761fb53bce5ba88e379af29b59af733892348766,Have I already passed through here?
-story.Prologue_HOD.event_kat_explore_1.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,...
+story.Prologue_HOD.event_kat_explore_1.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…
 story.Prologue_HOD.event_kat_explore_1.text.d02a007e3cd3e718416b5fc06097b8d14ceb6504,I have.
-story.Prologue_HOD.event_kat_explore_1.text.9c4d28dac355afbda8acf50991980c2b658a80ab,Hmm...
+story.Prologue_HOD.event_kat_explore_1.text.9c4d28dac355afbda8acf50991980c2b658a80ab,Hmm…
 story.Prologue_HOD.event_kat_explore_1.text.fb411b88c36e3a2b8f9d7ef1d7a466a7e5707a56,There must be something I missed.
-story.Prologue_HOD.event_kat_explore_3.text.573bb829bf9bd8b1e02ce682aa335d48cb9d2ff0,Um... am I lost? I don't remember this hallway being so long before.
-story.Prologue_HOD.event_lockpick_fail.text.10b6753c67605ada6f0a708ea2ffce0bc2974285,Uh-oh... The hairpin is bent badly.
+story.Prologue_HOD.event_kat_explore_3.text.573bb829bf9bd8b1e02ce682aa335d48cb9d2ff0,Um… am I lost? I don't remember this hallway being so long before.
+story.Prologue_HOD.event_lockpick_fail.text.10b6753c67605ada6f0a708ea2ffce0bc2974285,Uh-oh… The hairpin is bent badly.
 story.Prologue_HOD.event_lockpick_fail.text.b8790c089e4db8df8b214bfb8f841cda51486ddb,I don't think it can take much more of this.
 story.Prologue_HOD.event_lockpick_fail.text.6c5d4f53a547bf0474ddcb15037067e54fb37fb6,The hairpin broke.
 story.Prologue_HOD.event_lockpick_success.text.f79c8d11189f1dbf961110f8c8a9fab86c46107b,The door unlocked!
@@ -23,10 +23,10 @@ story.Prologue_HOD.item_key_get.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,
 story.Prologue_HOD.item_key_get.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No
 story.Prologue_HOD.item_key_get.text.ecbbc3e519fd0aa7a63abcf53dc8ba8fc02b1cf2,There's nothing left.
 story.Prologue_HOD.item_key_on_door3.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!
-story.Prologue_HOD.item_lighter_on_door2.text.21d07523b7ce000b5e1a7b7df7117afa8cbaf55b,I don't suppose I could burn these planks down...?
+story.Prologue_HOD.item_lighter_on_door2.text.21d07523b7ce000b5e1a7b7df7117afa8cbaf55b,I don't suppose I could burn these planks down…?
 story.Prologue_HOD.item_lighter_on_door2.text.d6bc0a78704ed6edfc861ffc793578dd60839839,"Ugh, it's no use. I'll run out of fuel before they even warm up."
 story.Prologue_HOD.item_lighter_on_door2.text.da5772e844bdff2164e622187088e84cb4f1b37d,There's no point in that.
-story.Prologue_HOD.item_lighter_on_goop.text.999d087b27c7b5a835572a67031638c0f1308ceb,Hm... This is a closed space.
+story.Prologue_HOD.item_lighter_on_goop.text.999d087b27c7b5a835572a67031638c0f1308ceb,Hm… This is a closed space.
 story.Prologue_HOD.item_lighter_on_goop.text.1d820b19cc0bb8ac2102968b154e14a1f5c6ca4b,"If this turns out to be flammable, it could get really dangerous."
 story.Prologue_HOD.item_lighter_on_goop.text.f89549a77a794bdf314546357a6b84e5847ec51a,I really shouldn't.
 story.Prologue_HOD.item_no_keyhole.text.4c185e949c93945c1f937c32295badaca7153b32,This door has no keyhole.
@@ -36,9 +36,9 @@ story.Prologue_HOD.misc_goop_1.text.e49557dc253379fab3f692aeb73c9546299fcfea,Whe
 story.Prologue_HOD.misc_goop_2.text.ca13117cd0ebd4f85907096a975e4ee403066d00,A black substance drips down from above.
 story.Prologue_HOD.misc_goop_2.text.5c43dee8ac31c6bbbe734b86a5105af8948e51b7,"Whatever it is, it looks disgusting."
 story.Prologue_HOD.misc_goop_3.text.1b477f1e097f7dba99c2d56ac75926816200ad1e,A large amount of a black substance has accumulated under the stairs.
-story.Prologue_HOD.misc_goop_3.text.d6d59fe2235e1ae9bbbdd98333d326876646c178,This stuff makes me uneasy... What if it comes alive or something?
+story.Prologue_HOD.misc_goop_3.text.d6d59fe2235e1ae9bbbdd98333d326876646c178,This stuff makes me uneasy… What if it comes alive or something?
 story.Prologue_HOD.misc_mirrors.text.f4f3b3044cb5258d31cfa714135e09da25e9a2b7,The way these mirrors are set on the walls is almost comforting.
-story.Prologue_HOD.misc_mirrors.text.20e054ae8bf664c4e3de721de0bdd30d37154d77,But staring into mirrors in a place like this...
+story.Prologue_HOD.misc_mirrors.text.20e054ae8bf664c4e3de721de0bdd30d37154d77,But staring into mirrors in a place like this…
 story.Prologue_HOD.misc_mirrors.text.6499eea611cfc68deab171bee6fc24a800099d0c,It's almost like I'm asking to be jump-scared.
 story.Prologue_HOD.misc_mirrors.text.34cfed3bc123c80c134568fe7db6245c960e809c,Multiple reflections stare back at you.
 story.Prologue_HOD.misc_pipes.text.7fcb271f65bb272532f13b53ef3b2fe4f8a5e94f,Nonsensical pipes run all over the place.
@@ -47,10 +47,10 @@ story.Prologue_HOD.move_door1.text.ddbd38eba1be4e0b57ef351bba980f224c8ba179,A do
 story.Prologue_HOD.move_door1.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.
 story.Prologue_HOD.move_door2.text.ddbd38eba1be4e0b57ef351bba980f224c8ba179,A door with an odd pattern.
 story.Prologue_HOD.move_door2.text.adca6d67f9d87b5a7c465afba066a2c2b18d0215,It's very locked.
-story.Prologue_HOD.move_door2.text.e96ca605746a85b178a3aa9da7c0706a4fe4ea11,This door is open...
-story.Prologue_HOD.move_door2.text.8e8f6221407a84d6cdcfaac7f8e1eb9ed7f109e4,Wasn't it boarded up...?
-story.Prologue_HOD.move_door2.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,...
-story.Prologue_HOD.move_door2.text.0c5c669ae546bad8f360457f60028866820b5a37,Everything else is locked... I have no other choice but to go in...
+story.Prologue_HOD.move_door2.text.e96ca605746a85b178a3aa9da7c0706a4fe4ea11,This door is open…
+story.Prologue_HOD.move_door2.text.8e8f6221407a84d6cdcfaac7f8e1eb9ed7f109e4,Wasn't it boarded up…?
+story.Prologue_HOD.move_door2.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…
+story.Prologue_HOD.move_door2.text.0c5c669ae546bad8f360457f60028866820b5a37,Everything else is locked… I have no other choice but to go in…
 story.Prologue_HOD.move_door3.text.915d6b4b1d7c44204f97a4e85d3eb8b3d85257e3,A fairly normal-looking door.
 story.Prologue_HOD.move_door3.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.
 story.Prologue_HOD.move_door3.text.601cba21676d913d39ebb318c1e7aacdc87cf967,There's nothing here.
