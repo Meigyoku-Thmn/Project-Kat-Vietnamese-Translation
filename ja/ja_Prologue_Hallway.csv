@@ -1,43 +1,48 @@
 ﻿,en,ja
 story.Prologue_Hallway.event_closet_door_locked_forever.text.db2f9877d0f6f90134d8355730c91e84e4f0c528,"The keyhole has vanished, making it impossible to pick.",鍵穴が消えていて、ピッキングできない。
-story.Prologue_Hallway.event_closet_door_locked_forever.text.2aea4d8500673644a5867607bc4fc22d7ab3d699,What... the hell? Are you guys seeing what I'm seeing?,……どういうこと？　私の見間違いじゃないわよね？
-story.Prologue_Hallway.event_closet_door_locked_forever.text.f689591d19bc83db04d80b8be36a30be62a7e51b,Maybe it's a sign...,何かのサインかも……
-story.Prologue_Hallway.event_closet_door_locked_forever.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,...,……
+story.Prologue_Hallway.event_closet_door_locked_forever.text.2aea4d8500673644a5867607bc4fc22d7ab3d699,What… the hell? Are you guys seeing what I'm seeing?,……どういうこと？　私の見間違いじゃないわよね？
+story.Prologue_Hallway.event_closet_door_locked_forever.text.f689591d19bc83db04d80b8be36a30be62a7e51b,Maybe it's a sign…,何かのサインかも……
+story.Prologue_Hallway.event_closet_door_locked_forever.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,……
+,,
 story.Prologue_Hallway.event_exit.text.d9ff225b339ce0c71158adad95dcaf862ec42734,This leads downstairs and outside of the school.,この先は下の階と校外に通じている。
 story.Prologue_Hallway.event_exit.text.30da629656cc7cd2d0fd9c76a165b781d444434b,I should be able to find everything I need on this floor.,必要なものはこの階で全部見つかるはず。
 story.Prologue_Hallway.event_exit.text.5b9cf0772c9f5c57587509bdceac0c4814974f06,No need to go downstairs.,下に行く必要はない。
+,,
 story.Prologue_Hallway.event_exit.choice.text.218340ff245ad56e76aa4b163d9f84ced20e3694,Give up and go home?,諦めて家に帰る？
 story.Prologue_Hallway.event_exit.choice.0ecdb1487f73a79a39bd0dbcf37b64fa6920c993,"Yes, this is scary",怖いし、帰る
 story.Prologue_Hallway.event_exit.choice.ebb19f20d41e0103e3e11e0d6f9d0b6f30b736eb,"No, let's finish this",帰らない、儀式を終わらせる
+,,
 story.Prologue_Hallway.event_exit.text.b36d367c606e5d74547c9070d7bf6f93c04716f1,What are you doing? Are we done already?,何してるの？　もうおしまい？
 story.Prologue_Hallway.event_exit.choice.text.e2f033826024b1c973e85c59f0a88480c9bf6ecd,Are we going home?,家に帰る？
 story.Prologue_Hallway.event_exit.choice.a849a86ea8744e427b4d033af84f646695dd92df,"Yeah, let's go",帰る
 story.Prologue_Hallway.event_exit.choice.bcac1df79ec80fa8aa38e3d2a45cf9aebd19a26d,"No, we're not done",いや、まだ終わってない
 story.Prologue_Hallway.event_exit.text.fca0572517893dc5807fb2725066c96beca0022c,Really? I guess I'll go get my stuff.,ホントに？　なら荷物取ってこないと。
-story.Prologue_Hallway.event_exit_2.text.faec884e3f6d7f2b98d09a898858624fd36dea7e,I am a little creeped out but...,ちょっと怖いけど……
+story.Prologue_Hallway.event_exit_2.text.faec884e3f6d7f2b98d09a898858624fd36dea7e,I am a little creeped out but…,ちょっと怖いけど……
 story.Prologue_Hallway.event_exit_2.text.96d1f366163acc15715db9bc2490426e15fb2e7d,I'm going to finish what I started.,始めたことは終わらせる。
 story.Prologue_Hallway.event_exit_2.choice.text.218340ff245ad56e76aa4b163d9f84ced20e3694,Give up and go home?,諦めて家に帰る？
 story.Prologue_Hallway.event_exit_2.choice.85f57b94b622e802439b4bd38d5b567ff7b92899,"Yes, let's go home",帰る
 story.Prologue_Hallway.event_exit_2.choice.b720077b964126f5b75ee3185d5deb031f494706,"No, let's stay",帰らない
-story.Prologue_Hallway.event_lockpick_closet_fail.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,...,……
+story.Prologue_Hallway.event_lockpick_closet_fail.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,……
 story.Prologue_Hallway.event_lockpick_closet_success.text.f79c8d11189f1dbf961110f8c8a9fab86c46107b,The door unlocked!,鍵が開いた！
-story.Prologue_Hallway.event_lockpick_theater_fail.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,...,……
+story.Prologue_Hallway.event_lockpick_theater_fail.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,……
 story.Prologue_Hallway.event_lockpick_theater_fail.text.dda80c8b79e331c1ed166f893a63d9cd5e8285f0,"Well, that didn't go as planned.",そう上手くはいかないものね。
-story.Prologue_Hallway.event_see_closet_door.text.a17c7690aeab045d071cab3c08f4d4c2f4344a99,This room is...,この部屋は……
+,,
+story.Prologue_Hallway.event_see_closet_door.text.a17c7690aeab045d071cab3c08f4d4c2f4344a99,This room is…,この部屋は……
 story.Prologue_Hallway.event_see_closet_door.text.72bdf46f82455dcaa2b3b971969984b90e60fc50,"What IS this room, anyways?",そもそもこの部屋、何？
 story.Prologue_Hallway.event_see_closet_door.text.8457cb82ae8c79e300c75bf5d15437dfc026b3b8,I don't think I've ever seen anybody use it.,この部屋が使われてるのは見たことない気がする。
 story.Prologue_Hallway.event_see_closet_door.text.6f04e8684c494f9f89e543aa4318cabb0b86fcb9,Me neither.,私もない。
 story.Prologue_Hallway.event_see_closet_door.text.553bdcb657e76b6dd77cc1d66e534436752993b2,"Say, why don't we check it out?",ねぇ、中を確かめてみない？
-story.Prologue_Hallway.event_see_closet_door.text.974d6215b516f92ee6b086303edd10edb1ac55d1,You want to break into this room...?,不法侵入するつもり……？
+story.Prologue_Hallway.event_see_closet_door.text.974d6215b516f92ee6b086303edd10edb1ac55d1,You want to break into this room…?,不法侵入するつもり……？
 story.Prologue_Hallway.event_see_closet_door.text.71a3b0540eaa26c2e68dbb0c4f05633ab0cfcec5,Why not? Can't be any worse than trying a silly ritual.,いいでしょ？　アホくさい儀式より絶対マシだわ。
-story.Prologue_Hallway.event_see_closet_door.text.48fe5a4bc773af7503bf2d1463dc58f7444af3ef,I hope it's safe...,危険じゃないといいけど……
+story.Prologue_Hallway.event_see_closet_door.text.48fe5a4bc773af7503bf2d1463dc58f7444af3ef,I hope it's safe…,危険じゃないといいけど……
 story.Prologue_Hallway.event_see_closet_door.text.7b88d60bf7db6da624f0635e62bfb8e343757f50,"We would need a way to open it, though.",でも、開ける方法が必要よ。
 story.Prologue_Hallway.event_see_closet_door.text.eada98214a0f210eab93a8b93b29246435326c23,We're counting on you.,頼りにしてるわ。
 story.Prologue_Hallway.event_see_closet_door.text.170b0e4e470ef1983704c1cfb289ab0efb8436ab,"You can do it, Kat.",キャットならできるよ。
 story.Prologue_Hallway.event_see_closet_door.text.d368cd6ca1776ce3f28d302d71f96cf5149fc69a,I never said-,私は別に――
 story.Prologue_Hallway.event_see_closet_door.text.30ff5db18c209a4fdc670036b587b020bcd7b8e5,"Geez, fine.",まぁ、いいわ。
+,,
 story.Prologue_Hallway.event_theater_door_unlock.text.f79c8d11189f1dbf961110f8c8a9fab86c46107b,The door unlocked!,鍵が開いた！
-story.Prologue_Hallway.item_hairpin_on_door_closet.text.30f6726025ad0e27cae6960152f74866e78dd122,I'm really curious as to what's behind this door...,このドアの向こうに何があるのかとても気になるけど……
+story.Prologue_Hallway.item_hairpin_on_door_closet.text.30f6726025ad0e27cae6960152f74866e78dd122,I'm really curious as to what's behind this door…,このドアの向こうに何があるのかとても気になるけど……
 story.Prologue_Hallway.item_hairpin_on_door_closet.text.b7fd5715a3202e03aee35ff7ba1e84695154d1ff,But I don't have time for this right now.,今はそんなことしてる時間はない。
 story.Prologue_Hallway.item_hairpin_on_door_closet.text.0e0faa8ef50d64f9e6c614e97cfde531cb0a8012,It's already open.,鍵はもう開いている。
 story.Prologue_Hallway.item_hairpin_on_door_closet.text.78ec0fc84c5e6461d575f11637281ea40c00a027,You can't do that anymore.,もうピッキングできない。
@@ -52,34 +57,51 @@ story.Prologue_Hallway.item_hairpin_on_door_theater.text.fd2cdaa9e6fd3f499b5f006
 story.Prologue_Hallway.item_key_on_door_closet.text.3715c0c9b7f1208bc096adccf9820f36c100d219,This key doesn't fit here.,この鍵はここには合わない。
 story.Prologue_Hallway.item_key_on_door_theater.text.0e0faa8ef50d64f9e6c614e97cfde531cb0a8012,It's already open.,既に開いている。
 story.Prologue_Hallway.item_scissors_on_doors.text.da6f295372f6aca924f08c4b293649adc584cf5c,That's not how locks work.,鍵はそれでは開かない。
+,,
 story.Prologue_Hallway.misc_paper1.text.4d9dc26f87315872341fe5d5cfc113cea8daf5fc,"It reads ""No running in the hallways.""",「廊下は走るな」と書いてある。
+,,
 story.Prologue_Hallway.misc_paper2.text.36ea812beecc1445d829ada7b360a448925cca87,A list of safety regulations.,安全のための規則のリスト。
+,,
 story.Prologue_Hallway.misc_paper3.text.0440f60039bd2cbb31d25fa91e343582939d39b4,The exams schedule.,試験日程表。
+,,
 story.Prologue_Hallway.misc_paper4.text.36ea812beecc1445d829ada7b360a448925cca87,A list of safety regulations.,安全のための規則のリスト。
+,,
 story.Prologue_Hallway.misc_pinboard.text.6a00b1dceb9edc4e46acc132a8206016f3f7a864,A pinboard with some important school papers.,いくつか重要な貼り紙がある掲示板。
+,,
 story.Prologue_Hallway.misc_plaque1.text.7311d93158d555119df085d98b49ac7906a2c793,"""Club Room""",「部室」
+,,
 story.Prologue_Hallway.misc_plaque2.text.f279e954b5d778913de297190b35483fc1e1369b,"""Classroom 3-A""",「3-A」
+,,
 story.Prologue_Hallway.misc_plaque3.text.339a9dfa993a9585fddb881b876cf320bafc897f,"""Classroom 3-B""",「3-B」
+,,
 story.Prologue_Hallway.misc_plaque4.text.9c276da22370178aae71f9722343278d88b506ff,"""Classroom 3-C""",「3-C」
+,,
 story.Prologue_Hallway.misc_plaque5.text.7311d93158d555119df085d98b49ac7906a2c793,"""Club Room""",「部室」
+,,
 story.Prologue_Hallway.misc_trashcan1.text.2ba5d0b4aa448ba9445bf8b57217119036c5e607,An unexciting trash can.,つまらないゴミ箱。
+,,
 story.Prologue_Hallway.misc_trashcan2.text.38210f804489bf93b819393f276962e093d8766d,A boring trash can.,退屈なゴミ箱。
+,,
 story.Prologue_Hallway.misc_window_crack.text.354acfcb191c156c2f9bd017ebd07cdb1a36fce1,The window is cracked.,窓にヒビが入っている。
-story.Prologue_Hallway.misc_window_crack.text.02f9acad2b7987a13e1f2adcb05910ad3b249b8b,That spooked me...,不気味ね……
-story.Prologue_Hallway.misc_window_crack.text.480b2a72cdf5f25e24d0e5387d7064bb61074777,This isn't good for my heart...,心臓に悪いわ……
+story.Prologue_Hallway.misc_window_crack.text.02f9acad2b7987a13e1f2adcb05910ad3b249b8b,That spooked me…,不気味ね……
+story.Prologue_Hallway.misc_window_crack.text.480b2a72cdf5f25e24d0e5387d7064bb61074777,This isn't good for my heart…,心臓に悪いわ……
 story.Prologue_Hallway.misc_window_hand.text.24ad6d77cdaea97f6b0d7030c7ecde5f9819fdf2,There's a handprint on the window.,窓に手形が付いている。
 story.Prologue_Hallway.misc_window_hand.text.ed49e1eb73d87d69d3f7578f5386fe55afbfdf73,Was this always here?,前からこんなものあったっけ？
 story.Prologue_Hallway.misc_windows_exterior.text.d95eee56e500c739aec7fa54839b93ce1ac3c553,The front yard of the school is visible from here.,ここからは校庭が見える。
 story.Prologue_Hallway.misc_windows_exterior.text.8ae3bfd3ff8f1a091fb860caf931488ca91b0461,Better stay clear of the windows or someone might see me.,窓から離れとかないと、誰かに見られちゃうかも。
+,,
 story.Prologue_Hallway.misc_windows_interior.text.7979d2b6150958fdb5076e4cddf75a5a8b35474e,The windows of the classroom.,教室の窓。
 story.Prologue_Hallway.misc_windows_interior.text.6d87e2f66a8dda674985f5a638f82ecff078192c,I can't see much through them.,中は見えない。
+,,
 story.Prologue_Hallway.move_closet.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,鍵がかかっている。
+,,
 story.Prologue_Hallway.move_closet.text.359590d95487bbd2ed7cd0beb12cb27f3ac49872,It won't open anymore.,もう開かない。
+,,
 story.Prologue_Hallway.move_club_theater.text.753f5ca3aced2535c3e131fe8ebcc421e9ee4cba,This is the Theater Club's room. It's locked.,演劇部室だ。鍵がかかっている。
 story.Prologue_Hallway.move_club_theater.text.4488124fc23f41e74910218471ebba611d64a006,I don't think I need anything from here.,ここには必要なものはないと思う。
 story.Prologue_Hallway.move_club_theater.text.06d037a63be7bfec6fb3f1cc485bdfec6c69bf4f,I may be able to find some curtains in there.,ここならカーテンがあるかもしれない。
 story.Prologue_Hallway.move_club_theater.text.0468ce0997d34f7492fb5c0cc162d746de31afea,I wonder if any of the girls is a member of this club.,あの子達の中に、演劇部員がいたりしないかな？
-story.Prologue_Hallway.move_club_theater.text.a0c84ad721136c63f2b0daeb15de41c80d602938,I'm not on great terms with them though...,でも、私はあの子達とあまり仲が良いとは言えない……
+story.Prologue_Hallway.move_club_theater.text.a0c84ad721136c63f2b0daeb15de41c80d602938,I'm not on great terms with them though…,でも、私はあの子達とあまり仲が良いとは言えない……
 story.Prologue_Hallway.move_club_theater.text.d6dba0421117222dd14b6773c9a34a4f36bd4907,But I have the key now.,でも今はもう鍵を持ってる。
-story.Prologue_Hallway.move_club_theater.text.94f34343173746ce312bdb04665ba7066d5e0a83,How am I going to open it now...?,じゃあどうやって開けよう……？
+story.Prologue_Hallway.move_club_theater.text.94f34343173746ce312bdb04665ba7066d5e0a83,How am I going to open it now…?,じゃあどうやって開けよう……？
 story.Prologue_Hallway.move_club_theater.text.c00daa512a824f9919ad5253b80dc2c6507ea3b4,Maybe I should deliver that notebook.,あのノートを届けるべきかも。

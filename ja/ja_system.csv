@@ -18,7 +18,7 @@ system.common.controller,Controller,コントローラ
 system.common.done,Done,完了
 system.common.key,Key,キー
 system.common.keyboard,Keyboard,キーボード
-system.common.loading,Loading...,ロード中……
+system.common.loading,Loading…,ロード中……
 system.common.next,Next,次
 system.common.no,No,No
 system.common.off,Off,オフ
@@ -139,8 +139,8 @@ system.settings.input,Control Settings,操作設定
 system.settings.input.autoswitch,Auto Switch,自動切換
 system.settings.input.deadzone,Controller Deadzone,コントローラ感度
 system.settings.input.error,Invalid custom controls: All actions need to be assigned!,無効なカスタム操作設定です: 割り当てていない操作があります！
-system.settings.input.pressbutton,Press a button to assign to {0}...,{0} に登録するボタンを押してください……
-system.settings.input.presskey,Press a key to assign to {0}...,{0} に登録するキーを押してください……
+system.settings.input.pressbutton,Press a button to assign to {0}…,{0} に登録するボタンを押してください……
+system.settings.input.presskey,Press a key to assign to {0}…,{0} に登録するキーを押してください……
 system.settings.input.profile,Profile,プロファイル
 system.settings.input.profile.azerty,Azerty Classic,AZERTY クラシック
 system.settings.input.profile.azerty-wasd,Azerty WASD,AZERTY WASD

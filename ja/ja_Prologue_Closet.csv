@@ -1,7 +1,7 @@
 ,en,ja
 story.Prologue_Closet.event_already_unlocked.text.968cf294d2af6de9dd83458665405ede889fc78c,It's already unlocked.,鍵は既に開いている。
 ,,
-story.Prologue_Closet.event_check_boxes2.text.3efa3bb2fb6e251672fb13b7a447a4ce98e8fc21,"The box contains various empty notebooks, textbooks and... chalk.",箱には様々な未使用のノートや教科書と……チョークが入っている。
+story.Prologue_Closet.event_check_boxes2.text.3efa3bb2fb6e251672fb13b7a447a4ce98e8fc21,"The box contains various empty notebooks, textbooks and… chalk.",箱には様々な未使用のノートや教科書と……チョークが入っている。
 ,,
 story.Prologue_Closet.event_check_boxes2.choice.text.5078eaf469aefaa38fdd3029a11241e3cf8168bd,Take chalk?,チョークを取る？
 story.Prologue_Closet.event_check_boxes2.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,取る
@@ -15,8 +15,8 @@ story.Prologue_Closet.event_read_letter.choice.text.669a9ddb15528f0c9e0a315083c8
 story.Prologue_Closet.event_read_letter.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,読む
 story.Prologue_Closet.event_read_letter.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,読まない
 ,,
-story.Prologue_Closet.event_read_letter.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,...,……
-story.Prologue_Closet.event_read_letter.text.56938ff59db914f5e4ccefed542767489539d562,It's a... lawsuit?,これは……訴訟の記録？
+story.Prologue_Closet.event_read_letter.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,……
+story.Prologue_Closet.event_read_letter.text.56938ff59db914f5e4ccefed542767489539d562,It's a… lawsuit?,これは……訴訟の記録？
 story.Prologue_Closet.event_read_letter.text.823c138b3b79933606208b109da4b9a6798e383d,What's that doing in a place like this?,何でそんなものがここに？
 story.Prologue_Closet.event_read_letter.text.ca9a843c89ef06a36ac666841f012279e9d7ef19,I heard about that from my dad.,パパから聞いたことある。
 story.Prologue_Closet.event_read_letter.text.ab74baedf2c652b245cb8fcab62af2b401308c24,Supposedly someone sued the school because of their daughter's disappearance.,自分の娘の失踪のことで、誰かが学校を訴えたらしいって。
@@ -41,7 +41,7 @@ story.Prologue_Closet.misc_boxes3.text.860edf7b4edf736d46135e4e511fd51dc40b51d6,
 story.Prologue_Closet.misc_boxes3.text.b966390fa890acb31ba0f2bdaadd3d4f530cc811,This is the lost and found box!,落とし物箱だわ！
 story.Prologue_Closet.misc_boxes3.text.e7da47b65ddbdbb71c9821469db4be65290b7dfe,Really?,本当？
 story.Prologue_Closet.misc_boxes3.text.21cc5ce1b853cc0513e4dead7d6267ce713d3410,"Look, I found my old shoe.",あ、失くした靴だ。
-story.Prologue_Closet.misc_boxes3.text.42e143afc5fb64e268be14fa705fa8c320b74c37,A shoe...?,靴……？
+story.Prologue_Closet.misc_boxes3.text.42e143afc5fb64e268be14fa705fa8c320b74c37,A shoe…?,靴……？
 story.Prologue_Closet.misc_boxes3.text.5660ff6c16f5a057eb31581a3b23ffdc1539a666,I lost it years ago.,何年も前に失くしたの。
 story.Prologue_Closet.misc_boxes3.text.eb5dc43c0b0f059f55fe8b1ef7a4a3013b0d5c43,How do you lose one shoe?,どうやったら片足だけ失くせるのよ？
 story.Prologue_Closet.misc_boxes3.text.e309d31ae28974994788c443081578e1a558ff1e,It just disappeared.,ある日突然消えたの。
@@ -53,7 +53,7 @@ story.Prologue_Closet.misc_boxes3.text.f195951c15fb7b73c0afdc3c6895ecbc28439cee,
 story.Prologue_Closet.misc_boxes3.text.639e7a4296eab8091138a6de5007a22114a79ce1,Figures. Lighters can be dangerous.,なるほどね。ライターは危険だもの。
 story.Prologue_Closet.misc_boxes3.text.1c9909cc851d243b6f8c7484e841a675f8a0550e,Only in the wrong hands.,危険なのは悪い人の手に渡った時だけよ。
 story.Prologue_Closet.misc_boxes3.text.b6b4b5c6564a00c6c4eff984b7374eb064b2d06c,And yours aren't?,あなたはそうじゃないわけ？
-story.Prologue_Closet.misc_boxes3.text.109af417c70c6787822e6511f80fe657cb247c20,You shouldn't bring lighters to school...,学校にライター持ってきちゃダメだよ……
+story.Prologue_Closet.misc_boxes3.text.109af417c70c6787822e6511f80fe657cb247c20,You shouldn't bring lighters to school…,学校にライター持ってきちゃダメだよ……
 story.Prologue_Closet.misc_boxes3.text.fa49cb307a80bc610227416132f07cab1aeb96d4,There's nothing else of interest.,他に興味を惹くものはない。
 ,,
 story.Prologue_Closet.misc_brooms.text.651a6cab00674da299f9e57773d9e6cddb9f599b,Some used brooms.,使い込まれたほうきが数本。
@@ -67,7 +67,7 @@ story.Prologue_Closet.misc_lamp.text.77cc674f44282a5300120d2c9266d7ea924ece6a,A 
 ,,
 story.Prologue_Closet.misc_lightswitch.text.d4fde55136057780b55819795301858743c7d71d,Well that's ominous.,不吉ね。
 story.Prologue_Closet.misc_lightswitch.text.732ef3ea772e50841efef6e0b29d01eabac1e946,A little darkness won't hurt anybody.,ちょっと暗いだけなら無害よ。
-story.Prologue_Closet.misc_lightswitch.text.6f9706a989fe2345867a3c04dc3bef57b1188761,...Probably.,……たぶん。
+story.Prologue_Closet.misc_lightswitch.text.6f9706a989fe2345867a3c04dc3bef57b1188761,…Probably.,……たぶん。
 story.Prologue_Closet.misc_lightswitch.text.7038087d2f51b63829e0270442953afff5443363,It doesn't work.,点かない。
 ,,
 story.Prologue_Closet.misc_locker.text.8fe3958cb64392de5f0f4c9951b5cf43f407a099,A large locker that could probably fit a person.,人が入れそうなほどの大きなロッカー。
@@ -88,7 +88,7 @@ story.Prologue_Closet.misc_trashcan.text.d2b94da5701642c0b5cf0676bce97b7c8cec9c3
 story.Prologue_Closet.misc_trashcan.text.184dfca13dc0b12d30ed7fbfda7cc32e81fbabda,Why would there be a trash can in a supply closet?,何で物置にゴミ箱があるわけ？
 story.Prologue_Closet.misc_trashcan.text.bf5882813d68413813016b7f53f29a6f564e0c6d,Maybe it's a spare?,予備とか？
 ,,
-story.Prologue_Closet.move_enter.text.e546160a6cd64122e58764a489cab01a441d3e0e,It's... so dark.,く……暗いわね。
+story.Prologue_Closet.move_enter.text.e546160a6cd64122e58764a489cab01a441d3e0e,It's… so dark.,く……暗いわね。
 story.Prologue_Closet.move_enter.text.ebad42b53c04c2d474b06c1c4add28d789039319,"Come on Ponytail, don't chicken out on me now.",あらあらポニテちゃん、今さら怖気づかないでよ。
 story.Prologue_Closet.move_enter.text.d0287ec14444f3128404d3b9d8f94cda379f46a2,Don't call me that.,その呼び方やめて。
 story.Prologue_Closet.move_enter.text.25d7bc6cd444e8999ed6c39741142b6e5fae42ba,"You have a ponytail, don't you?",でもあなた、ポニーテールでしょ？

@@ -4,7 +4,7 @@ story.Prologue_Club_Theater.event_blanket_with_girls.text.241dfaafc6b632a8901b1f
 story.Prologue_Club_Theater.event_broke_light.text.3f3c5a118bcade28eb397c1e7115f8ba179c5864,"I can't believe this, are you five years old?",信じられない、あんた5歳児？
 story.Prologue_Club_Theater.event_broke_light.text.bc05611b43ebffdfc385c18af6a20de36fe60aa7,Isn't it interesting how electronics work?,電気の働きって興味深くない？
 story.Prologue_Club_Theater.event_broke_light.text.bfbce03699719848712cd75a4081e6f8c9f5a778,But they DON'T work! Not anymore!,でも働かなくなっちゃったじゃない！　今はもう！
-story.Prologue_Club_Theater.event_broke_light.text.27362b962f0875d9c84f6d2beefbd9c957025b01,I think you're wasting your breath...,構うだけ無駄だと思うわよ……
+story.Prologue_Club_Theater.event_broke_light.text.27362b962f0875d9c84f6d2beefbd9c957025b01,I think you're wasting your breath…,構うだけ無駄だと思うわよ……
 story.Prologue_Club_Theater.event_read_letter.text.6ccf1296ed0e7a858165286bc98f1b231adac870,"""Roses are red
 Violets are probably violet""","「バラは赤く
 スミレはたぶんスミレ色で」"
@@ -17,11 +17,11 @@ I watch you every night""","「毎日あなたを見てる
 story.Prologue_Club_Theater.event_read_letter.text.2f3fe79fdc9aca07ad09452e309732f4fede50be,"""I watch you""",「あなたを見てる」
 story.Prologue_Club_Theater.event_read_letter.text.b5089f6c6b5dcb9f150eb269a4fee0d8ca307c54,"""I watch you I watch you I watch you I watch you I watch you I watch you""",「あなたを見てるあなたを見てるあなたを見てるあなたを見てるあなたを見てるあなたを見てる」
 story.Prologue_Club_Theater.event_read_letter.text.db8bccc674b8ba58f7b1263c75915818ef580d82,The other side of the paper is filled with black scribbles.,裏側は乱雑に黒く塗りつぶされている。
-story.Prologue_Club_Theater.event_read_letter.text.4160ac98f592ba346c39c5484f5404d31815bd37,That... doesn't sound right.,変な……手紙ね。
-story.Prologue_Club_Theater.event_read_letter.text.3ccdbf5756bedf81c5c41e428dc7b9556b188af6,Is... everyone in your club okay?,あなたの部の人……大丈夫？
-story.Prologue_Club_Theater.event_read_letter.text.01b9a27028be72a12a29d887050352893057170b,"Right now, I'm not sure...",今は、自信が持てないわ……
+story.Prologue_Club_Theater.event_read_letter.text.4160ac98f592ba346c39c5484f5404d31815bd37,That… doesn't sound right.,変な……手紙ね。
+story.Prologue_Club_Theater.event_read_letter.text.3ccdbf5756bedf81c5c41e428dc7b9556b188af6,Is… everyone in your club okay?,あなたの部の人……大丈夫？
+story.Prologue_Club_Theater.event_read_letter.text.01b9a27028be72a12a29d887050352893057170b,"Right now, I'm not sure…",今は、自信が持てないわ……
 story.Prologue_Club_Theater.item_chalk_on_chalkboard.text.0f8138ea884aa9649263a2462276077d77d33839,I'd rather people didn't find out I was here.,私がここにいた証拠は残さないほうがいい。
-story.Prologue_Club_Theater.item_chalk_on_chalkboard.text.917a80a8b7976769ba308612a7c9127b2fd85f98,Please don't mess up this room...,頼むからこの部屋を荒らさないで……
+story.Prologue_Club_Theater.item_chalk_on_chalkboard.text.917a80a8b7976769ba308612a7c9127b2fd85f98,Please don't mess up this room…,頼むからこの部屋を荒らさないで……
 story.Prologue_Club_Theater.item_curtains_get.text.e927aaa5c5f651011602e386f3b08ba7db19c984,A pile of neatly folded drapes.,きれいにたたまれたカーテンが積まれている。
 story.Prologue_Club_Theater.item_curtains_get.choice.text.36870c0bf0576b146e0ca71df1c2b59120376826,Take them?,持っていく？
 story.Prologue_Club_Theater.item_curtains_get.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,持っていく
@@ -31,10 +31,10 @@ story.Prologue_Club_Theater.item_curtains_get.text.690c2982c67ec91e21b03e3390b30
 story.Prologue_Club_Theater.item_lighter_on_box.text.ae78d23e418b00ffd21cf4c6c0ae859d10e4e2f8,Those poor boxes probably don't deserve it.,この箱は燃やすには忍びない。
 story.Prologue_Club_Theater.item_lighter_on_curtain.text.4f991da92f6952d95a516d344927d59a4e7bee2e,I think I'll pass on burning the school down today.,今日は学校を焼失させるのはやめておきたい。
 story.Prologue_Club_Theater.item_lighter_on_curtain.text.583ed21a9497f79dfda0c41f07d5d9f1339fa489,"Wow, thank you for your generosity.",あら、ご厚意感謝するわ。
-story.Prologue_Club_Theater.item_lighter_on_rack_clothes.text.cfce5bfc933dd14896bab9502b18275d5058761f,Oh how I wish...,ああ、そうできれば……
-story.Prologue_Club_Theater.item_lighter_on_rack_clothes.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,...,……
-story.Prologue_Club_Theater.item_scissors_on_boxes_bottom.text.5127ee45f5d64a6fbfe3f27c37d8beea71cf8b3f,"Alright, let's see...",さて、どれどれ……
-story.Prologue_Club_Theater.item_scissors_on_boxes_bottom.text.ac239fd3041f4009bca0d9c848b8e6b227d01dab,There's a ton of useless objects in the boxes and..... a letter.,大量の役に立たないものと……手紙。
+story.Prologue_Club_Theater.item_lighter_on_rack_clothes.text.cfce5bfc933dd14896bab9502b18275d5058761f,Oh how I wish…,ああ、そうできれば……
+story.Prologue_Club_Theater.item_lighter_on_rack_clothes.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,……
+story.Prologue_Club_Theater.item_scissors_on_boxes_bottom.text.5127ee45f5d64a6fbfe3f27c37d8beea71cf8b3f,"Alright, let's see…",さて、どれどれ……
+story.Prologue_Club_Theater.item_scissors_on_boxes_bottom.text.ac239fd3041f4009bca0d9c848b8e6b227d01dab,There's a ton of useless objects in the boxes and….. a letter.,大量の役に立たないものと……手紙。
 story.Prologue_Club_Theater.item_scissors_on_boxes_bottom.choice.text.989d19b55177493e3f88ef9d9231013197c6ecd7,Read it?,読む？
 story.Prologue_Club_Theater.item_scissors_on_boxes_bottom.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,読む
 story.Prologue_Club_Theater.item_scissors_on_boxes_bottom.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,読まない
@@ -55,12 +55,12 @@ story.Prologue_Club_Theater.misc_chalkboard.text.efd1e7a56ab689e770f9b0cfbc9185d
 story.Prologue_Club_Theater.misc_chalkboard.text.da4f57539e464e7abbbaac53c8f00ac13f0c0236,A chalkboard. There are stars drawn on it.,黒板。星が描いてある。
 story.Prologue_Club_Theater.misc_chalkboard.text.cd74b8208a8586773228bef978f3cf72d07ae731,Did you draw this?,あなたが描いたの？
 story.Prologue_Club_Theater.misc_chalkboard.text.21b19c9e143790e788896e29f3261d3dc0f89c8d,Do I look like the only member of this club?,演劇部の部員が私だけだと思う？
-story.Prologue_Club_Theater.misc_chalkboard.text.6957adfa2f1a0283214dd319309f179fec3aa41d,So... did you draw this?,で……あなたが描いたの？
-story.Prologue_Club_Theater.misc_chalkboard.text.4fc4d2f5bdc5ee1e0e461fdd9af31204cb74d9bf,...Maybe I did.,……かもね。
+story.Prologue_Club_Theater.misc_chalkboard.text.6957adfa2f1a0283214dd319309f179fec3aa41d,So… did you draw this?,で……あなたが描いたの？
+story.Prologue_Club_Theater.misc_chalkboard.text.4fc4d2f5bdc5ee1e0e461fdd9af31204cb74d9bf,…Maybe I did.,……かもね。
 story.Prologue_Club_Theater.misc_chalkboard.text.47f131607710dd1a6a77acf70086d5e28cc3a091,"A chalkboard. The word ""THIEF"" is written on it.",黒板。「THIEF(泥棒)」と書いてある。
-story.Prologue_Club_Theater.misc_chalkboard.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,...,……
-story.Prologue_Club_Theater.misc_chalkboard.text.56a9b34dbefaed4524137f5754f81ee30a98aef9,A chalkboard. There's... something drawn on it.,黒板。何と言うか……何かが描いてある。
-story.Prologue_Club_Theater.misc_chalkboard.text.46e43c4b711d7e99962a30e1a9a1ad68ea9ccf51,Where did they find red chalk...?,赤のチョークなんてどこにあったんだろ……？
+story.Prologue_Club_Theater.misc_chalkboard.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,……
+story.Prologue_Club_Theater.misc_chalkboard.text.56a9b34dbefaed4524137f5754f81ee30a98aef9,A chalkboard. There's… something drawn on it.,黒板。何と言うか……何かが描いてある。
+story.Prologue_Club_Theater.misc_chalkboard.text.46e43c4b711d7e99962a30e1a9a1ad68ea9ccf51,Where did they find red chalk…?,赤のチョークなんてどこにあったんだろ……？
 story.Prologue_Club_Theater.misc_curtain_left.text.20afdf017229aa6ca3b6a8440095073b3ba5247e,A soft red curtain.,柔らかい赤のカーテン。
 story.Prologue_Club_Theater.misc_curtain_left.choice.text.d13ef70cd78ecb9ba032b8a548aafe1d24ccc308,Draw curtain?,カーテンを引く？
 story.Prologue_Club_Theater.misc_curtain_left.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,はい
@@ -76,7 +76,7 @@ story.Prologue_Club_Theater.misc_light_switch.text.03e21049391c155d4c0a62dead0eb
 story.Prologue_Club_Theater.misc_light_switch.text.63f85997a2c16bddedb856bf36d64924274dcb81,It's not working anymore.,もう点かない。
 story.Prologue_Club_Theater.misc_rack_clothes.text.7be4744f300ce4576c18d20d720add8ace3bb679,Several hand made costumes are hanging from the rack.,手作りの衣装がいくつかハンガーにかかっている。
 story.Prologue_Club_Theater.misc_rack_clothes.text.34dc5c46b0dbe7f66d37fcadf0b7edf3eb64e3b9,"Blegh, they have poor taste in clothes.",うぇー、服のセンスはお粗末ね。
-story.Prologue_Club_Theater.misc_rack_clothes.text.dcb3b825ca9bde777dbf253e73cd4ded127755ad,"You DO know these are for acting, right...?",これは演劇用よ、わかってるでしょ……？
+story.Prologue_Club_Theater.misc_rack_clothes.text.dcb3b825ca9bde777dbf253e73cd4ded127755ad,"You DO know these are for acting, right…?",これは演劇用よ、わかってるでしょ……？
 story.Prologue_Club_Theater.misc_rack_hats.text.438986c1a54778b49c4bcd93d2bf979d034a39c2,A rack with various hats and scarves.,さまざまな帽子やスカーフがかかったラック。
 story.Prologue_Club_Theater.misc_table.text.bcb31be9dfe6af0962439b25adead3ff05c7d73b,A table with a blank sheet of poster paper and some colored pencils.,まっさらなポスター用紙と色鉛筆が置かれた机。
 story.Prologue_Club_Theater.misc_table.text.b41d4fbd59f3a95b03a98e76208a90cef215c98b,Is this what you do here?,これが普段の活動？

@@ -36,7 +36,7 @@ system.credits.sfx,SFX,Tiếng hiệu ứng
 system.credits.story,Designed By,Thiết kế
 system.credits.thanksforplaying,Thank You for Playing!,Cảm ơn bạn đã chơi!
 system.credits.ui,UI Design,Thiết kế UI
-system.endings.k1,True End K1 - Curiosity Killed the Kat,Kết Đúng K1 – Tò Mò Hại Chết Con Mèo
+system.endings.k1,True End K1 - Curiosity Killed the Kat,Kết Đúng K1 – Tò Mò Hại Chết Con Meo
 system.locations.prologue.event.ending,Paper Lily: Chapter 1,Paper Lily: Chương 1
 system.locations.prologue.event.nightmare,Prologue: Into the Door,Phần tựa: Vào Cửa
 system.locations.prologue.hod,Prologue: Hallway of Doors,Phần tựa: Hành lang Cửa
@@ -67,7 +67,7 @@ system.menu.save,Save,Lưu
 system.menu.save.corrupted,CORRUPTED,BỊ HỎNG
 system.menu.save.game,Save Game,Lưu phần chơi
 system.menu.save.location.unknown,Unknown Location,Địa điểm Không rõ
-system.menu.save.overwrite.areyousure,Are you sure you want to overwrite this save file?,Bạn chắc là muốn ghi đè file lưu này chứ?
+system.menu.save.overwrite.areyousure,Are you sure you want to overwrite this save file?,Bạn có chắc là muốn ghi đè file lưu này chứ?
 system.menu.save.slot,SLOT {0},SLOT {0}
 system.menu.save.slot.empty,<EMPTY>,<TRỐNG>
 system.menu.settings,Settings,Thiết lập

@@ -1,53 +1,53 @@
-,en
-story.Prologue_Classroom_3.event_boxpuzzle_fail.text.57f9f313ef9b933534f125ca2240fca642f775cc,"On second thought, I don't feel like it."
-story.Prologue_Classroom_3.event_boxpuzzle_success.text.ad8b5428ef886ff5b431a2e97eef79ef8fffb226,Phew!
-story.Prologue_Classroom_3.event_saki_desk.text.0d661add80126c7a3f9f8c72113e68227aba3614,"This is my desk. Juli sits in front of me, and Kaya sits behind."
-story.Prologue_Classroom_3.event_saki_desk.text.fd141e42cc289e104322660970b444bacc80870f,I see…
-story.Prologue_Classroom_3.event_saki_desk.text.3868b1980eefb18f01f9f111cab289a3af14c584,Thanks for letting me know…?
-story.Prologue_Classroom_3.event_saki_desk.text.918d904c3f954c2dc44debd8abc0a2d11e120e73,Saki's desk.
-story.Prologue_Classroom_3.item_candles_on_desks.text.87d3eaef68887c05be7b24ccd160e1b33ab3106e,This isn't the right classroom for that.
-story.Prologue_Classroom_3.item_chalk.text.004ccd56b002de2e15a0e5e583d482e9b2363b6e,The path is already drawn.
-story.Prologue_Classroom_3.item_chalk.text.948d8b2c36e66fc40d736faa8415a54c32e2e197,Not yet. I'd rather make sure I have everything I need first.
-story.Prologue_Classroom_3.item_chalk.text.ccb1964d634b8a6efbb6a1762c66e590109e0ed9,Not yet. I want to finish preparing the classrooms first.
-story.Prologue_Classroom_3.item_chalk_on_chalkboard.text.f65fd7db1d4855f7802d390a5a1ae1656c3ad1bb,I'd rather not get into anymore trouble than I already am.
-story.Prologue_Classroom_3.item_curtains_on_window.text.fb2d41d9de9ffb9d4f4d9b210f62b288a52a7d3b,This window already has curtains.
-story.Prologue_Classroom_3.item_lighter.text.3adfe6b1f1e9026c0734b1e39793ba66e53343ed,Burning the school down is not part of the ritual.
-story.Prologue_Classroom_3.item_lighter_on_desks.text.3adfe6b1f1e9026c0734b1e39793ba66e53343ed,Burning the school down is not part of the ritual.
-story.Prologue_Classroom_3.item_lighter_on_window1.text.4f991da92f6952d95a516d344927d59a4e7bee2e,I think I'll pass on burning the school down today.
-story.Prologue_Classroom_3.item_lighter_on_window2.text.4f991da92f6952d95a516d344927d59a4e7bee2e,I think I'll pass on burning the school down today.
-story.Prologue_Classroom_3.item_lighter_on_window3.text.4f991da92f6952d95a516d344927d59a4e7bee2e,I think I'll pass on burning the school down today.
-story.Prologue_Classroom_3.item_notebook.text.c831ec5f71bf0834fb5275b138308d4652967897,There's a red notebook here.
-story.Prologue_Classroom_3.item_notebook.text.06646aeae86caf3ed63228dcab5bd3f02f02c145,There's nothing else here.
-story.Prologue_Classroom_3.item_scissors_on_plant.text.32c9aa0ef29cbdc3d781c065a4a0f57fba68afcd,It's already done.
-story.Prologue_Classroom_3.item_scissors_on_plant.text.e3c35488f648b0db0375773a5a07c86be37d04e0,This isn't the time for that.
-story.Prologue_Classroom_3.misc_books.text.a69f16b3e1b41228da2b583f8b133947006c0658,Some world encyclopedias.
-story.Prologue_Classroom_3.misc_books.text.122c53a85b3a3d2d63a44c7586aed2871c388ca2,I would definitely steal one of these if they weren't so darn heavy.
-story.Prologue_Classroom_3.misc_books.text.67366504024c50438a61f97e7e4853fc1d3894ca,You can borrow my books if you need…
-story.Prologue_Classroom_3.misc_books.text.50578934420c3b27390c65b91950a7a9516bac63,I'll keep that in mind.
-story.Prologue_Classroom_3.misc_chalkboard.text.996c7ffde7f4de6e04435eeeafaf0751c8d69a1c,A clean chalkboard.
-story.Prologue_Classroom_3.misc_desk.text.9eb16580a197d2cf1a69fc82764f982b5be5d5e7,A wooden desk.
-story.Prologue_Classroom_3.misc_paper.text.961984b22eb28e1b3c80db89f933dee6e2613d98,Two paper slips filled with rules and regulations.
-story.Prologue_Classroom_3.misc_paper.text.eb7268e8dd3b94d272e0dd845c47e857a6a15746,I wonder if it says somewhere that we're not allowed on school grounds at night.
-story.Prologue_Classroom_3.misc_paper.text.59e91aadf34fbc9d6ce5b6c834fe07dfaefe7f09,Oh well! I guess we'll never know if I don't read it!
-story.Prologue_Classroom_3.misc_pinboard.text.33e38a6ca97d020cf943319b0b6050a281afb2ca,Some classroom attendance sheets and schedules.
-story.Prologue_Classroom_3.misc_plant.text.7219399b824ee80374fd4252111163dbe7afa70c,A happy green plant.
-story.Prologue_Classroom_3.misc_plant.text.125dd56afe0d4478e1a7f34c9ec48fc2a7e4bd6c,The plant is no longer happy.
-story.Prologue_Classroom_3.misc_plants.text.4d70a9992533b62d0dffed12e8fef918aa146331,Some cute potted plants. Their silent nature enchants you.
-story.Prologue_Classroom_3.misc_podium.text.760df8526ebfc0a8d9b9154494a4cd9c6baf7726,The teacher's podium.
-story.Prologue_Classroom_3.misc_podium.text.6ce15ca27f5ca48d71b4a016f33833bcd78fb44f,A geography book and a globe sit atop it.
-story.Prologue_Classroom_3.misc_shelf.text.bd28c802e52a8bcdea8b40a5aeb08aab922efd18,Some boring textbooks.
-story.Prologue_Classroom_3.misc_shelf2a.text.bdec03e7317af0a79fa94cc26f0693db67eac16f,"Some very thick, school-related books."
-story.Prologue_Classroom_3.misc_shelf2b.text.5976341a7cf838c5d3c59c8187b2f487abe54dc7,Some books and… chalk.
-story.Prologue_Classroom_3.misc_shelf2b.choice.text.e8d32d47491e2462d1e83b81526638ac486785c4,Take it?
-story.Prologue_Classroom_3.misc_shelf2b.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes
-story.Prologue_Classroom_3.misc_shelf2b.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No
-story.Prologue_Classroom_3.misc_shelf2b.text.9dd1b82a5e4f409f34a6c727d6cf043f271ad8f9,There's nothing else of use.
-story.Prologue_Classroom_3.misc_trashcan.text.c151769c9b7c94a0bc56d85aa96edce07f38d4be,A trash can.
-story.Prologue_Classroom_3.misc_trashcan.text.88eca18b664c00fc02ee6ab7f6f8418405a98ea1,"As it's usually the case with trash cans, it's devoid of useful items."
-story.Prologue_Classroom_3.misc_window1.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.
-story.Prologue_Classroom_3.misc_window2.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.
-story.Prologue_Classroom_3.misc_window3.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.
-story.Prologue_Classroom_3.move_enter.choice.text.de94a1b5f3e96666575b288236ae55f16301c4ff,Should I sort the desks in this classroom now?
-story.Prologue_Classroom_3.move_enter.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes
-story.Prologue_Classroom_3.move_enter.choice.8de95fd5b4121e2d7c337a70f664f13c28c3c275,Not yet
-story.Prologue_Classroom_3.move_enter.text.7c6267ee4264c3380f5ba82b281c8302568043f0,Let's do this.
+,en,vi
+story.Prologue_Classroom_3.event_boxpuzzle_fail.text.57f9f313ef9b933534f125ca2240fca642f775cc,"On second thought, I don't feel like it.","On second thought, I don't feel like it."
+story.Prologue_Classroom_3.event_boxpuzzle_success.text.ad8b5428ef886ff5b431a2e97eef79ef8fffb226,Phew!,Phew!
+story.Prologue_Classroom_3.event_saki_desk.text.0d661add80126c7a3f9f8c72113e68227aba3614,"This is my desk. Juli sits in front of me, and Kaya sits behind.","This is my desk. Juli sits in front of me, and Kaya sits behind."
+story.Prologue_Classroom_3.event_saki_desk.text.fd141e42cc289e104322660970b444bacc80870f,I see…,I see…
+story.Prologue_Classroom_3.event_saki_desk.text.3868b1980eefb18f01f9f111cab289a3af14c584,Thanks for letting me know…?,Thanks for letting me know…?
+story.Prologue_Classroom_3.event_saki_desk.text.918d904c3f954c2dc44debd8abc0a2d11e120e73,Saki's desk.,Saki's desk.
+story.Prologue_Classroom_3.item_candles_on_desks.text.87d3eaef68887c05be7b24ccd160e1b33ab3106e,This isn't the right classroom for that.,This isn't the right classroom for that.
+story.Prologue_Classroom_3.item_chalk.text.004ccd56b002de2e15a0e5e583d482e9b2363b6e,The path is already drawn.,The path is already drawn.
+story.Prologue_Classroom_3.item_chalk.text.948d8b2c36e66fc40d736faa8415a54c32e2e197,Not yet. I'd rather make sure I have everything I need first.,Not yet. I'd rather make sure I have everything I need first.
+story.Prologue_Classroom_3.item_chalk.text.ccb1964d634b8a6efbb6a1762c66e590109e0ed9,Not yet. I want to finish preparing the classrooms first.,Not yet. I want to finish preparing the classrooms first.
+story.Prologue_Classroom_3.item_chalk_on_chalkboard.text.f65fd7db1d4855f7802d390a5a1ae1656c3ad1bb,I'd rather not get into anymore trouble than I already am.,I'd rather not get into anymore trouble than I already am.
+story.Prologue_Classroom_3.item_curtains_on_window.text.fb2d41d9de9ffb9d4f4d9b210f62b288a52a7d3b,This window already has curtains.,This window already has curtains.
+story.Prologue_Classroom_3.item_lighter.text.3adfe6b1f1e9026c0734b1e39793ba66e53343ed,Burning the school down is not part of the ritual.,Burning the school down is not part of the ritual.
+story.Prologue_Classroom_3.item_lighter_on_desks.text.3adfe6b1f1e9026c0734b1e39793ba66e53343ed,Burning the school down is not part of the ritual.,Burning the school down is not part of the ritual.
+story.Prologue_Classroom_3.item_lighter_on_window1.text.4f991da92f6952d95a516d344927d59a4e7bee2e,I think I'll pass on burning the school down today.,I think I'll pass on burning the school down today.
+story.Prologue_Classroom_3.item_lighter_on_window2.text.4f991da92f6952d95a516d344927d59a4e7bee2e,I think I'll pass on burning the school down today.,I think I'll pass on burning the school down today.
+story.Prologue_Classroom_3.item_lighter_on_window3.text.4f991da92f6952d95a516d344927d59a4e7bee2e,I think I'll pass on burning the school down today.,I think I'll pass on burning the school down today.
+story.Prologue_Classroom_3.item_notebook.text.c831ec5f71bf0834fb5275b138308d4652967897,There's a red notebook here.,There's a red notebook here.
+story.Prologue_Classroom_3.item_notebook.text.06646aeae86caf3ed63228dcab5bd3f02f02c145,There's nothing else here.,There's nothing else here.
+story.Prologue_Classroom_3.item_scissors_on_plant.text.32c9aa0ef29cbdc3d781c065a4a0f57fba68afcd,It's already done.,It's already done.
+story.Prologue_Classroom_3.item_scissors_on_plant.text.e3c35488f648b0db0375773a5a07c86be37d04e0,This isn't the time for that.,This isn't the time for that.
+story.Prologue_Classroom_3.misc_books.text.a69f16b3e1b41228da2b583f8b133947006c0658,Some world encyclopedias.,Some world encyclopedias.
+story.Prologue_Classroom_3.misc_books.text.122c53a85b3a3d2d63a44c7586aed2871c388ca2,I would definitely steal one of these if they weren't so darn heavy.,I would definitely steal one of these if they weren't so darn heavy.
+story.Prologue_Classroom_3.misc_books.text.67366504024c50438a61f97e7e4853fc1d3894ca,You can borrow my books if you need…,You can borrow my books if you need…
+story.Prologue_Classroom_3.misc_books.text.50578934420c3b27390c65b91950a7a9516bac63,I'll keep that in mind.,I'll keep that in mind.
+story.Prologue_Classroom_3.misc_chalkboard.text.996c7ffde7f4de6e04435eeeafaf0751c8d69a1c,A clean chalkboard.,A clean chalkboard.
+story.Prologue_Classroom_3.misc_desk.text.9eb16580a197d2cf1a69fc82764f982b5be5d5e7,A wooden desk.,A wooden desk.
+story.Prologue_Classroom_3.misc_paper.text.961984b22eb28e1b3c80db89f933dee6e2613d98,Two paper slips filled with rules and regulations.,Two paper slips filled with rules and regulations.
+story.Prologue_Classroom_3.misc_paper.text.eb7268e8dd3b94d272e0dd845c47e857a6a15746,I wonder if it says somewhere that we're not allowed on school grounds at night.,I wonder if it says somewhere that we're not allowed on school grounds at night.
+story.Prologue_Classroom_3.misc_paper.text.59e91aadf34fbc9d6ce5b6c834fe07dfaefe7f09,Oh well! I guess we'll never know if I don't read it!,Oh well! I guess we'll never know if I don't read it!
+story.Prologue_Classroom_3.misc_pinboard.text.33e38a6ca97d020cf943319b0b6050a281afb2ca,Some classroom attendance sheets and schedules.,Some classroom attendance sheets and schedules.
+story.Prologue_Classroom_3.misc_plant.text.7219399b824ee80374fd4252111163dbe7afa70c,A happy green plant.,A happy green plant.
+story.Prologue_Classroom_3.misc_plant.text.125dd56afe0d4478e1a7f34c9ec48fc2a7e4bd6c,The plant is no longer happy.,The plant is no longer happy.
+story.Prologue_Classroom_3.misc_plants.text.4d70a9992533b62d0dffed12e8fef918aa146331,Some cute potted plants. Their silent nature enchants you.,Some cute potted plants. Their silent nature enchants you.
+story.Prologue_Classroom_3.misc_podium.text.760df8526ebfc0a8d9b9154494a4cd9c6baf7726,The teacher's podium.,The teacher's podium.
+story.Prologue_Classroom_3.misc_podium.text.6ce15ca27f5ca48d71b4a016f33833bcd78fb44f,A geography book and a globe sit atop it.,A geography book and a globe sit atop it.
+story.Prologue_Classroom_3.misc_shelf.text.bd28c802e52a8bcdea8b40a5aeb08aab922efd18,Some boring textbooks.,Some boring textbooks.
+story.Prologue_Classroom_3.misc_shelf2a.text.bdec03e7317af0a79fa94cc26f0693db67eac16f,"Some very thick, school-related books.","Some very thick, school-related books."
+story.Prologue_Classroom_3.misc_shelf2b.text.5976341a7cf838c5d3c59c8187b2f487abe54dc7,Some books and… chalk.,Some books and… chalk.
+story.Prologue_Classroom_3.misc_shelf2b.choice.text.e8d32d47491e2462d1e83b81526638ac486785c4,Take it?,Take it?
+story.Prologue_Classroom_3.misc_shelf2b.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Yes
+story.Prologue_Classroom_3.misc_shelf2b.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,No
+story.Prologue_Classroom_3.misc_shelf2b.text.9dd1b82a5e4f409f34a6c727d6cf043f271ad8f9,There's nothing else of use.,There's nothing else of use.
+story.Prologue_Classroom_3.misc_trashcan.text.c151769c9b7c94a0bc56d85aa96edce07f38d4be,A trash can.,A trash can.
+story.Prologue_Classroom_3.misc_trashcan.text.88eca18b664c00fc02ee6ab7f6f8418405a98ea1,"As it's usually the case with trash cans, it's devoid of useful items.","As it's usually the case with trash cans, it's devoid of useful items."
+story.Prologue_Classroom_3.misc_window1.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.,The curtains should stay closed.
+story.Prologue_Classroom_3.misc_window2.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.,The curtains should stay closed.
+story.Prologue_Classroom_3.misc_window3.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.,The curtains should stay closed.
+story.Prologue_Classroom_3.move_enter.choice.text.de94a1b5f3e96666575b288236ae55f16301c4ff,Should I sort the desks in this classroom now?,Should I sort the desks in this classroom now?
+story.Prologue_Classroom_3.move_enter.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Yes
+story.Prologue_Classroom_3.move_enter.choice.8de95fd5b4121e2d7c337a70f664f13c28c3c275,Not yet,Not yet
+story.Prologue_Classroom_3.move_enter.text.7c6267ee4264c3380f5ba82b281c8302568043f0,Let's do this.,Let's do this.
