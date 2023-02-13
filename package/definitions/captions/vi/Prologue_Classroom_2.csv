@@ -25,9 +25,9 @@ story.Prologue_Classroom_2.item_chalk_get.choice.816c52fd2bdd94a63cd0944823a6c0a
 ,,
 story.Prologue_Classroom_2.item_chalk_on_chalkboard.text.f65fd7db1d4855f7802d390a5a1ae1656c3ad1bb,I'd rather not get into anymore trouble than I already am.,Mình chẳng muốn gây thêm rắc rối hơn cái mình đang làm đâu.
 ,,
-story.Prologue_Classroom_2.item_curtains_on_window.text.b3dffab64fcd711576e3b12c31a490e5ea295f65,This should do the trick.,This should do the trick.
-story.Prologue_Classroom_2.item_curtains_on_window.text.7a97934e13227abf359e89050b89431cb3a692c1,Perfect!,Perfect!
-story.Prologue_Classroom_2.item_curtains_on_window.text.76c29a93fe94eeb00efa716fd7ef16db3b05efa0,Totally. Nobody will even notice.,Totally. Nobody will even notice.
+story.Prologue_Classroom_2.item_curtains_on_window.text.b3dffab64fcd711576e3b12c31a490e5ea295f65,This should do the trick.,Thế này hẳn là được.
+story.Prologue_Classroom_2.item_curtains_on_window.text.7a97934e13227abf359e89050b89431cb3a692c1,Perfect!,Hoàn hảo!
+story.Prologue_Classroom_2.item_curtains_on_window.text.76c29a93fe94eeb00efa716fd7ef16db3b05efa0,Totally. Nobody will even notice.,Ngon lành. Đố ai nhận ra luôn.
 ,,
 story.Prologue_Classroom_2.item_hair_on_candle.text.7c6267ee4264c3380f5ba82b281c8302568043f0,Let's do this.,Làm thôi.
 ,,
@@ -102,9 +102,11 @@ story.Prologue_Classroom_2.misc_window2.text.8da8e34ff6cb360688e83e42cc370d32bb6
 story.Prologue_Classroom_2.misc_window2.text.bbaac21a3466e316e11fa3830301430e94131627,But where will I find new curtains…?,Nhưng mà kiếm rèm mới ở đâu đây…?
 story.Prologue_Classroom_2.misc_window2.text.fcb1a52363e86744d6c1ccf6be173d63640dce56,Maybe the theater club has some curtains I can borrow?,Có khi trong câu lạc bộ kịch có rèm mình xin mượn được chăng?
 ,,
-story.Prologue_Classroom_2.misc_window2.text.bb49205795011c96080a894408f2257c668a6635,"Yeah, it does.","Yeah, it does."
-story.Prologue_Classroom_2.misc_window2.text.a655db256e6a509b7e8bfc6cc7e9ef1c8c25fca7,I hope these curtains will work.,I hope these curtains will work.
-story.Prologue_Classroom_2.misc_window2.text.8feeb80ceeea6f2b6664bbd2ecd8a4f0f92680f7,I replaced the missing curtains. No need to mess with it anymore.,I replaced the missing curtains. No need to mess with it anymore.
+story.Prologue_Classroom_2.misc_window2.text.bb49205795011c96080a894408f2257c668a6635,"Yeah, it does.","Ờ, có đấy."
+,,
+story.Prologue_Classroom_2.misc_window2.text.a655db256e6a509b7e8bfc6cc7e9ef1c8c25fca7,I hope these curtains will work.,Mong là rèm hợp.
+,,
+story.Prologue_Classroom_2.misc_window2.text.8feeb80ceeea6f2b6664bbd2ecd8a4f0f92680f7,I replaced the missing curtains. No need to mess with it anymore.,Mình thay cái rèm bị thiếu rồi. Không cần thêm thắt lên nó đâu.
 ,,
 story.Prologue_Classroom_2.misc_window2.text.57d2c448756e01a60c0c93ec4bd46823da2ddc01,I need to block the light from this window.,Phải chặn ánh sáng vào cửa sổ này.
 ,,

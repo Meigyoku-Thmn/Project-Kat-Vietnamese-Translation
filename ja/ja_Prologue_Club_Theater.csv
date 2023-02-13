@@ -1,10 +1,12 @@
 ﻿,en,ja
 story.Prologue_Club_Theater.event_blanket_with_girls.text.4c2d8a638aa3c19312387020eff561157ad52547,What's this supposed to be? Do you guys sleep here?,何でこんなものがあるの？　あなたたちここで寝てるわけ？
 story.Prologue_Club_Theater.event_blanket_with_girls.text.241dfaafc6b632a8901b1fcd3bf2ee503c92fb0f,Obviously not.,そんなわけないじゃない。
+,,
 story.Prologue_Club_Theater.event_broke_light.text.3f3c5a118bcade28eb397c1e7115f8ba179c5864,"I can't believe this, are you five years old?",信じられない、あんた5歳児？
 story.Prologue_Club_Theater.event_broke_light.text.bc05611b43ebffdfc385c18af6a20de36fe60aa7,Isn't it interesting how electronics work?,電気の働きって興味深くない？
 story.Prologue_Club_Theater.event_broke_light.text.bfbce03699719848712cd75a4081e6f8c9f5a778,But they DON'T work! Not anymore!,でも働かなくなっちゃったじゃない！　今はもう！
 story.Prologue_Club_Theater.event_broke_light.text.27362b962f0875d9c84f6d2beefbd9c957025b01,I think you're wasting your breath…,構うだけ無駄だと思うわよ……
+,,
 story.Prologue_Club_Theater.event_read_letter.text.6ccf1296ed0e7a858165286bc98f1b231adac870,"""Roses are red
 Violets are probably violet""","「バラは赤く
 スミレはたぶんスミレ色で」"
@@ -20,9 +22,12 @@ story.Prologue_Club_Theater.event_read_letter.text.db8bccc674b8ba58f7b1263c75915
 story.Prologue_Club_Theater.event_read_letter.text.4160ac98f592ba346c39c5484f5404d31815bd37,That… doesn't sound right.,変な……手紙ね。
 story.Prologue_Club_Theater.event_read_letter.text.3ccdbf5756bedf81c5c41e428dc7b9556b188af6,Is… everyone in your club okay?,あなたの部の人……大丈夫？
 story.Prologue_Club_Theater.event_read_letter.text.01b9a27028be72a12a29d887050352893057170b,"Right now, I'm not sure…",今は、自信が持てないわ……
+,,
 story.Prologue_Club_Theater.item_chalk_on_chalkboard.text.0f8138ea884aa9649263a2462276077d77d33839,I'd rather people didn't find out I was here.,私がここにいた証拠は残さないほうがいい。
 story.Prologue_Club_Theater.item_chalk_on_chalkboard.text.917a80a8b7976769ba308612a7c9127b2fd85f98,Please don't mess up this room…,頼むからこの部屋を荒らさないで……
+,,
 story.Prologue_Club_Theater.item_curtains_get.text.e927aaa5c5f651011602e386f3b08ba7db19c984,A pile of neatly folded drapes.,きれいにたたまれたカーテンが積まれている。
+,,
 story.Prologue_Club_Theater.item_curtains_get.choice.text.36870c0bf0576b146e0ca71df1c2b59120376826,Take them?,持っていく？
 story.Prologue_Club_Theater.item_curtains_get.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,持っていく
 story.Prologue_Club_Theater.item_curtains_get.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,持っていかない

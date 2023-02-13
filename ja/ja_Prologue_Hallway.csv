@@ -13,17 +13,24 @@ story.Prologue_Hallway.event_exit.choice.0ecdb1487f73a79a39bd0dbcf37b64fa6920c99
 story.Prologue_Hallway.event_exit.choice.ebb19f20d41e0103e3e11e0d6f9d0b6f30b736eb,"No, let's finish this",帰らない、儀式を終わらせる
 ,,
 story.Prologue_Hallway.event_exit.text.b36d367c606e5d74547c9070d7bf6f93c04716f1,What are you doing? Are we done already?,何してるの？　もうおしまい？
+,,
 story.Prologue_Hallway.event_exit.choice.text.e2f033826024b1c973e85c59f0a88480c9bf6ecd,Are we going home?,家に帰る？
 story.Prologue_Hallway.event_exit.choice.a849a86ea8744e427b4d033af84f646695dd92df,"Yeah, let's go",帰る
 story.Prologue_Hallway.event_exit.choice.bcac1df79ec80fa8aa38e3d2a45cf9aebd19a26d,"No, we're not done",いや、まだ終わってない
+,,
 story.Prologue_Hallway.event_exit.text.fca0572517893dc5807fb2725066c96beca0022c,Really? I guess I'll go get my stuff.,ホントに？　なら荷物取ってこないと。
+,,
 story.Prologue_Hallway.event_exit_2.text.faec884e3f6d7f2b98d09a898858624fd36dea7e,I am a little creeped out but…,ちょっと怖いけど……
 story.Prologue_Hallway.event_exit_2.text.96d1f366163acc15715db9bc2490426e15fb2e7d,I'm going to finish what I started.,始めたことは終わらせる。
+,,
 story.Prologue_Hallway.event_exit_2.choice.text.218340ff245ad56e76aa4b163d9f84ced20e3694,Give up and go home?,諦めて家に帰る？
 story.Prologue_Hallway.event_exit_2.choice.85f57b94b622e802439b4bd38d5b567ff7b92899,"Yes, let's go home",帰る
 story.Prologue_Hallway.event_exit_2.choice.b720077b964126f5b75ee3185d5deb031f494706,"No, let's stay",帰らない
+,,
 story.Prologue_Hallway.event_lockpick_closet_fail.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,……
+,,
 story.Prologue_Hallway.event_lockpick_closet_success.text.f79c8d11189f1dbf961110f8c8a9fab86c46107b,The door unlocked!,鍵が開いた！
+,,
 story.Prologue_Hallway.event_lockpick_theater_fail.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,……
 story.Prologue_Hallway.event_lockpick_theater_fail.text.dda80c8b79e331c1ed166f893a63d9cd5e8285f0,"Well, that didn't go as planned.",そう上手くはいかないものね。
 ,,
@@ -42,20 +49,31 @@ story.Prologue_Hallway.event_see_closet_door.text.d368cd6ca1776ce3f28d302d71f96c
 story.Prologue_Hallway.event_see_closet_door.text.30ff5db18c209a4fdc670036b587b020bcd7b8e5,"Geez, fine.",まぁ、いいわ。
 ,,
 story.Prologue_Hallway.event_theater_door_unlock.text.f79c8d11189f1dbf961110f8c8a9fab86c46107b,The door unlocked!,鍵が開いた！
+,,
 story.Prologue_Hallway.item_hairpin_on_door_closet.text.30f6726025ad0e27cae6960152f74866e78dd122,I'm really curious as to what's behind this door…,このドアの向こうに何があるのかとても気になるけど……
 story.Prologue_Hallway.item_hairpin_on_door_closet.text.b7fd5715a3202e03aee35ff7ba1e84695154d1ff,But I don't have time for this right now.,今はそんなことしてる時間はない。
+,,
 story.Prologue_Hallway.item_hairpin_on_door_closet.text.0e0faa8ef50d64f9e6c614e97cfde531cb0a8012,It's already open.,鍵はもう開いている。
+,,
 story.Prologue_Hallway.item_hairpin_on_door_closet.text.78ec0fc84c5e6461d575f11637281ea40c00a027,You can't do that anymore.,もうピッキングできない。
+,,
 story.Prologue_Hallway.item_hairpin_on_door_theater.text.5307874866c94d77b2cb6e815f105d21f3bfc1aa,I've gotta get in somehow.,どうにかして中に入らなきゃ。
+,,
 story.Prologue_Hallway.item_hairpin_on_door_theater.choice.text.69e51834a8d4652070d6a410125e9540ca193851,Should I try to pick the lock?,ピッキングしてみる？
 story.Prologue_Hallway.item_hairpin_on_door_theater.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,してみる
 story.Prologue_Hallway.item_hairpin_on_door_theater.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,してみない
 story.Prologue_Hallway.item_hairpin_on_door_theater.text.374253f6bf0eb6e4f7eea8972a12655369af460b,Let's give it a shot.,やってみましょ。
+,,
 story.Prologue_Hallway.item_hairpin_on_door_theater.text.0e0faa8ef50d64f9e6c614e97cfde531cb0a8012,It's already open.,このドアは既に開いている。
+,,
 story.Prologue_Hallway.item_hairpin_on_door_theater.text.4488124fc23f41e74910218471ebba611d64a006,I don't think I need anything from here.,ここに必要なものがあるとは思えない。
+,,
 story.Prologue_Hallway.item_hairpin_on_door_theater.text.fd2cdaa9e6fd3f499b5f0061f19162117c1a326f,"I have the key, so there's no point in that.",鍵があるんだから、そんなことをする意味はない。
+,,
 story.Prologue_Hallway.item_key_on_door_closet.text.3715c0c9b7f1208bc096adccf9820f36c100d219,This key doesn't fit here.,この鍵はここには合わない。
+,,
 story.Prologue_Hallway.item_key_on_door_theater.text.0e0faa8ef50d64f9e6c614e97cfde531cb0a8012,It's already open.,既に開いている。
+,,
 story.Prologue_Hallway.item_scissors_on_doors.text.da6f295372f6aca924f08c4b293649adc584cf5c,That's not how locks work.,鍵はそれでは開かない。
 ,,
 story.Prologue_Hallway.misc_paper1.text.4d9dc26f87315872341fe5d5cfc113cea8daf5fc,"It reads ""No running in the hallways.""",「廊下は走るな」と書いてある。
@@ -85,8 +103,10 @@ story.Prologue_Hallway.misc_trashcan2.text.38210f804489bf93b819393f276962e093d87
 story.Prologue_Hallway.misc_window_crack.text.354acfcb191c156c2f9bd017ebd07cdb1a36fce1,The window is cracked.,窓にヒビが入っている。
 story.Prologue_Hallway.misc_window_crack.text.02f9acad2b7987a13e1f2adcb05910ad3b249b8b,That spooked me…,不気味ね……
 story.Prologue_Hallway.misc_window_crack.text.480b2a72cdf5f25e24d0e5387d7064bb61074777,This isn't good for my heart…,心臓に悪いわ……
+,,
 story.Prologue_Hallway.misc_window_hand.text.24ad6d77cdaea97f6b0d7030c7ecde5f9819fdf2,There's a handprint on the window.,窓に手形が付いている。
 story.Prologue_Hallway.misc_window_hand.text.ed49e1eb73d87d69d3f7578f5386fe55afbfdf73,Was this always here?,前からこんなものあったっけ？
+,,
 story.Prologue_Hallway.misc_windows_exterior.text.d95eee56e500c739aec7fa54839b93ce1ac3c553,The front yard of the school is visible from here.,ここからは校庭が見える。
 story.Prologue_Hallway.misc_windows_exterior.text.8ae3bfd3ff8f1a091fb860caf931488ca91b0461,Better stay clear of the windows or someone might see me.,窓から離れとかないと、誰かに見られちゃうかも。
 ,,
