@@ -1,4 +1,4 @@
-# Project Kat - Bản dịch tiếng Việt
+# Việt hóa game Project Kat - Paper Lily Prologue
 
 ## Đóng gói
 - Đặt thêm 2 phần mềm là `godot.exe` và `godotpcktool.exe` vào thư mục chính, có thể tìm được trong bài [hướng dẫn dịch game](https://leef6010.itch.io/projectkat/devlog/315925/project-kat-translations) của nhà phát triển.
