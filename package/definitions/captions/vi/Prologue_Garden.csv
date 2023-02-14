@@ -24,6 +24,7 @@ story.Prologue_Garden.event_bad_solution.text.5e8b13dc0c50ea3e5c3f2efc55cc71584d
 story.Prologue_Garden.event_bad_solution.text.fa9d52baaa97c2745f8bb661ce7dca15377ba643,"But if you're foolish enough to cross my path,","Nhưng hễ ngươi mà ngu ngốc đến nỗi ngáng đường ta,"
 story.Prologue_Garden.event_bad_solution.text.eae00ae6306f732b2502939de6bd80f258600b41,I'LL KILL YOU MYSELF,THÌ CHÍNH TAY TA SẼ GIẾT NGƯƠI
 story.Prologue_Garden.event_bad_solution.text.bfc6aa79cea94e1c711ffd3288f1beebc7541fbd,…such is the way of our world.,…cách làm trong thế giới chúng ta là vậy đấy.
+,,
 story.Prologue_Garden.event_good_solution.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…
 story.Prologue_Garden.event_good_solution.text.5cfe03df4e9d0223b2d7027339b6d34caafc9096,The door opened!,Cửa mở rồi!
 story.Prologue_Garden.event_good_solution.text.0d6892d788c77911f0facc1697637dc14d9644ea,Fascinating.,Thú vị đấy.
@@ -46,55 +47,96 @@ story.Prologue_Garden.event_good_solution.text.4b8dd121ad35511ae46dd75b53ce7c758
 story.Prologue_Garden.event_good_solution.text.0cce36ae4abcfa59610894e3bec60998639db467,"Just know that if you do,","Có điều hãy nhớ hễ ngươi mà đến,"
 story.Prologue_Garden.event_good_solution.text.b1cd359f15bcfa1ce2b75d70e5f8bf3143d9bf8c,YOU WILL BE KILLED,THÌ NGƯƠI SẼ BỊ GIẾT
 story.Prologue_Garden.event_good_solution.text.bfc6aa79cea94e1c711ffd3288f1beebc7541fbd,…such is the way of our world.,…cách làm trong thế giới chúng ta là vậy đấy.
+,,
 story.Prologue_Garden.event_tutorial_itemuse.text.5b15e664cfbdc9d6bec3cbb90ddb03e20ffd33c3,The building ahead seems locked somehow.,Tòa nhà phía đằng trước có vẻ là bị khóa rồi hay sao ấy.
+,,
 story.Prologue_Garden.event_tutorial_pickup.text.4678acfef4d752ecb17059c444d3082850bafdce,There's a white flower on the ground.,Có bông hoa trắng trên mặt đất.
+,,
 story.Prologue_Garden.item_bad_flower_get.choice.text.58b8aa01d3fc4b103167fbf330e13e313ccbafab,Take Flower?,Nhặt hoa lên chứ?
 story.Prologue_Garden.item_bad_flower_get.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Nhặt lên
 story.Prologue_Garden.item_bad_flower_get.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi không
+,,
 story.Prologue_Garden.item_bad_flower_on_vase1.text.2e15bf3cad2db000eb5f3123113c3813aa41ad49,There's already a flower there.,Đã có hoa trong đó rồi.
+,,
 story.Prologue_Garden.item_bad_flower_on_vase2.text.2e15bf3cad2db000eb5f3123113c3813aa41ad49,There's already a flower there.,Đã có hoa trong đó rồi.
+,,
 story.Prologue_Garden.item_bad_flower_on_vase3.text.2e15bf3cad2db000eb5f3123113c3813aa41ad49,There's already a flower there.,Đã có hoa trong đó rồi.
+,,
 story.Prologue_Garden.item_bad_flower_on_vase4.text.2e15bf3cad2db000eb5f3123113c3813aa41ad49,There's already a flower there.,Đã có hoa trong đó rồi.
+,,
 story.Prologue_Garden.item_flower_on_vase1.text.67bdffd1d02b414ebb288c033ef22820a08f6a9f,The light turned green.,Bóng đèn đổi sang xanh lá rồi.
+,,
 story.Prologue_Garden.item_flower_on_vase1.text.2e15bf3cad2db000eb5f3123113c3813aa41ad49,There's already a flower there.,Đã có hoa trong đó rồi.
+,,
 story.Prologue_Garden.item_flower_on_vase2.text.67bdffd1d02b414ebb288c033ef22820a08f6a9f,The light turned green.,Bóng đèn đổi sang xanh lá rồi.
+,,
 story.Prologue_Garden.item_flower_on_vase2.text.2e15bf3cad2db000eb5f3123113c3813aa41ad49,There's already a flower there.,Đã có hoa trong đó rồi.
+,,
 story.Prologue_Garden.item_flower_on_vase3.text.67bdffd1d02b414ebb288c033ef22820a08f6a9f,The light turned green.,Bóng đèn đổi sang xanh lá rồi.
+,,
 story.Prologue_Garden.item_flower_on_vase3.text.2e15bf3cad2db000eb5f3123113c3813aa41ad49,There's already a flower there.,Đã có hoa trong đó rồi.
+,,
 story.Prologue_Garden.item_flower_on_vase4.text.67bdffd1d02b414ebb288c033ef22820a08f6a9f,The light turned green.,Bóng đèn đổi sang xanh lá rồi.
+,,
 story.Prologue_Garden.item_flower_on_vase4.text.2e15bf3cad2db000eb5f3123113c3813aa41ad49,There's already a flower there.,Đã có hoa trong đó rồi.
+,,
 story.Prologue_Garden.misc_door.text.1c6322edf605ee91f5480544e936495693e46535,A door with 4 colored lights.,Cánh cửa mang 4 cái bóng đèn có màu.
 story.Prologue_Garden.misc_door.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Nó bị khóa rồi.
+,,
 story.Prologue_Garden.misc_house.text.d5e6979f11fb628a43f7223c7bcc3d71266feef6,A small building adorned with flowers.,Tòa nhà nhỏ với những bông hoa tô điểm.
+,,
 story.Prologue_Garden.misc_tree.text.73f8a16c8b0b804e134a1173dbe3226d0bf73c89,A tree with pink flowers.,Cái cây có hoa màu hồng.
+,,
 story.Prologue_Garden.misc_vase1.text.921038637126ddcaaa7b70f23f9b2a46d246bdbd,A big flower vase with a white flower in it.,Chiếc lọ hoa lớn có cắm bông hoa trắng.
+,,
 story.Prologue_Garden.misc_vase1.choice.text.9108c46bbea36ae19d27633b7af9c239d95548f0,Take out the flower?,Lấy hoa ra chứ?
 story.Prologue_Garden.misc_vase1.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Làm thế
 story.Prologue_Garden.misc_vase1.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi không
+,,
 story.Prologue_Garden.misc_vase1.text.bb97f52d9803f55b797891b5af16500f1704431d,The green light turned red.,Bóng đèn đổi sang đỏ rồi.
+,,
 story.Prologue_Garden.misc_vase1.choice.text.fc49316e86469404ad2c504f82428b4ba0e2a13b,Put the flower back in?,Cắm hoa vào lại chứ?
+,,
 story.Prologue_Garden.misc_vase1.text.8f41660e5f565d99d3c715e8b01243485616596e,The light turned back green.,Bóng đèn đổi lại sang xanh lá rồi.
+,,
 story.Prologue_Garden.misc_vase1.text.a228d112739eaf48327709a5843717453560eff8,A big flower vase. The flower is missing.,Chiếc lọ hoa lớn. Thiếu mất hoa.
+,,
 story.Prologue_Garden.misc_vase2.text.921038637126ddcaaa7b70f23f9b2a46d246bdbd,A big flower vase with a white flower in it.,Chiếc lọ hoa lớn có cắm bông hoa trắng.
+,,
 story.Prologue_Garden.misc_vase2.choice.text.9108c46bbea36ae19d27633b7af9c239d95548f0,Take out the flower?,Lấy hoa ra chứ?
 story.Prologue_Garden.misc_vase2.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Làm thế
 story.Prologue_Garden.misc_vase2.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi không
+,,
 story.Prologue_Garden.misc_vase2.text.bb97f52d9803f55b797891b5af16500f1704431d,The green light turned red.,Cái bóng đèn xanh lá đổi sang đỏ rồi.
+,,
 story.Prologue_Garden.misc_vase2.choice.text.fc49316e86469404ad2c504f82428b4ba0e2a13b,Put the flower back in?,Cắm hoa vào lại chứ?
+,,
 story.Prologue_Garden.misc_vase2.text.8f41660e5f565d99d3c715e8b01243485616596e,The light turned back green.,Bóng đèn đổi lại sang xanh lá rồi.
+,,
 story.Prologue_Garden.misc_vase2.text.a228d112739eaf48327709a5843717453560eff8,A big flower vase. The flower is missing.,Chiếc lọ hoa lớn. Thiếu mất hoa.
+,,
 story.Prologue_Garden.misc_vase3.text.921038637126ddcaaa7b70f23f9b2a46d246bdbd,A big flower vase with a white flower in it.,Chiếc lọ hoa lớn có cắm bông hoa trắng.
+,,
 story.Prologue_Garden.misc_vase3.choice.text.9108c46bbea36ae19d27633b7af9c239d95548f0,Take out the flower?,Lấy hoa ra chứ?
 story.Prologue_Garden.misc_vase3.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Làm thế
 story.Prologue_Garden.misc_vase3.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi không
+,,
 story.Prologue_Garden.misc_vase3.text.bb97f52d9803f55b797891b5af16500f1704431d,The green light turned red.,Cái bóng đèn xanh lá đổi sang đỏ rồi.
+,,
 story.Prologue_Garden.misc_vase3.choice.text.fc49316e86469404ad2c504f82428b4ba0e2a13b,Put the flower back in?,Cắm hoa vào lại chứ?
+,,
 story.Prologue_Garden.misc_vase3.text.8f41660e5f565d99d3c715e8b01243485616596e,The light turned back green.,Bóng đèn đổi lại sang xanh lá rồi.
+,,
 story.Prologue_Garden.misc_vase3.text.a228d112739eaf48327709a5843717453560eff8,A big flower vase. The flower is missing.,Chiếc lọ hoa lớn. Thiếu mất hoa.
+,,
 story.Prologue_Garden.misc_vase4.text.f94c8f3848ed1ff22bdfedab14a7d38192eb7228,"A big flower vase. Unlike the others, this one has no flower.","Chiếc lọ hoa lớn. Không giống mấy chiếc khác, chiếc này không cắm hoa."
+,,
 story.Prologue_Garden.misc_vase4.text.9706bf3f2cedd50ec4914d2014cad5ed26f00278,A big flower vase. I placed a flower inside.,Chiếc lọ hoa lớn. Mình mới cắm hoa vào.
+,,
 story.Prologue_Garden.misc_vase4.choice.text.f339c1930f8e4d0e665445ac47e5ce88230617d4,Take it out?,Lấy hoa ra chứ?
 story.Prologue_Garden.misc_vase4.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Làm thế
 story.Prologue_Garden.misc_vase4.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi không
+,,
 story.Prologue_Garden.misc_vase4.text.7f3a9cb2904012a6b65db6a05aeface9e5ec1504,The light turned back red.,Bóng đèn đổi lại sang đỏ rồi.
+,,
 story.Prologue_Garden.misc_window.text.08d5c065ad044344e463b3aaf2d68037cdb2a316,Some large windows. You can't see what's inside.,Vài cái cửa sổ lớn. Bạn không thấy được bên trong.

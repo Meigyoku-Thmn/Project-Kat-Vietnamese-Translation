@@ -1,8 +1,8 @@
 ﻿,en,vi,char
 story.Prologue_Hallway.event_closet_door_locked_forever.text.db2f9877d0f6f90134d8355730c91e84e4f0c528,"The keyhole has vanished, making it impossible to pick.","The keyhole has vanished, making it impossible to pick.",
-story.Prologue_Hallway.event_closet_door_locked_forever.text.2aea4d8500673644a5867607bc4fc22d7ab3d699,What… the hell? Are you guys seeing what I'm seeing?,What… the hell? Are you guys seeing what I'm seeing?,
-story.Prologue_Hallway.event_closet_door_locked_forever.text.f689591d19bc83db04d80b8be36a30be62a7e51b,Maybe it's a sign…,Maybe it's a sign…,
-story.Prologue_Hallway.event_closet_door_locked_forever.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,
+story.Prologue_Hallway.event_closet_door_locked_forever.text.2aea4d8500673644a5867607bc4fc22d7ab3d699,What… the hell? Are you guys seeing what I'm seeing?,What… the hell? Are you guys seeing what I'm seeing?,Kat
+story.Prologue_Hallway.event_closet_door_locked_forever.text.f689591d19bc83db04d80b8be36a30be62a7e51b,Maybe it's a sign…,Maybe it's a sign…,Kaya
+story.Prologue_Hallway.event_closet_door_locked_forever.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat
 ,,,
 story.Prologue_Hallway.event_exit.text.d9ff225b339ce0c71158adad95dcaf862ec42734,This leads downstairs and outside of the school.,Đường này dẫn xuống tầng dưới và ra ngoài trường.,
 story.Prologue_Hallway.event_exit.text.30da629656cc7cd2d0fd9c76a165b781d444434b,I should be able to find everything I need on this floor.,Những cái mình cần thì ở tầng này hẳn là tìm được hết thôi.,
@@ -12,16 +12,16 @@ story.Prologue_Hallway.event_exit.choice.text.218340ff245ad56e76aa4b163d9f84ced2
 story.Prologue_Hallway.event_exit.choice.0ecdb1487f73a79a39bd0dbcf37b64fa6920c993,"Yes, this is scary","Sợ lắm, đi về thôi",
 story.Prologue_Hallway.event_exit.choice.ebb19f20d41e0103e3e11e0d6f9d0b6f30b736eb,"No, let's finish this","Không về, làm cho xong nghi thức",
 ,,,
-story.Prologue_Hallway.event_exit.text.b36d367c606e5d74547c9070d7bf6f93c04716f1,What are you doing? Are we done already?,What are you doing? Are we done already?,
+story.Prologue_Hallway.event_exit.text.b36d367c606e5d74547c9070d7bf6f93c04716f1,What are you doing? Are we done already?,What are you doing? Are we done already?,Juli
 ,,,
 story.Prologue_Hallway.event_exit.choice.text.e2f033826024b1c973e85c59f0a88480c9bf6ecd,Are we going home?,Are we going home?,
 story.Prologue_Hallway.event_exit.choice.a849a86ea8744e427b4d033af84f646695dd92df,"Yeah, let's go","Yeah, let's go",
 story.Prologue_Hallway.event_exit.choice.bcac1df79ec80fa8aa38e3d2a45cf9aebd19a26d,"No, we're not done","No, we're not done",
 ,,,
-story.Prologue_Hallway.event_exit.text.fca0572517893dc5807fb2725066c96beca0022c,Really? I guess I'll go get my stuff.,Really? I guess I'll go get my stuff.,
+story.Prologue_Hallway.event_exit.text.fca0572517893dc5807fb2725066c96beca0022c,Really? I guess I'll go get my stuff.,Really? I guess I'll go get my stuff.,Saki
 ,,,
-story.Prologue_Hallway.event_exit_2.text.faec884e3f6d7f2b98d09a898858624fd36dea7e,I am a little creeped out but…,I am a little creeped out but…,
-story.Prologue_Hallway.event_exit_2.text.96d1f366163acc15715db9bc2490426e15fb2e7d,I'm going to finish what I started.,I'm going to finish what I started.,
+story.Prologue_Hallway.event_exit_2.text.faec884e3f6d7f2b98d09a898858624fd36dea7e,I am a little creeped out but…,I am a little creeped out but…,Kat
+story.Prologue_Hallway.event_exit_2.text.96d1f366163acc15715db9bc2490426e15fb2e7d,I'm going to finish what I started.,I'm going to finish what I started.,Kat
 ,,,
 story.Prologue_Hallway.event_exit_2.choice.text.218340ff245ad56e76aa4b163d9f84ced20e3694,Give up and go home?,Bỏ cuộc và về nhà chứ?,
 story.Prologue_Hallway.event_exit_2.choice.85f57b94b622e802439b4bd38d5b567ff7b92899,"Yes, let's go home","Ừ, về thôi",
@@ -37,16 +37,16 @@ story.Prologue_Hallway.event_lockpick_theater_fail.text.dda80c8b79e331c1ed166f89
 story.Prologue_Hallway.event_see_closet_door.text.a17c7690aeab045d071cab3c08f4d4c2f4344a99,This room is…,Phòng này…,Kat
 story.Prologue_Hallway.event_see_closet_door.text.72bdf46f82455dcaa2b3b971969984b90e60fc50,"What IS this room, anyways?",Vốn cái phòng này là gì ta?,Kat
 story.Prologue_Hallway.event_see_closet_door.text.8457cb82ae8c79e300c75bf5d15437dfc026b3b8,I don't think I've ever seen anybody use it.,Cảm giác chưa thấy ai dùng cái phòng này bao giờ.,Kat
-story.Prologue_Hallway.event_see_closet_door.text.6f04e8684c494f9f89e543aa4318cabb0b86fcb9,Me neither.,Me neither.,
-story.Prologue_Hallway.event_see_closet_door.text.553bdcb657e76b6dd77cc1d66e534436752993b2,"Say, why don't we check it out?","Say, why don't we check it out?",
-story.Prologue_Hallway.event_see_closet_door.text.974d6215b516f92ee6b086303edd10edb1ac55d1,You want to break into this room…?,You want to break into this room…?,
-story.Prologue_Hallway.event_see_closet_door.text.71a3b0540eaa26c2e68dbb0c4f05633ab0cfcec5,Why not? Can't be any worse than trying a silly ritual.,Why not? Can't be any worse than trying a silly ritual.,
-story.Prologue_Hallway.event_see_closet_door.text.48fe5a4bc773af7503bf2d1463dc58f7444af3ef,I hope it's safe…,I hope it's safe…,
-story.Prologue_Hallway.event_see_closet_door.text.7b88d60bf7db6da624f0635e62bfb8e343757f50,"We would need a way to open it, though.","We would need a way to open it, though.",
-story.Prologue_Hallway.event_see_closet_door.text.eada98214a0f210eab93a8b93b29246435326c23,We're counting on you.,We're counting on you.,
-story.Prologue_Hallway.event_see_closet_door.text.170b0e4e470ef1983704c1cfb289ab0efb8436ab,"You can do it, Kat.","You can do it, Kat.",
-story.Prologue_Hallway.event_see_closet_door.text.d368cd6ca1776ce3f28d302d71f96cf5149fc69a,I never said-,I never said-,
-story.Prologue_Hallway.event_see_closet_door.text.30ff5db18c209a4fdc670036b587b020bcd7b8e5,"Geez, fine.","Geez, fine.",
+story.Prologue_Hallway.event_see_closet_door.text.6f04e8684c494f9f89e543aa4318cabb0b86fcb9,Me neither.,Me neither.,Saki
+story.Prologue_Hallway.event_see_closet_door.text.553bdcb657e76b6dd77cc1d66e534436752993b2,"Say, why don't we check it out?","Say, why don't we check it out?",Saki
+story.Prologue_Hallway.event_see_closet_door.text.974d6215b516f92ee6b086303edd10edb1ac55d1,You want to break into this room…?,You want to break into this room…?,Juli
+story.Prologue_Hallway.event_see_closet_door.text.71a3b0540eaa26c2e68dbb0c4f05633ab0cfcec5,Why not? Can't be any worse than trying a silly ritual.,Why not? Can't be any worse than trying a silly ritual.,Saki
+story.Prologue_Hallway.event_see_closet_door.text.48fe5a4bc773af7503bf2d1463dc58f7444af3ef,I hope it's safe…,I hope it's safe…,Kaya
+story.Prologue_Hallway.event_see_closet_door.text.7b88d60bf7db6da624f0635e62bfb8e343757f50,"We would need a way to open it, though.","We would need a way to open it, though.",Kat
+story.Prologue_Hallway.event_see_closet_door.text.eada98214a0f210eab93a8b93b29246435326c23,We're counting on you.,We're counting on you.,Juli
+story.Prologue_Hallway.event_see_closet_door.text.170b0e4e470ef1983704c1cfb289ab0efb8436ab,"You can do it, Kat.","You can do it, Kat.",Kaya
+story.Prologue_Hallway.event_see_closet_door.text.d368cd6ca1776ce3f28d302d71f96cf5149fc69a,I never said-,I never said-,Kat
+story.Prologue_Hallway.event_see_closet_door.text.30ff5db18c209a4fdc670036b587b020bcd7b8e5,"Geez, fine.","Geez, fine.",kat
 ,,,
 story.Prologue_Hallway.event_theater_door_unlock.text.f79c8d11189f1dbf961110f8c8a9fab86c46107b,The door unlocked!,Khóa cửa mở rồi!,
 ,,,
@@ -118,10 +118,15 @@ story.Prologue_Hallway.move_closet.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0
 story.Prologue_Hallway.move_closet.text.359590d95487bbd2ed7cd0beb12cb27f3ac49872,It won't open anymore.,Không mở được nữa.,
 ,,,
 story.Prologue_Hallway.move_club_theater.text.753f5ca3aced2535c3e131fe8ebcc421e9ee4cba,This is the Theater Club's room. It's locked.,Đây là phòng câu lạc bộ kịch. Bị khóa rồi.,
+,,,
 story.Prologue_Hallway.move_club_theater.text.4488124fc23f41e74910218471ebba611d64a006,I don't think I need anything from here.,Nghĩ là không có thứ gì mình cần trong đây đâu.,
+,,,
 story.Prologue_Hallway.move_club_theater.text.06d037a63be7bfec6fb3f1cc485bdfec6c69bf4f,I may be able to find some curtains in there.,Không chừng kiếm được rèm trong đây.,
 story.Prologue_Hallway.move_club_theater.text.0468ce0997d34f7492fb5c0cc162d746de31afea,I wonder if any of the girls is a member of this club.,Không biết trong mấy đứa nó có ai thành viên câu lạc bộ này không?,
-story.Prologue_Hallway.move_club_theater.text.a0c84ad721136c63f2b0daeb15de41c80d602938,I'm not on great terms with them though…,Mà mình qua lại với bọn nó cũng chả tốt đẹp gì mấy…,
+story.Prologue_Hallway.move_club_theater.text.a0c84ad721136c63f2b0daeb15de41c80d602938,I'm not on great terms with them though…,I'm not on great terms with them though…,
+,,,
 story.Prologue_Hallway.move_club_theater.text.d6dba0421117222dd14b6773c9a34a4f36bd4907,But I have the key now.,Nhưng giờ có chìa đây rồi.,
-story.Prologue_Hallway.move_club_theater.text.94f34343173746ce312bdb04665ba7066d5e0a83,How am I going to open it now…?,Vậy làm sao mở đây…?,
-story.Prologue_Hallway.move_club_theater.text.c00daa512a824f9919ad5253b80dc2c6507ea3b4,Maybe I should deliver that notebook.,Nên giao cuốn vở đó chăng.,
+,,,
+story.Prologue_Hallway.move_club_theater.text.94f34343173746ce312bdb04665ba7066d5e0a83,How am I going to open it now…?,Vậy tính mở làm sao đây…?,
+,,,
+story.Prologue_Hallway.move_club_theater.text.c00daa512a824f9919ad5253b80dc2c6507ea3b4,Maybe I should deliver that notebook.,Maybe I should deliver that notebook.,

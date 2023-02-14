@@ -1,95 +1,95 @@
-﻿,en,vi
-story.Prologue_Closet.event_already_unlocked.text.968cf294d2af6de9dd83458665405ede889fc78c,It's already unlocked.,Khóa đã mở rồi.
-,,
-story.Prologue_Closet.event_check_boxes2.text.3efa3bb2fb6e251672fb13b7a447a4ce98e8fc21,"The box contains various empty notebooks, textbooks and… chalk.",Trong thùng cất đủ thứ từ vở trắng với sách giáo khoa đến… phấn viết.
-,,
-story.Prologue_Closet.event_check_boxes2.choice.text.5078eaf469aefaa38fdd3029a11241e3cf8168bd,Take chalk?,Lấy phấn viết chứ?
-story.Prologue_Closet.event_check_boxes2.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Lấy
-story.Prologue_Closet.event_check_boxes2.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi
-,,
-story.Prologue_Closet.event_check_boxes2.text.6c7046d999cb8e218e5f25caedfa2bd2129b01b4,There's nothing else of interest,Chẳng có thứ gì khác đáng lưu tâm.
-,,
-story.Prologue_Closet.event_read_letter.text.0b77af16b10644f276cd40539ac9a3a9b76f42c5,There's some dusty documents that catch your eye.,Có mấy giấy tờ bụi bặm đập vào tầm mắt.
-,,
-story.Prologue_Closet.event_read_letter.choice.text.669a9ddb15528f0c9e0a315083c81df92b8ff096,Read them?,Đọc chứ?
-story.Prologue_Closet.event_read_letter.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Đọc
-story.Prologue_Closet.event_read_letter.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi
-,,
-story.Prologue_Closet.event_read_letter.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…
-story.Prologue_Closet.event_read_letter.text.56938ff59db914f5e4ccefed542767489539d562,It's a… lawsuit?,Này là… kiện tụng à?
-story.Prologue_Closet.event_read_letter.text.823c138b3b79933606208b109da4b9a6798e383d,What's that doing in a place like this?,What's that doing in a place like this?
-story.Prologue_Closet.event_read_letter.text.ca9a843c89ef06a36ac666841f012279e9d7ef19,I heard about that from my dad.,I heard about that from my dad.
-story.Prologue_Closet.event_read_letter.text.ab74baedf2c652b245cb8fcab62af2b401308c24,Supposedly someone sued the school because of their daughter's disappearance.,Supposedly someone sued the school because of their daughter's disappearance.
-story.Prologue_Closet.event_read_letter.text.c4b425d460277e82e3794be207f6c0ec131bf617,"Oh, the 2nd year girl?","Oh, the 2nd year girl?"
-story.Prologue_Closet.event_read_letter.text.43b045020b2915371d1a3ef28fafe7cb0a7b420a,"I heard something happened, but I didn't know the school was involved.","I heard something happened, but I didn't know the school was involved."
-story.Prologue_Closet.event_read_letter.text.00dbc56c38c39218e95b51f0fd0af1f553fefa0e,I don't know either.,I don't know either.
-story.Prologue_Closet.event_read_letter.text.ff7d93942dc178f0178375df1c67f17dc2421958,"But she was last seen at school, so her family was convinced that something happened here and it was covered up.","But she was last seen at school, so her family was convinced that something happened here and it was covered up."
-story.Prologue_Closet.event_read_letter.text.819c8ff56b0b25ee5d14ea897372110833ccc6ec,There's definitely an odd history of disappearances in this town.,There's definitely an odd history of disappearances in this town.
-story.Prologue_Closet.event_read_letter.text.6073216c21cfcabd279770f9c049e994d0361ea6,"When I graduate, I'm out of here.","When I graduate, I'm out of here."
-,,
-story.Prologue_Closet.item_hairpin_on_locker.text.2b8fda9ac1cebeb67f7ea62bcc3893c4f740d7a4,The hairpin doesn't fit into this lock.,Kẹp tóc không khít với lỗ khóa.
-,,
-story.Prologue_Closet.item_locker_key_on_locker.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!
-,,
-story.Prologue_Closet.item_scissors_on_boxes_open.text.1f9913697f860ce86c064d318344d2abd1a3b4bf,The boxes are already open.,Đống thùng đã mở rồi.
-,,
-story.Prologue_Closet.misc_boxes1.text.5c7bf7d6fbad6f6c11b70a08825e2ff08f8bd157,Boxes filled with rags and other cleaning supplies.,Đống thùng nhét đầy giẻ lau với dụng cụ lau dọn này nọ.
-,,
-story.Prologue_Closet.misc_boxes2.text.466fd22e05359fdf47fef5e6033b73337ddfb11a,A sealed box.,Thùng bị niêm phong.
-,,
-story.Prologue_Closet.misc_boxes3.text.860edf7b4edf736d46135e4e511fd51dc40b51d6,Some boxes filled with random objects.,Mớ thùng chất đầy mấy thứ linh tinh.
-story.Prologue_Closet.misc_boxes3.text.b966390fa890acb31ba0f2bdaadd3d4f530cc811,This is the lost and found box!,This is the lost and found box!
-story.Prologue_Closet.misc_boxes3.text.e7da47b65ddbdbb71c9821469db4be65290b7dfe,Really?,Really?
-story.Prologue_Closet.misc_boxes3.text.21cc5ce1b853cc0513e4dead7d6267ce713d3410,"Look, I found my old shoe.","Look, I found my old shoe."
-story.Prologue_Closet.misc_boxes3.text.42e143afc5fb64e268be14fa705fa8c320b74c37,A shoe…?,A shoe…?
-story.Prologue_Closet.misc_boxes3.text.5660ff6c16f5a057eb31581a3b23ffdc1539a666,I lost it years ago.,I lost it years ago.
-story.Prologue_Closet.misc_boxes3.text.eb5dc43c0b0f059f55fe8b1ef7a4a3013b0d5c43,How do you lose one shoe?,How do you lose one shoe?
-story.Prologue_Closet.misc_boxes3.text.e309d31ae28974994788c443081578e1a558ff1e,It just disappeared.,It just disappeared.
-story.Prologue_Closet.misc_boxes3.text.a7296183ffb7c16a2eb170c67583aab0996d2f79,Oh! My lighter!,Oh! My lighter!
-story.Prologue_Closet.misc_boxes3.text.8d8954f68330b8ae676d76a90516499f6f35f1dd,Don't you already have a lighter?,Don't you already have a lighter?
-story.Prologue_Closet.misc_boxes3.text.b45bf01c136fd0d3bad5cd990ceab98d940759bf,This is my old one.,This is my old one.
-story.Prologue_Closet.misc_boxes3.text.ff8940273daaa29dda922c68cf7897f70d75674f,You lost a lighter in the school?,You lost a lighter in the school?
-story.Prologue_Closet.misc_boxes3.text.f195951c15fb7b73c0afdc3c6895ecbc28439cee,"No, they confiscated it.","No, they confiscated it."
-story.Prologue_Closet.misc_boxes3.text.639e7a4296eab8091138a6de5007a22114a79ce1,Figures. Lighters can be dangerous.,Figures. Lighters can be dangerous.
-story.Prologue_Closet.misc_boxes3.text.1c9909cc851d243b6f8c7484e841a675f8a0550e,Only in the wrong hands.,Only in the wrong hands.
-story.Prologue_Closet.misc_boxes3.text.b6b4b5c6564a00c6c4eff984b7374eb064b2d06c,And yours aren't?,And yours aren't?
-story.Prologue_Closet.misc_boxes3.text.109af417c70c6787822e6511f80fe657cb247c20,You shouldn't bring lighters to school…,You shouldn't bring lighters to school…
-story.Prologue_Closet.misc_boxes3.text.fa49cb307a80bc610227416132f07cab1aeb96d4,There's nothing else of interest.,There's nothing else of interest.
-,,
-story.Prologue_Closet.misc_brooms.text.651a6cab00674da299f9e57773d9e6cddb9f599b,Some used brooms.,Vài cây chổi bị xài đến bục rồi.
-,,
-story.Prologue_Closet.misc_calendar.text.e1721dc7d943c36af39a63c243f111302d1a7e8e,A calendar and information sheet for the cleaning staff.,Lịch và yết thị dành cho nhân viên quét dọn.
-,,
-story.Prologue_Closet.misc_cart.text.a8220075d01a471f228e09bc7f3cc5af2c36e2a8,A cleaning cart.,Xe lau dọn.
-story.Prologue_Closet.misc_cart.text.cf08ff029cf3a6ca341ce3a529f9fc563312d3e2,It could use some cleaning.,Bản thân cái xe có lẽ cần được lau dọn luôn.
-,,
-story.Prologue_Closet.misc_lamp.text.77cc674f44282a5300120d2c9266d7ea924ece6a,A dusty lamp. The light bulb is missing.,Đèn dính bụi. Thiếu mất bóng đèn.
-,,
-story.Prologue_Closet.misc_lightswitch.text.d4fde55136057780b55819795301858743c7d71d,Well that's ominous.,Well that's ominous.
-story.Prologue_Closet.misc_lightswitch.text.732ef3ea772e50841efef6e0b29d01eabac1e946,A little darkness won't hurt anybody.,A little darkness won't hurt anybody.
-story.Prologue_Closet.misc_lightswitch.text.6f9706a989fe2345867a3c04dc3bef57b1188761,…Probably.,…Probably.
-story.Prologue_Closet.misc_lightswitch.text.7038087d2f51b63829e0270442953afff5443363,It doesn't work.,It doesn't work.
-,,
-story.Prologue_Closet.misc_locker.text.8fe3958cb64392de5f0f4c9951b5cf43f407a099,A large locker that could probably fit a person.,Tủ đồ lớn đến nỗi chứa được một người luôn.
-story.Prologue_Closet.misc_locker.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Bị khóa rồi.
-,,
-story.Prologue_Closet.misc_shelf1.text.3145aff6e01bee3a7b352feaa75e47a68d1254a5,Lots of cleaning supplies. It smells weird.,Nhiều dụng cụ lau dọn. Có mùi kì cục.
-,,
-story.Prologue_Closet.misc_shelf2.text.a85277e1e8c1f6417364c38374767eeeb52a8cd9,Lots of school supplies.,Nhiều vật dụng trường học.
-,,
-story.Prologue_Closet.misc_shelf3.text.4ba5e69f8c49a7210cd2119db03157a643d7cbcf,Books and paints line the shelves.,Trên kệ có dàn hàng sách và sơn.
-story.Prologue_Closet.misc_shelf3.text.f4fe2fd486b6f484d2a3eb038a93d362698257ad,There's a small key on one of the shelves.,Có chiếc chìa nhỏ trên kệ.
-,,
-story.Prologue_Closet.misc_shelf3.choice.text.e8d32d47491e2462d1e83b81526638ac486785c4,Take it?,Lấy chứ?
-story.Prologue_Closet.misc_shelf3.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Lấy
-story.Prologue_Closet.misc_shelf3.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi
-,,
-story.Prologue_Closet.misc_trashcan.text.d2b94da5701642c0b5cf0676bce97b7c8cec9c36,"A trash can, even in a place like this.",Cả nơi thế này cũng có thùng rác à.
-story.Prologue_Closet.misc_trashcan.text.184dfca13dc0b12d30ed7fbfda7cc32e81fbabda,Why would there be a trash can in a supply closet?,Tại sao trong phòng kho lại có thùng rác được nhỉ?
-story.Prologue_Closet.misc_trashcan.text.bf5882813d68413813016b7f53f29a6f564e0c6d,Maybe it's a spare?,Hay là dự trữ?
-,,
-story.Prologue_Closet.move_enter.text.e546160a6cd64122e58764a489cab01a441d3e0e,It's… so dark.,It's… so dark.
-story.Prologue_Closet.move_enter.text.ebad42b53c04c2d474b06c1c4add28d789039319,"Come on Ponytail, don't chicken out on me now.","Come on Ponytail, don't chicken out on me now."
-story.Prologue_Closet.move_enter.text.d0287ec14444f3128404d3b9d8f94cda379f46a2,Don't call me that.,Don't call me that.
-story.Prologue_Closet.move_enter.text.25d7bc6cd444e8999ed6c39741142b6e5fae42ba,"You have a ponytail, don't you?","You have a ponytail, don't you?"
-story.Prologue_Closet.move_enter.text.442dca226a53f711793ade66df0b0c9126f7d6b1,I have a name too.,I have a name too.
+﻿,en,vi,char
+story.Prologue_Closet.event_already_unlocked.text.968cf294d2af6de9dd83458665405ede889fc78c,It's already unlocked.,Khóa đã mở rồi.,
+,,,
+story.Prologue_Closet.event_check_boxes2.text.3efa3bb2fb6e251672fb13b7a447a4ce98e8fc21,"The box contains various empty notebooks, textbooks and… chalk.",Trong thùng cất đủ thứ từ vở trắng với sách giáo khoa đến… phấn viết.,
+,,,
+story.Prologue_Closet.event_check_boxes2.choice.text.5078eaf469aefaa38fdd3029a11241e3cf8168bd,Take chalk?,Lấy phấn viết chứ?,
+story.Prologue_Closet.event_check_boxes2.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Lấy,
+story.Prologue_Closet.event_check_boxes2.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi,
+,,,
+story.Prologue_Closet.event_check_boxes2.text.6c7046d999cb8e218e5f25caedfa2bd2129b01b4,There's nothing else of interest,Chẳng có thứ gì khác đáng lưu tâm.,
+,,,
+story.Prologue_Closet.event_read_letter.text.0b77af16b10644f276cd40539ac9a3a9b76f42c5,There's some dusty documents that catch your eye.,Có mấy giấy tờ bụi bặm đập vào tầm mắt.,
+,,,
+story.Prologue_Closet.event_read_letter.choice.text.669a9ddb15528f0c9e0a315083c81df92b8ff096,Read them?,Đọc chứ?,
+story.Prologue_Closet.event_read_letter.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Đọc,
+story.Prologue_Closet.event_read_letter.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi,
+,,,
+story.Prologue_Closet.event_read_letter.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat
+story.Prologue_Closet.event_read_letter.text.56938ff59db914f5e4ccefed542767489539d562,It's a… lawsuit?,It's a… lawsuit?,Juli
+story.Prologue_Closet.event_read_letter.text.823c138b3b79933606208b109da4b9a6798e383d,What's that doing in a place like this?,What's that doing in a place like this?,Kat
+story.Prologue_Closet.event_read_letter.text.ca9a843c89ef06a36ac666841f012279e9d7ef19,I heard about that from my dad.,I heard about that from my dad.,Kaya
+story.Prologue_Closet.event_read_letter.text.ab74baedf2c652b245cb8fcab62af2b401308c24,Supposedly someone sued the school because of their daughter's disappearance.,Supposedly someone sued the school because of their daughter's disappearance.,Kaya
+story.Prologue_Closet.event_read_letter.text.c4b425d460277e82e3794be207f6c0ec131bf617,"Oh, the 2nd year girl?","Oh, the 2nd year girl?",Saki
+story.Prologue_Closet.event_read_letter.text.43b045020b2915371d1a3ef28fafe7cb0a7b420a,"I heard something happened, but I didn't know the school was involved.","I heard something happened, but I didn't know the school was involved.",Saki
+story.Prologue_Closet.event_read_letter.text.00dbc56c38c39218e95b51f0fd0af1f553fefa0e,I don't know either.,I don't know either.,Kaya
+story.Prologue_Closet.event_read_letter.text.ff7d93942dc178f0178375df1c67f17dc2421958,"But she was last seen at school, so her family was convinced that something happened here and it was covered up.","But she was last seen at school, so her family was convinced that something happened here and it was covered up.",Kaya
+story.Prologue_Closet.event_read_letter.text.819c8ff56b0b25ee5d14ea897372110833ccc6ec,There's definitely an odd history of disappearances in this town.,There's definitely an odd history of disappearances in this town.,Kat
+story.Prologue_Closet.event_read_letter.text.6073216c21cfcabd279770f9c049e994d0361ea6,"When I graduate, I'm out of here.","When I graduate, I'm out of here.",Saki
+,,,
+story.Prologue_Closet.item_hairpin_on_locker.text.2b8fda9ac1cebeb67f7ea62bcc3893c4f740d7a4,The hairpin doesn't fit into this lock.,Kẹp tóc không khít với lỗ khóa.,
+,,,
+story.Prologue_Closet.item_locker_key_on_locker.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!,
+,,,
+story.Prologue_Closet.item_scissors_on_boxes_open.text.1f9913697f860ce86c064d318344d2abd1a3b4bf,The boxes are already open.,Đống thùng đã mở rồi.,
+,,,
+story.Prologue_Closet.misc_boxes1.text.5c7bf7d6fbad6f6c11b70a08825e2ff08f8bd157,Boxes filled with rags and other cleaning supplies.,Đống thùng nhét đầy giẻ lau với dụng cụ lau dọn này nọ.,
+,,,
+story.Prologue_Closet.misc_boxes2.text.466fd22e05359fdf47fef5e6033b73337ddfb11a,A sealed box.,Thùng bị niêm phong.,
+,,,
+story.Prologue_Closet.misc_boxes3.text.860edf7b4edf736d46135e4e511fd51dc40b51d6,Some boxes filled with random objects.,Mớ thùng chất đầy mấy thứ linh tinh.,
+story.Prologue_Closet.misc_boxes3.text.b966390fa890acb31ba0f2bdaadd3d4f530cc811,This is the lost and found box!,This is the lost and found box!,Saki
+story.Prologue_Closet.misc_boxes3.text.e7da47b65ddbdbb71c9821469db4be65290b7dfe,Really?,Really?,Juli
+story.Prologue_Closet.misc_boxes3.text.21cc5ce1b853cc0513e4dead7d6267ce713d3410,"Look, I found my old shoe.","Look, I found my old shoe.",Kaya
+story.Prologue_Closet.misc_boxes3.text.42e143afc5fb64e268be14fa705fa8c320b74c37,A shoe…?,A shoe…?,Saki
+story.Prologue_Closet.misc_boxes3.text.5660ff6c16f5a057eb31581a3b23ffdc1539a666,I lost it years ago.,I lost it years ago.,Kaya
+story.Prologue_Closet.misc_boxes3.text.eb5dc43c0b0f059f55fe8b1ef7a4a3013b0d5c43,How do you lose one shoe?,How do you lose one shoe?,Kat
+story.Prologue_Closet.misc_boxes3.text.e309d31ae28974994788c443081578e1a558ff1e,It just disappeared.,It just disappeared.,Kaya
+story.Prologue_Closet.misc_boxes3.text.a7296183ffb7c16a2eb170c67583aab0996d2f79,Oh! My lighter!,Oh! My lighter!,Kat
+story.Prologue_Closet.misc_boxes3.text.8d8954f68330b8ae676d76a90516499f6f35f1dd,Don't you already have a lighter?,Don't you already have a lighter?,Saki
+story.Prologue_Closet.misc_boxes3.text.b45bf01c136fd0d3bad5cd990ceab98d940759bf,This is my old one.,This is my old one.,Kat
+story.Prologue_Closet.misc_boxes3.text.ff8940273daaa29dda922c68cf7897f70d75674f,You lost a lighter in the school?,You lost a lighter in the school?,Juli
+story.Prologue_Closet.misc_boxes3.text.f195951c15fb7b73c0afdc3c6895ecbc28439cee,"No, they confiscated it.","No, they confiscated it.",Kat
+story.Prologue_Closet.misc_boxes3.text.639e7a4296eab8091138a6de5007a22114a79ce1,Figures. Lighters can be dangerous.,Figures. Lighters can be dangerous.,Juli
+story.Prologue_Closet.misc_boxes3.text.1c9909cc851d243b6f8c7484e841a675f8a0550e,Only in the wrong hands.,Only in the wrong hands.,Kat
+story.Prologue_Closet.misc_boxes3.text.b6b4b5c6564a00c6c4eff984b7374eb064b2d06c,And yours aren't?,And yours aren't?,Saki
+story.Prologue_Closet.misc_boxes3.text.109af417c70c6787822e6511f80fe657cb247c20,You shouldn't bring lighters to school…,You shouldn't bring lighters to school…,Kaya
+story.Prologue_Closet.misc_boxes3.text.fa49cb307a80bc610227416132f07cab1aeb96d4,There's nothing else of interest.,There's nothing else of interest.,
+,,,
+story.Prologue_Closet.misc_brooms.text.651a6cab00674da299f9e57773d9e6cddb9f599b,Some used brooms.,Vài cây chổi bị xài đến bục rồi.,
+,,,
+story.Prologue_Closet.misc_calendar.text.e1721dc7d943c36af39a63c243f111302d1a7e8e,A calendar and information sheet for the cleaning staff.,Lịch và yết thị dành cho nhân viên quét dọn.,
+,,,
+story.Prologue_Closet.misc_cart.text.a8220075d01a471f228e09bc7f3cc5af2c36e2a8,A cleaning cart.,Xe lau dọn.,
+story.Prologue_Closet.misc_cart.text.cf08ff029cf3a6ca341ce3a529f9fc563312d3e2,It could use some cleaning.,Bản thân cái xe có lẽ cần được lau dọn luôn.,
+,,,
+story.Prologue_Closet.misc_lamp.text.77cc674f44282a5300120d2c9266d7ea924ece6a,A dusty lamp. The light bulb is missing.,Đèn dính bụi. Thiếu mất bóng đèn.,
+,,,
+story.Prologue_Closet.misc_lightswitch.text.d4fde55136057780b55819795301858743c7d71d,Well that's ominous.,Well that's ominous.,Juli
+story.Prologue_Closet.misc_lightswitch.text.732ef3ea772e50841efef6e0b29d01eabac1e946,A little darkness won't hurt anybody.,A little darkness won't hurt anybody.,Kat
+story.Prologue_Closet.misc_lightswitch.text.6f9706a989fe2345867a3c04dc3bef57b1188761,…Probably.,…Probably.,Kat
+story.Prologue_Closet.misc_lightswitch.text.7038087d2f51b63829e0270442953afff5443363,It doesn't work.,It doesn't work.,
+,,,
+story.Prologue_Closet.misc_locker.text.8fe3958cb64392de5f0f4c9951b5cf43f407a099,A large locker that could probably fit a person.,Tủ đồ lớn đến nỗi chứa được một người luôn.,
+story.Prologue_Closet.misc_locker.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Bị khóa rồi.,
+,,,
+story.Prologue_Closet.misc_shelf1.text.3145aff6e01bee3a7b352feaa75e47a68d1254a5,Lots of cleaning supplies. It smells weird.,Nhiều dụng cụ lau dọn. Có mùi kì cục.,
+,,,
+story.Prologue_Closet.misc_shelf2.text.a85277e1e8c1f6417364c38374767eeeb52a8cd9,Lots of school supplies.,Nhiều vật dụng trường học.,
+,,,
+story.Prologue_Closet.misc_shelf3.text.4ba5e69f8c49a7210cd2119db03157a643d7cbcf,Books and paints line the shelves.,Trên kệ có dàn hàng sách và sơn.,
+story.Prologue_Closet.misc_shelf3.text.f4fe2fd486b6f484d2a3eb038a93d362698257ad,There's a small key on one of the shelves.,Có chiếc chìa nhỏ trên kệ.,
+,,,
+story.Prologue_Closet.misc_shelf3.choice.text.e8d32d47491e2462d1e83b81526638ac486785c4,Take it?,Lấy chứ?,
+story.Prologue_Closet.misc_shelf3.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Lấy,
+story.Prologue_Closet.misc_shelf3.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi,
+,,,
+story.Prologue_Closet.misc_trashcan.text.d2b94da5701642c0b5cf0676bce97b7c8cec9c36,"A trash can, even in a place like this.",Cả nơi thế này cũng có thùng rác à.,
+story.Prologue_Closet.misc_trashcan.text.184dfca13dc0b12d30ed7fbfda7cc32e81fbabda,Why would there be a trash can in a supply closet?,Tại sao trong phòng kho lại có thùng rác được nhỉ?,Kat
+story.Prologue_Closet.misc_trashcan.text.bf5882813d68413813016b7f53f29a6f564e0c6d,Maybe it's a spare?,Hay là dự trữ?,Juli
+,,,
+story.Prologue_Closet.move_enter.text.e546160a6cd64122e58764a489cab01a441d3e0e,It's… so dark.,It's… so dark.,Saki
+story.Prologue_Closet.move_enter.text.ebad42b53c04c2d474b06c1c4add28d789039319,"Come on Ponytail, don't chicken out on me now.","Come on Ponytail, don't chicken out on me now.",Kat
+story.Prologue_Closet.move_enter.text.d0287ec14444f3128404d3b9d8f94cda379f46a2,Don't call me that.,Don't call me that.,Saki
+story.Prologue_Closet.move_enter.text.25d7bc6cd444e8999ed6c39741142b6e5fae42ba,"You have a ponytail, don't you?","You have a ponytail, don't you?",Kat
+story.Prologue_Closet.move_enter.text.442dca226a53f711793ade66df0b0c9126f7d6b1,I have a name too.,I have a name too.,Saki
