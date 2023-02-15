@@ -1,4 +1,4 @@
-﻿,en,ja
+,en,ja
 story.Global.prologue_boxpuzzle_explanation.text.5127ee45f5d64a6fbfe3f27c37d8beea71cf8b3f,"Alright, let's see…",さて、えっと……
 story.Global.prologue_boxpuzzle_explanation.text.0e38c332e3a68470735df29d9b4ef5dd21c1a5c2,According to my notes…,メモによれば……
 story.Global.prologue_boxpuzzle_explanation.text.7a6a98d9c89edd44dda70c219ee11bdc71cb190d,I need to move the desks to the sides in all three classrooms.,まず、3つの教室全部の机を脇に寄せる。
@@ -7,9 +7,11 @@ story.Global.prologue_boxpuzzle_explanation.text.6a36f5c97736b9ab9013672b97d67d4
 ,,
 story.Global.prologue_check_plants_cut.text.6329e8a7c52b3f3d8e22117c3eb6d3ca2ae1ff42,Oh no…,な……
 story.Global.prologue_check_plants_cut.text.c994deb18593c8d8a50b63c6872c2e7774cf2711,What are you doing…? Is this part of the ritual?,何してるの……？ それも儀式の一部？
+,,
 story.Global.prologue_check_plants_cut.text.be9de4cb21c061133a2d908557b21c5a8b41cfa6,Um… what's wrong with you?,ねぇ……一体どうしたのよ？
 story.Global.prologue_check_plants_cut.text.14823da364c5b4ffe05585bf06e9182d494771ac,"If this ritual involves the mass genocide of harmless plants, then I want nothing to do with it.",もしこの儀式とやらに罪のない植物の大量虐殺が必要なら、私は関わり合いになるのはごめんよ。
 story.Global.prologue_check_plants_cut.text.f965096ab02c7c90ddc4f72df5ebd77885ea3387,Agreed.,同感ね。
+,,
 story.Global.prologue_check_plants_cut.text.8799a772c4fb396e35f00a4b0f74e8928980c961,Are you seriously going to go around killing all the plants?,本気で全部の植物を殺して回るつもり？
 story.Global.prologue_check_plants_cut.text.d2b100e7d08f55aeecc15e13110b72d7aabbc9d5,I knew you were a psychopath…,あんた、やっぱりサイコパスね……
 story.Global.prologue_check_plants_cut.text.ef3aada0e2404993532733408a29bc6d65522cab,"Sorry Kat, but we didn't sign up for this.",申し訳ないけど、こんな話聞いてないわ。
@@ -24,6 +26,7 @@ story.Global.prologue_cutscene_ritual_1.text.a64bab41229e760e6a3777df0df4d89b8fa
 story.Global.prologue_cutscene_ritual_1.text.e9a37dc0299fbe32789eb529cb417520a49733e8,All that's left is to wait 5 minutes and then burn the hair.,あとは5分待って、髪の毛を燃やすだけだわ。
 story.Global.prologue_cutscene_ritual_1.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,……
 story.Global.prologue_cutscene_ritual_1.text.d9209023e7ea00416d4032543816863a4c9630d5,This is going to be such a pain to clean up.,後片付けには骨が折れそうね。
+,,
 story.Global.prologue_cutscene_ritual_1.text.77f093b27a3b2e995135c69d91b6df892af56b15,Seriously? Stop messing with things!,正気!? 変な事に手を出すのはやめなよ！
 story.Global.prologue_cutscene_ritual_1.text.7abf611b05a393449db18eaaf7668d1e3d39ebd6,"But everything I ""mess with"" ends up being a scam.",でも私が「手を出した」ものは結局全部イカサマだったわ。
 story.Global.prologue_cutscene_ritual_1.text.1683c0a3cdf4b32ddb41ecdaefde6416c39d352e,What if some day it isn't?,もしいつかそうじゃなかったら？
@@ -43,6 +46,7 @@ story.Global.prologue_cutscene_ritual_1.text.06c89242f9cc19584850e1b9eff4a7b7cc3
 story.Global.prologue_cutscene_ritual_1.text.6d9f9d1bc6b602886e1f7025425c149cf46b369b,Fine. You win. It's in the occult club.,はいはい。あなたの勝ちよ。手紙はオカルト部にある。
 story.Global.prologue_cutscene_ritual_1.text.b4c780012d6db8d0ded87a45b256d81cd876c064,There's a golden envelope in one of the drawers. But they won't let you sniff around since you're not a member.,引き出しの中の金色の封筒。でも、あなたは部員じゃないから探させてもらえないと思うわよ。
 story.Global.prologue_cutscene_ritual_1.text.0003951eb45f1c8b0e23224b586f5bd60d09f659,"Thanks, you're the best!",ありがと、最高！
+,,
 story.Global.prologue_cutscene_ritual_1.text.73fef01e230300ae6fc10ffd739157b067709157,Huh?,んん？
 story.Global.prologue_cutscene_ritual_1.text.3d39d3bfb8b32f98d718cb1c17c6cd4477420392,(Is there somebody at the door..?),(ドアのところに誰かいる……？)
 ,,
@@ -94,6 +98,7 @@ story.Global.prologue_cutscene_ritual_girls.text.48ddf60ef6d01c2d11e1a5c09b8e7c3
 story.Global.prologue_cutscene_ritual_girls.text.0cf48a4caa4a9cf4d8c7817934cfc7322a61eb8e,"So… you're just making us make a mess, so that we can help you clean it up?",じゃあ……私たちに後片付けを手伝わせるために、わざわざ散らかさせようってわけ？
 story.Global.prologue_cutscene_ritual_girls.text.fc99d18a3b6169273fb557aae017c984dba4663f,"What's the matter, are you not entertained?",問題でも？ ワクワクしてるくせに？
 story.Global.prologue_cutscene_ritual_girls.text.9baa59f88b821933467def38048f2a9ff7a7a947,…Tsk.,……もう。
+,,
 story.Global.prologue_cutscene_ritual_girls.text.1d724c012150715dedf43215e3bf63986157eda9,I think it's time.,そろそろ5分よ。
 story.Global.prologue_cutscene_ritual_girls.text.689f1069f423b0c9e7cc1f62ced369d544041a13,Finally!,ようやくね！
 story.Global.prologue_cutscene_ritual_girls.text.ac3388fc02adb7f378c4cdcf30cbfee771c97ae6,Now I just burn this…,じゃあ燃やすわよ……
@@ -310,10 +315,12 @@ story.Global.prologue_item_scissors.choice.2d5f5b0553b68392fe5836efa5e0f9f90f568
 story.Global.prologue_item_scissors.text.a02d057a764ee283c5f00e69709935565643195a,Sigh…,はぁ……
 story.Global.prologue_item_scissors.text.b6ec1c5bd6f96b16a291a513b560b1983297a61d,"Here I go, I suppose…",やりますか……
 story.Global.prologue_item_scissors.text.6ebeaa4751257aa77168c77473d8692a0199152d,I never want to do that again.,二度とやりたくないわね。
-,,
 story.Global.prologue_item_scissors.text.78513c428da3e82b3d9c0e31eaa6102d16f7c005,"You're so brave, Kat.",勇気あるね、キャット。
+,,
 story.Global.prologue_item_scissors.text.3ff88283e120b72b59210fe456db1fc6a4c74fdb,Of course not.,切るわけないじゃない。
+,,
 story.Global.prologue_item_scissors.text.32646a8dbfe784832b3847f9b024f87205853d07,I already have enough hair.,もう十分髪はある。
+,,
 story.Global.prologue_item_scissors.text.79e6a54246ee62a14f305087f065be2ea7a2b604,(Nah.),(うーん。)
 story.Global.prologue_item_scissors.text.e0d56e99f7f18c0f7f197515332e77d24b1068e9,Um… any takers?,あー……手伝ってくれる人ー？
 story.Global.prologue_item_scissors.text.2ef875b9bf67843ac034ca44671c7357f60255b4,What do you need?,何が必要なの？
