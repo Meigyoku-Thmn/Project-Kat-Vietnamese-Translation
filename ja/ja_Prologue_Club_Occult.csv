@@ -2,14 +2,18 @@
 story.Prologue_Club_Occult.chr_girl1.text.bf667d8b6a89f321247a6799b1f91bc7781a8f21,What are you looking at?,何見てるのよ？
 ,,
 story.Prologue_Club_Occult.chr_girl1.text.4c252268dec8cf833583f54b4a7af7c978d151e1,Get out of my face.,どっか行って。
+,,
 story.Prologue_Club_Occult.chr_girl1.text.a91c91606a5dc6fe461a14ad0146e969a110e816,"My seat is on the second row from the front, in class 3-C.",私の席は3-Cの前から2番目の列にあるわ。
+,,
 story.Prologue_Club_Occult.chr_girl1.text.d95523cf7dce8c6e095dd66a9e918d4cf9c09073,Maybe you don't suck as much as I thought.,あなた、思ってたより嫌な奴じゃなかったのかもね。
+,,
 story.Prologue_Club_Occult.chr_girl1.text.2e8bd70e7eb6ad46f216654e95309e8d874f5c82,I'm surprised you even gave it back. Maybe I misjudged you.,返してくれただけでも驚きよ。あなたのこと誤解してたのかも。
 ,,
 story.Prologue_Club_Occult.chr_girl2.text.fd68308feaa410d05155aa48b31a4ff2ed1d390b,I bet you think you're SO funny. We have other plans for the night anyway.,さぞかし自分のこと面白いと思ってるんでしょうね。まあいいわ、私たちには他にも計画があるから。
 story.Prologue_Club_Occult.chr_girl2.text.3a220e862b6cbfb65523f6f5d7ff47790c804ccb,Whatever you say!,お好きにどうぞ！
 ,,
 story.Prologue_Club_Occult.chr_girl2.text.2a9c4fd230b5fccf9ddaa404b8b1563e9792726b,Don't talk to me anymore. I won't forget this.,もう話しかけないで。この事は忘れないわよ。
+,,
 story.Prologue_Club_Occult.chr_girl2.text.0664812fa94dffb089fa6908bd5944e5f60fca8f,Good luck with your game.,ゲーム、うまくいくといいわね。
 ,,
 story.Prologue_Club_Occult.chr_girl3.text.19c775512d807b2941e69104895cac4880b908c7,(She's really concentrated on fixing her ribbon. Best not to disturb her.),(リボンを直すのに集中してる。邪魔しないほうがよさそう。)
@@ -17,6 +21,7 @@ story.Prologue_Club_Occult.chr_girl3.text.19c775512d807b2941e69104895cac4880b908
 story.Prologue_Club_Occult.chr_girl3.text.1789139ff743aea324d47e9f4c09d0a6fc174467,(She's angrily fidgeting with her ribbon. Best not to bother her anymore.),(イライラした様子でリボンをいじってる。これ以上邪魔しないほうがよさそうね。)
 ,,
 story.Prologue_Club_Occult.chr_girl3.text.4c726a6d4443752d1e468b67e2e234aa5484fd00,It's good to finally make some new friends.,ようやく新しい友達ができてよかったね。
+,,
 story.Prologue_Club_Occult.event_bag_with_girls.text.5a60498288556038fa802bf3fb6e5865b2ce9284,Are you leaving this here?,鞄、ここに置いてくの？
 story.Prologue_Club_Occult.event_bag_with_girls.text.c6992d838875685d1cc03b66cd02a2e9af1c4677,Why not? I'll pick it up before going home.,いいでしょ？　帰る前に取りに来るわ。
 story.Prologue_Club_Occult.event_bag_with_girls.text.afe357b0abf8008bda4bb8484a590d114a2d53ee,May I look through it?,中を見てもいい？
@@ -29,13 +34,16 @@ story.Prologue_Club_Occult.event_bag_with_girls.text.83b769ed6217abe389ba5682f6a
 story.Prologue_Club_Occult.event_bag_with_girls.text.4e8b588e9ebc23799acfed070773c9f438e67f5b,God!,ったく！
 story.Prologue_Club_Occult.event_bag_with_girls.text.824059dbe3eda0d45398a6feeed9e54c70f680f2,"Fine, fine…",まあまあ……
 story.Prologue_Club_Occult.event_bag_with_girls.text.aa830d42494510481ddf6ac46c2e9e38ef712501,You put the lettuce back.,レタスを戻した。
+,,
 story.Prologue_Club_Occult.event_bag_with_girls.text.4d478fc99da6c3eb757e1b3c69937b34c47d2502,It's Saki's bag.,サキの鞄。
+,,
 story.Prologue_Club_Occult.event_bag_with_girls.text.e59a1f53454ba6531ce18fe1116cdfff365e6cb5,Saki's bag is gone.,サキの鞄が消えている。
 story.Prologue_Club_Occult.event_bag_with_girls.text.feb3f704fb11b8e679389d9e0dcea5111f6277c9,What? Where is my bag?,あれ？　私の鞄は？
 story.Prologue_Club_Occult.event_bag_with_girls.text.53f9546958c48512f810653f8779a1cfc0d42170,Is someone else here with us?,学校にまだ他に誰かいたのかしら？
 story.Prologue_Club_Occult.event_bag_with_girls.text.b5af77ffe202ac10e4b0ad4b3c9b3dfd7ad3249f,This isn't good…,まずいわね……
 story.Prologue_Club_Occult.event_bag_with_girls.text.7e287a68cb19763f13e311ae76bd472cfc0a0632,Hopefully it was just the janitor and you can get it back on Monday.,単に清掃員が持って行っただけで、月曜日に返してもらえればいいけど。
 story.Prologue_Club_Occult.event_bag_with_girls.text.35eb9e717891b07fff1a471c25fa342413fc864e,Uuugh…,うー……
+,,
 story.Prologue_Club_Occult.event_break_crow.text.fd5385765655803e431925931cf2fb6a8712490f,Isn't this stuffed crow just so cool?,このカラスの剥製、超カッコよくない？
 story.Prologue_Club_Occult.event_break_crow.text.d64c2846fa57a8beb81708dd2780696d44a13c42,Oh no.,あっ。
 story.Prologue_Club_Occult.event_break_crow.text.b9a27a9dc256a72174e84e6859faa7a87467ab5c,"…So you're that type, huh?",……へー、そういうタイプなのね？
@@ -98,12 +106,16 @@ story.Prologue_Club_Occult.event_conversation_6.rename.chr.aeb2d1b92e6273c7af5ee
 story.Prologue_Club_Occult.event_conversation_6.rename.chr.428a50a6290c47097af5cded5515806ba6ba4e07,Kaya,カヤ
 story.Prologue_Club_Occult.event_conversation_6.text.4af8ce15df32dadca0c886faa1cb1e20bd1acd9c,"I'm Juli. This is Saki, and this is Kaya.",私はジュリ。こっちがサキで、この子がカヤ。
 story.Prologue_Club_Occult.event_conversation_6.text.64753c6fe019c4dad6292319d4387ea91bd3cee9,Nice to meet you.,よろしくね。
+,,
 story.Prologue_Club_Occult.event_conversation_girl1_extra.text.99f66dd797d3b56baa4d59a697205565ff24197f,"You know, you're quite the celebrity among third year students.",あなた、3年生の間じゃ有名人よ。
 story.Prologue_Club_Occult.event_conversation_girl1_extra.text.e7255d504ffbd2c5125175747041f58ad0f69d68,…for all the wrong reasons.,……いわれのないことだったみたいだけど。
+,,
 story.Prologue_Club_Occult.event_conversation_girl1_extra.text.abff8b7896c7f212a0ebffec3cd6c37c64f83c53,You should hang out at 3-C sometime.,たまには3-Cにも来るといいわ。
+,,
 story.Prologue_Club_Occult.event_conversation_girl3_extra.text.e1f5627f5acd4aff0df0066eef13152f88c7e60b,Do you um… need help with that ribbon?,その……リボン整えるの手伝おうか？
 story.Prologue_Club_Occult.event_conversation_girl3_extra.text.c4b236969b05273249bb7a046a83455df6a3ef61,Ah… no… I'm just fidgeting…,あ……ううん……いじってるだけだから……
 story.Prologue_Club_Occult.event_conversation_girl3_extra.text.fa97725633bd52ddb8fb0409986f9de3133d8182,Got it.,わかった。
+,,
 story.Prologue_Club_Occult.event_conversation_redirect.text.5579951ff73a553cbddac8244de8a67bd0016ffd,Don't mind Saki. She's not the bitch she pretends to be.,サキのことは気にしないで。嫌な奴のふりしてるけど、本当は良い子だから。
 ,,
 story.Prologue_Club_Occult.event_conversation_redirect.text.e75dbe6e9e534e4389a0976b098ff73080594086,We will probably go home soon.,もうそろそろ帰ろうかな。
@@ -125,16 +137,22 @@ story.Prologue_Club_Occult.event_draw_on_chalkboard.text.c5f78d1a63d0c7a1f59040a
 story.Prologue_Club_Occult.event_draw_on_chalkboard.text.dd68d63ef43a2a7a0cef0bcbb1ab05bce13d5b96,This was the most pointless thing you've done today.,今日一番無意味な行動だ。
 ,,
 story.Prologue_Club_Occult.event_draw_on_chalkboard.text.bbfc9b64bfdac2cc550d41423c388e512bd0900e,"My masterpiece is already perfect, no need for modifications.",私の作品はもう完璧。描き足す必要はない。
+,,
 story.Prologue_Club_Occult.event_draw_on_chalkboard.text.a948b49968c3e87473e56d3738829cfc1c8b9919,It's too dark for that.,絵を描くには暗すぎる。
+,,
 story.Prologue_Club_Occult.event_drawing_react_girls.text.abf50765b96509feb083c33cff8bdd0342b582b2,That's cute!,かわいい！
 story.Prologue_Club_Occult.event_drawing_react_girls.text.a0908b83198b163bf333ff0dc7d2abe433dc9322,Thank you very much.,どうもありがとう。
+,,
 story.Prologue_Club_Occult.event_drawing_react_girls.text.58e623035484acf9c8b3fe46282793dd236a7ae1,Is that supposed to be you…?,それ、自分のつもり……？
 story.Prologue_Club_Occult.event_drawing_react_girls.text.797474ad802e18679e2c64bde25e921c948062da,Please never draw a portrait of me.,お願いだから、私を描くのはやめてね。
 story.Prologue_Club_Occult.event_drawing_react_girls.text.8dd076998f56958c4f7004354cb2847b1282c3e0,Wasn't planning to.,もとから描くつもりもないわ。
+,,
 story.Prologue_Club_Occult.event_drawing_react_girls.text.43322b1b2a5d6f934fd12d903fa4b134a66e06f8,"Kindergarten called, they want their drawing skills back.",なかなか上手じゃない、幼稚園にはぴったりよ。
 story.Prologue_Club_Occult.event_drawing_react_girls.text.b4f322d63061daad0429350a5fe1f1d35719d051,This is my depiction of a child's depiction of a house.,これは「子供が描いた家」を描いたのよ。
+,,
 story.Prologue_Club_Occult.event_drawing_react_girls.text.c65a6a18dc893aefd8c437241ec1f3bca22fb889,I expected a bit better from you…,あなたにはもう少し期待してたんだけど……。
 story.Prologue_Club_Occult.event_drawing_react_girls.text.5c3dbddeb29396d0343d48b155247220dc716b5e,I didn't.,私は期待してなかったわ。
+,,
 story.Prologue_Club_Occult.event_key_request.text.5ca83035c28490b453835aa430e8630063ab484a,"Say, are any of you members of the theater club?",ねぇ、あなた達の中に演劇部員はいる？
 story.Prologue_Club_Occult.event_key_request.text.38a907a7fff5a3d11d34f4eea895f9cdd3c757e4,Not really.,そうでもない。
 story.Prologue_Club_Occult.event_key_request.text.f48ac3709c809e9e8a2fe1deee96716a804f8f81,Not really?,そうでもない？
@@ -149,45 +167,57 @@ story.Prologue_Club_Occult.event_key_request.text.846a293c8a138ac1ea6a0fc8c75ecd
 story.Prologue_Club_Occult.event_key_request.text.397e75469ec5ce7ca775776445a893ba924b045b,Aren't you trespassing too?,違反はあなたも同じじゃない？
 story.Prologue_Club_Occult.event_key_request.text.0934c978054852f5b5ddec21916b84ee0fceb9a2,"So, what's the favor you need?",じゃあ、何をしてほしいの？
 story.Prologue_Club_Occult.event_key_request.text.672aec955bc017d7652eb88e9a530bae13688d2b,"Get my notebook. It's in classroom 3-C, under my desk.",私のノートを取ってきて。3-C教室の、机の中にある。
+,,
 story.Prologue_Club_Occult.event_key_request.rename.item.name.3b7476708ee09c1d72e039582c99839e37942ab6,Ponytail's Notebook,ポニテのノート
 story.Prologue_Club_Occult.event_key_request.rename.item.desc.463a8937d7be87671f781e35f2f1c92200d48521,A red notebook that the girl with the ponytail forgot. She probably wants it back.,ポニーテールの子が忘れた赤いノート。たぶん返して欲しがってると思う。
+,,
 story.Prologue_Club_Occult.event_key_request.choice.text.89f7671b9c14232b6571a835e3c278fd449020a3,Should I get the notebook for her?,ノートを取ってきてあげる？
 story.Prologue_Club_Occult.event_key_request.choice.2532900e505ae78ff23dbdcaf638838eecd9fef3,"Alright, I'll do it",OK、取ってくる
 story.Prologue_Club_Occult.event_key_request.choice.2d5f5b0553b68392fe5836efa5e0f9f90f568416,Forget it,やめておく
+,,
 story.Prologue_Club_Occult.event_key_request.text.34534e230ce63fd215ea680acc67045b81607e66,You will?,取ってきてくれるの？
 story.Prologue_Club_Occult.event_key_request.text.b219b67c54a45220f5d4c6808cc4e97e3ced8265,"Then, when you find it, please don't look through it.",なら、見つけても中は見ないでね。
 story.Prologue_Club_Occult.event_key_request.text.579db59b0eb99f0bd1c1439ba6f9735788f9ca74,"Sure, sure.",はいはい。
+,,
 story.Prologue_Club_Occult.event_key_request.text.51d612266cf87e6448797a4b54f05830193b53ac,"Of course, of course.",そうでしょうね。
 story.Prologue_Club_Occult.event_key_request.text.d09882338b9476d133eb3c60fc062910ce301b72,Good luck finding another key to the club room.,ならせいぜい頑張って他の鍵を探すことね。
 story.Prologue_Club_Occult.event_key_request.text.07809df4fac339304ce024eba2032d2138e9c103,We'll see about that.,今に見てなさい。
+,,
 story.Prologue_Club_Occult.event_key_request.text.821e5fb251937d228d081d73da64e97b7ee13bc2,You mean this one?,これのこと？
 story.Prologue_Club_Occult.event_key_request.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,……
 story.Prologue_Club_Occult.event_key_request.text.a503996223cb7f5c642fe58c7adfd290aa22f366,How did you-?,いったいどうして……？
 story.Prologue_Club_Occult.event_key_request.text.81667ccab31a8a802ab7b7b9e1b624d6a16c2c43,"Yes, that's the one.",そう、それのことよ。
 story.Prologue_Club_Occult.event_key_request.text.d0e6a0382a7d608f6871852bdfd894862fbb8f3a,Here's the key. I expect it back at some point.,鍵はこれ。あとでちゃんと返してね。
 story.Prologue_Club_Occult.event_key_request.text.113a936a2577ad11edae551f902e4e57aefd5813,Happy to help.,お役に立てて何より。
+,,
 story.Prologue_Club_Occult.event_key_request.text.8729425f2b61a2a50569e0faa07e855353a76e39,"Well, you brought my notebook so…",まぁ、ノートを取ってきてくれたんだから……
 story.Prologue_Club_Occult.event_key_request.text.b4f71e3b3b4d51f452e1e85998aec5ace13f7894,"Here you go, I guess. Please don't break anything.",はいこれ、鍵。何も壊さないでね。
 story.Prologue_Club_Occult.event_key_request.text.7039a648bed419501ae5c1cc8c4138abe2bb1877,And don't forget to bring it back to me.,あと、返すのも忘れないで。
 story.Prologue_Club_Occult.event_key_request.text.1da20795f84bb9c5e16697aea34f14720e38fc37,Thanks!,ありがと！
+,,
 story.Prologue_Club_Occult.event_open_box.text.ea4a17b27cc8b9ff50f607187619d1b0c5a12507,There's a bunch of useless trash in here…,中はいらないガラクタばっかりね……
 story.Prologue_Club_Occult.event_open_box.text.52fc2c5b37a13b33ffd6946b51b200348cbcd334,Aha! This little box may be it.,あぁ！　この小さい箱が多分そうだわ。
 story.Prologue_Club_Occult.event_open_box.text.a703afe3e05e73d76c24d71a301988bf360d6c47,There's three runes… but the ritual didn't mention a specific one.,3つあるけど……どれを使うかは儀式の手順には書いてなかった。
+,,
 story.Prologue_Club_Occult.event_open_box.choice.text.5448909afde37af0e3792b10d637896c7d65d18e,Which one should I take?,どれにしよう？
 story.Prologue_Club_Occult.event_open_box.choice.e1da94bc5822b49d64e85608f56ba48ab98ccb6e,The weird C,「C」っぽい文字のもの
 story.Prologue_Club_Occult.event_open_box.choice.ef2749c8f1634ee7093ee55ffe0eae3aced4143b,The weird B,「B」っぽい文字のもの
 story.Prologue_Club_Occult.event_open_box.choice.c1310eee2491276ac0b1c674f547363ffae070b7,The weird O,「O」っぽい文字のもの
+,,
 story.Prologue_Club_Occult.event_open_box.text.2669cc23ec9a922ca884004193bd4d8e1e422462,What's that?,それは何？
 story.Prologue_Club_Occult.event_open_box.text.8693ebe42c2b21b44bbb06fbafb3ace1c3e28258,A rune. The ritual calls for it.,ルーン。儀式に必要なの。
 story.Prologue_Club_Occult.event_open_box.text.06b2c135c0cd5ad382fc2e7bf514ca2bf8828d46,What does it do?,どう使うの？
 story.Prologue_Club_Occult.event_open_box.text.f6d83edc45f0b5db67760927a6156b71e8e91b28,No idea.,わからない。
 story.Prologue_Club_Occult.event_open_box.text.8f80f3174aa4c4e9263ba69b2c89e2cd69d3f4dd,How is this any less childish than the game we were playing…?,これのどこが、私たちのゲームより子供っぽくないっていうのよ……？
+,,
 story.Prologue_Club_Occult.event_read_letter.text.570ed513b8f90a4d33e731b5efb1030ec020e806,There's a golden envelope in the drawer.,引き出しに金色の封筒が入っていいる。
 story.Prologue_Club_Occult.event_read_letter.text.65a12ab7136e287462f2dc83c4a907f0b1036b8d,These are the instructions for the ritual I'm doing.,私が今やっている儀式の手順書ね。
 story.Prologue_Club_Occult.event_read_letter.text.f40cb78939b45c6ebabe5dc3d80ef6fa3fe60670,"Thankfully, I shortened them when I wrote my notes.",これを要約したのが私のメモ。
+,,
 story.Prologue_Club_Occult.event_read_letter.choice.text.45655123c522abf1c4131a5388aeaf8bcc98af9f,Read the full ritual rules?,完全な儀式のルールを見る？
 story.Prologue_Club_Occult.event_read_letter.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,見る
 story.Prologue_Club_Occult.event_read_letter.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,見ない
+,,
 story.Prologue_Club_Occult.event_read_letter.text.83e94b8ca08a1625dca15229f82f9051072cd8ae,You must play alone.,儀式は一人で行うこと。
 story.Prologue_Club_Occult.event_read_letter.text.475ffa14014bb463965306813410e4afd01a7039,Requirements:,必要なもの:
 story.Prologue_Club_Occult.event_read_letter.text.babf76262f0ea838f472ec5a81a46705039c68ab,"- 3 dark, adjacent rooms
@@ -195,7 +225,9 @@ story.Prologue_Club_Occult.event_read_letter.text.babf76262f0ea838f472ec5a81a467
 - A lighter or matches","―隣接した暗い部屋3部屋
 ―ロウソク12本
 ―ライターもしくはマッチ"
-story.Prologue_Club_Occult.event_read_letter.text.8f64422d9fe2c6182dffa0bd2e8a4399656c38ff,#NAME?,"―ルーン1個
+story.Prologue_Club_Occult.event_read_letter.text.8f64422d9fe2c6182dffa0bd2e8a4399656c38ff,"- A rune
+- A tuft of human hair
+- White chalk or White paint","―ルーン1個
 ―髪の毛ひとふさ
 ―白のチョークもしくは絵の具"
 story.Prologue_Club_Occult.event_read_letter.text.7a3e2ecfc019c98540bfc396b5c1c1fb9ddcf45d,Preparations:,準備:
@@ -221,30 +253,44 @@ story.Prologue_Club_Occult.event_read_letter.text.8c62fa816746a7a5cc901cecc949a7
 story.Prologue_Club_Occult.event_read_letter.text.c5953f5a437cf7a422468816d80e7a95e1a70ad0,Do NOT move.,決して動かないこと。
 story.Prologue_Club_Occult.event_read_letter.text.0be540b7490f8a7145cea48aec6914b4bf1eacf0,It is normal to feel like you are not alone. You won't be.,他に誰かいるのではないかと感じるのは正常な感覚。実際、一人ではないだろうから。
 story.Prologue_Club_Occult.event_read_letter.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,……
+,,
 story.Prologue_Club_Occult.event_read_letter.text.12d578abb29a0be6e03a20bb11974bb87ff37639,There's no need to read it again.,読み返す必要はない。
+,,
 story.Prologue_Club_Occult.event_read_letter.text.bab79d53c711295bcee6a0ca286445826fec5c6d,Is that the ritual we're doing right now?,それが、私たちが今やってる儀式？
 story.Prologue_Club_Occult.event_read_letter.text.7169a9fe242bf1537fcb89e9b96d1f00c9745eed,Yeah.,ええ。
 story.Prologue_Club_Occult.event_read_letter.text.b0427f3bd719f15830402c4070925bc3106f7d19,I wonder if anyone else tried it…,もう他に誰かやってみたのかな……
 story.Prologue_Club_Occult.event_read_letter.text.b3133c3a2016adf349093b16433315bf27abf26c,Probably not. It was sealed when I got to it.,たぶん誰も。見つけたときには封がされてたから。
 story.Prologue_Club_Occult.event_read_letter.text.7cd6e5dcad4488ac0ea03d2eb71b7e9519c96699,That's weird. Did they think it was cursed?,変ね。呪われてるとでも思ってたのかしら？
 story.Prologue_Club_Occult.event_read_letter.text.d729e1bb7dc16de6acff6000908d152bcc7418b0,Maybe. I should probably glue it back later.,かもね。あとで糊で貼り直しといたほうがよさそう。
+,,
 story.Prologue_Club_Occult.event_switched_runes.text.bf36462a3375a4c4d2aeefc4c5a541ec37b014f2,Kat.,キャット。
 story.Prologue_Club_Occult.event_switched_runes.text.82ab28432a84699eecd594331cf455abb4815fa7,Hm?,んん？
 story.Prologue_Club_Occult.event_switched_runes.text.6d4d51077cbe74dd495a2c1ae43e57dbb4dc3359,Just decide already!,さっさと決めて！
+,,
 story.Prologue_Club_Occult.item_curtains_on_window.text.c597dacf39b073be30fc38917dbad02b512eedad,This window doesn't need any curtains.,この窓にはカーテンはいらない。
+,,
 story.Prologue_Club_Occult.item_hair_on_girl1.text.fa4517c01ceba1aeef423d00baf9a3d78e6d466e,"Ugh, you disgust me!",ああもう、むかつく奴ね！
+,,
 story.Prologue_Club_Occult.item_hair_on_girl2.text.0d36b354967ee8b55748628072d5e8a96278138a,Why are you holding that like some sort of sick trophy? What is wrong with you!?,何でトロフィーみたいに見せびらかしてくるわけ？ 頭おかしいんじゃないの!?
+,,
 story.Prologue_Club_Occult.item_hair_on_girl3.text.2d7612966e947dc2b338e36dcc3e6749fb3a63e7,"Leave me alone, please.",私のことは放っといて。
+,,
 story.Prologue_Club_Occult.item_hair_on_girl_owner.text.6932de1e80ef377fcd9a8b487cc314f4838d233a,(It's too late to put it back…),(戻すにはもう手遅れだ……)
+,,
 story.Prologue_Club_Occult.item_key_on_girl1.text.affe0c46b56a96ec8939649c10150ed6cb0f1107,Are you done with it?,用事は済んだ？
 story.Prologue_Club_Occult.item_key_on_girl1.text.8b95a779e79fd7888a5a8dd0634f08cad928381c,"Yeah, thanks.",ええ、ありがと。
+,,
 story.Prologue_Club_Occult.item_key_on_girl1.text.44484d3ab1bf77b7f0d8fa30858cf47c7a868039,"Gee, thanks.",まぁね、ありがと。
+,,
 story.Prologue_Club_Occult.item_key_on_girl1.text.394f7e249f341679b0aa382628f82995e6c73ecf,"(I can't give it back yet, I haven't even used it!)",(まだ返すわけにはいかない、使ってすらいないんだし！)
 story.Prologue_Club_Occult.item_key_on_girl1.text.44c582df70cc6e653adf2cf0df3f29fd1b6e16ca,…?,……？
+,,
 story.Prologue_Club_Occult.item_key_on_girl1.text.cb55159ef656a9518b0422b94cc148fa985f813d,Uhh… why do you have that?,うーんと……何であなたが持ってるの？
 story.Prologue_Club_Occult.item_key_on_girl1.text.de483d2ed9649fd1b0b5e03ea9b7e06f98f6b8bf,"Well, thanks for returning it, I guess?",えっと……返してくれてありがと、ね……？
+,,
 story.Prologue_Club_Occult.item_key_on_girl1.text.a1e5a44bc05eb0f93400e861dde926e11e512aa6,"Let me guess. Returning my notebook was too much for you, so you just took the key instead.",わかった。ノートを返すのが嫌だったから、代わりに鍵を盗んだってわけね。
 story.Prologue_Club_Occult.item_key_on_girl1.text.d6fee471b65d61ca093bcde2d3afcae28912e241,"Well, at least you brought it back, I suppose.",ま、返してくれただけマシか。
+,,
 story.Prologue_Club_Occult.item_key_on_girl1.text.76dce1ef7d155c3b5d87ed82c1f6ab710ec81c40,Oh wow. You just took that?,あらあら。勝手に持ってったわけ？
 story.Prologue_Club_Occult.item_key_on_girl1.text.1316b89663b1eb8400e8a4f507221ef260358a33,"You're a real bitch Kat, you know that?",あんた最ッ低よキャット、自覚ある？
 story.Prologue_Club_Occult.item_key_on_girl1.text.1950464812f0237a7d21002f41db251238cc50e3,…of course you had it all along.,……そりゃずっと持ってたわよね。
