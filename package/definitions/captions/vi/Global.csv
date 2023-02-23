@@ -28,7 +28,7 @@ story.Global.prologue_cutscene_ritual_1.text.6eae3a5b062c6d0d79f070c26e6d62486b4
 story.Global.prologue_cutscene_ritual_1.text.d9209023e7ea00416d4032543816863a4c9630d5,This is going to be such a pain to clean up.,Rồi thu dọn cái đống này chắc cũng mệt gãy xương.,Kat
 ,,,
 story.Global.prologue_cutscene_ritual_1.text.77f093b27a3b2e995135c69d91b6df892af56b15,Seriously? Stop messing with things!,Thiệt luôn!? Mày thôi mò vào mấy chuyện kì lạ giùm đi!,???
-story.Global.prologue_cutscene_ritual_1.text.7abf611b05a393449db18eaaf7668d1e3d39ebd6,"But everything I ""mess with"" ends up being a scam.","Nhưng mà mấy chuyện tao ""mò vào"" kết cục đều là xạo mà.",Kat
+story.Global.prologue_cutscene_ritual_1.text.7abf611b05a393449db18eaaf7668d1e3d39ebd6,"But everything I ""mess with"" ends up being a scam.","Nhưng mà mấy chuyện tao ""mò vào"" kết cục đều là giả mà.",Kat
 story.Global.prologue_cutscene_ritual_1.text.1683c0a3cdf4b32ddb41ecdaefde6416c39d352e,What if some day it isn't?,Lỡ ngày nào đó thành thật thì sao?,???
 story.Global.prologue_cutscene_ritual_1.text.0faa47340686c7ea5b8842c2e51eb18fda860e01,What if you end up summoning some ghost or the devil and condemning your soul to an eternity in the netherworld?,Lỡ mày gọi ra ma hay ra quỷ rồi linh hồn mày bị rơi vào địa ngục mãi luôn thì sao?,???
 story.Global.prologue_cutscene_ritual_1.text.59f3a18db288f85ed0d8fc51b97bf913523fdaac,What if your soul is already damned!?,Lỡ đâu linh hồn mày đã bị nguyền rủa rồi thì sao!?,???
@@ -94,7 +94,7 @@ story.Global.prologue_cutscene_ritual_girls.text.f85169cbc60fba5a5872a63a9642688
 story.Global.prologue_cutscene_ritual_girls.text.3c201f47af7989c9c537b3b9632d943d09c25cc0,What happens then?,Xong rồi thì sao nữa?,Juli
 story.Global.prologue_cutscene_ritual_girls.text.f6d83edc45f0b5db67760927a6156b71e8e91b28,No idea.,Chịu.,Kat
 story.Global.prologue_cutscene_ritual_girls.text.e7da47b65ddbdbb71c9821469db4be65290b7dfe,Really?,Thiệt trời?,Saki
-story.Global.prologue_cutscene_ritual_girls.text.48ddf60ef6d01c2d11e1a5c09b8e7c3e7b5ee3d7,"We probably just clean up and go home. These rituals are a scam, you know?",Chắc thu dọn rồi về nhà là hết thôi. Dù gì ba nghi thức kiểu này cũng là xạo thôi í mà.,Kat
+story.Global.prologue_cutscene_ritual_girls.text.48ddf60ef6d01c2d11e1a5c09b8e7c3e7b5ee3d7,"We probably just clean up and go home. These rituals are a scam, you know?",Chắc thu dọn rồi về nhà là hết thôi. Dù gì ba nghi thức kiểu này cũng là giả thôi í mà.,Kat
 story.Global.prologue_cutscene_ritual_girls.text.0cf48a4caa4a9cf4d8c7817934cfc7322a61eb8e,"So… you're just making us make a mess, so that we can help you clean it up?","Thế… tức là mày cho bọn tao bày bừa ra vầy, xong bọn tao giúp mày thu dọn đống này à?",Juli
 story.Global.prologue_cutscene_ritual_girls.text.fc99d18a3b6169273fb557aae017c984dba4663f,"What's the matter, are you not entertained?",Vấn đề gì sao? Lại chả háo hức quá.,Kat
 story.Global.prologue_cutscene_ritual_girls.text.9baa59f88b821933467def38048f2a9ff7a7a947,…Tsk.,…Chậc.,Juli
@@ -126,7 +126,7 @@ story.Global.prologue_ending_k2.text.a7f4a8991d8b9edf5f397781c6891c4c4a821f78,"T
 story.Global.prologue_ending_k2.text.453e77b4d7d5b7cdaa716bbe7c273236d5bb4754,I went home without completing the ritual.,Nghi thức hãy chưa xong mà đã về nhà rồi.,
 story.Global.prologue_ending_k2.text.899676bc9ee27a7eb0ddb2ffef68513153b440a6,"Despite that, I made plans to try again.","Dẫu vậy, mình đã lập kế hoạch thử sức lại.",
 story.Global.prologue_ending_k2.text.13d445dc136b68ee35d5592f937d5a138c74da5e,"However, both my notes and the letter had disappeared without a trace.","Thế nhưng, cả ghi chú lẫn thư của mình đều biến mất tiêu không một dấu vết.",
-story.Global.prologue_ending_k2.text.9c6806e368df7cac1664af6e0667d347196b7b5a,I tried telling myself that maybe the ritual was a scam anyways…,Mình tự nhủ bản thân rằng cái nghi thức đó đằng nào cũng là xạo thôi mà…,
+story.Global.prologue_ending_k2.text.9c6806e368df7cac1664af6e0667d347196b7b5a,I tried telling myself that maybe the ritual was a scam anyways…,Mình tự nhủ bản thân rằng cái nghi thức đó đằng nào cũng là giả thôi mà…,
 story.Global.prologue_ending_k2.text.6069f127223610f828c0bb834e13b00f7fb65212,But now… how will I ever know?,Nhưng mà ngộ nhỡ… thì sao?,
 story.Global.prologue_ending_k2.text.448474fd6f3cf8f077c86efad23a4d1df14eec9e,Dead End K2 - Cold Kat Feet,Kết Đứt K2 – Nhát Meo,
 ,,,
