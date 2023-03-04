@@ -119,7 +119,7 @@ story.Prologue_Club_Occult.event_conversation_redirect.text.e75dbe6e9e534e4389a0
 ,,,
 story.Prologue_Club_Occult.event_cut_girls_hair.text.87033d7592be7420e3ca8d200d8d33bb98c21bc4,Well… at least I got what I needed.,Chà... ít ra có được cái cần rồi.,Kat
 ,,,
-story.Prologue_Club_Occult.event_draw_on_chalkboard.choice.text.d5ca10bf90c7d4d82b940bbc272724ef45c4149f,Draw something on the chalkboard?,Vẽ gì đó lên bảng đen chứ?,
+story.Prologue_Club_Occult.event_draw_on_chalkboard.choice.text.d5ca10bf90c7d4d82b940bbc272724ef45c4149f,Draw something on the chalkboard?,Vẽ gì đó lên bảng phấn chứ?,
 story.Prologue_Club_Occult.event_draw_on_chalkboard.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Vẽ,
 story.Prologue_Club_Occult.event_draw_on_chalkboard.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi,
 ,,,
@@ -208,7 +208,7 @@ story.Prologue_Club_Occult.event_open_box.text.06b2c135c0cd5ad382fc2e7bf514ca2bf
 story.Prologue_Club_Occult.event_open_box.text.f6d83edc45f0b5db67760927a6156b71e8e91b28,No idea.,Chịu.,Kat
 story.Prologue_Club_Occult.event_open_box.text.8f80f3174aa4c4e9263ba69b2c89e2cd69d3f4dd,How is this any less childish than the game we were playing…?,Cái này bớt trẻ con hơn cái trò chúng ta đang chơi đến nhường nào đây...?,Juli
 ,,,
-story.Prologue_Club_Occult.event_read_letter.text.570ed513b8f90a4d33e731b5efb1030ec020e806,There's a golden envelope in the drawer.,Có cái phong bì màu vàng cất trong hộc bàn.,
+story.Prologue_Club_Occult.event_read_letter.text.570ed513b8f90a4d33e731b5efb1030ec020e806,There's a golden envelope in the drawer.,Có cái phong bì màu vàng cất trong ngăn kéo.,
 story.Prologue_Club_Occult.event_read_letter.text.65a12ab7136e287462f2dc83c4a907f0b1036b8d,These are the instructions for the ritual I'm doing.,Đây là lời chỉ dẫn cho cái nghi thức mình giờ đang làm.,Kat
 story.Prologue_Club_Occult.event_read_letter.text.f40cb78939b45c6ebabe5dc3d80ef6fa3fe60670,"Thankfully, I shortened them when I wrote my notes.",Được cái là mình đã tóm tắt lại khi viết ghi chú rồi.,Kat
 ,,,
@@ -485,7 +485,7 @@ story.Prologue_Club_Occult.misc_boxes.text.f50145a7a5ef8d6e20df628c48fb3c992d31b
 story.Prologue_Club_Occult.misc_boxes.text.c0ce14ad7f8d6951d59a3cdd7db2e3e97e45f14e,What do you mean?,Ý mày là sao đấy?,Saki
 story.Prologue_Club_Occult.misc_boxes.text.cec6d534805a899e1bf61f7378181b780dacc099,It doesn't matter. Now let's see…,Sao cũng được. Giờ coi nào coi nào...,Kat
 ,,,
-story.Prologue_Club_Occult.misc_chalkboard.text.996c7ffde7f4de6e04435eeeafaf0751c8d69a1c,A clean chalkboard.,Tấm bảng đen sạch bong.,
+story.Prologue_Club_Occult.misc_chalkboard.text.996c7ffde7f4de6e04435eeeafaf0751c8d69a1c,A clean chalkboard.,Tấm bảng phấn sạch bong.,
 ,,,
 story.Prologue_Club_Occult.misc_chalkboard.text.2b0eee27d44fc6e8f8317764d87e6eaa6e6b3ee1,My fabulous masterpiece is displayed here.,Kiệt tác hoàn bích của mình là đây chứ đâu.,
 ,,,
