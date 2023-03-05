@@ -81,14 +81,14 @@ story.Prologue_Club_Theater.misc_chalkboard.text.efd1e7a56ab689e770f9b0cfbc9185d
 story.Prologue_Club_Theater.misc_chalkboard.text.da4f57539e464e7abbbaac53c8f00ac13f0c0236,A chalkboard. There are stars drawn on it.,Cái bảng phấn. Có vẽ các ngôi sao trên bảng.,,
 story.Prologue_Club_Theater.misc_chalkboard.text.cd74b8208a8586773228bef978f3cf72d07ae731,Did you draw this?,Mày vẽ à?,Kat,
 story.Prologue_Club_Theater.misc_chalkboard.text.21b19c9e143790e788896e29f3261d3dc0f89c8d,Do I look like the only member of this club?,Nghĩ mỗi tao là thành viên câu lạc bộ kịch chắc?,Saki,confused
-story.Prologue_Club_Theater.misc_chalkboard.text.6957adfa2f1a0283214dd319309f179fec3aa41d,So… did you draw this?,Thế... mày vẽ à?,Kat,sarcastic2
+story.Prologue_Club_Theater.misc_chalkboard.text.6957adfa2f1a0283214dd319309f179fec3aa41d,So… did you draw this?,Thế… mày vẽ à?,Kat,sarcastic2
 story.Prologue_Club_Theater.misc_chalkboard.text.4fc4d2f5bdc5ee1e0e461fdd9af31204cb74d9bf,…Maybe I did.,"…Ờ, có khi tao vẽ đấy.",Saki,annoyed3
 ,,,,
 story.Prologue_Club_Theater.misc_chalkboard.text.47f131607710dd1a6a77acf70086d5e28cc3a091,"A chalkboard. The word ""THIEF"" is written on it.","Cái bảng phấn. Có vẽ dòng chữ ""THIEF"" trên bảng.",,
 story.Prologue_Club_Theater.misc_chalkboard.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,
 ,,,,
-story.Prologue_Club_Theater.misc_chalkboard.text.56a9b34dbefaed4524137f5754f81ee30a98aef9,A chalkboard. There's… something drawn on it.,Cái bảng phấn. Có... cái gì đó được vẽ trên bảng.,,
-story.Prologue_Club_Theater.misc_chalkboard.text.46e43c4b711d7e99962a30e1a9a1ad68ea9ccf51,Where did they find red chalk…?,Phấn đỏ ở đâu ra vậy ta...?,Kat,
+story.Prologue_Club_Theater.misc_chalkboard.text.56a9b34dbefaed4524137f5754f81ee30a98aef9,A chalkboard. There's… something drawn on it.,Cái bảng phấn. Có… cái gì đó được vẽ trên bảng.,,
+story.Prologue_Club_Theater.misc_chalkboard.text.46e43c4b711d7e99962a30e1a9a1ad68ea9ccf51,Where did they find red chalk…?,Phấn đỏ ở đâu ra vậy ta…?,Kat,
 ,,,,
 story.Prologue_Club_Theater.misc_curtain_left.text.20afdf017229aa6ca3b6a8440095073b3ba5247e,A soft red curtain.,Tấm rèm mềm màu đỏ.,,
 ,,,,
@@ -113,7 +113,7 @@ story.Prologue_Club_Theater.misc_light_switch.text.63f85997a2c16bddedb856bf36d64
 ,,,,
 story.Prologue_Club_Theater.misc_rack_clothes.text.7be4744f300ce4576c18d20d720add8ace3bb679,Several hand made costumes are hanging from the rack.,Mấy trang phục chế tác bằng tay đang được treo trên giá đồ.,,
 story.Prologue_Club_Theater.misc_rack_clothes.text.34dc5c46b0dbe7f66d37fcadf0b7edf3eb64e3b9,"Blegh, they have poor taste in clothes.","Uệ, gu quần áo xàm xí quá đi.",Kat,blegh
-story.Prologue_Club_Theater.misc_rack_clothes.text.dcb3b825ca9bde777dbf253e73cd4ded127755ad,"You DO know these are for acting, right…?","Này đồ để diễn kịch, mày thừa biết kia mà...?",Saki,annoyed
+story.Prologue_Club_Theater.misc_rack_clothes.text.dcb3b825ca9bde777dbf253e73cd4ded127755ad,"You DO know these are for acting, right…?","Này đồ để diễn kịch, mày thừa biết kia mà…?",Saki,annoyed
 ,,,,
 story.Prologue_Club_Theater.misc_rack_hats.text.438986c1a54778b49c4bcd93d2bf979d034a39c2,A rack with various hats and scarves.,Giá móc đủ loại mũ với khăn quàng.,,
 ,,,,

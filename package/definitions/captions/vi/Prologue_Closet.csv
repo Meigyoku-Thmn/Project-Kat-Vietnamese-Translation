@@ -16,7 +16,7 @@ story.Prologue_Closet.event_read_letter.choice.5397e0583f14f6c88de06b1ef28f460a1
 story.Prologue_Closet.event_read_letter.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi,
 ,,,
 story.Prologue_Closet.event_read_letter.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat
-story.Prologue_Closet.event_read_letter.text.56938ff59db914f5e4ccefed542767489539d562,It's a… lawsuit?,Cái này là... hồ sơ kiện tụng à?,Juli
+story.Prologue_Closet.event_read_letter.text.56938ff59db914f5e4ccefed542767489539d562,It's a… lawsuit?,Cái này là… hồ sơ kiện tụng à?,Juli
 story.Prologue_Closet.event_read_letter.text.823c138b3b79933606208b109da4b9a6798e383d,What's that doing in a place like this?,Sao ở đây lại có thứ thế này?,Kat
 story.Prologue_Closet.event_read_letter.text.ca9a843c89ef06a36ac666841f012279e9d7ef19,I heard about that from my dad.,Tao có nghe được vụ này từ ba tao là..,Kaya
 story.Prologue_Closet.event_read_letter.text.ab74baedf2c652b245cb8fcab62af2b401308c24,Supposedly someone sued the school because of their daughter's disappearance.,Hình như có đứa con gái bị mất tích thành ra gia đình kiện nhà trường.,Kaya
@@ -53,7 +53,7 @@ story.Prologue_Closet.misc_boxes3.text.f195951c15fb7b73c0afdc3c6895ecbc28439cee,
 story.Prologue_Closet.misc_boxes3.text.639e7a4296eab8091138a6de5007a22114a79ce1,Figures. Lighters can be dangerous.,Hóa ra là thế. Bật lửa đồ nguy hiểm mà.,Juli
 story.Prologue_Closet.misc_boxes3.text.1c9909cc851d243b6f8c7484e841a675f8a0550e,Only in the wrong hands.,Vào tay người xấu mới nguy hiểm.,Kat
 story.Prologue_Closet.misc_boxes3.text.b6b4b5c6564a00c6c4eff984b7374eb064b2d06c,And yours aren't?,Thế mày thì không á?,Saki
-story.Prologue_Closet.misc_boxes3.text.109af417c70c6787822e6511f80fe657cb247c20,You shouldn't bring lighters to school…,Không nên đem bật lửa đến trường nha...,Kaya
+story.Prologue_Closet.misc_boxes3.text.109af417c70c6787822e6511f80fe657cb247c20,You shouldn't bring lighters to school…,Không nên đem bật lửa đến trường nha…,Kaya
 ,,,
 story.Prologue_Closet.misc_boxes3.text.fa49cb307a80bc610227416132f07cab1aeb96d4,There's nothing else of interest.,Chả còn gì khác hấp dẫn nữa.,
 ,,,
@@ -90,7 +90,7 @@ story.Prologue_Closet.misc_trashcan.text.d2b94da5701642c0b5cf0676bce97b7c8cec9c3
 story.Prologue_Closet.misc_trashcan.text.184dfca13dc0b12d30ed7fbfda7cc32e81fbabda,Why would there be a trash can in a supply closet?,Tại sao trong phòng kho lại có thùng rác được nhỉ?,Kat
 story.Prologue_Closet.misc_trashcan.text.bf5882813d68413813016b7f53f29a6f564e0c6d,Maybe it's a spare?,Hay là dự trữ?,Juli
 ,,,
-story.Prologue_Closet.move_enter.text.e546160a6cd64122e58764a489cab01a441d3e0e,It's… so dark.,Tối... tối quá vậy.,Saki
+story.Prologue_Closet.move_enter.text.e546160a6cd64122e58764a489cab01a441d3e0e,It's… so dark.,Tối… tối quá vậy.,Saki
 story.Prologue_Closet.move_enter.text.ebad42b53c04c2d474b06c1c4add28d789039319,"Come on Ponytail, don't chicken out on me now.","Ơ kìa tóc đuôi ngựa, giờ này rồi đừng có mà hèn nhát với tao.",Kat
 story.Prologue_Closet.move_enter.text.d0287ec14444f3128404d3b9d8f94cda379f46a2,Don't call me that.,Đừng có gọi tao kiểu đó.,Saki
 story.Prologue_Closet.move_enter.text.25d7bc6cd444e8999ed6c39741142b6e5fae42ba,"You have a ponytail, don't you?",Nhưng mà mày tóc đuôi ngựa gọi đúng còn gì?,Kat
