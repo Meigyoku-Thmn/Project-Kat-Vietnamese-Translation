@@ -13,7 +13,7 @@ story.Prologue_Nightmare_Office.misc_books_5.text.c0fa2f096e620711ae6eb171533005
 ,,
 story.Prologue_Nightmare_Office.misc_bookshelf.text.b939d6012185de6121f75afa63b70e2e94e68f75,The bookshelf towers over your small figure.,Giá sách cao chót vót hơn thân hình nhỏ bé của bạn.
 ,,
-story.Prologue_Nightmare_Office.misc_bookshelf_2.text.d24911705bad90c5731ab2a406951e9b95803464,The bookshelf has always felt too large for comfort.,Giá sách này thì cảm thấy luôn quá lớn không thư thái nổi.
+story.Prologue_Nightmare_Office.misc_bookshelf_2.text.d24911705bad90c5731ab2a406951e9b95803464,The bookshelf has always felt too large for comfort.,Giá sách này thì luôn cảm thấy quá lớn không thư thái nổi.
 ,,
 story.Prologue_Nightmare_Office.misc_bookshelf_3.text.ee52daf3484d760e1379bac869f60eb53057007c,The bookshelf is filled with hard to read books.,Giá sách này thì chứa đầy sách mà đọc rất khó hiểu.
 ,,
@@ -38,7 +38,7 @@ story.Prologue_Nightmare_Office.misc_desk_left.text.8ecd384000720962b3181e730a3b
 story.Prologue_Nightmare_Office.misc_desk_right.text.6ef7b25ba72f75809fbe99f44884750fb7769f68,Some books on physiological changes in humans in specific environments.,Vài cuốn sách bàn về thay đổi sinh lý học của con người trong môi trường đặc định.
 story.Prologue_Nightmare_Office.misc_desk_right.text.0e6326d15e09d255ba43e747b7c76d9aaadf1988,There's also a notebook filled with rough scribbles and notes.,Có cả vở phủ đầy nét viết nguệch ngoạc cùng với ghi chú sơ sài.
 ,,
-story.Prologue_Nightmare_Office.misc_painting.text.0dc6d2e8001a0ceb060c37ef003b1e9e55e24a64,A painting of a vague memory.,Bức vẽ về một ký ức mập mờ.
+story.Prologue_Nightmare_Office.misc_painting.text.0dc6d2e8001a0ceb060c37ef003b1e9e55e24a64,A painting of a vague memory.,Bức vẽ về một ký ức mơ hồ.
 ,,
 story.Prologue_Nightmare_Office.misc_painting_2.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…
 ,,
@@ -49,10 +49,10 @@ story.Prologue_Nightmare_Office.misc_windows.text.b083f48f829d28c8ccc3466d272721
 ,,
 story.Prologue_Nightmare_Office.move_next.text.3334ce603fa627142ed1764605d840c3e618a6de,"Not interested, huh?",Không thấy hứng thú hử?
 ,,
-story.Prologue_Nightmare_Office.move_next.text.556d230c6975b8a9f57781aa3198815967932203,So? What do you think? I can see everything that's in your head.,Thế? Cảm tưởng mày sao? Bên trong đầu mày tao nhìn thấu được hết đấy.
+story.Prologue_Nightmare_Office.move_next.text.556d230c6975b8a9f57781aa3198815967932203,So? What do you think? I can see everything that's in your head.,Thấy sao? Cảm tưởng mày sao? Bên trong đầu mày tao nhìn thấu được hết đấy.
 story.Prologue_Nightmare_Office.move_next.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…
 ,,
-story.Prologue_Nightmare_Office.move_next.text.bedc5b5623fc1c071476f4b3df5089edbff438b3,You really should make an effort to be more lively.,Thật sự là mày nên cố gắng cư xử cho nó hoạt bát lên đi .
+story.Prologue_Nightmare_Office.move_next.text.bedc5b5623fc1c071476f4b3df5089edbff438b3,You really should make an effort to be more lively.,Thật sự là mày nên cố gắng cư xử cho nó hoạt bát lên đi.
 story.Prologue_Nightmare_Office.move_next.text.9ad8606a3741086bc94c820bd2b2a175558c1ceb,"You only have until I decide I'm done playing around with you, you know?",Mày chỉ còn thời gian cho đến khi tao quyết định nghỉ chơi với mày đó biết chửa?
 story.Prologue_Nightmare_Office.move_next.text.168555a88e86d69ade0d63299bc12ad7e5d02b44,And then…,Và rồi…
 story.Prologue_Nightmare_Office.move_next.text.f76527cb1d49674915de80c3419198a11bd51dbe,…snap.,…tạch.

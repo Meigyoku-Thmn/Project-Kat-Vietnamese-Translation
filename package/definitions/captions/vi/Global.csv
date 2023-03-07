@@ -3,7 +3,7 @@ story.Global.prologue_boxpuzzle_explanation.text.5127ee45f5d64a6fbfe3f27c37d8bee
 story.Global.prologue_boxpuzzle_explanation.text.0e38c332e3a68470735df29d9b4ef5dd21c1a5c2,According to my notes…,Dựa theo ghi chú thì…,Kat
 story.Global.prologue_boxpuzzle_explanation.text.7a6a98d9c89edd44dda70c219ee11bdc71cb190d,I need to move the desks to the sides in all three classrooms.,Đầu tiên phải kéo tất cả bàn học dạt sang hai bên trong cả ba lớp học.,Kat
 story.Global.prologue_boxpuzzle_explanation.text.1f4aee5ce6fd5c23c3d0ba0466edc66749f2521a,"Then I can draw a ""path"" in the middle of each one with chalk.","Sau đó vẽ một ""con đường"" bằng phấn ở chính giữa mỗi phòng.",Kat
-story.Global.prologue_boxpuzzle_explanation.text.6a36f5c97736b9ab9013672b97d67d453de9145c,"Well, I'll leave the chalk drawing for last. I want to gather everything I need first.",Vẽ đường thì để cuối hẵng làm đi. Mình muốn đi kiếm các món đồ cần thiết về đây trước.,Kat
+story.Global.prologue_boxpuzzle_explanation.text.6a36f5c97736b9ab9013672b97d67d453de9145c,"Well, I'll leave the chalk drawing for last. I want to gather everything I need first.",Vẽ đường thì để cuối hẵng làm đi. Mình muốn đi gom các món đồ cần thiết trước.,Kat
 ,,,
 story.Global.prologue_check_plants_cut.text.6329e8a7c52b3f3d8e22117c3eb6d3ca2ae1ff42,Oh no…,Trời ơi…,Kaya
 story.Global.prologue_check_plants_cut.text.c994deb18593c8d8a50b63c6872c2e7774cf2711,What are you doing…? Is this part of the ritual?,Mày làm cái gì thế…? Này cũng trong nghi thức à?,Juli
@@ -94,7 +94,7 @@ story.Global.prologue_cutscene_ritual_girls.text.f85169cbc60fba5a5872a63a9642688
 story.Global.prologue_cutscene_ritual_girls.text.3c201f47af7989c9c537b3b9632d943d09c25cc0,What happens then?,Xong rồi thì sao nữa?,Juli
 story.Global.prologue_cutscene_ritual_girls.text.f6d83edc45f0b5db67760927a6156b71e8e91b28,No idea.,Chịu.,Kat
 story.Global.prologue_cutscene_ritual_girls.text.e7da47b65ddbdbb71c9821469db4be65290b7dfe,Really?,Thiệt trời?,Saki
-story.Global.prologue_cutscene_ritual_girls.text.48ddf60ef6d01c2d11e1a5c09b8e7c3e7b5ee3d7,"We probably just clean up and go home. These rituals are a scam, you know?",Chắc thu dọn rồi về nhà là hết thôi. Dù gì ba nghi thức kiểu này cũng là giả thôi í mà.,Kat
+story.Global.prologue_cutscene_ritual_girls.text.48ddf60ef6d01c2d11e1a5c09b8e7c3e7b5ee3d7,"We probably just clean up and go home. These rituals are a scam, you know?",Chắc thu dọn rồi về nhà là hết thôi. Dù gì ba nghi thức kiểu này cũng là bịp thôi í mà.,Kat
 story.Global.prologue_cutscene_ritual_girls.text.0cf48a4caa4a9cf4d8c7817934cfc7322a61eb8e,"So… you're just making us make a mess, so that we can help you clean it up?","Thế… tức là mày cho bọn tao bày bừa ra vầy, xong bọn tao giúp mày thu dọn đống này à?",Juli
 story.Global.prologue_cutscene_ritual_girls.text.fc99d18a3b6169273fb557aae017c984dba4663f,"What's the matter, are you not entertained?",Vấn đề gì sao? Lại chả háo hức quá.,Kat
 story.Global.prologue_cutscene_ritual_girls.text.9baa59f88b821933467def38048f2a9ff7a7a947,…Tsk.,…Chậc.,Juli
@@ -126,7 +126,7 @@ story.Global.prologue_ending_k2.text.a7f4a8991d8b9edf5f397781c6891c4c4a821f78,"T
 story.Global.prologue_ending_k2.text.453e77b4d7d5b7cdaa716bbe7c273236d5bb4754,I went home without completing the ritual.,Nghi thức hãy chưa xong mà đã về nhà rồi.,
 story.Global.prologue_ending_k2.text.899676bc9ee27a7eb0ddb2ffef68513153b440a6,"Despite that, I made plans to try again.","Dẫu vậy, mình đã lập kế hoạch thử sức lại.",
 story.Global.prologue_ending_k2.text.13d445dc136b68ee35d5592f937d5a138c74da5e,"However, both my notes and the letter had disappeared without a trace.","Thế nhưng, cả ghi chú lẫn thư của mình đều biến mất tiêu không một dấu vết.",
-story.Global.prologue_ending_k2.text.9c6806e368df7cac1664af6e0667d347196b7b5a,I tried telling myself that maybe the ritual was a scam anyways…,Mình tự nhủ bản thân rằng cái nghi thức đó đằng nào cũng là giả thôi mà…,
+story.Global.prologue_ending_k2.text.9c6806e368df7cac1664af6e0667d347196b7b5a,I tried telling myself that maybe the ritual was a scam anyways…,Mình tự nhủ bản thân rằng cái nghi thức đó đằng nào cũng là bịp thôi mà…,
 story.Global.prologue_ending_k2.text.6069f127223610f828c0bb834e13b00f7fb65212,But now… how will I ever know?,Nhưng mà ngộ nhỡ… thì sao?,
 story.Global.prologue_ending_k2.text.448474fd6f3cf8f077c86efad23a4d1df14eec9e,Dead End K2 - Cold Kat Feet,Kết Đứt K2 – Nhát Meo,
 ,,,
@@ -237,7 +237,7 @@ story.Global.prologue_hod_event_wake_up.text.91e6bee0edce6c84e46fa755976033f8166
 ,,,
 story.Global.prologue_intro.text.0bc3d9ff4c4f11e9b23a9496d3872d9e4569a420,Whoa… weird dream.,Oaa… giấc mơ kì lạ ta.,
 story.Global.prologue_intro.text.fa92faa7deab6c7fda5948018c93ae668070a383,Everyone must be gone already.,Hẳn mấy đứa về hết rồi.,
-story.Global.prologue_intro.text.eac7803e0fe7212ecc9c1ce985463158f2fd25d4,Looks like it's eleven… I should get to it.,Chắc 11 giờ rồi… phải bắt đầu thôi.,
+story.Global.prologue_intro.text.eac7803e0fe7212ecc9c1ce985463158f2fd25d4,Looks like it's eleven… I should get to it.,Chắc 11 giờ… phải bắt đầu thôi.,
 ,,,
 story.Global.prologue_intro.text.ff8858e2985a1e188a13f20e82be444f317f89bb,Ohhhh no…,Ui trời…,Saki
 story.Global.prologue_intro.text.82962c4c07eeb65c033eff6ab4194d228f511041,You moved it!!,Rõ mày mới di!!,Juli
@@ -303,7 +303,7 @@ story.Global.prologue_item_notebook.text.71ca50e7baa83505f6b5e6492bb07129818e24f
 ,,,
 story.Global.prologue_item_notebook.text.d4bb8c0668eed38119a5c8b6381fd6ce87d00f8b,A math notebook. Nothing worth looking through.,Là vở môn toán. Chả đáng lướt qua.,
 ,,,
-story.Global.prologue_item_notes.text.aa75d6edf5104c9b684055c37aaec4d4c51fe085,"(Alright, so I need to search the school for the items first.)","(Được rồi, trước tiên loanh quanh phòng học thu thập nguyên liệu nào.)",
+story.Global.prologue_item_notes.text.aa75d6edf5104c9b684055c37aaec4d4c51fe085,"(Alright, so I need to search the school for the items first.)","(Được rồi, trước tiên loanh quanh trong trường thu thập nguyên liệu nào.)",
 story.Global.prologue_item_notes.text.f529f7413af21949f3f26140290a1e3e0ec54b38,(The rune should be in this room…),(Cái rune hẳn có trong phòng này…),
 story.Global.prologue_item_notes.text.a96b5fccf3cb71a42313671f2fef090aeed565b5,(…somewhere.),(…hay đâu đó không biết nữa.),
 ,,,
@@ -331,7 +331,7 @@ story.Global.prologue_item_scissors.text.e30f3c86e1e54871aa0c80885c778267a1aca22
 story.Global.prologue_item_scissors.text.b1e1fd09c18df25d856d59b0e362e11e80ed68fc,I thought you girls wanted to participate…?,Tưởng bọn mày muốn tham gia vào nghi thức chớ…?,Kat
 story.Global.prologue_item_scissors.text.5c377cf4c3299f9f518367c13d3863d0ab1b545a,I don't mind helping…,Tao thì được thôi…,Kaya
 story.Global.prologue_item_scissors.text.6b8efc2754ea972eea1dcb93b3fca3738da20471,"No Kaya, you don't have to do that.","Đừng đừng Kaya, mày không cần cắt đâu.",Juli
-story.Global.prologue_item_scissors.text.fa7f93dd464072501445b80148b6d229f773d94c,"It's alright, I'll give you mine.","Được rồi, để tao cắt cho mày.",Juli
+story.Global.prologue_item_scissors.text.fa7f93dd464072501445b80148b6d229f773d94c,"It's alright, I'll give you mine.","Được rồi, để tao cắt đưa cho mày.",Juli
 story.Global.prologue_item_scissors.text.82ba6b6db8766abe5f278ec33f1f6d3cf2719ca3,…!,…!,Saki
 story.Global.prologue_item_scissors.text.5ecb60ad93beec9f6d69bbf790ed1d33b9749cdc,There's no need for that. I'll just cut some of mine.,Mày không cần làm. Tao cắt cho.,Saki
 story.Global.prologue_item_scissors.text.410bf23a3f080def9c7a976a16305bcde7943ed1,Are you sure?,Chắc rồi chứ?,Juli
