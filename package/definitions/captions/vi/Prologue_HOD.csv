@@ -6,9 +6,9 @@ story.Prologue_HOD.event_kat_explore_1.text.d02a007e3cd3e718416b5fc06097b8d14ceb
 story.Prologue_HOD.event_kat_explore_1.text.9c4d28dac355afbda8acf50991980c2b658a80ab,Hmm…,Hừmm…
 story.Prologue_HOD.event_kat_explore_1.text.fb411b88c36e3a2b8f9d7ef1d7a466a7e5707a56,There must be something I missed.,Nhất định có cái gì đó mình bỏ sót.
 ,,
-story.Prologue_HOD.event_kat_explore_3.text.573bb829bf9bd8b1e02ce682aa335d48cb9d2ff0,Um… am I lost? I don't remember this hallway being so long before.,Ờ... lạc rồi sao? Nhớ là hành lang này không dài đến như vậy.
+story.Prologue_HOD.event_kat_explore_3.text.573bb829bf9bd8b1e02ce682aa335d48cb9d2ff0,Um… am I lost? I don't remember this hallway being so long before.,Ờ… lạc rồi sao? Nhớ là hành lang này không dài đến như vậy.
 ,,
-story.Prologue_HOD.event_lockpick_fail.text.10b6753c67605ada6f0a708ea2ffce0bc2974285,Uh-oh… The hairpin is bent badly.,Ôi thôi... kẹp tóc bị vẹo mất rồi.
+story.Prologue_HOD.event_lockpick_fail.text.10b6753c67605ada6f0a708ea2ffce0bc2974285,Uh-oh… The hairpin is bent badly.,Ôi thôi… kẹp tóc bị vẹo mất rồi.
 story.Prologue_HOD.event_lockpick_fail.text.b8790c089e4db8df8b214bfb8f841cda51486ddb,I don't think it can take much more of this.,Chắc thêm phát nữa là khỏi xài luôn quá.
 ,,
 story.Prologue_HOD.event_lockpick_fail.text.6c5d4f53a547bf0474ddcb15037067e54fb37fb6,The hairpin broke.,Kẹp tóc bị gãy rồi.
@@ -33,12 +33,12 @@ story.Prologue_HOD.item_key_get.text.ecbbc3e519fd0aa7a63abcf53dc8ba8fc02b1cf2,Th
 ,,
 story.Prologue_HOD.item_key_on_door3.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!
 ,,
-story.Prologue_HOD.item_lighter_on_door2.text.21d07523b7ce000b5e1a7b7df7117afa8cbaf55b,I don't suppose I could burn these planks down…?,Mấy tấm ván này hay là mình đốt đi được chăng...?
+story.Prologue_HOD.item_lighter_on_door2.text.21d07523b7ce000b5e1a7b7df7117afa8cbaf55b,I don't suppose I could burn these planks down…?,Mấy tấm ván này hay là mình đốt đi được chăng…?
 story.Prologue_HOD.item_lighter_on_door2.text.d6bc0a78704ed6edfc861ffc793578dd60839839,"Ugh, it's no use. I'll run out of fuel before they even warm up.","Ư, không ăn thua. Hơ cho ấm lên được thôi là ga hết mất rồi."
 ,,
 story.Prologue_HOD.item_lighter_on_door2.text.da5772e844bdff2164e622187088e84cb4f1b37d,There's no point in that.,Làm thế chả được cái ý nghĩa gì.
 ,,
-story.Prologue_HOD.item_lighter_on_goop.text.999d087b27c7b5a835572a67031638c0f1308ceb,Hm… This is a closed space.,Hừm... Đây là không gian kín.
+story.Prologue_HOD.item_lighter_on_goop.text.999d087b27c7b5a835572a67031638c0f1308ceb,Hm… This is a closed space.,Hừm… Đây là không gian kín.
 story.Prologue_HOD.item_lighter_on_goop.text.1d820b19cc0bb8ac2102968b154e14a1f5c6ca4b,"If this turns out to be flammable, it could get really dangerous.",Lỡ mà cái gì đó đây là chất dễ cháy thì thành ra nguy hiểm lắm.
 ,,
 story.Prologue_HOD.item_lighter_on_goop.text.f89549a77a794bdf314546357a6b84e5847ec51a,I really shouldn't.,Thực sự là không nên.
@@ -54,7 +54,7 @@ story.Prologue_HOD.misc_goop_2.text.ca13117cd0ebd4f85907096a975e4ee403066d00,A b
 story.Prologue_HOD.misc_goop_2.text.5c43dee8ac31c6bbbe734b86a5105af8948e51b7,"Whatever it is, it looks disgusting.",Có là cái gì thì cũng thấy kinh tởm.
 ,,
 story.Prologue_HOD.misc_goop_3.text.1b477f1e097f7dba99c2d56ac75926816200ad1e,A large amount of a black substance has accumulated under the stairs.,Lượng lớn vật chất màu đen đang tù đọng bên dưới cầu thang.
-story.Prologue_HOD.misc_goop_3.text.d6d59fe2235e1ae9bbbdd98333d326876646c178,This stuff makes me uneasy… What if it comes alive or something?,Nhìn cái mớ này chả thấy thoải mái gì... Nếu mà nó sống dậy thì làm sao đây?
+story.Prologue_HOD.misc_goop_3.text.d6d59fe2235e1ae9bbbdd98333d326876646c178,This stuff makes me uneasy… What if it comes alive or something?,Nhìn cái mớ này chả thấy thoải mái gì… Nếu mà nó sống dậy thì làm sao đây?
 ,,
 story.Prologue_HOD.misc_mirrors.text.f4f3b3044cb5258d31cfa714135e09da25e9a2b7,The way these mirrors are set on the walls is almost comforting.,Có mấy cái gương trên tường theo kiểu như vầy cảm thấy dễ chịu thiệt.
 story.Prologue_HOD.misc_mirrors.text.20e054ae8bf664c4e3de721de0bdd30d37154d77,But staring into mirrors in a place like this…,Nhưng mà dòm vào gương ở nơi như thế này thì…
@@ -72,7 +72,7 @@ story.Prologue_HOD.move_door2.text.ddbd38eba1be4e0b57ef351bba980f224c8ba179,A do
 story.Prologue_HOD.move_door2.text.adca6d67f9d87b5a7c465afba066a2c2b18d0215,It's very locked.,Bị khóa chặt rồi.
 ,,
 story.Prologue_HOD.move_door2.text.e96ca605746a85b178a3aa9da7c0706a4fe4ea11,This door is open…,Cánh cửa này mở rồi…
-story.Prologue_HOD.move_door2.text.8e8f6221407a84d6cdcfaac7f8e1eb9ed7f109e4,Wasn't it boarded up…?,Nãy còn bị đóng ván mà...?
+story.Prologue_HOD.move_door2.text.8e8f6221407a84d6cdcfaac7f8e1eb9ed7f109e4,Wasn't it boarded up…?,Nãy còn bị đóng ván mà…?
 story.Prologue_HOD.move_door2.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…
 story.Prologue_HOD.move_door2.text.0c5c669ae546bad8f360457f60028866820b5a37,Everything else is locked… I have no other choice but to go in…,Mấy cửa khác bị khóa rồi… đành vào đây thôi sao giờ…
 ,,
