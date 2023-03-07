@@ -1,9 +1,13 @@
 ﻿,en,vi
-story.Prologue_Nightmare_4.misc_paper1.text.050c3e85b829e56b4a1043ffe9a7bd19a092c8d5,"""Are you lost?""","""Are you lost?"""
-story.Prologue_Nightmare_4.misc_paper2.text.5476388f48edd4ecc214a8f57e1171ebb61d9480,"""You should give up, you will never leave this place.""","""You should give up, you will never leave this place."""
-story.Prologue_Nightmare_4.misc_windows.text.1346562c4b198c458bbdf6c6b757ad10e804bb57,The figures stare at you from the other side of the windows.,The figures stare at you from the other side of the windows.
-story.Prologue_Nightmare_4.move_next.text.cfcdde2a89011de8148fe55c7e12e1c6cbeffad3,Your mother will be devastated to learn that she's now completely alone.,Your mother will be devastated to learn that she's now completely alone.
-story.Prologue_Nightmare_4.move_next.text.82faf57516f4f9491ba18d10bea4812a0641956d,"No husband, no daughter. Everybody left her. How pitiful.","No husband, no daughter. Everybody left her. How pitiful."
-story.Prologue_Nightmare_4.move_next.text.2c44aaeb20fecdb82de17e74b81266c26d8f7070,How dare you… say something like that…,How dare you… say something like that…
-story.Prologue_Nightmare_4.move_next.text.c9decb0516e895034f590cfd322fb26573c9e488,You know nothing about me.,You know nothing about me.
-story.Prologue_Nightmare_4.move_return.text.e808c8a48d1fae99bf0b3c1936f20434ccc1943a,The door is stuck. It won't open.,The door is stuck. It won't open.
+story.Prologue_Nightmare_4.misc_paper1.text.050c3e85b829e56b4a1043ffe9a7bd19a092c8d5,"""Are you lost?""","""Bị lạc rồi hả?"""
+,,
+story.Prologue_Nightmare_4.misc_paper2.text.5476388f48edd4ecc214a8f57e1171ebb61d9480,"""You should give up, you will never leave this place.""","""Mày nên bỏ cuộc đi, không bao giờ ra khỏi đây được đâu."""
+,,
+story.Prologue_Nightmare_4.misc_windows.text.1346562c4b198c458bbdf6c6b757ad10e804bb57,The figures stare at you from the other side of the windows.,Mấy bóng người đang nhìn chằm chằm vào bạn từ phía bên kia cửa sổ.
+,,
+story.Prologue_Nightmare_4.move_next.text.cfcdde2a89011de8148fe55c7e12e1c6cbeffad3,Your mother will be devastated to learn that she's now completely alone.,"Khi biết rằng giờ đây mình phải lẻ loi cô độc, mẫu thân của mày sẽ phải oằn mình đớn đau."
+story.Prologue_Nightmare_4.move_next.text.82faf57516f4f9491ba18d10bea4812a0641956d,"No husband, no daughter. Everybody left her. How pitiful.",Mất chồng lẫn mất con gái. Ai cũng bỏ lại mẹ mày rồi rời xa. Tội nghiệp lắm thay.
+story.Prologue_Nightmare_4.move_next.text.2c44aaeb20fecdb82de17e74b81266c26d8f7070,How dare you… say something like that…,Sao mày dám... nói kiểu đó hả...
+story.Prologue_Nightmare_4.move_next.text.c9decb0516e895034f590cfd322fb26573c9e488,You know nothing about me.,Mày thì biết cái gì về tao.
+,,
+story.Prologue_Nightmare_4.move_return.text.e808c8a48d1fae99bf0b3c1936f20434ccc1943a,The door is stuck. It won't open.,Cửa bị kẹt không mở được.

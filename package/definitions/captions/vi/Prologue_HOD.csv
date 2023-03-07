@@ -11,7 +11,7 @@ story.Prologue_HOD.event_kat_explore_3.text.573bb829bf9bd8b1e02ce682aa335d48cb9d
 story.Prologue_HOD.event_lockpick_fail.text.10b6753c67605ada6f0a708ea2ffce0bc2974285,Uh-oh… The hairpin is bent badly.,Ôi thôi... kẹp tóc bị vẹo mất rồi.
 story.Prologue_HOD.event_lockpick_fail.text.b8790c089e4db8df8b214bfb8f841cda51486ddb,I don't think it can take much more of this.,Chắc thêm phát nữa là khỏi xài luôn quá.
 ,,
-story.Prologue_HOD.event_lockpick_fail.text.6c5d4f53a547bf0474ddcb15037067e54fb37fb6,The hairpin broke.,Kẹp tóc bị hỏng rồi.
+story.Prologue_HOD.event_lockpick_fail.text.6c5d4f53a547bf0474ddcb15037067e54fb37fb6,The hairpin broke.,Kẹp tóc bị gãy rồi.
 ,,
 story.Prologue_HOD.event_lockpick_success.text.f79c8d11189f1dbf961110f8c8a9fab86c46107b,The door unlocked!,Cửa mở rồi!
 ,,
@@ -62,7 +62,7 @@ story.Prologue_HOD.misc_mirrors.text.6499eea611cfc68deab171bee6fc24a800099d0c,It
 ,,
 story.Prologue_HOD.misc_mirrors.text.34cfed3bc123c80c134568fe7db6245c960e809c,Multiple reflections stare back at you.,Mấy cái hình phản chiếu đang dòm lại bạn.
 ,,
-story.Prologue_HOD.misc_pipes.text.7fcb271f65bb272532f13b53ef3b2fe4f8a5e94f,Nonsensical pipes run all over the place.,Mấy đường ống chả hiểu ý nghĩa là gì chạy dọc lung ta lung tung khắp tường.
+story.Prologue_HOD.misc_pipes.text.7fcb271f65bb272532f13b53ef3b2fe4f8a5e94f,Nonsensical pipes run all over the place.,Mấy đường ống chả hiểu ý nghĩa là gì chạy loằng ngòa loằng ngoằng khắp tường.
 story.Prologue_HOD.misc_pipes.text.3689e5c5e62e58fab014dcb2bb536e9c1688b806,They are warm to the touch. Is this some sort of heating?,Sờ vào thì ấm. Là máy sưởi hay là gì đó chăng?
 ,,
 story.Prologue_HOD.move_door1.text.ddbd38eba1be4e0b57ef351bba980f224c8ba179,A door with an odd pattern.,Cánh cửa mang họa tiết lạ lùng.
