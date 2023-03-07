@@ -5,59 +5,88 @@ story.Prologue_HOD.event_kat_explore_1.text.6eae3a5b062c6d0d79f070c26e6d62486b40
 story.Prologue_HOD.event_kat_explore_1.text.d02a007e3cd3e718416b5fc06097b8d14ceb6504,I have.,たしかに通った。
 story.Prologue_HOD.event_kat_explore_1.text.9c4d28dac355afbda8acf50991980c2b658a80ab,Hmm…,うーん……
 story.Prologue_HOD.event_kat_explore_1.text.fb411b88c36e3a2b8f9d7ef1d7a466a7e5707a56,There must be something I missed.,なにか見落としがあるんだわ、きっと。
+,,
 story.Prologue_HOD.event_kat_explore_3.text.573bb829bf9bd8b1e02ce682aa335d48cb9d2ff0,Um… am I lost? I don't remember this hallway being so long before.,うーん……迷った？ この廊下、こんなに長くなかったと思うんだけど。
+,,
 story.Prologue_HOD.event_lockpick_fail.text.10b6753c67605ada6f0a708ea2ffce0bc2974285,Uh-oh… The hairpin is bent badly.,うわ……ヘアピンが曲がっちゃった。
 story.Prologue_HOD.event_lockpick_fail.text.b8790c089e4db8df8b214bfb8f841cda51486ddb,I don't think it can take much more of this.,これ以上はもたなそうね。
+,,
 story.Prologue_HOD.event_lockpick_fail.text.6c5d4f53a547bf0474ddcb15037067e54fb37fb6,The hairpin broke.,ヘアピンが壊れた。
+,,
 story.Prologue_HOD.event_lockpick_success.text.f79c8d11189f1dbf961110f8c8a9fab86c46107b,The door unlocked!,ドアが開いた！
+,,
 story.Prologue_HOD.event_move_to_hallway.choice.text.f99761c9689562534806b858abb1fb34f5225554,"Before proceeding through the door, do you wish to save your progress?",ドアを通る前に、進行状況をセーブしますか？
 story.Prologue_HOD.event_move_to_hallway.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,する
 story.Prologue_HOD.event_move_to_hallway.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,しない
+,,
 story.Prologue_HOD.item_hairpin_on_door3.text.540d1c82afb1afe5549a6ac537746bf3a3b56c14,The lock looks really sturdy.,ここの鍵はかなり手強そう。
 story.Prologue_HOD.item_hairpin_on_door3.choice.text.83765b5e1dd3408132357acdfdd94c5749051beb,Should I try to pick it?,ピッキングしてみる？
 story.Prologue_HOD.item_hairpin_on_door3.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,してみる
 story.Prologue_HOD.item_hairpin_on_door3.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,してみない
+,,
 story.Prologue_HOD.item_key_get.text.1846bfe3766e48ddc0f45453fc676af9070ee0f2,There's a key hanging from a hook.,フックから鍵が下がっている。
 story.Prologue_HOD.item_key_get.choice.text.6c1e8c2e7c024ee354fe5072160eb7fafdaff73c,Take Key?,鍵を取る？
 story.Prologue_HOD.item_key_get.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,取る
 story.Prologue_HOD.item_key_get.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,取らない
+,,
 story.Prologue_HOD.item_key_get.text.ecbbc3e519fd0aa7a63abcf53dc8ba8fc02b1cf2,There's nothing left.,もう何もない。
+,,
 story.Prologue_HOD.item_key_on_door3.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,鍵が合った！
+,,
 story.Prologue_HOD.item_lighter_on_door2.text.21d07523b7ce000b5e1a7b7df7117afa8cbaf55b,I don't suppose I could burn these planks down…?,この板、燃やせたりしないかな……？
 story.Prologue_HOD.item_lighter_on_door2.text.d6bc0a78704ed6edfc861ffc793578dd60839839,"Ugh, it's no use. I'll run out of fuel before they even warm up.",う、ダメだった。温かくもならないうちに燃料切れだ。
+,,
 story.Prologue_HOD.item_lighter_on_door2.text.da5772e844bdff2164e622187088e84cb4f1b37d,There's no point in that.,そんなことをする意味はない。
+,,
 story.Prologue_HOD.item_lighter_on_goop.text.999d087b27c7b5a835572a67031638c0f1308ceb,Hm… This is a closed space.,うーん……ここは閉鎖空間。
 story.Prologue_HOD.item_lighter_on_goop.text.1d820b19cc0bb8ac2102968b154e14a1f5c6ca4b,"If this turns out to be flammable, it could get really dangerous.",もしこの何かが可燃性だったら、かなり危険なことになりかねないわ。
+,,
 story.Prologue_HOD.item_lighter_on_goop.text.f89549a77a794bdf314546357a6b84e5847ec51a,I really shouldn't.,やめておいたほうがいい。
+,,
 story.Prologue_HOD.item_no_keyhole.text.4c185e949c93945c1f937c32295badaca7153b32,This door has no keyhole.,このドアには鍵穴はない。
+,,
 story.Prologue_HOD.item_wrong_key_on_door3.text.3715c0c9b7f1208bc096adccf9820f36c100d219,This key doesn't fit here.,この鍵はここには合わない。
+,,
 story.Prologue_HOD.misc_goop_1.text.d2568aa7789dba9346bfd707dbf619e5b9e6c883,A black substance drips down from here.,黒い物質がここから垂れている。
 story.Prologue_HOD.misc_goop_1.text.e49557dc253379fab3f692aeb73c9546299fcfea,Where is this stuff coming from?,一体どこから流れてきてるんだろう？
+,,
 story.Prologue_HOD.misc_goop_2.text.ca13117cd0ebd4f85907096a975e4ee403066d00,A black substance drips down from above.,上から黒い物質が垂れてきている。
 story.Prologue_HOD.misc_goop_2.text.5c43dee8ac31c6bbbe734b86a5105af8948e51b7,"Whatever it is, it looks disgusting.",何であれ、嫌な感じね。
+,,
 story.Prologue_HOD.misc_goop_3.text.1b477f1e097f7dba99c2d56ac75926816200ad1e,A large amount of a black substance has accumulated under the stairs.,階段の下に大量の黒い物質が溜まっている。
 story.Prologue_HOD.misc_goop_3.text.d6d59fe2235e1ae9bbbdd98333d326876646c178,This stuff makes me uneasy… What if it comes alive or something?,これを見てると落ち着かない……動き出したりしたらどうしよう？
+,,
 story.Prologue_HOD.misc_mirrors.text.f4f3b3044cb5258d31cfa714135e09da25e9a2b7,The way these mirrors are set on the walls is almost comforting.,こんなふうに壁に鏡があるのは、落ち着く感じすらする。
 story.Prologue_HOD.misc_mirrors.text.20e054ae8bf664c4e3de721de0bdd30d37154d77,But staring into mirrors in a place like this…,でもこんな場所で鏡を覗き込むのは……
 story.Prologue_HOD.misc_mirrors.text.6499eea611cfc68deab171bee6fc24a800099d0c,It's almost like I'm asking to be jump-scared.,脅かしてくれと言ってるようなものね。
+,,
 story.Prologue_HOD.misc_mirrors.text.34cfed3bc123c80c134568fe7db6245c960e809c,Multiple reflections stare back at you.,鏡に映ったいくつもの自分がこちらを見つめている。
+,,
 story.Prologue_HOD.misc_pipes.text.7fcb271f65bb272532f13b53ef3b2fe4f8a5e94f,Nonsensical pipes run all over the place.,意味不明なパイプが一面に広がっている。
 story.Prologue_HOD.misc_pipes.text.3689e5c5e62e58fab014dcb2bb536e9c1688b806,They are warm to the touch. Is this some sort of heating?,触ると温かい。暖房か何かかしら？
+,,
 story.Prologue_HOD.move_door1.text.ddbd38eba1be4e0b57ef351bba980f224c8ba179,A door with an odd pattern.,奇妙な模様の描かれた扉。
 story.Prologue_HOD.move_door1.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,鍵がかかってる。
+,,
 story.Prologue_HOD.move_door2.text.ddbd38eba1be4e0b57ef351bba980f224c8ba179,A door with an odd pattern.,奇妙な模様の描かれた扉。
 story.Prologue_HOD.move_door2.text.adca6d67f9d87b5a7c465afba066a2c2b18d0215,It's very locked.,厳重に閉ざされてる。
+,,
 story.Prologue_HOD.move_door2.text.e96ca605746a85b178a3aa9da7c0706a4fe4ea11,This door is open…,この扉は開いてる……
 story.Prologue_HOD.move_door2.text.8e8f6221407a84d6cdcfaac7f8e1eb9ed7f109e4,Wasn't it boarded up…?,さっきは、板で塞がれてなかったっけ……？
 story.Prologue_HOD.move_door2.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,……
 story.Prologue_HOD.move_door2.text.0c5c669ae546bad8f360457f60028866820b5a37,Everything else is locked… I have no other choice but to go in…,他の扉は閉まってる……ここに入るしかない……
+,,
 story.Prologue_HOD.move_door3.text.915d6b4b1d7c44204f97a4e85d3eb8b3d85257e3,A fairly normal-looking door.,ごく普通の扉。
 story.Prologue_HOD.move_door3.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,鍵がかかってる。
+,,
 story.Prologue_HOD.move_door3.text.601cba21676d913d39ebb318c1e7aacdc87cf967,There's nothing here.,ここには何もない。
+,,
 story.Prologue_HOD.move_door4.text.61f9fcee0cdea05f9c9aa657cc340f5d576b3200,A small door with an odd pattern.,奇妙な模様の描かれた小さな扉。
 story.Prologue_HOD.move_door4.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,鍵がかかってる。
+,,
 story.Prologue_HOD.move_door5.text.cee11cdfebb1f319c1d263d50b40ac104b3e7abd,A door with a glossy finish.,光沢仕上げの施された扉。
 story.Prologue_HOD.move_door5.text.3a597447863a6ab302c74bec49eb5408c70ad2e3,You can see yourself in it.,自分の姿が映って見える。
 story.Prologue_HOD.move_door5.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,鍵がかかってる。
+,,
 story.Prologue_HOD.move_door6.text.ddbd38eba1be4e0b57ef351bba980f224c8ba179,A door with an odd pattern.,奇妙な模様の描かれた扉。
 story.Prologue_HOD.move_door6.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,鍵がかかってる。
