@@ -1,8 +1,8 @@
-﻿,en,vi,char
-characters.annie.name,???,???,
-characters.hoodie.name,???,???,
-characters.kat.name,Kat,Kat,
-characters.prologue_girl1.name,Ponytail Girl,Bạn nữ Tóc đuôi ngựa,Saki
-characters.prologue_girl2.name,Pretty Girl,Bạn nữ Xinh xắn,Juli
-characters.prologue_girl3.name,Quiet Girl,Bạn nữ Trầm tĩnh,Kaya
-characters.unknown.name,???,???,
+﻿,en,vi,char,
+characters.annie.name,???,???,,x
+characters.hoodie.name,???,???,,x
+characters.kat.name,Kat,Kat,,x
+characters.prologue_girl1.name,Ponytail Girl,Bạn nữ Tóc đuôi ngựa,Saki,x
+characters.prologue_girl2.name,Pretty Girl,Bạn nữ Xinh xắn,Juli,x
+characters.prologue_girl3.name,Quiet Girl,Bạn nữ Trầm tĩnh,Kaya,x
+characters.unknown.name,???,???,,x

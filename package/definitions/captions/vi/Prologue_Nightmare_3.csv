@@ -1,20 +1,20 @@
-﻿,en,vi
-story.Prologue_Nightmare_3.misc_letters.text.4a861b35acb076cf06695d42b4e8cb5f07eeee74,Unsealed golden letters scattered across the floor.,Nhiều lá thư màu vàng đã mở niêm đang rải rác khắp sàn.
-story.Prologue_Nightmare_3.misc_letters.text.51e3f0c277d985fbedd0fd18b052b01466524c7a,They seem to be rituals with various titles.,Có vẻ đều là quy trình nghi thức với các nhan đề khác nhau.
-story.Prologue_Nightmare_3.misc_letters.text.eada78379c61acdac230cc52647b8459adaea322,"""The Mirror Ritual""","""Nghi thức Gương"""
-story.Prologue_Nightmare_3.misc_letters.text.4a594ef5e6a7f9f9c49da1216eea2d84331a3ce3,"""The Ritual of the Well""","""Nghi thức Giếng"""
-story.Prologue_Nightmare_3.misc_letters.text.53afec55e4496356222efe92d559a643f1bf054f,"""The Bus Ritual""","""Nghi thức Xe buýt"""
-story.Prologue_Nightmare_3.misc_letters.text.1cbd889f38d9757d9ed8f5261b0e099481e9aa4e,"""The Three-Room Ritual""","""Nghi thức Ba căn phòng"""
-story.Prologue_Nightmare_3.misc_letters.text.a1fbdcf25c86b182c744a49a6c9fe6d1efa58baf,This is the one I did…,Cái này là cái mình làm đây…
-story.Prologue_Nightmare_3.misc_letters.text.56f65e6d77a3baffe6432e1e7ba1e5fad44ca569,These all come in golden letters… do they all work?,Cái nào cũng là thư màu vàng… tất cả đều thực hiện được chăng?
-story.Prologue_Nightmare_3.misc_letters.text.d3806871ffc3229d6eb69004d55c8e2a90b07111,I should look into this when I get home.,Để về nhà rồi tìm hiểu xem.
-,,
-story.Prologue_Nightmare_3.misc_windows.text.261512b2b1e20c8b365f37a65106b7883a8100b2,It's too dark to see anything on the other side.,Tối quá bên phía kia chả thấy gì.
-,,
-story.Prologue_Nightmare_3.move_next.text.8cc680251dd7f2a6da2516f40686bbc8d96568f4,You think you can leave?,Mày nghĩ mày ra khỏi đây được hả?
-story.Prologue_Nightmare_3.move_next.text.39613520b4600a689685f68f629eddc1d5bf3c8c,"Now that you can prove that these rituals work, you have no way of going back to tell anyone.","Giờ chứng minh được nghi thức là thật rồi, mày không có cách nào quay về nhắn cho ai được đâu."
-story.Prologue_Nightmare_3.move_next.text.a36933294f6f9383885a65b20551639ceb239c20,The knowledge will die with you.,Kiến thức đấy sẽ chết cùng với mày.
-story.Prologue_Nightmare_3.move_next.text.6fab6dc67090833d316f2770d6f370576d44ed1c,"That's… that's a lie, right?","Nói láo… mày nói láo, có phải không?"
-story.Prologue_Nightmare_3.move_next.text.e0624ba536e6dfd5a378a1f04395f0cfb3e9a8ac,You're just trying to scare me.,Mày chỉ muốn hù dọa tao thôi.
-,,
-story.Prologue_Nightmare_3.move_return.text.e808c8a48d1fae99bf0b3c1936f20434ccc1943a,The door is stuck. It won't open.,Cửa bị kẹt không mở được.
+﻿,en,vi,
+story.Prologue_Nightmare_3.misc_letters.text.4a861b35acb076cf06695d42b4e8cb5f07eeee74,Unsealed golden letters scattered across the floor.,Nhiều lá thư màu vàng đã mở niêm đang rải rác khắp sàn.,x
+story.Prologue_Nightmare_3.misc_letters.text.51e3f0c277d985fbedd0fd18b052b01466524c7a,They seem to be rituals with various titles.,Có vẻ đều là quy trình nghi thức với các nhan đề khác nhau.,x
+story.Prologue_Nightmare_3.misc_letters.text.eada78379c61acdac230cc52647b8459adaea322,"""The Mirror Ritual""","""Nghi thức Gương""",x
+story.Prologue_Nightmare_3.misc_letters.text.4a594ef5e6a7f9f9c49da1216eea2d84331a3ce3,"""The Ritual of the Well""","""Nghi thức Giếng""",x
+story.Prologue_Nightmare_3.misc_letters.text.53afec55e4496356222efe92d559a643f1bf054f,"""The Bus Ritual""","""Nghi thức Xe buýt""",x
+story.Prologue_Nightmare_3.misc_letters.text.1cbd889f38d9757d9ed8f5261b0e099481e9aa4e,"""The Three-Room Ritual""","""Nghi thức Ba căn phòng""",x
+story.Prologue_Nightmare_3.misc_letters.text.a1fbdcf25c86b182c744a49a6c9fe6d1efa58baf,This is the one I did…,Cái này là cái mình làm đây mà…,x
+story.Prologue_Nightmare_3.misc_letters.text.56f65e6d77a3baffe6432e1e7ba1e5fad44ca569,These all come in golden letters… do they all work?,Cái nào cũng là thư màu vàng… tất cả đều thực hiện được chăng?,x
+story.Prologue_Nightmare_3.misc_letters.text.d3806871ffc3229d6eb69004d55c8e2a90b07111,I should look into this when I get home.,Để về nhà rồi tìm hiểu xem.,x
+,,,x
+story.Prologue_Nightmare_3.misc_windows.text.261512b2b1e20c8b365f37a65106b7883a8100b2,It's too dark to see anything on the other side.,Tối quá bên phía kia chả thấy gì.,x
+,,,x
+story.Prologue_Nightmare_3.move_next.text.8cc680251dd7f2a6da2516f40686bbc8d96568f4,You think you can leave?,Mày nghĩ mày ra khỏi đây được hả?,x
+story.Prologue_Nightmare_3.move_next.text.39613520b4600a689685f68f629eddc1d5bf3c8c,"Now that you can prove that these rituals work, you have no way of going back to tell anyone.","Giờ chứng minh được nghi thức là thật rồi, mày không có cách nào quay về nhắn cho ai được đâu.",x
+story.Prologue_Nightmare_3.move_next.text.a36933294f6f9383885a65b20551639ceb239c20,The knowledge will die with you.,Kiến thức đấy sẽ chết cùng với mày.,x
+story.Prologue_Nightmare_3.move_next.text.6fab6dc67090833d316f2770d6f370576d44ed1c,"That's… that's a lie, right?","Nói láo… mày nói láo, có phải không?",x
+story.Prologue_Nightmare_3.move_next.text.e0624ba536e6dfd5a378a1f04395f0cfb3e9a8ac,You're just trying to scare me.,Mày chỉ muốn hù dọa tao thôi.,x
+,,,x
+story.Prologue_Nightmare_3.move_return.text.e808c8a48d1fae99bf0b3c1936f20434ccc1943a,The door is stuck. It won't open.,Cửa bị kẹt không mở được.,x
