@@ -1,57 +1,57 @@
-﻿,en,vi,
-objectives.prologue.explore_garden.name,Explore your surroundings,Dò la xung quanh,x
-objectives.prologue.explore_garden.description,I woke up in a strange garden. Where am I?,Mình thức giấc trong một khu vườn kỳ lạ. Đây là đâu?,x
-,,,x
-objectives.prologue.refresh_memory.name,Check your notes to refresh your memory,Xem ghi chú để nhớ lại cho rõ,x
-objectives.prologue.refresh_memory.description,I should go over my ritual notes to make sure I don't forget anything.,Mình nên đọc lướt qua ghi chú nghi thức cho chắc kẻo quên gì đó.,x
-,,,x
-objectives.prologue.items.get_chalk.name,Chalk,Phấn viết,x
-objectives.prologue.items.get_chalk.description,This is a school - surely I can find chalk here.,"Đây là trường học, kiểu gì cũng kiếm được phấn.",x
-,,,x
-objectives.prologue.items.get_candles.name,Candles,Nến,x
-objectives.prologue.items.get_candles.description,I brought some from home.,Mình có đem mấy cái từ nhà lên.,x
-,,,x
-objectives.prologue.items.get_hair_tuft.name,A tuft of hair,Nhúm tóc,x
-objectives.prologue.items.get_hair_tuft.description,It has to be human hair.,Phải là tóc người thì mới được.,x
-,,,x
-objectives.prologue.items.find_runes.name,A rune,Rune,x
-objectives.prologue.items.find_runes.description,"My friend said that the occult club keeps some runes somewhere in their room. I need one for my ritual, so I should look for it there.",Nghe đứa bạn bảo phòng câu lạc bộ huyền bí có cất một số cái rune. Mình cần một cái cho nghi thức nên phải tới tìm mới được.,x
-,,,x
-objectives.prologue.items.name,Gather items for the ritual,Thu thập đồ đạc cho nghi thức,x
-objectives.prologue.items.description,I should gather everything I'll need for the ritual first.,Trước tiên cần thu thập hết đồ dùng cho nghi thức cái đã.,x
-,,,x
-objectives.prologue.open_box.name,Find a way to open the box with the runes,Tìm cách mở thùng chứa rune,x
-objectives.prologue.open_box.description,"I found the box with the runes in the occult club, but it's sealed with tape - anything pointy should do the trick.","Mình tìm thấy thùng cất rune của câu lạc bộ huyền bí rồi, nhưng thùng bị dán băng dính. Kiếm đồ gì nhọn nhọn mở là ngon.",x
-,,,x
-objectives.prologue.sort_desks.name,Sort the desks in all three classrooms,Sắp đặt lại bàn trong cả ba phòng học,x
-objectives.prologue.sort_desks.description,"According to the ritual instructions, I need to get the desks out of the way in all three of the classrooms.","Theo quy trình nghi thức, mình cần chuyển mấy cái bàn dạt sang bên trong cả ba lớp học.",x
-,,,x
-objectives.prologue.shut_curtains.name,Shut the curtains in all three classrooms,Kéo rèm kín lại trong cả ba phòng học,x
-objectives.prologue.shut_curtains.description,"According to the ritual instructions, I need to make it as dark as possible in all three classrooms, so curtains should be shut.","Theo quy trình nghi thức, cả ba lớp học cần phải để tối nhất có thể, nên phải kéo rèm lại.",x
-,,,x
-objectives.prologue.enter_theater_club.name,Find a way into the Theater Club room,Tìm cách vào phòng câu lạc bộ kịch,x
-objectives.prologue.enter_theater_club.description,"I'm fairly sure I can find some curtains in the Theater Club room, but it's locked. I need to find a way in.","Mình đoán chắc có thể kiếm rèm trong phòng câu lạc bộ kịch, có điều phòng bị khóa rồi. Phải tìm cách vào thôi.",x
-,,,x
-objectives.prologue.retrieve_notebook.name,Retrieve the girl's notebook,Đi lấy vở của bạn nữ về,x
-objectives.prologue.retrieve_notebook.description,"One of the girls forgot her notebook in classroom 3-C. If I get it, she might lend me her Theater Club room key. She said not to look through it.",Một đứa trong đám con gái để quên vở ở lớp 3-C. Nếu mình lấy về được thì có khi nó sẽ cho mình mượn chìa phòng câu lạc bộ kịch. Nó dặn đừng có lật ra xem.,x
-,,,x
-objectives.prologue.draw_chalk.name,Draw a path with chalk in all 3 classrooms,Vẽ một con đường bằng phấn xuyên qua cả ba lớp học,x
-objectives.prologue.draw_chalk.description,I need to draw a path with chalk on the floor connecting all 3 classrooms. My drawing may help me visualize it.,Mình cần vẽ một con đường phấn lên sàn kết nối cả ba lớp học. Tham khảo bức vẽ của mình xem.,x
-,,,x
-objectives.prologue.set_candles.name,Set and light candles in the middle room,Đặt và thắp mớ nến trong căn phòng chính giữa.,x
-objectives.prologue.set_candles.description,I need to set and light the candles on top of all the desks in classroom 3-B.,Mình cần đặt và thắp mấy cây nến lên bên trên mấy cái bàn trong phòng lớp 3-B.,x
-,,,x
-objectives.prologue.start_ritual.name,Burn the hair tuft on a candle,Đốt nhúm tóc trên một ngọn nến,x
-objectives.prologue.start_ritual.description,Preparations are complete. Let's burn the hair tuft on a candle to start the ritual.,Chuẩn bị xong rồi. Đốt nhúm tóc trên nến rồi bắt đầu nghi thức thôi.,x
-,,,x
-objectives.prologue.explore_world.name,Explore the strange place,Dò la cái nơi kỳ lạ này,x
-objectives.prologue.explore_world.description,"I arrived at a mysterious location, let's take a look around!","Mình đến được một nơi kỳ lạ rồi, đi dòm quanh coi!",x
-,,,x
-objectives.prologue.escape_world.name,Escape this cursed place,Thoát khỏi cái nơi nguyền rủa này,x
-objectives.prologue.escape_world.description,This isn't fun anymore. I need to find a way back!,"Không có vui nữa đâu nha, kiếm đường đi về nhanh!",x
-,,,x
-objectives.prologue.ending_k3.name,Go home,Về nhà,x
-objectives.prologue.ending_k3.description,I'm going home. Maybe I'll finish the ritual some other time.,Đi về nhà thôi. Nghi thức để khi khác làm cũng được.,x
-,,,x
-objectives.prologue.ending_k3_pt2.name,Test your theory,Kiểm chứng giả thuyết,x
-objectives.prologue.ending_k3_pt2.description,"If I'm really trapped in a loop, then the X will still be there when I go up or down. But that couldn't be the case… right?","Nếu mình thực sự bị kẹt trong vòng lặp nào đó, vậy thì dấu X này vẫn sẽ ở đúng chỗ đây khi mình đi lên đi xuống. Nhưng mà chắc không phải là vậy… đâu nhỉ?",x
+﻿,en,vi
+objectives.prologue.explore_garden.name,Explore your surroundings,Dò la xung quanh
+objectives.prologue.explore_garden.description,I woke up in a strange garden. Where am I?,Mình thức giấc trong một khu vườn kỳ lạ. Đây là đâu?
+,,
+objectives.prologue.refresh_memory.name,Check your notes to refresh your memory,Xem ghi chú để nhớ lại cho rõ
+objectives.prologue.refresh_memory.description,I should go over my ritual notes to make sure I don't forget anything.,Mình nên đọc lướt qua ghi chú nghi thức cho chắc kẻo quên gì đó.
+,,
+objectives.prologue.items.get_chalk.name,Chalk,Phấn viết
+objectives.prologue.items.get_chalk.description,This is a school - surely I can find chalk here.,"Đây là trường học, kiểu gì cũng kiếm được phấn."
+,,
+objectives.prologue.items.get_candles.name,Candles,Nến
+objectives.prologue.items.get_candles.description,I brought some from home.,Mình có đem mấy cái từ nhà lên.
+,,
+objectives.prologue.items.get_hair_tuft.name,A tuft of hair,Nhúm tóc
+objectives.prologue.items.get_hair_tuft.description,It has to be human hair.,Phải là tóc người thì mới được.
+,,
+objectives.prologue.items.find_runes.name,A rune,Rune
+objectives.prologue.items.find_runes.description,"My friend said that the occult club keeps some runes somewhere in their room. I need one for my ritual, so I should look for it there.",Nghe đứa bạn bảo phòng câu lạc bộ huyền bí có cất một số cái rune. Mình cần một cái cho nghi thức nên phải tới tìm mới được.
+,,
+objectives.prologue.items.name,Gather items for the ritual,Thu thập đồ đạc cho nghi thức
+objectives.prologue.items.description,I should gather everything I'll need for the ritual first.,Trước tiên cần thu thập hết đồ dùng cho nghi thức cái đã.
+,,
+objectives.prologue.open_box.name,Find a way to open the box with the runes,Tìm cách mở thùng chứa rune
+objectives.prologue.open_box.description,"I found the box with the runes in the occult club, but it's sealed with tape - anything pointy should do the trick.","Mình tìm thấy thùng cất rune của câu lạc bộ huyền bí rồi, nhưng thùng bị dán băng dính. Kiếm đồ gì nhọn nhọn mở là ngon."
+,,
+objectives.prologue.sort_desks.name,Sort the desks in all three classrooms,Sắp đặt lại bàn trong cả ba phòng học
+objectives.prologue.sort_desks.description,"According to the ritual instructions, I need to get the desks out of the way in all three of the classrooms.","Theo quy trình nghi thức, mình cần chuyển mấy cái bàn dạt sang bên trong cả ba lớp học."
+,,
+objectives.prologue.shut_curtains.name,Shut the curtains in all three classrooms,Kéo rèm kín lại trong cả ba phòng học
+objectives.prologue.shut_curtains.description,"According to the ritual instructions, I need to make it as dark as possible in all three classrooms, so curtains should be shut.","Theo quy trình nghi thức, cả ba lớp học cần phải để tối nhất có thể, nên phải kéo rèm lại."
+,,
+objectives.prologue.enter_theater_club.name,Find a way into the Theater Club room,Tìm cách vào phòng câu lạc bộ kịch
+objectives.prologue.enter_theater_club.description,"I'm fairly sure I can find some curtains in the Theater Club room, but it's locked. I need to find a way in.","Mình đoán chắc có thể kiếm rèm trong phòng câu lạc bộ kịch, có điều phòng bị khóa rồi. Phải tìm cách vào thôi."
+,,
+objectives.prologue.retrieve_notebook.name,Retrieve the girl's notebook,Đi lấy vở của bạn nữ về
+objectives.prologue.retrieve_notebook.description,"One of the girls forgot her notebook in classroom 3-C. If I get it, she might lend me her Theater Club room key. She said not to look through it.",Một đứa trong đám con gái để quên vở ở lớp 3-C. Nếu mình lấy về được thì có khi nó sẽ cho mình mượn chìa phòng câu lạc bộ kịch. Nó dặn đừng có lật ra xem.
+,,
+objectives.prologue.draw_chalk.name,Draw a path with chalk in all 3 classrooms,Vẽ một con đường bằng phấn xuyên qua cả ba lớp học
+objectives.prologue.draw_chalk.description,I need to draw a path with chalk on the floor connecting all 3 classrooms. My drawing may help me visualize it.,Mình cần vẽ một con đường phấn lên sàn kết nối cả ba lớp học. Tham khảo bức vẽ của mình xem.
+,,
+objectives.prologue.set_candles.name,Set and light candles in the middle room,Đặt và thắp mớ nến trong căn phòng chính giữa.
+objectives.prologue.set_candles.description,I need to set and light the candles on top of all the desks in classroom 3-B.,Mình cần đặt và thắp mấy cây nến lên bên trên mấy cái bàn trong phòng lớp 3-B.
+,,
+objectives.prologue.start_ritual.name,Burn the hair tuft on a candle,Đốt nhúm tóc trên một ngọn nến
+objectives.prologue.start_ritual.description,Preparations are complete. Let's burn the hair tuft on a candle to start the ritual.,Chuẩn bị xong rồi. Đốt nhúm tóc trên nến rồi bắt đầu nghi thức thôi.
+,,
+objectives.prologue.explore_world.name,Explore the strange place,Dò la cái nơi kỳ lạ này
+objectives.prologue.explore_world.description,"I arrived at a mysterious location, let's take a look around!","Mình đến được một nơi kỳ lạ rồi, đi dòm quanh coi!"
+,,
+objectives.prologue.escape_world.name,Escape this cursed place,Thoát khỏi cái nơi nguyền rủa này
+objectives.prologue.escape_world.description,This isn't fun anymore. I need to find a way back!,"Không có vui nữa đâu nha, kiếm đường đi về nhanh!"
+,,
+objectives.prologue.ending_k3.name,Go home,Về nhà
+objectives.prologue.ending_k3.description,I'm going home. Maybe I'll finish the ritual some other time.,Đi về nhà thôi. Nghi thức để khi khác làm cũng được.
+,,
+objectives.prologue.ending_k3_pt2.name,Test your theory,Kiểm chứng giả thuyết
+objectives.prologue.ending_k3_pt2.description,"If I'm really trapped in a loop, then the X will still be there when I go up or down. But that couldn't be the case… right?","Nếu mình thực sự bị kẹt trong vòng lặp nào đó, vậy thì dấu X này vẫn sẽ ở đúng chỗ đây khi mình đi lên đi xuống. Nhưng mà chắc không phải là vậy… đâu nhỉ?"

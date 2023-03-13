@@ -1,10 +1,10 @@
 ﻿Hash,en,vi,char,
-story.Global.prologue_boxpuzzle_explanation.text.5127ee45f5d64a6fbfe3f27c37d8beea71cf8b3f,"Alright, let's see…","Rồi, coi nào…",Kat,x
-story.Global.prologue_boxpuzzle_explanation.text.0e38c332e3a68470735df29d9b4ef5dd21c1a5c2,According to my notes…,Dựa theo ghi chú thì…,Kat,x
-story.Global.prologue_boxpuzzle_explanation.text.7a6a98d9c89edd44dda70c219ee11bdc71cb190d,I need to move the desks to the sides in all three classrooms.,Đầu tiên phải kéo bàn học dạt sang hai bên trong cả ba lớp học.,Kat,x
-story.Global.prologue_boxpuzzle_explanation.text.1f4aee5ce6fd5c23c3d0ba0466edc66749f2521a,"Then I can draw a ""path"" in the middle of each one with chalk.","Sau đó vẽ một ""con đường"" bằng phấn ở chính giữa mỗi phòng.",Kat,x
-story.Global.prologue_boxpuzzle_explanation.text.6a36f5c97736b9ab9013672b97d67d453de9145c,"Well, I'll leave the chalk drawing for last. I want to gather everything I need first.",Vẽ đường thì để cuối hẵng làm đi. Mình muốn đi gom các món đồ cần thiết trước.,Kat,x
-,,,,x
+story.Global.prologue_boxpuzzle_explanation.text.5127ee45f5d64a6fbfe3f27c37d8beea71cf8b3f,"Alright, let's see…","Rồi, coi nào…",Kat,
+story.Global.prologue_boxpuzzle_explanation.text.0e38c332e3a68470735df29d9b4ef5dd21c1a5c2,According to my notes…,Dựa theo ghi chú thì…,Kat,
+story.Global.prologue_boxpuzzle_explanation.text.7a6a98d9c89edd44dda70c219ee11bdc71cb190d,I need to move the desks to the sides in all three classrooms.,Đầu tiên phải kéo bàn học dạt sang hai bên trong cả ba lớp học.,Kat,
+story.Global.prologue_boxpuzzle_explanation.text.1f4aee5ce6fd5c23c3d0ba0466edc66749f2521a,"Then I can draw a ""path"" in the middle of each one with chalk.","Sau đó vẽ một ""con đường"" bằng phấn ở chính giữa mỗi phòng.",Kat,
+story.Global.prologue_boxpuzzle_explanation.text.6a36f5c97736b9ab9013672b97d67d453de9145c,"Well, I'll leave the chalk drawing for last. I want to gather everything I need first.",Vẽ đường thì để cuối hẵng làm đi. Mình muốn đi gom các món đồ cần thiết trước.,Kat,
+,,,,
 story.Global.prologue_check_plants_cut.text.6329e8a7c52b3f3d8e22117c3eb6d3ca2ae1ff42,Oh no…,Trời ơi…,Kaya,x
 story.Global.prologue_check_plants_cut.text.c994deb18593c8d8a50b63c6872c2e7774cf2711,What are you doing…? Is this part of the ritual?,Mày làm cái gì thế…? Này cũng trong nghi thức à?,Juli,x
 ,,,,x
@@ -18,10 +18,10 @@ story.Global.prologue_check_plants_cut.text.ef3aada0e2404993532733408a29bc6d6552
 story.Global.prologue_check_plants_cut.text.80f3007acea925bd534b9a7cb9354a891d6b8eab,I don't like this ritual anymore…,Tao không có muốn coi nghi thức nữa…,Kaya,x
 story.Global.prologue_check_plants_cut.text.be9e520a9337bc2952919f7d9d0ece6283f51964,"Don't worry Kaya, we're going home now.","Không sao Kaya, giờ mình đi về luôn.",Juli,x
 story.Global.prologue_check_plants_cut.text.35f1a0ab71339bc315e57b1aeddeeea76e10bade,Don't talk to us again.,Đừng có mà bắt chuyện bọn tao nữa.,Saki,x
-,,,,x
-story.Global.prologue_classroom_misc_cubicles.text.24a04612760725bc6b9a45f8a60a34fa9e573db8,Shelves for the students to place their school bags.,Kệ tủ cho học sinh để cặp táp.,,x
-story.Global.prologue_classroom_misc_cubicles.text.7141dd76d5f74b98e7baa6a346b65f5424b3c338,There are no bags right now though.,Mà giờ không có cái cặp nào cả.,,x
-,,,,x
+,,,,
+story.Global.prologue_classroom_misc_cubicles.text.24a04612760725bc6b9a45f8a60a34fa9e573db8,Shelves for the students to place their school bags.,Kệ tủ cho học sinh để cặp táp.,,
+story.Global.prologue_classroom_misc_cubicles.text.7141dd76d5f74b98e7baa6a346b65f5424b3c338,There are no bags right now though.,Mà giờ không có cái cặp nào cả.,,
+,,,,
 story.Global.prologue_cutscene_ritual_1.text.a64bab41229e760e6a3777df0df4d89b8fa7373f,Everything's ready.,Đến đây là xong xuôi hết rồi.,Kat,x
 story.Global.prologue_cutscene_ritual_1.text.e9a37dc0299fbe32789eb529cb417520a49733e8,All that's left is to wait 5 minutes and then burn the hair.,Còn lại là chờ 5 phút rồi đốt nhúm tóc thôi.,Kat,x
 story.Global.prologue_cutscene_ritual_1.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,x
@@ -234,52 +234,52 @@ story.Global.prologue_event_sit_with_girls.text.3fca5477fa872a76a953cd6fde6bb02a
 story.Global.prologue_hod_event_wake_up.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,,x
 story.Global.prologue_hod_event_wake_up.text.5c63ff31864c31803e6e16cbd7f2e8361ab99123,I'm back in this hallway…,Về lại hành lang này rồi…,,x
 story.Global.prologue_hod_event_wake_up.text.91e6bee0edce6c84e46fa755976033f816630631,I don't like this… I need to get out of here…,Ớn lắm rồi… phải ra khỏi đây mau…,,x
-,,,,x
-story.Global.prologue_intro.text.0bc3d9ff4c4f11e9b23a9496d3872d9e4569a420,Whoa… weird dream.,Oaa… giấc mơ kì lạ ta.,,x
-story.Global.prologue_intro.text.fa92faa7deab6c7fda5948018c93ae668070a383,Everyone must be gone already.,Hẳn mấy đứa về hết rồi.,,x
-story.Global.prologue_intro.text.eac7803e0fe7212ecc9c1ce985463158f2fd25d4,Looks like it's eleven… I should get to it.,Chắc 11 giờ… phải bắt đầu thôi.,,x
-,,,,x
-story.Global.prologue_intro.text.ff8858e2985a1e188a13f20e82be444f317f89bb,Ohhhh no…,Ui trời…,Saki,x
-story.Global.prologue_intro.text.82962c4c07eeb65c033eff6ab4194d228f511041,You moved it!!,Rõ mày mới di!!,Juli,x
-story.Global.prologue_intro.text.f503fc6417fae70b61afcffef79c68cfc375aecd,"I didn't, I swear! You know I hate this type of thing!",Đâu có! Biết tao ghét cái kiểu vậy mà!,Saki,x
-story.Global.prologue_intro.text.0145067f3eae6a3eddce036f9657f3ccacdd3529,This can't possibly be happening…,Làm sao mà lại thế…,Kaya,x
-story.Global.prologue_intro.text.12f9e12bdc21ab8e11efc52ea66050debc4933d5,"It spelled ""DIE""!!-","Nó di ra chữ ""DIE"" nè!!",Saki,x
-story.Global.prologue_intro.text.7d582383882a626491b5d5b534ad2a61aca7b1da,Oh my… Oh no…,Trời ơi… thế này…,Kaya,x
-story.Global.prologue_intro.text.260a45ef6d7560e50ab6382c1c847907bab27850,Stop joking around!! This is serious!!,Đừng có giỡn nữa! Nghiêm túc này!!,Juli,x
-story.Global.prologue_intro.text.196d679ed61d1f2f724d592d5ab9ea23c3c01719,…Aah…. we should not have played this…,…Aaa… giá mà đừng chơi trò này…,Kaya,x
-story.Global.prologue_intro.text.bcaf537fae31809e1d3d434d5bdd4c0084e07205,I TOLD you we're going to be cursed!!,Tao BẢO là sẽ bị nguyền rồi đấy!!,Saki,x
-story.Global.prologue_intro.text.6840f9fa6ac8d3e6fa0f7232d25f8c262c8b892a,WHAT WAS THAT!?,VỪA MỚI CÁI GÌ ĐÓ!?,Juli,x
-story.Global.prologue_intro.text.3e0d566749651ab7f431f088e56cb5657ec35c45,Is that a ghost?? We summoned a ghost!,Ma à?? Mấy đứa mình gọi ma lên mất rồi!!,Saki,x
-story.Global.prologue_intro.text.7e141bf4743504e9a7b95faa99aa0ca9b0f82998,oh my god oh my god oh my god oh my god-,ôi trời ơi trời ơi trời ơi trời ơi-,Kaya,x
-story.Global.prologue_intro.text.913cd79aaf0435f0844f8473d4c420bea559abfd,YOU'RE MAKING TOO MUCH NOISE,TỤI BÂY ỒN ÀO QUÁ DỊ,Kat,x
-story.Global.prologue_intro.text.db6cef864b3d572fa09f1f16d9fe3d1750bcaf11,Oh…It's just Kat…,Ờ… là con Kat mà…,Juli,x
-story.Global.prologue_intro.text.7d155891c06b39cbad00bf11228e17ec3e39b82d,What's with the crazy knocking? What was that for!?,Mắc gì gõ cửa ầm ầm thế? Gõ thế làm cái gì hả?,Saki,x
-story.Global.prologue_intro.text.631761053645640a7e6336307c8d79e9876476ba,"Did that spook you? You're not supposed to be here, you know?",Bị dọa sợ à? Mà bọn mày vốn dĩ đâu có được la cà ở đây đâu?,Kat,x
-story.Global.prologue_intro.text.1a209a7387ffe4214154b62b2c8d197d53b09ba0,I could say the same about you. Why are YOU here?,Mày cũng vậy đó thôi. La cà ở đây làm cái gì?,Juli,x
-story.Global.prologue_intro.text.672c013f03867ba4fef295d30016d6195cf6ed59,Actually…,À thì…,Kat,x
-story.Global.prologue_intro.text.393a429647ab6869a1f6377961299ef784f0e34d,Say hello to the new member of the occult club!,Bởi vì tao đây mới được vào làm thành viên của câu lạc bộ huyền bí đó!,Kat,x
-story.Global.prologue_intro.text.316c0dc7474eae225044af0abd2242d69f585e68,I had the wonderful opportunity to meet all of the members yesterday.,"Hôm qua còn được dịp vinh dự gặp gỡ toàn bộ thành viên rồi, thế mà…",Kat,x
-story.Global.prologue_intro.text.57892c2b8d5f5ed4214c1f22bce2b4d269d42326,I don't recall seeing you there.,…chả nhớ khi đó đã gặp bọn mày chưa.,Kat,x
-story.Global.prologue_intro.text.fb1bda57693260e83b1bb49bfc7d834b33a9bbca,"You three are not part of the club, are you?",Bọn mày đâu phải thành viên câu lạc bộ huyền bí đâu nhỉ?,Kat,x
-story.Global.prologue_intro.text.584a67cd75a0f36ffa9fcecb8f18cbd946b0e21f,"That's funny. I didn't pin you of all people as the ""occult"" type, Kat.","Buồn cười ghê. Cỡ mày mà chơi hệ ""huyền bí"" cái nỗi gì hả Kat.",Saki,x
-story.Global.prologue_intro.text.0c5b1b3b8e498a13766867dbdb19f32a2badc58b,That's because I'm not.,"Đương nhiên, bởi vì tao đâu có chơi cái hệ đó.",Kat,x
-story.Global.prologue_intro.text.a5b9f6c8ce50e9561367f6a4c326854ce64c51fd,H-Hey!! We were doing something here!,Ơ kìa!! Bọn tao còn đang làm mà!,Juli,x
-story.Global.prologue_intro.text.e98f99a61215079797f890ec47fa3b06f914061b,I'll save you the trouble. All three of you moved it.,Để tao lý giải hộ cho. Cái đó nó là do ba đứa chúng mày di chuyển thôi.,Kat,x
-story.Global.prologue_intro.text.73fef01e230300ae6fc10ffd739157b067709157,Huh?,Ơ?,Kaya,x
-story.Global.prologue_intro.text.a036d2b13bc23a212e85c186a37255420eb1f199,The planchette. From your game. You all moved it. There's no ghost in the room.,Cái con cơ ấy. Trong trò bọn mày chơi. Do bọn mày di chuyển cả. Ma í làm gì có.,Kat,x
-story.Global.prologue_intro.text.e64aa7f1c54c33fef61fd23ed74f0c3fb31ea8b3,There's a simple scientific explanation: it's called the ideomotor effect.,"Có thể giải thích đơn giản và mang tính khoa học đó là ""Hiệu ứng vận động vô thức"".",Kat,x
-story.Global.prologue_intro.text.3c4b596ea6fba2d0a112ceed9808a9bb6a3ed1a9,"Simply put, just like your body reacts to pain reflexively, it may also react to ideas and move on its own. It Juli much bypasses the part of the brain which we use for conscious behavior.","Nói gọn thì, giống như phản ứng một cách có phản xạ với đau đớn, cơ thể người còn phản ứng với suy nghĩ và tự nó cử động nữa đó. Tín hiệu nó bỏ qua hẳn cái phần trong não mà ta dùng cho hành vi có ý thức.",Kat,x
-story.Global.prologue_intro.text.6c048a9f444077d649441fd46998d58edcd58430,It's not all that different from blinking or breathing. The effect is even stronger when a bunch of gullible people who are desperate to believe in ghost stories get together and play.,Nó hao hao như chớp mắt hay hít thở vậy. Khi một đám người khờ khạo cứ một mực tin vào chuyện ma mà tụ họp lại chơi thì hiệu ứng nó còn phát huy nữa.,Kat,x
-story.Global.prologue_intro.text.63477c861ae7c4635610e8572b0c4e084cd5026c,"There was an experiment where the players were blindfolded and suddenly the ""ghosts"" could no longer spell messages. You can try it if you don't believe me.","Có cái thí nghiệm mà người tham gia phải bịt mắt, bỗng nhiên ""ma"" không còn truyền được thông điệp nào nữa. Nếu không tin cứ làm thử mà xem.",Kat,x
-story.Global.prologue_intro.text.fb7d32b7bb5845a59bacbbc419e20797fd9d169d,"In other words, your mysterious answers from beyond… are really just your imagination playing tricks on you.","Nói cách khác, ""lời đáp bí ẩn từ bên kia"" bọn mày nhận được… thực ra chỉ là do trí tưởng tượng bọn mày bày ra mà thôi.",Kat,x
-story.Global.prologue_intro.text.fa0f99df1c933709cd4f05afbead12f19f720293,Great job killing the mood.,Cám ơn vì phá hỏng bầu không khí giùm nhá.,Saki,x
-story.Global.prologue_intro.text.3db63af8ea38af8d0a991e4ecf78da74b488dd07,You must be fun at parties.,Hiền tài trong bang hội đây chứ đâu.,Juli,x
-story.Global.prologue_intro.text.65d3732f30aebe84f9351d112efc26e8712d6b49,"Thanks a lot, Kat.",Chân thành cảm ơn nha Kat.,Kaya,x
-story.Global.prologue_intro.text.b287b859a8aaa56debbd10fa05d61898fa219549,Always a pleasure.,Không có chi.,Kat,x
-,,,,x
-story.Global.prologue_intro.text.6ca84bce4dc018a9e83e4d85077b34e91de6f4b7,"(Alright, time to search.)","(Nào, đi tìm nguyên liệu thôi)",Kat,x
-story.Global.prologue_intro.text.95db6927fbe525dacf5c5ea81a6f0ee76a6774a1,(I should go over my notes to make sure I don't forget anything.),"(Để không bị sót, ta hãy rà lại ghi chú phát)",Kat,x
-,,,,x
+,,,,
+story.Global.prologue_intro.text.0bc3d9ff4c4f11e9b23a9496d3872d9e4569a420,Whoa… weird dream.,Oaa… giấc mơ kì lạ ta.,,
+story.Global.prologue_intro.text.fa92faa7deab6c7fda5948018c93ae668070a383,Everyone must be gone already.,Hẳn mấy đứa về hết rồi.,,
+story.Global.prologue_intro.text.eac7803e0fe7212ecc9c1ce985463158f2fd25d4,Looks like it's eleven… I should get to it.,Chắc 11 giờ… phải bắt đầu thôi.,,
+,,,,
+story.Global.prologue_intro.text.ff8858e2985a1e188a13f20e82be444f317f89bb,Ohhhh no…,Ui trời…,Saki,
+story.Global.prologue_intro.text.82962c4c07eeb65c033eff6ab4194d228f511041,You moved it!!,Rõ mày mới di!!,Juli,
+story.Global.prologue_intro.text.f503fc6417fae70b61afcffef79c68cfc375aecd,"I didn't, I swear! You know I hate this type of thing!",Đâu có! Biết tao ghét cái kiểu vậy mà!,Saki,
+story.Global.prologue_intro.text.0145067f3eae6a3eddce036f9657f3ccacdd3529,This can't possibly be happening…,Làm sao mà lại thế…,Kaya,
+story.Global.prologue_intro.text.12f9e12bdc21ab8e11efc52ea66050debc4933d5,"It spelled ""DIE""!!-","Nó di ra chữ ""DIE"" nè!!",Saki,
+story.Global.prologue_intro.text.7d582383882a626491b5d5b534ad2a61aca7b1da,Oh my… Oh no…,Trời ơi… thế này…,Kaya,
+story.Global.prologue_intro.text.260a45ef6d7560e50ab6382c1c847907bab27850,Stop joking around!! This is serious!!,Đừng có giỡn nữa! Nghiêm túc này!!,Juli,
+story.Global.prologue_intro.text.196d679ed61d1f2f724d592d5ab9ea23c3c01719,…Aah…. we should not have played this…,…Aaa… giá mà đừng chơi trò này…,Kaya,
+story.Global.prologue_intro.text.bcaf537fae31809e1d3d434d5bdd4c0084e07205,I TOLD you we're going to be cursed!!,Tao BẢO là sẽ bị nguyền rồi đấy!!,Saki,
+story.Global.prologue_intro.text.6840f9fa6ac8d3e6fa0f7232d25f8c262c8b892a,WHAT WAS THAT!?,VỪA MỚI CÁI GÌ ĐÓ!?,Juli,
+story.Global.prologue_intro.text.3e0d566749651ab7f431f088e56cb5657ec35c45,Is that a ghost?? We summoned a ghost!,Ma à?? Mấy đứa mình gọi ma lên mất rồi!!,Saki,
+story.Global.prologue_intro.text.7e141bf4743504e9a7b95faa99aa0ca9b0f82998,oh my god oh my god oh my god oh my god-,ôi trời ơi trời ơi trời ơi trời ơi-,Kaya,
+story.Global.prologue_intro.text.913cd79aaf0435f0844f8473d4c420bea559abfd,YOU'RE MAKING TOO MUCH NOISE,TỤI BÂY ỒN ÀO QUÁ DỊ,Kat,
+story.Global.prologue_intro.text.db6cef864b3d572fa09f1f16d9fe3d1750bcaf11,Oh…It's just Kat…,Ờ… là con Kat mà…,Juli,
+story.Global.prologue_intro.text.7d155891c06b39cbad00bf11228e17ec3e39b82d,What's with the crazy knocking? What was that for!?,Mắc gì gõ cửa ầm ầm thế? Gõ thế làm cái gì hả?,Saki,
+story.Global.prologue_intro.text.631761053645640a7e6336307c8d79e9876476ba,"Did that spook you? You're not supposed to be here, you know?",Bị dọa sợ à? Mà bọn mày vốn dĩ đâu có được la cà ở đây đâu?,Kat,
+story.Global.prologue_intro.text.1a209a7387ffe4214154b62b2c8d197d53b09ba0,I could say the same about you. Why are YOU here?,Mày cũng vậy đó thôi. La cà ở đây làm cái gì?,Juli,
+story.Global.prologue_intro.text.672c013f03867ba4fef295d30016d6195cf6ed59,Actually…,À thì…,Kat,
+story.Global.prologue_intro.text.393a429647ab6869a1f6377961299ef784f0e34d,Say hello to the new member of the occult club!,Bởi vì tao đây mới được vào làm thành viên của câu lạc bộ huyền bí đó!,Kat,
+story.Global.prologue_intro.text.316c0dc7474eae225044af0abd2242d69f585e68,I had the wonderful opportunity to meet all of the members yesterday.,"Hôm qua còn được dịp vinh dự gặp gỡ toàn bộ thành viên rồi, thế mà…",Kat,
+story.Global.prologue_intro.text.57892c2b8d5f5ed4214c1f22bce2b4d269d42326,I don't recall seeing you there.,…chả nhớ khi đó đã gặp bọn mày chưa.,Kat,
+story.Global.prologue_intro.text.fb1bda57693260e83b1bb49bfc7d834b33a9bbca,"You three are not part of the club, are you?",Bọn mày đâu phải thành viên câu lạc bộ huyền bí đâu nhỉ?,Kat,
+story.Global.prologue_intro.text.584a67cd75a0f36ffa9fcecb8f18cbd946b0e21f,"That's funny. I didn't pin you of all people as the ""occult"" type, Kat.","Buồn cười ghê. Cỡ mày mà chơi hệ ""huyền bí"" cái nỗi gì hả Kat.",Saki,
+story.Global.prologue_intro.text.0c5b1b3b8e498a13766867dbdb19f32a2badc58b,That's because I'm not.,"Đương nhiên, bởi vì tao đâu có chơi cái hệ đó.",Kat,
+story.Global.prologue_intro.text.a5b9f6c8ce50e9561367f6a4c326854ce64c51fd,H-Hey!! We were doing something here!,Ơ kìa!! Bọn tao còn đang làm mà!,Juli,
+story.Global.prologue_intro.text.e98f99a61215079797f890ec47fa3b06f914061b,I'll save you the trouble. All three of you moved it.,Để tao lý giải hộ cho. Cái đó nó là do ba đứa chúng mày di chuyển thôi.,Kat,
+story.Global.prologue_intro.text.73fef01e230300ae6fc10ffd739157b067709157,Huh?,Ơ?,Kaya,
+story.Global.prologue_intro.text.a036d2b13bc23a212e85c186a37255420eb1f199,The planchette. From your game. You all moved it. There's no ghost in the room.,Cái con cơ ấy. Trong trò bọn mày chơi. Do bọn mày di chuyển cả. Ma í làm gì có.,Kat,
+story.Global.prologue_intro.text.e64aa7f1c54c33fef61fd23ed74f0c3fb31ea8b3,There's a simple scientific explanation: it's called the ideomotor effect.,"Có thể giải thích đơn giản và mang tính khoa học đó là ""Hiệu ứng vận động vô thức"".",Kat,
+story.Global.prologue_intro.text.3c4b596ea6fba2d0a112ceed9808a9bb6a3ed1a9,"Simply put, just like your body reacts to pain reflexively, it may also react to ideas and move on its own. It Juli much bypasses the part of the brain which we use for conscious behavior.","Nói gọn thì, giống như phản ứng một cách có phản xạ với đau đớn, cơ thể người còn phản ứng với suy nghĩ và tự nó cử động nữa đó. Tín hiệu nó bỏ qua hẳn cái phần trong não mà ta dùng cho hành vi có ý thức.",Kat,
+story.Global.prologue_intro.text.6c048a9f444077d649441fd46998d58edcd58430,It's not all that different from blinking or breathing. The effect is even stronger when a bunch of gullible people who are desperate to believe in ghost stories get together and play.,Nó hao hao như chớp mắt hay hít thở vậy. Khi một đám người khờ khạo cứ một mực tin vào chuyện ma mà tụ họp lại chơi thì hiệu ứng nó còn phát huy nữa.,Kat,
+story.Global.prologue_intro.text.63477c861ae7c4635610e8572b0c4e084cd5026c,"There was an experiment where the players were blindfolded and suddenly the ""ghosts"" could no longer spell messages. You can try it if you don't believe me.","Có cái thí nghiệm mà người tham gia phải bịt mắt, bỗng nhiên ""ma"" không còn truyền được thông điệp nào nữa. Nếu không tin cứ làm thử mà xem.",Kat,
+story.Global.prologue_intro.text.fb7d32b7bb5845a59bacbbc419e20797fd9d169d,"In other words, your mysterious answers from beyond… are really just your imagination playing tricks on you.","Nói cách khác, ""lời đáp bí ẩn từ bên kia"" bọn mày nhận được… thực ra chỉ là do trí tưởng tượng bọn mày bày ra mà thôi.",Kat,
+story.Global.prologue_intro.text.fa0f99df1c933709cd4f05afbead12f19f720293,Great job killing the mood.,Cám ơn vì phá hỏng bầu không khí giùm nhá.,Saki,
+story.Global.prologue_intro.text.3db63af8ea38af8d0a991e4ecf78da74b488dd07,You must be fun at parties.,Hiền tài trong bang hội đây chứ đâu.,Juli,
+story.Global.prologue_intro.text.65d3732f30aebe84f9351d112efc26e8712d6b49,"Thanks a lot, Kat.",Chân thành cảm ơn nha Kat.,Kaya,
+story.Global.prologue_intro.text.b287b859a8aaa56debbd10fa05d61898fa219549,Always a pleasure.,Không có chi.,Kat,
+,,,,
+story.Global.prologue_intro.text.6ca84bce4dc018a9e83e4d85077b34e91de6f4b7,"(Alright, time to search.)","(Nào, đi tìm nguyên liệu thôi)",Kat,
+story.Global.prologue_intro.text.95db6927fbe525dacf5c5ea81a6f0ee76a6774a1,(I should go over my notes to make sure I don't forget anything.),"(Để không bị sót, ta hãy rà lại ghi chú phát)",Kat,
+,,,,
 story.Global.prologue_item_chalk_get.text.7fcfeb525c5daf1677c919384a00c06fe775e4d7,I already have enough chalk but… the more the merrier!,Mình đã có đủ phấn rồi nhưng… lấy nhiều cho nó vui!,Kat,x
 story.Global.prologue_item_chalk_get.text.59a38df9efa8b663acdc42eed3b4b771b1058a83,What kind of ritual is this…?,Rốt cuộc thế này thì nghi thức kiểu gì ta…?,Juli,x
 ,,,,
@@ -303,11 +303,11 @@ story.Global.prologue_item_notebook.text.3d4cfe9ae07971ebe34744c2f96e9f733f67425
 story.Global.prologue_item_notebook.text.71ca50e7baa83505f6b5e6492bb07129818e24fb,This isn't worth my time.,Chẳng bõ thời gian tí nào.,,x
 ,,,,x
 story.Global.prologue_item_notebook.text.d4bb8c0668eed38119a5c8b6381fd6ce87d00f8b,A math notebook. Nothing worth looking through.,Là vở môn toán. Chả đáng lướt qua.,,x
-,,,,x
-story.Global.prologue_item_notes.text.aa75d6edf5104c9b684055c37aaec4d4c51fe085,"(Alright, so I need to search the school for the items first.)","(Được rồi, trước tiên loanh quanh trong trường thu thập nguyên liệu nào.)",,x
+,,,,
+story.Global.prologue_item_notes.text.aa75d6edf5104c9b684055c37aaec4d4c51fe085,"(Alright, so I need to search the school for the items first.)","(Được rồi, trước tiên loanh quanh trong trường thu thập nguyên liệu nào.)",,
 story.Global.prologue_item_notes.text.f529f7413af21949f3f26140290a1e3e0ec54b38,(The rune should be in this room…),(Cái rune hẳn có trong phòng này…),,x
 story.Global.prologue_item_notes.text.a96b5fccf3cb71a42313671f2fef090aeed565b5,(…somewhere.),(…hay đâu đó không biết nữa.),,x
-,,,,x
+,,,,
 story.Global.prologue_item_scissors.text.80f0585437b706612010d41fb9af91e109df19fb,"Well, I need a tuft of hair for the ritual…","Hừm, cần một nhúm tóc cho nghi thức cơ…",,x
 ,,,,x
 story.Global.prologue_item_scissors.choice.text.9c0922cd047c8dd932079bbca22928ce7012d9e7,Should I cut my own hair?,Cắt tóc bản thân chăng?,,x
