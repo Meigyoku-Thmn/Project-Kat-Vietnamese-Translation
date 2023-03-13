@@ -1,12 +1,12 @@
 ﻿,en,vi,char,
 story.Prologue_Classroom_3.event_boxpuzzle_fail.text.57f9f313ef9b933534f125ca2240fca642f775cc,"On second thought, I don't feel like it.",Nghĩ lại thì thấy chưa muốn làm ngay bây giờ lắm.,,
 ,,,,
-story.Prologue_Classroom_3.event_boxpuzzle_success.text.ad8b5428ef886ff5b431a2e97eef79ef8fffb226,Phew!,Phù!,,x
-,,,,x
+story.Prologue_Classroom_3.event_boxpuzzle_success.text.ad8b5428ef886ff5b431a2e97eef79ef8fffb226,Phew!,Phù!,,
+,,,,
 story.Prologue_Classroom_3.event_saki_desk.text.0d661add80126c7a3f9f8c72113e68227aba3614,"This is my desk. Juli sits in front of me, and Kaya sits behind.","Tao ngồi chỗ này. Juli ngồi trước tao, Kaya ngồi đằng sau.",Saki,x
 story.Prologue_Classroom_3.event_saki_desk.text.fd141e42cc289e104322660970b444bacc80870f,I see…,Ừa…,Kat,x
 story.Prologue_Classroom_3.event_saki_desk.text.3868b1980eefb18f01f9f111cab289a3af14c584,Thanks for letting me know…?,Cám ơn vì nói tao biết nhé…?,Kat,x
-,,,,x
+,,,,
 story.Prologue_Classroom_3.event_saki_desk.text.918d904c3f954c2dc44debd8abc0a2d11e120e73,Saki's desk.,Bàn của Saki.,,x
 ,,,,
 story.Prologue_Classroom_3.item_candles_on_desks.text.87d3eaef68887c05be7b24ccd160e1b33ab3106e,This isn't the right classroom for that.,Làm chuyện này thì ở phòng đây không đúng rồi.,,
@@ -31,12 +31,12 @@ story.Prologue_Classroom_3.item_lighter_on_window2.text.4f991da92f6952d95a516d34
 ,,,,
 story.Prologue_Classroom_3.item_lighter_on_window3.text.4f991da92f6952d95a516d344927d59a4e7bee2e,I think I'll pass on burning the school down today.,Thôi hôm nay không đốt trường học đâu.,,
 ,,,,
-story.Prologue_Classroom_3.item_notebook.text.c831ec5f71bf0834fb5275b138308d4652967897,There's a red notebook here.,Có cuốn vở đỏ ở đây.,,x
-,,,,x
-story.Prologue_Classroom_3.item_notebook.text.06646aeae86caf3ed63228dcab5bd3f02f02c145,There's nothing else here.,Không còn gì khác cả.,,x
-,,,,x
-story.Prologue_Classroom_3.item_scissors_on_plant.text.32c9aa0ef29cbdc3d781c065a4a0f57fba68afcd,It's already done.,Đã cắt rồi.,,x
-,,,,x
+story.Prologue_Classroom_3.item_notebook.text.c831ec5f71bf0834fb5275b138308d4652967897,There's a red notebook here.,Có cuốn vở đỏ ở đây.,,
+,,,,
+story.Prologue_Classroom_3.item_notebook.text.06646aeae86caf3ed63228dcab5bd3f02f02c145,There's nothing else here.,Không còn gì khác cả.,,
+,,,,
+story.Prologue_Classroom_3.item_scissors_on_plant.text.32c9aa0ef29cbdc3d781c065a4a0f57fba68afcd,It's already done.,Đã cắt rồi.,,
+,,,,
 story.Prologue_Classroom_3.item_scissors_on_plant.text.e3c35488f648b0db0375773a5a07c86be37d04e0,This isn't the time for that.,Giờ không phải lúc làm chuyện đó.,,x
 ,,,,
 story.Prologue_Classroom_3.misc_books.text.a69f16b3e1b41228da2b583f8b133947006c0658,Some world encyclopedias.,Vài cuốn bách khoa toàn thư.,,
@@ -56,7 +56,7 @@ story.Prologue_Classroom_3.misc_pinboard.text.33e38a6ca97d020cf943319b0b6050a281
 ,,,,
 story.Prologue_Classroom_3.misc_plant.text.7219399b824ee80374fd4252111163dbe7afa70c,A happy green plant.,Cái cây lá cảnh vui vẻ.,,
 ,,,,
-story.Prologue_Classroom_3.misc_plant.text.125dd56afe0d4478e1a7f34c9ec48fc2a7e4bd6c,The plant is no longer happy.,Cái cây lá cảnh chẳng còn vui nữa.,,x
+story.Prologue_Classroom_3.misc_plant.text.125dd56afe0d4478e1a7f34c9ec48fc2a7e4bd6c,The plant is no longer happy.,Cái cây lá cảnh chẳng còn vui nữa.,,
 ,,,,
 story.Prologue_Classroom_3.misc_plants.text.4d70a9992533b62d0dffed12e8fef918aa146331,Some cute potted plants. Their silent nature enchants you.,Mấy cây trồng trong chậu trông đáng yêu. Sức sống tĩnh lặng của chúng khiến say đắm mất rồi.,,
 ,,,,
@@ -73,17 +73,17 @@ story.Prologue_Classroom_3.misc_shelf2b.choice.text.e8d32d47491e2462d1e83b815266
 story.Prologue_Classroom_3.misc_shelf2b.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Lấy,,
 story.Prologue_Classroom_3.misc_shelf2b.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi,,
 ,,,,
-story.Prologue_Classroom_3.misc_shelf2b.text.9dd1b82a5e4f409f34a6c727d6cf043f271ad8f9,There's nothing else of use.,Chẳng còn gì khác xài được đâu.,,x
+story.Prologue_Classroom_3.misc_shelf2b.text.9dd1b82a5e4f409f34a6c727d6cf043f271ad8f9,There's nothing else of use.,Chẳng còn gì khác xài được đâu.,,
 ,,,,
 story.Prologue_Classroom_3.misc_trashcan.text.c151769c9b7c94a0bc56d85aa96edce07f38d4be,A trash can.,Thùng rác.,,
 story.Prologue_Classroom_3.misc_trashcan.text.88eca18b664c00fc02ee6ab7f6f8418405a98ea1,"As it's usually the case with trash cans, it's devoid of useful items.","Như mọi thùng rác thường thấy, chả chứa cái thứ gì được việc hết.",,
 ,,,,
-story.Prologue_Classroom_3.misc_window1.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.,Phải để yên rèm khép kín lại.,,x
-,,,,x
-story.Prologue_Classroom_3.misc_window2.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.,Phải để yên rèm khép kín lại.,,x
-,,,,x
-story.Prologue_Classroom_3.misc_window3.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.,Phải để yên rèm khép kín lại.,,x
-,,,,x
+story.Prologue_Classroom_3.misc_window1.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.,Phải để yên rèm khép kín lại.,,
+,,,,
+story.Prologue_Classroom_3.misc_window2.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.,Phải để yên rèm khép kín lại.,,
+,,,,
+story.Prologue_Classroom_3.misc_window3.text.b0e2f12daabe29569d19459db1ddada873d12fa9,The curtains should stay closed.,Phải để yên rèm khép kín lại.,,
+,,,,
 story.Prologue_Classroom_3.move_enter.choice.text.de94a1b5f3e96666575b288236ae55f16301c4ff,Should I sort the desks in this classroom now?,Sắp xếp lại bàn trong lớp học luôn chứ?,,
 story.Prologue_Classroom_3.move_enter.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Sắp xếp luôn,,
 story.Prologue_Classroom_3.move_enter.choice.8de95fd5b4121e2d7c337a70f664f13c28c3c275,Not yet,"Chưa, gượm đã",,
