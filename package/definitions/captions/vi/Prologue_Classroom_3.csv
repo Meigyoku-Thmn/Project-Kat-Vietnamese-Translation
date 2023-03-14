@@ -11,11 +11,11 @@ story.Prologue_Classroom_3.event_saki_desk.text.918d904c3f954c2dc44debd8abc0a2d1
 ,,,,
 story.Prologue_Classroom_3.item_candles_on_desks.text.87d3eaef68887c05be7b24ccd160e1b33ab3106e,This isn't the right classroom for that.,Làm chuyện này thì ở phòng đây không đúng rồi.,,
 ,,,,
-story.Prologue_Classroom_3.item_chalk.text.004ccd56b002de2e15a0e5e583d482e9b2363b6e,The path is already drawn.,Con đường đã được vẽ rồi.,,x
+story.Prologue_Classroom_3.item_chalk.text.004ccd56b002de2e15a0e5e583d482e9b2363b6e,The path is already drawn.,Con đường đã được vẽ rồi.,,
 ,,,,
 story.Prologue_Classroom_3.item_chalk.text.948d8b2c36e66fc40d736faa8415a54c32e2e197,Not yet. I'd rather make sure I have everything I need first.,Chưa được. Trước tiên phải thu thập hết cái mình cần đã.,,
 ,,,,
-story.Prologue_Classroom_3.item_chalk.text.ccb1964d634b8a6efbb6a1762c66e590109e0ed9,Not yet. I want to finish preparing the classrooms first.,Chưa được. Trước tiên phải chuẩn bị xong lớp học đã.,,x
+story.Prologue_Classroom_3.item_chalk.text.ccb1964d634b8a6efbb6a1762c66e590109e0ed9,Not yet. I want to finish preparing the classrooms first.,Chưa được. Trước tiên phải chuẩn bị xong lớp học đã.,,
 ,,,,
 story.Prologue_Classroom_3.item_chalk_on_chalkboard.text.f65fd7db1d4855f7802d390a5a1ae1656c3ad1bb,I'd rather not get into anymore trouble than I already am.,Mình chẳng muốn gây thêm rắc rối hơn cái mình đang làm đâu.,,
 ,,,,
@@ -37,7 +37,7 @@ story.Prologue_Classroom_3.item_notebook.text.06646aeae86caf3ed63228dcab5bd3f02f
 ,,,,
 story.Prologue_Classroom_3.item_scissors_on_plant.text.32c9aa0ef29cbdc3d781c065a4a0f57fba68afcd,It's already done.,Đã cắt rồi.,,
 ,,,,
-story.Prologue_Classroom_3.item_scissors_on_plant.text.e3c35488f648b0db0375773a5a07c86be37d04e0,This isn't the time for that.,Giờ không phải lúc làm chuyện đó.,,x
+story.Prologue_Classroom_3.item_scissors_on_plant.text.e3c35488f648b0db0375773a5a07c86be37d04e0,This isn't the time for that.,Giờ không phải lúc làm chuyện đó.,,
 ,,,,
 story.Prologue_Classroom_3.misc_books.text.a69f16b3e1b41228da2b583f8b133947006c0658,Some world encyclopedias.,Vài cuốn bách khoa toàn thư.,,
 story.Prologue_Classroom_3.misc_books.text.122c53a85b3a3d2d63a44c7586aed2871c388ca2,I would definitely steal one of these if they weren't so darn heavy.,Nếu không nặng thí mạng thế này kiểu gì ta cũng sẽ ăn cắp một cuốn.,Kat,

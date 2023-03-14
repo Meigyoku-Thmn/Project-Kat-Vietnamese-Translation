@@ -134,9 +134,9 @@ story.Prologue_Club_Occult.event_draw_on_chalkboard.text.c5f78d1a63d0c7a1f59040a
 story.Prologue_Club_Occult.event_draw_on_chalkboard.text.dd68d63ef43a2a7a0cef0bcbb1ab05bce13d5b96,This was the most pointless thing you've done today.,Đây là điều vô nghĩa nhất mà bạn làm hôm nay.,,
 ,,,,
 story.Prologue_Club_Occult.event_draw_on_chalkboard.text.bbfc9b64bfdac2cc550d41423c388e512bd0900e,"My masterpiece is already perfect, no need for modifications.","Kiệt tác của mình đã hoàn bích rồi, không cần chỉnh thêm.",,x
-,,,,x
-story.Prologue_Club_Occult.event_draw_on_chalkboard.text.a948b49968c3e87473e56d3738829cfc1c8b9919,It's too dark for that.,Tối quá sao mà vẽ.,,x
-,,,,x
+,,,,
+story.Prologue_Club_Occult.event_draw_on_chalkboard.text.a948b49968c3e87473e56d3738829cfc1c8b9919,It's too dark for that.,Tối quá sao mà vẽ.,,
+,,,,
 story.Prologue_Club_Occult.event_drawing_react_girls.text.abf50765b96509feb083c33cff8bdd0342b582b2,That's cute!,Dễ thương ghê!,Kaya,x
 story.Prologue_Club_Occult.event_drawing_react_girls.text.a0908b83198b163bf333ff0dc7d2abe433dc9322,Thank you very much.,Xin cảm ơn nha.,Kat,x
 ,,,,x
@@ -207,49 +207,53 @@ story.Prologue_Club_Occult.event_open_box.text.8693ebe42c2b21b44bbb06fbafb3ace1c
 story.Prologue_Club_Occult.event_open_box.text.06b2c135c0cd5ad382fc2e7bf514ca2bf8828d46,What does it do?,Xài thế nào đấy?,Saki,x
 story.Prologue_Club_Occult.event_open_box.text.f6d83edc45f0b5db67760927a6156b71e8e91b28,No idea.,Chịu.,Kat,x
 story.Prologue_Club_Occult.event_open_box.text.8f80f3174aa4c4e9263ba69b2c89e2cd69d3f4dd,How is this any less childish than the game we were playing…?,Cái này bớt trẻ con hơn cái trò chúng ta đang chơi đến nhường nào đây…?,Juli,x
-,,,,x
-story.Prologue_Club_Occult.event_read_letter.text.570ed513b8f90a4d33e731b5efb1030ec020e806,There's a golden envelope in the drawer.,Có cái phong bì màu vàng cất trong ngăn kéo.,,x
-story.Prologue_Club_Occult.event_read_letter.text.65a12ab7136e287462f2dc83c4a907f0b1036b8d,These are the instructions for the ritual I'm doing.,Đây là lời chỉ dẫn cho cái nghi thức mình giờ đang làm.,Kat,x
-story.Prologue_Club_Occult.event_read_letter.text.f40cb78939b45c6ebabe5dc3d80ef6fa3fe60670,"Thankfully, I shortened them when I wrote my notes.",Được cái là mình đã tóm tắt lại khi viết ghi chú rồi.,Kat,x
-,,,,x
-story.Prologue_Club_Occult.event_read_letter.choice.text.45655123c522abf1c4131a5388aeaf8bcc98af9f,Read the full ritual rules?,Đọc toàn bộ luật nghi thức chứ?,,x
-story.Prologue_Club_Occult.event_read_letter.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Đọc,,x
-story.Prologue_Club_Occult.event_read_letter.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi,,x
-,,,,x
-story.Prologue_Club_Occult.event_read_letter.text.83e94b8ca08a1625dca15229f82f9051072cd8ae,You must play alone.,Ngươi phải chơi một mình.,,x
-story.Prologue_Club_Occult.event_read_letter.text.475ffa14014bb463965306813410e4afd01a7039,Requirements:,Yêu cầu:,,x
-story.Prologue_Club_Occult.event_read_letter.text.babf76262f0ea838f472ec5a81a46705039c68ab,"- 3 dark, adjacent rooms
+,,,,
+story.Prologue_Club_Occult.event_read_letter.text.570ed513b8f90a4d33e731b5efb1030ec020e806,There's a golden envelope in the drawer.,Có cái phong bì màu vàng cất trong ngăn kéo.,,
+story.Prologue_Club_Occult.event_read_letter.text.65a12ab7136e287462f2dc83c4a907f0b1036b8d,These are the instructions for the ritual I'm doing.,Đây là lời chỉ dẫn cho cái nghi thức mình giờ đang làm.,Kat,
+story.Prologue_Club_Occult.event_read_letter.text.f40cb78939b45c6ebabe5dc3d80ef6fa3fe60670,"Thankfully, I shortened them when I wrote my notes.",Được cái là mình đã tóm tắt lại khi viết ghi chú rồi.,Kat,
+,,,,
+story.Prologue_Club_Occult.event_read_letter.choice.text.45655123c522abf1c4131a5388aeaf8bcc98af9f,Read the full ritual rules?,Đọc toàn bộ luật nghi thức chứ?,,
+story.Prologue_Club_Occult.event_read_letter.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Đọc,,
+story.Prologue_Club_Occult.event_read_letter.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi,,
+,,,,
+story.Prologue_Club_Occult.event_read_letter.text.83e94b8ca08a1625dca15229f82f9051072cd8ae,You must play alone.,Ngươi phải chơi một mình.,,
+story.Prologue_Club_Occult.event_read_letter.text.475ffa14014bb463965306813410e4afd01a7039,Requirements:,Yêu cầu:,,
+story.Prologue_Club_Occult.event_read_letter.text.babf76262f0ea838f472ec5a81a46705039c68ab,"​- 3 dark, adjacent rooms
 - 12 candles
-- A lighter or matches","- 3 căn phòng tối, liền kề nhau
+- A lighter or matches","​- 3 căn phòng tối, liền kề nhau
 - 12 cây nến
 - Bật lửa hoặc diêm",,x
-story.Prologue_Club_Occult.event_read_letter.text.8f64422d9fe2c6182dffa0bd2e8a4399656c38ff,#NAME?,#NAME?,,x
-story.Prologue_Club_Occult.event_read_letter.text.7a3e2ecfc019c98540bfc396b5c1c1fb9ddcf45d,Preparations:,Chuẩn bị:,,x
+story.Prologue_Club_Occult.event_read_letter.text.8f64422d9fe2c6182dffa0bd2e8a4399656c38ff,"​- A rune
+- A tuft of human hair
+- White chalk or White paint","​- Một miếng rune
+- Nhúm tóc người
+- Phấn viết trắng hoặc màu vẽ trắng",,x
+story.Prologue_Club_Occult.event_read_letter.text.7a3e2ecfc019c98540bfc396b5c1c1fb9ddcf45d,Preparations:,Chuẩn bị:,,
 story.Prologue_Club_Occult.event_read_letter.text.59194ad134b9bbb69253b98a1ee2bdbcb8ec3306,"Start after the sun has set.
 All 3 rooms must be pitch black; turn off all the lights, draw the curtains, and close the doors.","Bắt đầu sau khi mặt trời lặn.
-Cả 3 căn phòng phải tối mịt; tắt hết ánh sáng, kéo hết rèm lại, và đóng cửa lại.",,x
-story.Prologue_Club_Occult.event_read_letter.text.fbd5e27089f7acf01d349abd943ad70d164c6eb5,"Using the chalk or paint, draw a path going through the 3 rooms. This path will serve to connect your current location to your destination.","Dùng phấn viết hoặc màu vẽ, vẽ một con đường xuyên qua ba căn phòng. Con đường này sẽ đóng vai trò kết nối nơi ngươi đang ở tới nơi ngươi muốn đến.",,x
-story.Prologue_Club_Occult.event_read_letter.text.e37e781899825ae256db4321b594402ef7703de6,"In the middle room, place 6 candles on each side of the drawn path, parallel to it.","Tại căn phòng chính giữa, ở hai bên con đường đã vẽ, mỗi bên đặt 6 cây nến sao cho song song với con đường đó.",,x
-story.Prologue_Club_Occult.event_read_letter.text.7d1f8eca4c1b45759334c350127a721d325d2104,Instructions:,Quy trình:,,x
-story.Prologue_Club_Occult.event_read_letter.text.f8e15d9e0fa32fd380979550dc081ab0c1716344,"Light each of the candles and let them burn for at least 5 minutes. From this point, you can no longer abort the ritual.","Thắp từng cây nến rồi để chúng cháy ít nhất là 5 phút. Từ lúc này, ngươi không còn có thể dừng nghi thức được nữa.",,x
+Cả 3 căn phòng phải tối mịt; tắt hết ánh sáng, kéo hết rèm lại, và đóng cửa lại.",,
+story.Prologue_Club_Occult.event_read_letter.text.fbd5e27089f7acf01d349abd943ad70d164c6eb5,"Using the chalk or paint, draw a path going through the 3 rooms. This path will serve to connect your current location to your destination.","Dùng phấn viết hoặc màu vẽ, vẽ một con đường xuyên qua ba căn phòng. Con đường này sẽ đóng vai trò kết nối nơi ngươi đang ở tới nơi ngươi muốn đến.",,
+story.Prologue_Club_Occult.event_read_letter.text.e37e781899825ae256db4321b594402ef7703de6,"In the middle room, place 6 candles on each side of the drawn path, parallel to it.","Tại căn phòng chính giữa, ở hai bên con đường đã vẽ, mỗi bên đặt 6 cây nến sao cho song song với con đường đó.",,
+story.Prologue_Club_Occult.event_read_letter.text.7d1f8eca4c1b45759334c350127a721d325d2104,Instructions:,Quy trình:,,
+story.Prologue_Club_Occult.event_read_letter.text.f8e15d9e0fa32fd380979550dc081ab0c1716344,"Light each of the candles and let them burn for at least 5 minutes. From this point, you can no longer abort the ritual.","Thắp từng cây nến rồi để chúng cháy ít nhất là 5 phút. Từ lúc này, ngươi không còn có thể dừng nghi thức được nữa.",,
 story.Prologue_Club_Occult.event_read_letter.text.dd442a2dbb9b9164d940308a6f62c9edf2c03bbd,"After the 5 minutes have passed, burn the tuft of hair on one of the candles.
 Proceed to blow out all the candles one by one.","Khi 5 phút trôi qua rồi, đốt nhúm tóc bằng một trong các cây nến.
-Tiếp đó thổi tắt hết nến từng cây một.",,x
-story.Prologue_Club_Occult.event_read_letter.text.62745a31ad16e6b42cfee742b31322b5d4124678,"When the last candle is put out, quickly close your eyes and count to 100.","Khi cây nến cuối cùng được thổi tắt rồi, nhanh chóng nhắm mắt lại rồi đếm đến 100.",,x
-story.Prologue_Club_Occult.event_read_letter.text.eea803d9cb223f09c6a260de6fb74d0958659424,Open your eyes.,Rồi mở mắt ra.,,x
-story.Prologue_Club_Occult.event_read_letter.text.c1250ccde58119f34e3e88498c178eae4f51feef,To Remember:,Ghi nhớ:,,x
-story.Prologue_Club_Occult.event_read_letter.text.b57fd1b198ecd6e7ae8533aabfbc8cb8427e0470,You must always close the door behind you. Leaving it open may attract unwanted attention.,Ngươi phải luôn đóng cửa sau lưng. Nếu để cửa mở có khả năng sẽ thu hút sự chú ý không mong muốn.,,x
-story.Prologue_Club_Occult.event_read_letter.text.fdb4a3dc24a3a9aa7bdca9f88212619ace5d61fe,Do NOT let the rune out of your possession. It is your only protection.,CHỚ để rune rời khỏi tầm tay. Rune là thủ hộ duy nhất của ngươi.,,x
-story.Prologue_Club_Occult.event_read_letter.text.6fe918d02741b537d22742037272623729aa5254,"Do NOT bring any weapons with you. If you arm yourself, so will they.","CHỚ mang vũ khí theo. Nếu ngươi cầm vũ khí, thì chúng cũng thế.",,x
-story.Prologue_Club_Occult.event_read_letter.text.4a14624738f81647408a3a58399b1802debf1880,"Should anything be heard or felt while you count to 100, it must be ignored.","Trong khi đếm đến 100 nếu có cảm thấy hay nghe thấy cái gì đi nữa, cũng phải làm ngơ.",,x
-story.Prologue_Club_Occult.event_read_letter.text.ff7b391f0b8961401c11a4782023ea1797b0628b,Do NOT open your eyes.,CHỚ mở mắt ra.,,x
-story.Prologue_Club_Occult.event_read_letter.text.8c62fa816746a7a5cc901cecc949a75e43839101,Do NOT turn on the lights.,CHỚ bật ánh sáng.,,x
-story.Prologue_Club_Occult.event_read_letter.text.c5953f5a437cf7a422468816d80e7a95e1a70ad0,Do NOT move.,CHỚ có di chuyển.,,x
-story.Prologue_Club_Occult.event_read_letter.text.0be540b7490f8a7145cea48aec6914b4bf1eacf0,It is normal to feel like you are not alone. You won't be.,Cảm thấy có ai đó khác thì là điều bình thường. Thực tế sẽ không hề có một mình ngươi.,,x
-story.Prologue_Club_Occult.event_read_letter.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,x
-,,,,x
-story.Prologue_Club_Occult.event_read_letter.text.12d578abb29a0be6e03a20bb11974bb87ff37639,There's no need to read it again.,Không cần phải đọc lại nữa đâu.,,x
-,,,,x
+Tiếp đó thổi tắt hết nến từng cây một.",,
+story.Prologue_Club_Occult.event_read_letter.text.62745a31ad16e6b42cfee742b31322b5d4124678,"When the last candle is put out, quickly close your eyes and count to 100.","Khi cây nến cuối cùng được thổi tắt rồi, nhanh chóng nhắm mắt lại rồi đếm đến 100.",,
+story.Prologue_Club_Occult.event_read_letter.text.eea803d9cb223f09c6a260de6fb74d0958659424,Open your eyes.,Rồi mở mắt ra.,,
+story.Prologue_Club_Occult.event_read_letter.text.c1250ccde58119f34e3e88498c178eae4f51feef,To Remember:,Ghi nhớ:,,
+story.Prologue_Club_Occult.event_read_letter.text.b57fd1b198ecd6e7ae8533aabfbc8cb8427e0470,You must always close the door behind you. Leaving it open may attract unwanted attention.,Ngươi phải luôn đóng cửa sau lưng. Nếu để cửa mở có khả năng sẽ thu hút sự chú ý không mong muốn.,,
+story.Prologue_Club_Occult.event_read_letter.text.fdb4a3dc24a3a9aa7bdca9f88212619ace5d61fe,Do NOT let the rune out of your possession. It is your only protection.,CHỚ để rune rời khỏi tầm tay. Rune là thủ hộ duy nhất của ngươi.,,
+story.Prologue_Club_Occult.event_read_letter.text.6fe918d02741b537d22742037272623729aa5254,"Do NOT bring any weapons with you. If you arm yourself, so will they.","CHỚ mang vũ khí theo. Nếu ngươi cầm vũ khí, thì chúng cũng thế.",,
+story.Prologue_Club_Occult.event_read_letter.text.4a14624738f81647408a3a58399b1802debf1880,"Should anything be heard or felt while you count to 100, it must be ignored.","Trong khi đếm đến 100 nếu có cảm thấy hay nghe thấy cái gì đi nữa, cũng phải làm ngơ.",,
+story.Prologue_Club_Occult.event_read_letter.text.ff7b391f0b8961401c11a4782023ea1797b0628b,Do NOT open your eyes.,CHỚ mở mắt ra.,,
+story.Prologue_Club_Occult.event_read_letter.text.8c62fa816746a7a5cc901cecc949a75e43839101,Do NOT turn on the lights.,CHỚ bật ánh sáng.,,
+story.Prologue_Club_Occult.event_read_letter.text.c5953f5a437cf7a422468816d80e7a95e1a70ad0,Do NOT move.,CHỚ có di chuyển.,,
+story.Prologue_Club_Occult.event_read_letter.text.0be540b7490f8a7145cea48aec6914b4bf1eacf0,It is normal to feel like you are not alone. You won't be.,Cảm thấy có ai đó khác thì là điều bình thường. Thực tế sẽ không hề có một mình ngươi.,,
+story.Prologue_Club_Occult.event_read_letter.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,
+,,,,
+story.Prologue_Club_Occult.event_read_letter.text.12d578abb29a0be6e03a20bb11974bb87ff37639,There's no need to read it again.,Không cần phải đọc lại nữa đâu.,,
+,,,,
 story.Prologue_Club_Occult.event_read_letter.text.bab79d53c711295bcee6a0ca286445826fec5c6d,Is that the ritual we're doing right now?,Đó là cái nghi thức nãy giờ chúng ta đang làm hả?,Juli,x
 story.Prologue_Club_Occult.event_read_letter.text.7169a9fe242bf1537fcb89e9b96d1f00c9745eed,Yeah.,Ừ.,Kat,x
 story.Prologue_Club_Occult.event_read_letter.text.b0427f3bd719f15830402c4070925bc3106f7d19,I wonder if anyone else tried it…,Không biết có ai khác làm thử rồi chưa…,Kaya,x
@@ -263,7 +267,7 @@ story.Prologue_Club_Occult.event_switched_runes.text.6d4d51077cbe74dd495a2c1ae43
 ,,,,
 story.Prologue_Club_Occult.item_curtains_on_window.text.c597dacf39b073be30fc38917dbad02b512eedad,This window doesn't need any curtains.,Cửa sổ này thì không cần rèm gì.,,x
 ,,,,
-story.Prologue_Club_Occult.item_hair_on_girl1.text.fa4517c01ceba1aeef423d00baf9a3d78e6d466e,"Ugh, you disgust me!","Ựa, kinh tởm mày quá!",Saki,x
+story.Prologue_Club_Occult.item_hair_on_girl1.text.fa4517c01ceba1aeef423d00baf9a3d78e6d466e,"Ugh, you disgust me!","Ựa, kinh tởm mày quá!",Saki,
 ,,,,
 story.Prologue_Club_Occult.item_hair_on_girl2.text.0d36b354967ee8b55748628072d5e8a96278138a,Why are you holding that like some sort of sick trophy? What is wrong with you!?,Sao mày phe phẩy cái đó như cái chiến tích bệnh hoạn vậy? Mày bị khùng à?,Juli,
 ,,,,
@@ -276,8 +280,8 @@ story.Prologue_Club_Occult.item_key_on_girl1.text.8b95a779e79fd7888a5a8dd0634f08
 ,,,,
 story.Prologue_Club_Occult.item_key_on_girl1.text.44484d3ab1bf77b7f0d8fa30858cf47c7a868039,"Gee, thanks.","Trời ạ, cảm ơn.",Saki,x
 ,,,,
-story.Prologue_Club_Occult.item_key_on_girl1.text.394f7e249f341679b0aa382628f82995e6c73ecf,"(I can't give it back yet, I haven't even used it!)","(Chưa thể trả lại được, đã xài đâu!)",Kat,x
-story.Prologue_Club_Occult.item_key_on_girl1.text.44c582df70cc6e653adf2cf0df3f29fd1b6e16ca,…?,…?,Saki,x
+story.Prologue_Club_Occult.item_key_on_girl1.text.394f7e249f341679b0aa382628f82995e6c73ecf,"(I can't give it back yet, I haven't even used it!)","(Chưa thể trả lại được, đã xài đâu!)",Kat,
+story.Prologue_Club_Occult.item_key_on_girl1.text.44c582df70cc6e653adf2cf0df3f29fd1b6e16ca,…?,…?,Saki,
 ,,,,
 story.Prologue_Club_Occult.item_key_on_girl1.text.cb55159ef656a9518b0422b94cc148fa985f813d,Uhh… why do you have that?,Ờm… sao mày có chìa tao vậy?,Saki,x
 story.Prologue_Club_Occult.item_key_on_girl1.text.de483d2ed9649fd1b0b5e03ea9b7e06f98f6b8bf,"Well, thanks for returning it, I guess?",Ờ thì… cám ơn mày trả lại cho tao nha…?,Saki,x
@@ -285,11 +289,11 @@ story.Prologue_Club_Occult.item_key_on_girl1.text.de483d2ed9649fd1b0b5e03ea9b7e0
 story.Prologue_Club_Occult.item_key_on_girl1.text.a1e5a44bc05eb0f93400e861dde926e11e512aa6,"Let me guess. Returning my notebook was too much for you, so you just took the key instead.",Hiểu rồi. Mày không thích lấy hộ vở cho tao nên thay vào đó lấy chìa khóa luôn chứ gì.,Saki,x
 story.Prologue_Club_Occult.item_key_on_girl1.text.d6fee471b65d61ca093bcde2d3afcae28912e241,"Well, at least you brought it back, I suppose.","Thôi thì, được cái là mày còn trả lại.",Saki,x
 ,,,,
-story.Prologue_Club_Occult.item_key_on_girl1.text.76dce1ef7d155c3b5d87ed82c1f6ab710ec81c40,Oh wow. You just took that?,Ối chà. Mày tự tiện lấy thế hả?,Saki,x
-story.Prologue_Club_Occult.item_key_on_girl1.text.1316b89663b1eb8400e8a4f507221ef260358a33,"You're a real bitch Kat, you know that?","Mày chó chết lắm Kat, có biết không?",Saki,x
+story.Prologue_Club_Occult.item_key_on_girl1.text.76dce1ef7d155c3b5d87ed82c1f6ab710ec81c40,Oh wow. You just took that?,Ối chà. Mày tự tiện lấy thế hả?,Saki,
+story.Prologue_Club_Occult.item_key_on_girl1.text.1316b89663b1eb8400e8a4f507221ef260358a33,"You're a real bitch Kat, you know that?","Mày chó chết lắm Kat, có biết không?",Saki,
 ,,,,
 story.Prologue_Club_Occult.item_key_on_girl1.text.1950464812f0237a7d21002f41db251238cc50e3,…of course you had it all along.,…biết là mày cầm suốt từ đầu đến đuôi mà.,Saki,x
-story.Prologue_Club_Occult.item_key_on_girl1.text.00af8af630f32b9e1e98bdf13be6686348a70f63,Now I feel like an idiot for worrying. Hope you enjoyed my key.,Nãy giờ lo lắng cứ như đồ ngớ ngẩn. Cầm chìa khóa của tao lấy làm vui sướng nhé.,Saki,x
+story.Prologue_Club_Occult.item_key_on_girl1.text.00af8af630f32b9e1e98bdf13be6686348a70f63,Now I feel like an idiot for worrying. Hope you enjoyed my key.,Nãy giờ lo lắng cứ như đồ ngớ ngẩn. Cầm chìa khóa của tao lấy làm vui sướng rồi nhé.,Saki,x
 ,,,,
 story.Prologue_Club_Occult.item_lighter_on_box.text.72e02c3364e70e1da6a263ae0725f097b12fe34e,That won't accomplish anything good.,Làm như thế không có được cái gì tốt hết.,,
 ,,,,
@@ -304,7 +308,7 @@ story.Prologue_Club_Occult.item_lighter_on_girl2.text.7a4bef73d53239cfe4b828eb46
 story.Prologue_Club_Occult.item_lighter_on_girl3.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,
 story.Prologue_Club_Occult.item_lighter_on_girl3.text.3183fcc936c7f6a1aa01d3d583e63b5d252e3923,(Nah…),(Hông…),Kat,
 ,,,,
-story.Prologue_Club_Occult.item_notebook_on_girl1.text.bcf0badfb3275b12a0df799731b7ac1befa4a0c3,Is this your notebook?,Này vở của mày phải không?,Kat,x
+story.Prologue_Club_Occult.item_notebook_on_girl1.text.bcf0badfb3275b12a0df799731b7ac1befa4a0c3,Is this your notebook?,Này vở của mày phải không?,Kat,
 story.Prologue_Club_Occult.item_notebook_on_girl1.text.4607ae1a98a498da6a7460bc82ffe3b05bff55a6,"Yeah, that's it. I hope you didn't look through it.",Ờ đó đó. Không có lật ra xem đấy chứ?,Saki,x
 ,,,,
 story.Prologue_Club_Occult.item_notebook_on_girl1.text.4f81128dcfd5234339f4a01a48626d2495cfea6b,Nope. Your secrets are safe.,Đâu có đâu. Bí mật vẫn cứ là bí mật.,Kat,x
@@ -345,22 +349,22 @@ story.Prologue_Club_Occult.item_notebook_on_girl1.text.a964ff67f4c44db7a44fab7da
 story.Prologue_Club_Occult.item_notebook_on_girl1.text.00975a4bbf16da9c8aebf7e12a96294673a46029,Your feeling is right. May I have my notebook back?,Đoán đúng rồi đấy. Tao nhận lại được không?,Saki,
 story.Prologue_Club_Occult.item_notebook_on_girl1.text.688fd398e21b829668056e789907c97ac7ad75d1,Here you go.,Mời dùng ạ.,Kat,
 ,,,,
-story.Prologue_Club_Occult.item_notebook_on_girl1.text.6f34079605ef7a8dd19a53a2225c6e1f4d9feda6,Are you kidding me? First the hair and now blackmail?,Mày giỡn mặt hả? Đầu tiên là tóc rồi lần này là hăm dọa nữa sao?,Saki,x
-story.Prologue_Club_Occult.item_notebook_on_girl1.text.e1ceac83ea4a47d62a92a6a725be460304af33f6,"I don't care what you want, and I don't care why you have my notebook.","Tao chả quan tâm mày muốn làm cái gì, cũng chả quan tâm tại sao mày lại có vở của tao.",Saki,x
-story.Prologue_Club_Occult.item_notebook_on_girl1.text.7e1778e7c37af639e56a985550874c843b3adfc1,Give it back or I'll get the teacher to beat your ass tomorrow morning!,Trả lại đây mau. Không thì sáng mai tao kêu thầy giáo cho mày no đòn!,Saki,x
-story.Prologue_Club_Occult.item_notebook_on_girl1.text.c0a1542758f529c3c6256349a23c925815b0ea10,Geez… Stuff it. I don't want your stupid notebook.,Rồi vâng… gớm. Tao mà thèm cái thứ vở ngáo của mày.,Kat,x
+story.Prologue_Club_Occult.item_notebook_on_girl1.text.6f34079605ef7a8dd19a53a2225c6e1f4d9feda6,Are you kidding me? First the hair and now blackmail?,Mày giỡn mặt hả? Đầu tiên là tóc rồi lần này là hăm dọa nữa sao?,Saki,
+story.Prologue_Club_Occult.item_notebook_on_girl1.text.e1ceac83ea4a47d62a92a6a725be460304af33f6,"I don't care what you want, and I don't care why you have my notebook.","Tao chả quan tâm mày muốn làm cái gì, cũng chả quan tâm tại sao mày lại có vở của tao.",Saki,
+story.Prologue_Club_Occult.item_notebook_on_girl1.text.7e1778e7c37af639e56a985550874c843b3adfc1,Give it back or I'll get the teacher to beat your ass tomorrow morning!,Trả lại đây mau. Không thì sáng mai tao kêu thầy giáo cho mày no đòn!,Saki,
+story.Prologue_Club_Occult.item_notebook_on_girl1.text.c0a1542758f529c3c6256349a23c925815b0ea10,Geez… Stuff it. I don't want your stupid notebook.,Rồi vâng… gớm. Tao mà thèm cái thứ vở ngáo của mày.,Kat,
 ,,,,
-story.Prologue_Club_Occult.item_notebook_on_girl2.text.269c16a1dfa107b2acc8de8d26d8a6f63a7ad98b,"Hey, is this yours?",Nè đây của mày phải không?,Kat,x
+story.Prologue_Club_Occult.item_notebook_on_girl2.text.269c16a1dfa107b2acc8de8d26d8a6f63a7ad98b,"Hey, is this yours?",Nè đây của mày phải không?,Kat,
 ,,,,
 story.Prologue_Club_Occult.item_notebook_on_girl2.text.b716d05ccbf4157a6b3a983ba9b7667abf95a8e2,Um…,Ờm…,Juli,x
 ,,,,
 story.Prologue_Club_Occult.item_notebook_on_girl2.text.1a02e7f130b50e2e1ef4dd5e1ddfafd8153a993b,"Wait, can I see that…?","Từ từ, đưa tao coi với…?",Saki,x
 ,,,,
-story.Prologue_Club_Occult.item_notebook_on_girl2.text.5e846230e3b7400d2de371dc9cec83201e416307,For the love of… give me that!,Trời đất ạ… đưa đây mau!,Saki,x
+story.Prologue_Club_Occult.item_notebook_on_girl2.text.5e846230e3b7400d2de371dc9cec83201e416307,For the love of… give me that!,Trời đất ạ… đưa đây mau!,Saki,
 ,,,,
 story.Prologue_Club_Occult.item_notebook_on_girl2.text.fb0e9461a642d3ec9cf0a6e9e8b1f4ebbfb194f5,What are you doing…? Please bring that here.,Làm cái gì vậy…? Đem vở cho tao chứ?,Saki,x
 ,,,,
-story.Prologue_Club_Occult.item_notebook_on_girl3.text.269c16a1dfa107b2acc8de8d26d8a6f63a7ad98b,"Hey, is this yours?",Nè đây của mày phải không?,Kat,x
+story.Prologue_Club_Occult.item_notebook_on_girl3.text.269c16a1dfa107b2acc8de8d26d8a6f63a7ad98b,"Hey, is this yours?",Nè đây của mày phải không?,Kat,
 ,,,,
 story.Prologue_Club_Occult.item_notebook_on_girl3.text.ae7bd6d3c057e3cb624759bb23e3f3a9827c2b86,Uhh…,Ừm…,Kaya,x
 ,,,,
@@ -386,11 +390,11 @@ story.Prologue_Club_Occult.item_scissors_on_girl1.text.377da0cf441144a6050ee9c2a
 ,,,,
 story.Prologue_Club_Occult.item_scissors_on_girl1.text.c3c7d3c31ae9610a87df8bdf8c7f235b4c7c75d1,(Nah… she's fine.),(Thôi… cắt nó làm gì.),Kat,x
 ,,,,
-story.Prologue_Club_Occult.item_scissors_on_girl2.text.8034fcff154ca2528dcf33c361d5115423539a30,…!?,…!?,Juli,x
-story.Prologue_Club_Occult.item_scissors_on_girl2.text.77a46c7d2755db882c1396bde1f852655095a8df,What in the actual hell…,Mày vừa làm cái quái…,Saki,x
-story.Prologue_Club_Occult.item_scissors_on_girl2.text.e9f3fdeb83a1929c7ad74f804cddf50e2b00d519,Are you kidding me right now!?,Mày giỡn mặt hả trời!?,Juli,x
-story.Prologue_Club_Occult.item_scissors_on_girl2.text.6329e8a7c52b3f3d8e22117c3eb6d3ca2ae1ff42,Oh no…,Sao lại…,Kaya,x
-story.Prologue_Club_Occult.item_scissors_on_girl2.text.64425502ca8b7ef4e4a77c3138768079540b7440,DON'T TOUCH HER! GET OUT OF HERE!,ĐỪNG CÓ ĐỘNG VÀO NÓ! CÚT RA NGOÀI MAU!,Saki,x
+story.Prologue_Club_Occult.item_scissors_on_girl2.text.8034fcff154ca2528dcf33c361d5115423539a30,…!?,…!?,Juli,
+story.Prologue_Club_Occult.item_scissors_on_girl2.text.77a46c7d2755db882c1396bde1f852655095a8df,What in the actual hell…,Mày vừa làm cái quái…,Saki,
+story.Prologue_Club_Occult.item_scissors_on_girl2.text.e9f3fdeb83a1929c7ad74f804cddf50e2b00d519,Are you kidding me right now!?,Mày giỡn mặt hả trời!?,Juli,
+story.Prologue_Club_Occult.item_scissors_on_girl2.text.6329e8a7c52b3f3d8e22117c3eb6d3ca2ae1ff42,Oh no…,Sao lại…,Kaya,
+story.Prologue_Club_Occult.item_scissors_on_girl2.text.64425502ca8b7ef4e4a77c3138768079540b7440,DON'T TOUCH HER! GET OUT OF HERE!,ĐỪNG CÓ ĐỘNG VÀO NÓ! CÚT RA NGOÀI MAU!,Saki,
 ,,,,
 story.Prologue_Club_Occult.item_scissors_on_girl2.text.ef4f8b68a5becc00b3524c84ef42c952d60d65bd,Don't you dare…,Mày đừng có giở trò…,Juli,
 ,,,,
@@ -398,11 +402,11 @@ story.Prologue_Club_Occult.item_scissors_on_girl2.text.10e0019996ad46460274aa27a
 ,,,,
 story.Prologue_Club_Occult.item_scissors_on_girl2.text.c5f5fc498172652966bf730971f8765bbdac66bf,(I don't wanna ruin her hair.),(Sao lại nỡ phá đi mái tóc xinh đẹp thế này.),Kat,x
 ,,,,
-story.Prologue_Club_Occult.item_scissors_on_girl3.text.44c582df70cc6e653adf2cf0df3f29fd1b6e16ca,…?,…?,Kaya,x
-story.Prologue_Club_Occult.item_scissors_on_girl3.text.b7206931ca52e0a7fa21ead98956ef53e2ee338a,WHAT THE HELL ARE YOU DOING TO HER!?,MÀY VỪA LÀM CÁI QUÁI GÌ HẢ!?,Juli,x
-story.Prologue_Club_Occult.item_scissors_on_girl3.text.6a94640039e106891b5b1aa121af8a22dbf5e43e,She cut… her hair…,Nó cắt… tóc của Kaya rồi…,Saki,x
-story.Prologue_Club_Occult.item_scissors_on_girl3.text.65e18df6cccfbb649bea90062c8e63da8c952328,Why…?,Tại sao…?,Kaya,x
-story.Prologue_Club_Occult.item_scissors_on_girl3.text.f3603b7aacbc91746c86f567c0745e40b7012c20,GET OUT RIGHT THIS SECOND!!!,CÚT RA NGOÀI NGAY!!!!,Juli,x
+story.Prologue_Club_Occult.item_scissors_on_girl3.text.44c582df70cc6e653adf2cf0df3f29fd1b6e16ca,…?,…?,Kaya,
+story.Prologue_Club_Occult.item_scissors_on_girl3.text.b7206931ca52e0a7fa21ead98956ef53e2ee338a,WHAT THE HELL ARE YOU DOING TO HER!?,MÀY VỪA LÀM CÁI QUÁI GÌ HẢ!?,Juli,
+story.Prologue_Club_Occult.item_scissors_on_girl3.text.6a94640039e106891b5b1aa121af8a22dbf5e43e,She cut… her hair…,Nó cắt… tóc của Kaya rồi…,Saki,
+story.Prologue_Club_Occult.item_scissors_on_girl3.text.65e18df6cccfbb649bea90062c8e63da8c952328,Why…?,Tại sao…?,Kaya,
+story.Prologue_Club_Occult.item_scissors_on_girl3.text.f3603b7aacbc91746c86f567c0745e40b7012c20,GET OUT RIGHT THIS SECOND!!!,CÚT RA NGOÀI NGAY!!!!,Juli,
 ,,,,
 story.Prologue_Club_Occult.item_scissors_on_girl3.text.30cbcb32f00407fb2e66958d7912b53ef22e4755,"Kat, if you touch me with those scissors…","Kat, mày mà động cái kéo này vào tao…",Kaya,
 story.Prologue_Club_Occult.item_scissors_on_girl3.text.70a0a553ac69e7dc9513b7dbb38ec97bd56c21dd,I'll make you swallow them.,Thì tao dộng nó xuống họng mày đấy.,Kaya,
@@ -417,22 +421,22 @@ story.Prologue_Club_Occult.misc_bag.text.26c4de44633fd6c32dc5972848f88693839f34b
 story.Prologue_Club_Occult.misc_bag.text.82451a73e0a14de2d129aef4634f80111c374fdc,Do you need something?,Cần gì hả?,Saki,
 story.Prologue_Club_Occult.misc_bag.text.ff1851d750d94b77830676154b56dbe23d06864e,Maybe later.,Để sau đi.,Kat,
 ,,,,
-story.Prologue_Club_Occult.misc_bag.text.876322d92d82e43d6788d5956d2a1b3144a39fa0,(What if I accidentally push the bag off the chair?),(Nếu giả vờ vô tình xô cặp khỏi ghế thì sao?),Kat,x
+story.Prologue_Club_Occult.misc_bag.text.876322d92d82e43d6788d5956d2a1b3144a39fa0,(What if I accidentally push the bag off the chair?),(Nếu giả vờ vô tình xô cặp khỏi ghế thì sao?),Kat,
 ,,,,
-story.Prologue_Club_Occult.misc_bag.choice.text.e253bde32575df92eb5ef451cd03f9fa5291b0cd,Push the bag?,Xô cặp chứ?,,x
-story.Prologue_Club_Occult.misc_bag.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Xô,,x
-story.Prologue_Club_Occult.misc_bag.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi,,x
+story.Prologue_Club_Occult.misc_bag.choice.text.e253bde32575df92eb5ef451cd03f9fa5291b0cd,Push the bag?,Xô cặp chứ?,,
+story.Prologue_Club_Occult.misc_bag.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Xô,,
+story.Prologue_Club_Occult.misc_bag.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi,,
 ,,,,
-story.Prologue_Club_Occult.misc_bag.text.09d6befde9a1fc88aa1b9c5fde34c137a9b4ba1d,What the-!,Ớ-!,Saki,x
-story.Prologue_Club_Occult.misc_bag.text.420fb99442d0d6a1fd30ab318ab8fcc4c61638f9,"I'm so sorry! Oh dear me, let me pick that up for you!",Xin lỗi xin lỗi! Tao nhặt lên cho!,Kat,x
-story.Prologue_Club_Occult.misc_bag.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Saki,x
-story.Prologue_Club_Occult.misc_bag.text.f59c0f4afab2d0325f03ac35cc3f49c2e2449132,I'll be out of your hair now!,Hứa không quấy rầy nữa đâu nha!,Kat,x
+story.Prologue_Club_Occult.misc_bag.text.09d6befde9a1fc88aa1b9c5fde34c137a9b4ba1d,What the-!,Ớ-!,Saki,
+story.Prologue_Club_Occult.misc_bag.text.420fb99442d0d6a1fd30ab318ab8fcc4c61638f9,"I'm so sorry! Oh dear me, let me pick that up for you!",Xin lỗi xin lỗi! Tao nhặt lên cho!,Kat,
+story.Prologue_Club_Occult.misc_bag.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Saki,
+story.Prologue_Club_Occult.misc_bag.text.f59c0f4afab2d0325f03ac35cc3f49c2e2449132,I'll be out of your hair now!,Hứa không quấy rầy nữa đâu nha!,Kat,
 ,,,,
-story.Prologue_Club_Occult.misc_bag.text.cf07da808e2ffee655d08b799ba7318fa3834521,(No need to mess with it anymore.),(Không cần đụng chạm gì thêm nữa đâu.),Kat,x
+story.Prologue_Club_Occult.misc_bag.text.cf07da808e2ffee655d08b799ba7318fa3834521,(No need to mess with it anymore.),(Không cần đụng chạm gì thêm nữa đâu.),Kat,
 ,,,,
-story.Prologue_Club_Occult.misc_bag.text.251f52d6df3395c8df5f5e03f4b361cc970625c8,An empty chair with no bag on it.,"Ghế trống không, cái cặp không còn.",,x
+story.Prologue_Club_Occult.misc_bag.text.251f52d6df3395c8df5f5e03f4b361cc970625c8,An empty chair with no bag on it.,"Ghế trống không, cái cặp không còn.",,
 ,,,,
-story.Prologue_Club_Occult.misc_bag.text.09965c48d0837b3d1863ee7aef708b74f2f591d9,An empty chair.,Ghế không có ai ngồi cả.,,x
+story.Prologue_Club_Occult.misc_bag.text.09965c48d0837b3d1863ee7aef708b74f2f591d9,An empty chair.,Ghế không có ai ngồi cả.,,
 ,,,,
 story.Prologue_Club_Occult.misc_boardgame_box.text.fc13f989caa6e366775bdcbe695d8cfc493957da,It's the box for the game the girls were playing.,Hộp trò chơi mà mấy con này nãy đang chơi.,,
 story.Prologue_Club_Occult.misc_boardgame_box.text.310a910f48e5f2ccad80e9b09c37f87fed095002,"It says ""Wiji Game Board - for 2 to 4 players. Get answers from beyond!"".","Nó ghi là ""Wiji Game Board - Dành cho 2 đến 4 người chơi. Hãy lắng nghe tiếng gọi từ bên kia!""",,
@@ -510,16 +514,16 @@ story.Prologue_Club_Occult.misc_empty_chair.text.7e952277d040ac7f2ff8801690f3d2b
 ,,,,
 story.Prologue_Club_Occult.misc_empty_chair.text.5a0047e953f9f37117e932daa0286a2961816c5d,Can't you read the room? We don't want you around. Leave!,Mày có biết ý tứ không? Bọn tao không có cần mày. Đi ra!,Juli,
 ,,,,
-story.Prologue_Club_Occult.misc_empty_chair.text.09965c48d0837b3d1863ee7aef708b74f2f591d9,An empty chair.,Ghế không có ai ngồi cả.,,x
+story.Prologue_Club_Occult.misc_empty_chair.text.09965c48d0837b3d1863ee7aef708b74f2f591d9,An empty chair.,Ghế không có ai ngồi cả.,,
 ,,,,
 story.Prologue_Club_Occult.misc_empty_chair.choice.text.f8c2a80fe03491d57442b18b22db31625299ebb0,An empty chair. Sit down?,Ghế không có ai ngồi cả. Ngồi chứ?,,x
 story.Prologue_Club_Occult.misc_empty_chair.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Ngồi,,x
 story.Prologue_Club_Occult.misc_empty_chair.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi,,x
 ,,,,
-story.Prologue_Club_Occult.misc_girl_gone.text.9f5b7bf882f320a834c07a2d25ae559770b56286,The girls are gone.,Đám nó biến đi đâu rồi.,,x
-story.Prologue_Club_Occult.misc_girl_gone.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,,x
+story.Prologue_Club_Occult.misc_girl_gone.text.9f5b7bf882f320a834c07a2d25ae559770b56286,The girls are gone.,Đám nó biến đi đâu rồi.,,
+story.Prologue_Club_Occult.misc_girl_gone.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,,
 ,,,,
-story.Prologue_Club_Occult.misc_girl_gone.text.09965c48d0837b3d1863ee7aef708b74f2f591d9,An empty chair.,Ghế không có ai ngồi cả.,,x
+story.Prologue_Club_Occult.misc_girl_gone.text.09965c48d0837b3d1863ee7aef708b74f2f591d9,An empty chair.,Ghế không có ai ngồi cả.,,
 ,,,,
 story.Prologue_Club_Occult.misc_globe.text.cbbdb9132ee0abfe6422bb383720714c3e4f2ece,A spherical model of the Earth. Red crosses mark certain locations.,Quả địa cầu. Có dấu X đỏ đánh lên vài chỗ.,,
 ,,,,
@@ -527,7 +531,7 @@ story.Prologue_Club_Occult.misc_jar.text.a576e8348fd8f2ba8897c8b11830ceb13a3d2b7
 ,,,,
 story.Prologue_Club_Occult.misc_lightswitch.text.c89773c92a27edcb9585c26465c6a9b26d9899a0,There's no need to mess with the lights anymore.,Không cần nghịch đèn nữa.,,
 ,,,,
-story.Prologue_Club_Occult.misc_lightswitch.text.d679cd11f41a8184b7f19e74f398a1f99212cdcb,The light switch isn't working.,Công tắc điện đèn có vẻ bị trục trặc.,,x
+story.Prologue_Club_Occult.misc_lightswitch.text.d679cd11f41a8184b7f19e74f398a1f99212cdcb,The light switch isn't working.,Công tắc điện đèn có vẻ bị trục trặc.,,
 ,,,,
 story.Prologue_Club_Occult.misc_plants.text.dca21f22bf5dd7fe050b2a451378a1c6c29e5149,Some small plants. Their Kaya existence fascinates you.,Vài cái cây nhỏ. Vẻ hiện diện tĩnh lặng của chúng khiến ta mê hoặc.,,
 story.Prologue_Club_Occult.misc_plants.text.6613a985084215b7f1a46f5a142e5aaabb314921,The drawer underneath is empty.,Ở ngăn kéo bên dưới không cất gì cả.,,
@@ -545,7 +549,7 @@ story.Prologue_Club_Occult.misc_radio.text.8b0ce09dc6d276c9f604469fde40454d53a40
 ,,,,
 story.Prologue_Club_Occult.misc_radio.text.d843a9732a078ccd0fc4eeacade8420f04f601e2,No need to turn it on again.,Không cần bật lên lại đâu.,Kat,
 ,,,,
-story.Prologue_Club_Occult.misc_radio.text.fbd01273fca14ebd0813f30da5c56351603a1c2b,It has no power.,Đài mất điện rồi.,,x
+story.Prologue_Club_Occult.misc_radio.text.fbd01273fca14ebd0813f30da5c56351603a1c2b,It has no power.,Nó bị mất điện rồi.,,
 ,,,,
 story.Prologue_Club_Occult.misc_trashcan.text.73846a940846a0e975f9a328c9de95d952ebed6d,A trash can. It seems to be full.,Thùng rác. Trông đầy nhóc rác.,,
 ,,,,
@@ -558,8 +562,8 @@ story.Prologue_Club_Occult.misc_window.choice.5397e0583f14f6c88de06b1ef28f460a1f
 story.Prologue_Club_Occult.misc_window.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi không,,
 story.Prologue_Club_Occult.misc_window.choice.text.185ee15ac6249146a40d11e2ffecb9d085b41ddf,Open the window?,Mở cửa sổ chứ?,,
 ,,,,
-story.Prologue_Club_Occult.misc_window.text.f0f101b9d5543855478457e3dd0a777354559d16,…Huh?,…Ủa?,Kat,x
-story.Prologue_Club_Occult.misc_window.text.0a5d18a025432564950aaca3dd99a24481a9f8f4,I can't seem to open it…,Không mở được…,Kat,x
+story.Prologue_Club_Occult.misc_window.text.f0f101b9d5543855478457e3dd0a777354559d16,…Huh?,…Ủa?,Kat,
+story.Prologue_Club_Occult.misc_window.text.0a5d18a025432564950aaca3dd99a24481a9f8f4,I can't seem to open it…,Không mở được…,Kat,
 story.Prologue_Club_Occult.misc_window.text.b6d5320ae2c86b9cd50d3a122657315748eea073,Are you trying to freak us out on purpose?,Định cố ý làm bọn tao hoảng à?,Saki,x
 ,,,,
 story.Prologue_Club_Occult.misc_window.text.e6c6896c71015c851847b1516e2f6c3d828aad29,(These curtains are very thin. I don't think they would work.),(Rèm chỗ này mỏng quá. Nghĩ không xài được đâu.),Kat,x

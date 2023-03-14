@@ -11,11 +11,11 @@ story.Prologue_Classroom_2.item_candles_on_desks_top.text.40e8080aff3cc13b95f7f0
 ,,,,
 story.Prologue_Classroom_2.item_candles_on_desks_top.text.eb3e3f7747ecf8a904b7d77bf50328b7645afe7f,It's not time for that yet.,Vẫn chưa đến lúc làm thế đâu.,,
 ,,,,
-story.Prologue_Classroom_2.item_chalk.text.004ccd56b002de2e15a0e5e583d482e9b2363b6e,The path is already drawn.,Con đường đã được vẽ rồi.,,x
+story.Prologue_Classroom_2.item_chalk.text.004ccd56b002de2e15a0e5e583d482e9b2363b6e,The path is already drawn.,Con đường đã được vẽ rồi.,,
 ,,,,
 story.Prologue_Classroom_2.item_chalk.text.948d8b2c36e66fc40d736faa8415a54c32e2e197,Not yet. I'd rather make sure I have everything I need first.,Chưa được. Trước tiên phải thu thập hết cái mình cần đã.,,
 ,,,,
-story.Prologue_Classroom_2.item_chalk.text.ccb1964d634b8a6efbb6a1762c66e590109e0ed9,Not yet. I want to finish preparing the classrooms first.,Chưa được. Trước tiên phải chuẩn bị xong lớp học đã.,,x
+story.Prologue_Classroom_2.item_chalk.text.ccb1964d634b8a6efbb6a1762c66e590109e0ed9,Not yet. I want to finish preparing the classrooms first.,Chưa được. Trước tiên phải chuẩn bị xong lớp học đã.,,
 ,,,,
 story.Prologue_Classroom_2.item_chalk_get.text.eff38eecc6b039f10909ae658ca8c0c460474498,Some broken chalk.,Mấy cây phấn gãy.,,
 ,,,,
@@ -29,11 +29,11 @@ story.Prologue_Classroom_2.item_curtains_on_window.text.b3dffab64fcd711576e3b12c
 story.Prologue_Classroom_2.item_curtains_on_window.text.7a97934e13227abf359e89050b89431cb3a692c1,Perfect!,Hoàn hảo!,Kat,
 story.Prologue_Classroom_2.item_curtains_on_window.text.76c29a93fe94eeb00efa716fd7ef16db3b05efa0,Totally. Nobody will even notice.,Ngon lành. Chắc chắn không ai nhận ra cả rồi.,Saki,x
 ,,,,
-story.Prologue_Classroom_2.item_hair_on_candle.text.7c6267ee4264c3380f5ba82b281c8302568043f0,Let's do this.,Làm thôi.,,x
+story.Prologue_Classroom_2.item_hair_on_candle.text.7c6267ee4264c3380f5ba82b281c8302568043f0,Let's do this.,Làm thôi.,,
 ,,,,
-story.Prologue_Classroom_2.item_hair_on_candle.text.c524cdf0f6679406bd9a3e0078b2492f6feb9d2f,Not yet.,Chưa được đâu.,,x
+story.Prologue_Classroom_2.item_hair_on_candle.text.c524cdf0f6679406bd9a3e0078b2492f6feb9d2f,Not yet.,Chưa được đâu.,,
 ,,,,
-story.Prologue_Classroom_2.item_lighter_on_candles_bottom.text.4fcccf1e93fb221dd6e1bcaf407973a72f2ae004,The candles are already lit.,Nến thắp lên rồi.,,x
+story.Prologue_Classroom_2.item_lighter_on_candles_bottom.text.4fcccf1e93fb221dd6e1bcaf407973a72f2ae004,The candles are already lit.,Nến thắp lên rồi.,,
 ,,,,
 story.Prologue_Classroom_2.item_lighter_on_candles_bottom.text.3adfe6b1f1e9026c0734b1e39793ba66e53343ed,Burning the school down is not part of the ritual.,Trong quy trình nghi thức làm gì có trò đốt trường hử.,,
 ,,,,
@@ -47,7 +47,7 @@ story.Prologue_Classroom_2.item_lighter_on_window3.text.4f991da92f6952d95a516d34
 ,,,,
 story.Prologue_Classroom_2.item_scissors_on_plant.text.32c9aa0ef29cbdc3d781c065a4a0f57fba68afcd,It's already done.,Đã cắt rồi.,,
 ,,,,
-story.Prologue_Classroom_2.item_scissors_on_plant.text.e3c35488f648b0db0375773a5a07c86be37d04e0,This isn't the time for that.,Giờ không phải lúc làm chuyện đó.,,x
+story.Prologue_Classroom_2.item_scissors_on_plant.text.e3c35488f648b0db0375773a5a07c86be37d04e0,This isn't the time for that.,Giờ không phải lúc làm chuyện đó.,,
 ,,,,
 story.Prologue_Classroom_2.misc_book.text.dd1d7ed1aa2df3efa0ee8e44e54838d3a104f5cb,A geography textbook.,Sách giáo khoa địa lý.,,
 ,,,,
@@ -57,15 +57,15 @@ story.Prologue_Classroom_2.misc_chalkboard.text.996c7ffde7f4de6e04435eeeafaf0751
 ,,,,
 story.Prologue_Classroom_2.misc_desk_bottom.text.9eb16580a197d2cf1a69fc82764f982b5be5d5e7,A wooden desk.,Chiếc bàn gỗ.,,
 ,,,,
-story.Prologue_Classroom_2.misc_desk_bottom.text.240b1df976eaaf6ed80de6eb49cbd9ded2bab030,The candle burns warmly.,Nếu đang cháy ấm áp.,,x
+story.Prologue_Classroom_2.misc_desk_bottom.text.240b1df976eaaf6ed80de6eb49cbd9ded2bab030,The candle burns warmly.,Nếu đang cháy ấm áp.,,
 ,,,,
-story.Prologue_Classroom_2.misc_desk_bottom.text.33515fb7411e849e7b38188c94b3b3198fd7633e,The candle is unlit.,Nến chưa thắp lửa.,,x
+story.Prologue_Classroom_2.misc_desk_bottom.text.33515fb7411e849e7b38188c94b3b3198fd7633e,The candle is unlit.,Nến chưa thắp lửa.,,
 ,,,,
 story.Prologue_Classroom_2.misc_desk_top.text.9eb16580a197d2cf1a69fc82764f982b5be5d5e7,A wooden desk.,Chiếc bàn gỗ.,,
 ,,,,
-story.Prologue_Classroom_2.misc_desk_top.text.240b1df976eaaf6ed80de6eb49cbd9ded2bab030,The candle burns warmly.,Nếu đang cháy ấm áp.,,x
+story.Prologue_Classroom_2.misc_desk_top.text.240b1df976eaaf6ed80de6eb49cbd9ded2bab030,The candle burns warmly.,Nếu đang cháy ấm áp.,,
 ,,,,
-story.Prologue_Classroom_2.misc_desk_top.text.33515fb7411e849e7b38188c94b3b3198fd7633e,The candle is unlit.,Nến chưa thắp lửa.,,x
+story.Prologue_Classroom_2.misc_desk_top.text.33515fb7411e849e7b38188c94b3b3198fd7633e,The candle is unlit.,Nến chưa thắp lửa.,,
 ,,,,
 story.Prologue_Classroom_2.misc_globe.text.a3e30442cc236e50a8b155b5f286e56459c8ac7c,A model of Earth. It's fun to spin it.,Quả địa cầu. Hễ xoay nhìn thích lắm.,,
 ,,,,
