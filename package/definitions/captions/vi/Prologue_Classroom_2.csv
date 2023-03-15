@@ -3,11 +3,11 @@ story.Prologue_Classroom_2.event_boxpuzzle_fail.text.69100deb383c63fa47097b41678
 ,,,,
 story.Prologue_Classroom_2.event_boxpuzzle_success.text.8076c96b7509eb46a16e4c755e8df384da410bbd,There we go.,Được rồi đấy.,,
 ,,,,
-story.Prologue_Classroom_2.item_candles_on_desks_bottom.text.40e8080aff3cc13b95f7f089bb21ca43f2a8d889,Candles are already set here.,Nến sắp thành hàng bên đây rồi.,,x
+story.Prologue_Classroom_2.item_candles_on_desks_bottom.text.40e8080aff3cc13b95f7f089bb21ca43f2a8d889,Candles are already set here.,Nến sắp thành hàng bên đây rồi.,,
 ,,,,
 story.Prologue_Classroom_2.item_candles_on_desks_bottom.text.eb3e3f7747ecf8a904b7d77bf50328b7645afe7f,It's not time for that yet.,Vẫn chưa đến lúc làm thế đâu.,,
 ,,,,
-story.Prologue_Classroom_2.item_candles_on_desks_top.text.40e8080aff3cc13b95f7f089bb21ca43f2a8d889,Candles are already set here.,Nến sắp thành hàng bên đây rồi.,,x
+story.Prologue_Classroom_2.item_candles_on_desks_top.text.40e8080aff3cc13b95f7f089bb21ca43f2a8d889,Candles are already set here.,Nến sắp thành hàng bên đây rồi.,,
 ,,,,
 story.Prologue_Classroom_2.item_candles_on_desks_top.text.eb3e3f7747ecf8a904b7d77bf50328b7645afe7f,It's not time for that yet.,Vẫn chưa đến lúc làm thế đâu.,,
 ,,,,
@@ -27,7 +27,7 @@ story.Prologue_Classroom_2.item_chalk_on_chalkboard.text.f65fd7db1d4855f7802d390
 ,,,,
 story.Prologue_Classroom_2.item_curtains_on_window.text.b3dffab64fcd711576e3b12c31a490e5ea295f65,This should do the trick.,Thế này hẳn là được.,Kat,
 story.Prologue_Classroom_2.item_curtains_on_window.text.7a97934e13227abf359e89050b89431cb3a692c1,Perfect!,Hoàn hảo!,Kat,
-story.Prologue_Classroom_2.item_curtains_on_window.text.76c29a93fe94eeb00efa716fd7ef16db3b05efa0,Totally. Nobody will even notice.,Ngon lành. Chắc chắn không ai nhận ra cả rồi.,Saki,x
+story.Prologue_Classroom_2.item_curtains_on_window.text.76c29a93fe94eeb00efa716fd7ef16db3b05efa0,Totally. Nobody will even notice.,Ngon lành. Chắc chắn không ai nhận ra cả rồi.,Saki,
 ,,,,
 story.Prologue_Classroom_2.item_hair_on_candle.text.7c6267ee4264c3380f5ba82b281c8302568043f0,Let's do this.,Làm thôi.,,
 ,,,,
@@ -37,7 +37,7 @@ story.Prologue_Classroom_2.item_lighter_on_candles_bottom.text.4fcccf1e93fb221dd
 ,,,,
 story.Prologue_Classroom_2.item_lighter_on_candles_bottom.text.3adfe6b1f1e9026c0734b1e39793ba66e53343ed,Burning the school down is not part of the ritual.,Trong quy trình nghi thức làm gì có trò đốt trường hử.,,
 ,,,,
-story.Prologue_Classroom_2.item_lighter_on_candles_top.text.4fcccf1e93fb221dd6e1bcaf407973a72f2ae004,The candles are already lit.,Nến thắp lên rồi.,,x
+story.Prologue_Classroom_2.item_lighter_on_candles_top.text.4fcccf1e93fb221dd6e1bcaf407973a72f2ae004,The candles are already lit.,Nến thắp lên rồi.,,
 ,,,,
 story.Prologue_Classroom_2.item_lighter_on_candles_top.text.3adfe6b1f1e9026c0734b1e39793ba66e53343ed,Burning the school down is not part of the ritual.,Trong quy trình nghi thức làm gì có trò đốt trường hử.,,
 ,,,,

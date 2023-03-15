@@ -13,7 +13,7 @@ story.Prologue_HOD.event_lockpick_fail.text.b8790c089e4db8df8b214bfb8f841cda5148
 ,,,,
 story.Prologue_HOD.event_lockpick_fail.text.6c5d4f53a547bf0474ddcb15037067e54fb37fb6,The hairpin broke.,Kẹp tóc bị gãy rồi.,,
 ,,,,
-story.Prologue_HOD.event_lockpick_success.text.f79c8d11189f1dbf961110f8c8a9fab86c46107b,The door unlocked!,Cửa mở rồi!,x,
+story.Prologue_HOD.event_lockpick_success.text.f79c8d11189f1dbf961110f8c8a9fab86c46107b,The door unlocked!,Cửa mở rồi!,,
 ,,,,
 story.Prologue_HOD.event_move_to_hallway.choice.text.f99761c9689562534806b858abb1fb34f5225554,"Before proceeding through the door, do you wish to save your progress?","Trước khi qua cửa, bạn muốn lưu lại tiến trình chứ?",,
 story.Prologue_HOD.event_move_to_hallway.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Lưu,,

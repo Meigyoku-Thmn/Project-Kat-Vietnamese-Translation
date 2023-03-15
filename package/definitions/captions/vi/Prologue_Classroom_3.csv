@@ -3,11 +3,11 @@ story.Prologue_Classroom_3.event_boxpuzzle_fail.text.57f9f313ef9b933534f125ca224
 ,,,,
 story.Prologue_Classroom_3.event_boxpuzzle_success.text.ad8b5428ef886ff5b431a2e97eef79ef8fffb226,Phew!,Phù!,,
 ,,,,
-story.Prologue_Classroom_3.event_saki_desk.text.0d661add80126c7a3f9f8c72113e68227aba3614,"This is my desk. Juli sits in front of me, and Kaya sits behind.","Tao ngồi chỗ này. Juli ngồi trước tao, Kaya ngồi đằng sau.",Saki,x
-story.Prologue_Classroom_3.event_saki_desk.text.fd141e42cc289e104322660970b444bacc80870f,I see…,Ừa…,Kat,x
-story.Prologue_Classroom_3.event_saki_desk.text.3868b1980eefb18f01f9f111cab289a3af14c584,Thanks for letting me know…?,Cám ơn vì nói tao biết nhé…?,Kat,x
+story.Prologue_Classroom_3.event_saki_desk.text.0d661add80126c7a3f9f8c72113e68227aba3614,"This is my desk. Juli sits in front of me, and Kaya sits behind.","Tao ngồi chỗ này. Juli ngồi trước tao, Kaya ngồi đằng sau.",Saki,
+story.Prologue_Classroom_3.event_saki_desk.text.fd141e42cc289e104322660970b444bacc80870f,I see…,Ừa…,Kat,
+story.Prologue_Classroom_3.event_saki_desk.text.3868b1980eefb18f01f9f111cab289a3af14c584,Thanks for letting me know…?,Cám ơn vì nói tao biết nhé…?,Kat,
 ,,,,
-story.Prologue_Classroom_3.event_saki_desk.text.918d904c3f954c2dc44debd8abc0a2d11e120e73,Saki's desk.,Bàn của Saki.,,x
+story.Prologue_Classroom_3.event_saki_desk.text.918d904c3f954c2dc44debd8abc0a2d11e120e73,Saki's desk.,Bàn của Saki.,,
 ,,,,
 story.Prologue_Classroom_3.item_candles_on_desks.text.87d3eaef68887c05be7b24ccd160e1b33ab3106e,This isn't the right classroom for that.,Làm chuyện này thì ở phòng đây không đúng rồi.,,
 ,,,,
@@ -41,8 +41,8 @@ story.Prologue_Classroom_3.item_scissors_on_plant.text.e3c35488f648b0db0375773a5
 ,,,,
 story.Prologue_Classroom_3.misc_books.text.a69f16b3e1b41228da2b583f8b133947006c0658,Some world encyclopedias.,Vài cuốn bách khoa toàn thư.,,
 story.Prologue_Classroom_3.misc_books.text.122c53a85b3a3d2d63a44c7586aed2871c388ca2,I would definitely steal one of these if they weren't so darn heavy.,Nếu không nặng thí mạng thế này kiểu gì ta cũng sẽ ăn cắp một cuốn.,Kat,
-story.Prologue_Classroom_3.misc_books.text.67366504024c50438a61f97e7e4853fc1d3894ca,You can borrow my books if you need…,Nếu cần thì mượn sách của tao này…,Kaya,x
-story.Prologue_Classroom_3.misc_books.text.50578934420c3b27390c65b91950a7a9516bac63,I'll keep that in mind.,Sẽ nhớ sẵn có gì hỏi mày.,Kat,x
+story.Prologue_Classroom_3.misc_books.text.67366504024c50438a61f97e7e4853fc1d3894ca,You can borrow my books if you need…,Nếu cần thì mượn sách của tao này…,Kaya,
+story.Prologue_Classroom_3.misc_books.text.50578934420c3b27390c65b91950a7a9516bac63,I'll keep that in mind.,Sẽ nhớ sẵn có gì hỏi mày.,Kat,
 ,,,,
 story.Prologue_Classroom_3.misc_chalkboard.text.996c7ffde7f4de6e04435eeeafaf0751c8d69a1c,A clean chalkboard.,Tấm bảng phấn sạch nhẵn.,,
 ,,,,
