@@ -200,11 +200,11 @@ story.Global.prologue_ending_k7.text.95741f01ba97bd1346a0081f0d435d592539f3b3,(M
 story.Global.prologue_ending_k7.text.33e594b2f4dbc10ffc99749b3fae1c0c0204d7f4,"(I need to believe that much, at least.)",(Ít ra cũng phải tin là thế.),Kat,x
 story.Global.prologue_ending_k7.text.2863dac37c7151d249f68af6ee435665b58f7361,Dead End K7 - Girls' Night Out,Kết Đứt K7 – Đám Nữ Chơi Đêm,,x
 ,,,,
-story.Global.prologue_ending_k8.text.aadb3c228ce36e4bd6a5b91c1b9af0295c221ed1,I didn't hear from the voice again.,Sau đó không nghe thấy giọng ấy nữa.,,x
-story.Global.prologue_ending_k8.text.011cf5f485dda252a5db605095168574100eec84,"But, no matter how much I wanted to, I didn't scream for help.","Nhưng cho dù có muốn khóc thét khôn cùng, tôi không hề gào lên kêu cứu.",,x
-story.Global.prologue_ending_k8.text.a85defd134c6ca4337254087d04c2d2177af347a,Someone will come for me… eventually.,Kiểu gì cũng… có ai đó đến cứu thôi mà.,,x
-story.Global.prologue_ending_k8.text.1215744cbb42a3f53737c44a88eac5aed283de43,I just know it.,Tôi cứ biết là thế.,,x
-story.Global.prologue_ending_k8.text.2fd2dad3266f20c1f944788ddc4f880332d8b52b,Dead End K8 - My Way,Kết Đứt K8 – Đường Ta Ta Đi,,x
+story.Global.prologue_ending_k8.text.aadb3c228ce36e4bd6a5b91c1b9af0295c221ed1,I didn't hear from the voice again.,Sau đó không nghe thấy giọng ấy nữa.,,
+story.Global.prologue_ending_k8.text.011cf5f485dda252a5db605095168574100eec84,"But, no matter how much I wanted to, I didn't scream for help.","Nhưng cho dù có muốn khóc thét khôn cùng, tôi không hề gào lên kêu cứu.",,
+story.Global.prologue_ending_k8.text.a85defd134c6ca4337254087d04c2d2177af347a,Someone will come for me… eventually.,Kiểu gì cũng… có ai đó đến cứu thôi mà.,,
+story.Global.prologue_ending_k8.text.1215744cbb42a3f53737c44a88eac5aed283de43,I just know it.,Tôi cứ biết là thế.,,
+story.Global.prologue_ending_k8.text.2fd2dad3266f20c1f944788ddc4f880332d8b52b,Dead End K8 - My Way,Kết Đứt K8 – Đường Ta Ta Đi,,
 ,,,,
 story.Global.prologue_event_attempted_exit_girls.text.2d1147175f6d5d127925dd07225512b2f8b07e0d,We're… back here?,Quay lại đây… sao?,Juli,x
 story.Global.prologue_event_attempted_exit_girls.text.c81fe5e920aca4e4d853deb47f4e771e37dce1f6,"Maybe this is the school's way of saying ""You can't leave now.""","Có khi là trường đang bảo ""Không ra được đâu"" chăng.",Kat,x
@@ -231,9 +231,9 @@ story.Global.prologue_event_sit_with_girls.text.7e044b515cf648e1fe0f1de4aab42fa7
 story.Global.prologue_event_sit_with_girls.text.1477c7c6da8527cfd566cd2f5a868015bb88870b,"Well, I suppose it can't be helped.","Chà, đành vậy thôi chứ sao.",Kat,x
 story.Global.prologue_event_sit_with_girls.text.3fca5477fa872a76a953cd6fde6bb02a5f073ce5,"Let's go, then.",Ta đi thôi.,Kat,x
 ,,,,
-story.Global.prologue_hod_event_wake_up.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,,x
-story.Global.prologue_hod_event_wake_up.text.5c63ff31864c31803e6e16cbd7f2e8361ab99123,I'm back in this hallway…,Về lại hành lang này rồi…,,x
-story.Global.prologue_hod_event_wake_up.text.91e6bee0edce6c84e46fa755976033f816630631,I don't like this… I need to get out of here…,Ớn lắm rồi… phải ra khỏi đây mau…,,x
+story.Global.prologue_hod_event_wake_up.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,,
+story.Global.prologue_hod_event_wake_up.text.5c63ff31864c31803e6e16cbd7f2e8361ab99123,I'm back in this hallway…,Về lại hành lang này rồi…,,
+story.Global.prologue_hod_event_wake_up.text.91e6bee0edce6c84e46fa755976033f816630631,I don't like this… I need to get out of here…,Ớn lắm rồi… phải ra khỏi đây mau…,,
 ,,,,
 story.Global.prologue_intro.text.0bc3d9ff4c4f11e9b23a9496d3872d9e4569a420,Whoa… weird dream.,Oaa… giấc mơ kì lạ ta.,,
 story.Global.prologue_intro.text.fa92faa7deab6c7fda5948018c93ae668070a383,Everyone must be gone already.,Hẳn mấy đứa về hết rồi.,,

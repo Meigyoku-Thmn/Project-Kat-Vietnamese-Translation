@@ -1,29 +1,30 @@
 ﻿,en,vi,char,
-story.Prologue_Nightmare_8.event_break.text.64149efb5df397160f49febd9f524b1f59b965ee,"In the meantime,","Trong khoảng thời gian đấy,",,x
-story.Prologue_Nightmare_8.event_break.text.59f1cca19fdfe100fee281df66df959c9706bca4,I'll just watch you rot away.,Tao sẽ chỉ ngắm nhìn mày mục rữa hẳn ra.,,x
-story.Prologue_Nightmare_8.event_break.text.cb9e0dff7f3217f36788ff1577e59af10b086f7b,SHUT UP! THAT'S ENOUGH!,IM MỒM! ĐỦ RỒI ĐẤY!,Kat,x
-story.Prologue_Nightmare_8.event_break.text.eb1d2c49b4d5e104be11439e84cf7b1a3cf6ef78,"Whoever you are, GET OUT OF MY HEAD!",Mày là ai tao không biết nhưng RA KHỎI ĐẦU TAO NGAY!,Kat,x
-story.Prologue_Nightmare_8.event_break.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,x
-story.Prologue_Nightmare_8.event_break.text.de50dbb453714436b1887212c27de26397f49791,"My life… is my business… my decisions, are mine alone.","Cuộc đời của tao… là do tao… quyết định của tao, là do tao hết.",Kat,x
-,,,,x
-story.Prologue_Nightmare_8.event_break.choice.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,x
-story.Prologue_Nightmare_8.event_break.choice.e4ae3da3fceb15c7ec9515f785a0829799bd2380,"Please, let me out",Xin làm ơn cho tao ra.,,x
-story.Prologue_Nightmare_8.event_break.choice.c65cacb292be7a5b26907b7bed410adc47b8f314,Be strong,Mạnh mẽ lên.,,x
-,,,,x
-story.Prologue_Nightmare_8.event_break.text.94840be3f4872ae6c40dde120ebbb7e1d9e0d54a,"Let me out of this place. I know there's a way out, there has to be.","Cho tao ra khỏi đây đi. Tao biết có lối ra, ắt phải có.",Kat,x
-story.Prologue_Nightmare_8.event_break.text.9ea78a3436d1d77388667c80c04affa0d4dd50e8,Please…,Làm ơn đi…,Kat,x
-story.Prologue_Nightmare_8.event_break.text.d40a130826b5ee24618ba34141b6897636b86425,…I want to go home…,…Tao muốn về nhà…,Kat,x
-story.Prologue_Nightmare_8.event_break.text.6242cdb7914f2250fc600a7084c3d8acc14facf9,That's more like it.,Có thế chứ.,,x
-,,,,x
-story.Prologue_Nightmare_8.event_break.text.5e59819500b18ed44d89ca223c48e9b9b58ca7cb,I… am not going to give you the reaction you want.,Tao… không định tỏ ra phản ứng như mày mong đợi đâu.,Kat,x
-story.Prologue_Nightmare_8.event_break.text.79bdebe4f267da67bb4b31d83e45d4fb81736f59,…I'm better than that.,…Tao mạnh mẽ hơn thế nhiều.,Kat,x
-story.Prologue_Nightmare_8.event_break.text.bc936537036bd1b6c02b15e67c5074e81d129bac,You think you can come here and torture me?,Mày tưởng mày đến đây tra tấn được tạo à?,Kat,x
-story.Prologue_Nightmare_8.event_break.text.4fe30016ed10d12ecf2dfd8580486982f0dfe344,"If entertainment is what you want, then I'll just bore you to death.","Nếu mày mong được giải trí, vậy thì tao sẽ làm cho mày chán đến chết.",Kat,x
-story.Prologue_Nightmare_8.event_break.text.04e86213aff580f57900a9ff4e7f39463a0aa0fc,I hope you have a good book nearby.,Khấn cho mày có sách đọc giải sầu bên tay.,Kat,x
-story.Prologue_Nightmare_8.event_break.text.74b37ea91d86f98bdd31d4027df4b0529098b35f,Have it your way.,Thích làm gì thì làm.,,x
-,,,,x
+story.Prologue_Nightmare_8.event_break.text.64149efb5df397160f49febd9f524b1f59b965ee,"In the meantime,","Trong khoảng thời gian đấy,",,
+story.Prologue_Nightmare_8.event_break.text.59f1cca19fdfe100fee281df66df959c9706bca4,I'll just watch you rot away.,"Tao sẽ chỉ ngắm nhìn mày
+mục rữa hẳn ra.",,
+story.Prologue_Nightmare_8.event_break.text.cb9e0dff7f3217f36788ff1577e59af10b086f7b,SHUT UP! THAT'S ENOUGH!,IM MỒM! ĐỦ RỒI ĐẤY!,Kat,
+story.Prologue_Nightmare_8.event_break.text.eb1d2c49b4d5e104be11439e84cf7b1a3cf6ef78,"Whoever you are, GET OUT OF MY HEAD!",Mày là ai tao không biết nhưng RA KHỎI ĐẦU TAO NGAY!,Kat,
+story.Prologue_Nightmare_8.event_break.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,
+story.Prologue_Nightmare_8.event_break.text.de50dbb453714436b1887212c27de26397f49791,"My life… is my business… my decisions, are mine alone.","Cuộc đời của tao… là do tao… quyết định của tao, là do tao hết.",Kat,
+,,,,
+story.Prologue_Nightmare_8.event_break.choice.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,
+story.Prologue_Nightmare_8.event_break.choice.e4ae3da3fceb15c7ec9515f785a0829799bd2380,"Please, let me out",Xin làm ơn cho tao ra.,,
+story.Prologue_Nightmare_8.event_break.choice.c65cacb292be7a5b26907b7bed410adc47b8f314,Be strong,Mạnh mẽ lên.,,
+,,,,
+story.Prologue_Nightmare_8.event_break.text.94840be3f4872ae6c40dde120ebbb7e1d9e0d54a,"Let me out of this place. I know there's a way out, there has to be.","Cho tao ra khỏi đây đi. Tao biết có lối ra, ắt phải có.",Kat,
+story.Prologue_Nightmare_8.event_break.text.9ea78a3436d1d77388667c80c04affa0d4dd50e8,Please…,Làm ơn đi…,Kat,
+story.Prologue_Nightmare_8.event_break.text.d40a130826b5ee24618ba34141b6897636b86425,…I want to go home…,…Tao muốn về nhà…,Kat,
+story.Prologue_Nightmare_8.event_break.text.6242cdb7914f2250fc600a7084c3d8acc14facf9,That's more like it.,Có thế chứ.,,
+,,,,
+story.Prologue_Nightmare_8.event_break.text.5e59819500b18ed44d89ca223c48e9b9b58ca7cb,I… am not going to give you the reaction you want.,Tao… không định tỏ ra phản ứng như mày mong đợi đâu.,Kat,
+story.Prologue_Nightmare_8.event_break.text.79bdebe4f267da67bb4b31d83e45d4fb81736f59,…I'm better than that.,…Tao mạnh mẽ hơn thế nhiều.,Kat,
+story.Prologue_Nightmare_8.event_break.text.bc936537036bd1b6c02b15e67c5074e81d129bac,You think you can come here and torture me?,Mày tưởng mày đến đây tra tấn được tạo à?,Kat,
+story.Prologue_Nightmare_8.event_break.text.4fe30016ed10d12ecf2dfd8580486982f0dfe344,"If entertainment is what you want, then I'll just bore you to death.","Nếu mày mong được giải trí, vậy thì tao sẽ làm cho mày chán đến chết.",Kat,
+story.Prologue_Nightmare_8.event_break.text.04e86213aff580f57900a9ff4e7f39463a0aa0fc,I hope you have a good book nearby.,Khấn cho mày có sách đọc giải sầu bên tay.,Kat,
+story.Prologue_Nightmare_8.event_break.text.74b37ea91d86f98bdd31d4027df4b0529098b35f,Have it your way.,Thích làm gì thì làm.,,
+,,,,
 story.Prologue_Nightmare_8.event_voice_1.text.956faceef277de40146ed99f671c2799effb2dcb,Do you like it? I think it's just what you need.,Ưng chưa? Tao thấy đúng điều mày đang cần rồi đấy.,,x
-,,,,x
-story.Prologue_Nightmare_8.event_voice_2.text.01fd0a95066bda80ddf3210db7197504c9bb413c,Maybe now you will reflect on the stupidity of your actions.,Giờ này không chừng mày sẽ ăn năn về sự ngu dốt trong hành động của mày.,,x
-,,,,x
-story.Prologue_Nightmare_8.misc_paper.text.24a67de14c730f1c33aebca05878e3ed8efdfc58,"""How would you like to stay trapped in here until you die?""","""Mày ưng được nhốt ở đây cho tới chết như thế nào?""",,x
+,,,,
+story.Prologue_Nightmare_8.event_voice_2.text.01fd0a95066bda80ddf3210db7197504c9bb413c,Maybe now you will reflect on the stupidity of your actions.,Giờ này không chừng mày sẽ ăn năn về sự ngu dốt trong hành động của mày.,,
+,,,,
+story.Prologue_Nightmare_8.misc_paper.text.24a67de14c730f1c33aebca05878e3ed8efdfc58,"""How would you like to stay trapped in here until you die?""","""Mày ưng được nhốt ở đây cho tới chết như thế nào?""",,
