@@ -1,72 +1,72 @@
-﻿,en,vi,
-items.prologue.bad_flower.name,White Flower,Hoa Trắng,x
-items.prologue.bad_flower.description,A white flower I found on the grass. It appears to be a lily… I think.,Bông hoa trắng mình thấy trên cỏ. Có vẻ là hoa bách hợp… nhỉ.,x
-,,,x
-items.prologue.white_flower.name,Wet White Flower,Hoa Trắng Ướt,x
-items.prologue.white_flower.description,A white flower I took from a vase. It's probably a Lily.,Bông hoa trắng mình lấy từ một chiếc lọ hoa. Chắc hẳn là hoa bách hợp.,x
-,,,x
-items.prologue.ritual_notes.name,Ritual Notes,Ghi chú Nghi thức,x
-items.prologue.ritual_notes.description,I put everything I need to remember here.,Mình chép mọi thứ cần nhớ vào đây rồi.,x
-,,,x
-items.prologue.ritual_notes2.name,Ritual Notes (Drawing),Bức vẽ Nghi thức,x
-items.prologue.ritual_notes2.description,This is how it looks in my head.,Mình mường tượng trong đầu nó như thế này.,x
-,,,x
-items.prologue.candles.name,Candles,Nến,x
-items.prologue.candles.description,A bunch of candles. I need these for the ritual.,Mớ nến. Mình cần để làm nghi thức.,x
-,,,x
-items.prologue.chalk.name,Chalk,Phấn viết,x
-items.prologue.chalk.description,A piece of chalk. I can draw various things with it.,Que phấn viết. Có thể dùng vẽ đủ thứ.,x
-,,,x
-items.prologue.curtains.name,Curtains,Rèm,x
-items.prologue.curtains.description,Red blackout curtains used to block as much light as possible.,Rèm che nắng màu đỏ dùng để che chắn ánh sáng hết mức có thể.,x
-,,,x
-items.prologue.lighter.name,Lighter,Bật lửa,x
-items.prologue.lighter.description,"My personal lighter. I don't smoke, but I enjoy watching things burn.",Bật lửa cá nhân của mình. Không hút thuốc đâu cơ mà mình thích nhìn đồ vật bị cháy.,x
-,,,x
-items.prologue.lighter2.name,Old Lighter,Bật lửa Cũ,x
-items.prologue.lighter2.description,An old lighter I had lost a long time ago. It doesn't seem to work anymore.,Chiếc bật lửa cũ mà mình bị tịch thu từ lâu. Có vẻ không còn xài được nữa.,x
-,,,x
-items.prologue.scissors.name,Scissors,Kéo,x
-items.prologue.scissors.description,A regular pair of scissors. Not pointy enough to stab people with.,Chiếc kéo thông thường. Chẳng nhọn đến nỗi đâm người ta được đâu.,x
-,,,x
-items.prologue.tuft01.name,Girl's Hair,Tóc của Bạn nữ,x
-items.prologue.tuft01.description,A tuft of hair I cut from the girl with brown hair.,Nhúm tóc mình cắt của bạn nữ có tóc màu nâu.,x
-,,,x
-items.prologue.tuft02.name,Girl's Hair,Tóc của Bạn nữ,x
-items.prologue.tuft02.description,A tuft of hair I cut from the girl with black hair.,Nhúm tóc mình cắt của bạn nữ có tóc màu đen.,x
-,,,x
-items.prologue.tuft03.name,Girl's Hair,Tóc của Bạn nữ,x
-items.prologue.tuft03.description,A tuft of hair I cut from the girl with dark brown hair.,Nhúm tóc mình cắt của bạn nữ có tóc màu nâu sẫm.,x
-,,,x
-items.prologue.tuft00.name,My Hair,Tóc của Mình,x
-items.prologue.tuft00.description,A bit of hair I cut from myself. Looking at it makes me sad.,Nhúm tóc mình cắt của mình. Thấy mà buồn quá.,x
-,,,x
-items.prologue.rune_berkana.name,Protective Rune,Rune Thủ hộ,x
-items.prologue.rune_berkana.description,A rune with some ancient symbol engraved.,Miếng rune có khắc biểu tượng cổ đại gì đó.,x
-,,,x
-items.prologue.rune_inguz.name,Protective Rune,Rune Thủ hộ,x
-items.prologue.rune_inguz.description,A rune with some ancient symbol engraved.,Miếng rune có khắc biểu tượng cổ đại gì đó.,x
-,,,x
-items.prologue.rune_kaunaz.name,Protective Rune,Rune Thủ hộ,x
-items.prologue.rune_kaunaz.description,A rune with some ancient symbol engraved.,Miếng rune có khắc biểu tượng cổ đại gì đó.,x
-,,,x
-items.prologue.girl1_notebook.name,Student's Notebook,Vở Học sinh,x
-items.prologue.girl1_notebook.description,"A red notebook, probably forgotten by a student. The color and design are not my style.","Quyển vở màu đỏ, chắc là học sinh nào đó bỏ quên. Cái màu và kiểu của nó không phải gu của mình.",x
-,,,x
-items.prologue.key_theater_club.name,Theater Club Key,Chìa Câu lạc bộ Kịch,x
-items.prologue.key_theater_club.description,The key to open the theater club room.,Chiếc chìa khóa để mở phòng câu lạc bộ kịch.,x
-,,,x
-items.prologue.hairpin.name,Dusty Hairpin,Kẹp tóc Xỉn màu,x
-items.prologue.hairpin.description,My trusty hairpin! I have a feeling this could come in handy.,Cái kẹp tóc xịn mầu của mình! Cảm thấy nó có thể được việc.,x
-,,,x
-items.prologue.key_hod.name,Fairly Normal-Looking Key,Chìa Trông Khá Thường,x
-items.prologue.key_hod.description,A key I found on a long hallway.,Chiếc chìa khóa mà mình thấy trên một hành lang dài.,x
-,,,x
-items.prologue.lettuce.name,Lettuce,Rau diếp,x
-items.prologue.lettuce.description,You're not supposed to have this in your inventory.,Có món này trong kho đồ là không đúng rồi. (BUG),x
-,,,x
-items.prologue.locker_key.name,Small Key,Chìa Nhỏ,x
-items.prologue.locker_key.description,"A small key, probably for a locker.","Chiếc chìa khóa nhỏ, chắc là để mở tủ đồ.",x
-,,,x
-items.prologue.blueprints.name,Strange Blueprints,Bản thiết kế Kỳ lạ,x
-items.prologue.blueprints.description,Blueprints for an unknown device. You can't make heads or tails out of it.,Bản thiết kế của một thiết bị lạ lùng. Chả hiểu mô tê gì nó cả. ,x
+﻿,en,vi,,
+items.prologue.bad_flower.name,White Flower,Hoa Trắng,,
+items.prologue.bad_flower.description,A white flower I found on the grass. It appears to be a lily… I think.,Bông hoa trắng mình thấy trên cỏ. Có vẻ là hoa bách hợp… nhỉ.,,
+,,,,
+items.prologue.white_flower.name,Wet White Flower,Hoa Trắng Ướt,,
+items.prologue.white_flower.description,A white flower I took from a vase. It's probably a Lily.,Bông hoa trắng mình lấy từ một chiếc lọ hoa. Chắc hẳn là hoa bách hợp.,,
+,,,,
+items.prologue.ritual_notes.name,Ritual Notes,Ghi chú Nghi thức,,
+items.prologue.ritual_notes.description,I put everything I need to remember here.,Mình chép mọi thứ cần nhớ vào đây rồi.,,
+,,,,
+items.prologue.ritual_notes2.name,Ritual Notes (Drawing),Bức vẽ Nghi thức,,
+items.prologue.ritual_notes2.description,This is how it looks in my head.,Mình mường tượng trong đầu nó như thế này.,,
+,,,,
+items.prologue.candles.name,Candles,Nến,,
+items.prologue.candles.description,A bunch of candles. I need these for the ritual.,Mớ nến. Mình cần để làm nghi thức.,,
+,,,,
+items.prologue.chalk.name,Chalk,Phấn viết,,
+items.prologue.chalk.description,A piece of chalk. I can draw various things with it.,Que phấn viết. Có thể dùng vẽ đủ thứ.,,
+,,,,
+items.prologue.curtains.name,Curtains,Rèm,,
+items.prologue.curtains.description,Red blackout curtains used to block as much light as possible.,Rèm che nắng màu đỏ dùng để che chắn ánh sáng hết mức có thể.,,
+,,,,
+items.prologue.lighter.name,Lighter,Bật lửa,,
+items.prologue.lighter.description,"My personal lighter. I don't smoke, but I enjoy watching things burn.",Bật lửa cá nhân của mình. Không hút thuốc đâu cơ mà mình thích nhìn đồ vật bị cháy.,,
+,,,,
+items.prologue.lighter2.name,Old Lighter,Bật lửa Cũ,,
+items.prologue.lighter2.description,An old lighter I had lost a long time ago. It doesn't seem to work anymore.,Chiếc bật lửa cũ mà mình bị tịch thu từ lâu. Có vẻ không còn xài được nữa.,,
+,,,,
+items.prologue.scissors.name,Scissors,Kéo,,
+items.prologue.scissors.description,A regular pair of scissors. Not pointy enough to stab people with.,Chiếc kéo thông thường. Chẳng nhọn đến nỗi đâm người ta được đâu.,,
+,,,,
+items.prologue.tuft01.name,Girl's Hair,Tóc của Bạn nữ,,
+items.prologue.tuft01.description,A tuft of hair I cut from the girl with brown hair.,Nhúm tóc mình cắt của bạn nữ có tóc màu nâu.,,
+,,,,
+items.prologue.tuft02.name,Girl's Hair,Tóc của Bạn nữ,,
+items.prologue.tuft02.description,A tuft of hair I cut from the girl with black hair.,Nhúm tóc mình cắt của bạn nữ có tóc màu đen.,,
+,,,,
+items.prologue.tuft03.name,Girl's Hair,Tóc của Bạn nữ,,
+items.prologue.tuft03.description,A tuft of hair I cut from the girl with dark brown hair.,Nhúm tóc mình cắt của bạn nữ có tóc màu nâu sẫm.,,
+,,,,
+items.prologue.tuft00.name,My Hair,Tóc của Mình,,
+items.prologue.tuft00.description,A bit of hair I cut from myself. Looking at it makes me sad.,Nhúm tóc mình cắt của mình. Thấy mà buồn quá.,,
+,,,,
+items.prologue.rune_berkana.name,Protective Rune,Rune Thủ hộ,,
+items.prologue.rune_berkana.description,A rune with some ancient symbol engraved.,Miếng rune có khắc biểu tượng cổ đại gì đó.,,
+,,,,
+items.prologue.rune_inguz.name,Protective Rune,Rune Thủ hộ,,
+items.prologue.rune_inguz.description,A rune with some ancient symbol engraved.,Miếng rune có khắc biểu tượng cổ đại gì đó.,,
+,,,,
+items.prologue.rune_kaunaz.name,Protective Rune,Rune Thủ hộ,,
+items.prologue.rune_kaunaz.description,A rune with some ancient symbol engraved.,Miếng rune có khắc biểu tượng cổ đại gì đó.,,
+,,,,
+items.prologue.girl1_notebook.name,Student's Notebook,Vở Học sinh,,
+items.prologue.girl1_notebook.description,"A red notebook, probably forgotten by a student. The color and design are not my style.","Quyển vở màu đỏ, chắc là học sinh nào đó bỏ quên. Cái màu và kiểu của nó không phải gu của mình.",,
+,,,,
+items.prologue.key_theater_club.name,Theater Club Key,Chìa Câu lạc bộ Kịch,,
+items.prologue.key_theater_club.description,The key to open the theater club room.,Chiếc chìa khóa để mở phòng câu lạc bộ kịch.,,
+,,,,
+items.prologue.hairpin.name,Dusty Hairpin,Kẹp tóc Xỉn màu,,
+items.prologue.hairpin.description,My trusty hairpin! I have a feeling this could come in handy.,Cái kẹp tóc xịn mầu của mình! Cảm thấy nó có thể được việc.,,
+,,,,
+items.prologue.key_hod.name,Fairly Normal-Looking Key,Chìa Trông Khá Thường,,
+items.prologue.key_hod.description,A key I found on a long hallway.,Chiếc chìa khóa mà mình thấy trên một hành lang dài.,,
+,,,,
+items.prologue.lettuce.name,Lettuce,Rau diếp,,
+items.prologue.lettuce.description,You're not supposed to have this in your inventory.,Có món này trong kho đồ là không đúng rồi. (BUG),,
+,,,,
+items.prologue.locker_key.name,Small Key,Chìa Nhỏ,,
+items.prologue.locker_key.description,"A small key, probably for a locker.","Chiếc chìa khóa nhỏ, chắc là để mở tủ đồ.",,
+,,,,
+items.prologue.blueprints.name,Strange Blueprints,Bản thiết kế Kỳ lạ,,
+items.prologue.blueprints.description,Blueprints for an unknown device. You can't make heads or tails out of it.,Bản thiết kế của một thiết bị lạ lùng. Chả hiểu mô tê gì nó cả. ,,

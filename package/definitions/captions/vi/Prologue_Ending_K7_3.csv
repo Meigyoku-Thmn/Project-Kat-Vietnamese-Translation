@@ -64,7 +64,7 @@ story.Prologue_Ending_K7_3.misc_ending.text.bd1b2296a3efb34cccfb9c34842b9da4ba55
 story.Prologue_Ending_K7_3.misc_ending.choice.text.0f191db739ceeb5699b40bc0137c574af753db9c,(Should I give this person the blueprints I found…?),(Có nên đưa cho người này bản thiết kế mình thấy hay chăng…?),,,x
 story.Prologue_Ending_K7_3.misc_ending.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Đưa,,,x
 story.Prologue_Ending_K7_3.misc_ending.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Không đưa,,,x
-,,,,,x
+,,,,,
 story.Prologue_Ending_K7_3.misc_ending.text.34b13f386f35252c1bb32e4b4540b450585c87d4,By the way…,Mà này…,Kat,afraid2,x
 story.Prologue_Ending_K7_3.misc_ending.text.d054cb185bf0682525048d1912ddc706e14e0f33,I found these weird blueprints a few minutes ago.,"Mới nãy, tao có thấy bản thiết kế kì lạ này.",Kat,afraid,x
 story.Prologue_Ending_K7_3.misc_ending.text.61c4e96e8e749ca1a28981b6a4aa34575c590c3b,Just take them.,Hãy nhận lấy đi.,Kat,,x
@@ -78,7 +78,7 @@ story.Prologue_Ending_K7_3.misc_ending.text.ee84353ce05e47d67d16a00954068ca1bd47
 story.Prologue_Ending_K7_3.misc_ending.text.904e87689ff246ecf50887af9d023cea1f8a6e78,Go already. You can't be here.,Đi nhanh đi. Đừng có mà ở lại đây.,,,x
 story.Prologue_Ending_K7_3.misc_ending.text.9dcb488326b6e6e317df684b1f00f38f6e2ef215,If what you said is true…,Nếu điều mày nói đấy là sự thật…,Kat,concerned,x
 story.Prologue_Ending_K7_3.misc_ending.text.9a4b23e4169f4dc872e15e97b0572492eef02a40,Then thanks.,Thì vô cùng cảm ơn.,Kat,concerned2,x
-,,,,,x
+,,,,,
 story.Prologue_Ending_K7_3.misc_ending.text.ff39528f1bd570dd8305acfe8b2960b4cfc0a522,I'll pass on the ritual.,Tao sẽ dừng lại nghi thức…,Kat,annoyed2,
 story.Prologue_Ending_K7_3.misc_ending.text.3bbf36daa63b44029f28edb2d862ca650675656c,For tonight.,…cho tối nay.,Kat,annoyed,
 story.Prologue_Ending_K7_3.misc_ending.text.a9083d9433980028904800ac4a0a98e6831bbe3c,That's good enough.,Chỉ thế thôi cũng đủ rồi.,,,
