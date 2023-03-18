@@ -45,7 +45,7 @@ story.Prologue_HOD.item_lighter_on_goop.text.f89549a77a794bdf314546357a6b84e5847
 ,,,,
 story.Prologue_HOD.item_no_keyhole.text.4c185e949c93945c1f937c32295badaca7153b32,This door has no keyhole.,Cửa này không có lỗ khóa.,,
 ,,,,
-story.Prologue_HOD.item_wrong_key_on_door3.text.3715c0c9b7f1208bc096adccf9820f36c100d219,This key doesn't fit here.,Chìa này không khít vào đây.,x,
+story.Prologue_HOD.item_wrong_key_on_door3.text.3715c0c9b7f1208bc096adccf9820f36c100d219,This key doesn't fit here.,Chìa này không khít vào đây.,,
 ,,,,
 story.Prologue_HOD.misc_goop_1.text.d2568aa7789dba9346bfd707dbf619e5b9e6c883,A black substance drips down from here.,Vật chất màu đen nào đó đang rỏ xuống từ đây.,,
 story.Prologue_HOD.misc_goop_1.text.e49557dc253379fab3f692aeb73c9546299fcfea,Where is this stuff coming from?,Rốt cuộc mớ này chảy ra từ đâu vậy?,,

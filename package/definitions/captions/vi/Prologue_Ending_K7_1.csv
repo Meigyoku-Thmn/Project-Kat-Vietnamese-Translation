@@ -1,39 +1,39 @@
-﻿,en,vi,char,,
-story.Prologue_Ending_K7_1.event_no_keyhole.text.aecad3ff7b4af0c42e2710d35ceb14792a064551,This locker has no keyhole.,Tủ đồ này không có lỗ khóa.,,,x
-,,,,,x
-story.Prologue_Ending_K7_1.item_scissors_on_boxes.text.b6889f0a1ff221cb8841961a1abaf22d434ce435,"They're already open, so there's nothing to cut.","Thùng mở cả rồi, không có cái gì để cắt.",,,x
-,,,,,x
-story.Prologue_Ending_K7_1.misc_boxes1.text.ca59167d81785b6da69f84b8e4e37946d8297236,Boxes filled to the brim with cleaning products.,Mấy cái thùng đầy ắp dụng cụ quét dọn.,,,x
-,,,,,x
-story.Prologue_Ending_K7_1.misc_boxes2.text.5592470be91225441367fdd2a5aa6d93db461145,It's packed with white chalk and nothing else.,Nhồi chật cứng trong thùng toàn là phấn viết màu trắng mà thôi.,,,x
-story.Prologue_Ending_K7_1.misc_boxes2.text.4956dded14c271e496140a9d136d2f798b3e7e34,This must be like… a year's supply.,Thế này hẳn là… phần cho một năm luôn ấy.,Kat,,x
-story.Prologue_Ending_K7_1.misc_boxes2.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,,x
-story.Prologue_Ending_K7_1.misc_boxes2.text.1adbacc8b2ff5c7c295b84d9f258b0eec709842a,"They're packed too tightly, I can't pull any out.","Bị nhồi chặt cứng ngắc, chả lôi cái gì ra được.",Kat,,x
-,,,,,x
-story.Prologue_Ending_K7_1.misc_boxes3.text.f33cf17c3067c5ad3ea69aa16bbcc298c9d5a633,Some boxes filled with left shoes and lighters.,Vài cái thùng chứa đầy giày trái và bật lửa.,,,x
-,,,,,x
-story.Prologue_Ending_K7_1.misc_brooms.text.898d7d7d7ccda994b25de655f61663cc9d6282ea,Some brand new brooms.,Vài cây chổi mới tinh.,,,x
-,,,,,x
-story.Prologue_Ending_K7_1.misc_calendar.text.06f8c3fcf0edcd4f0c3e0b0594681d7de85059a1,A calendar… probably.,Bộ lịch… chắc thế.,,,x
-story.Prologue_Ending_K7_1.misc_calendar.text.4bf7153e7387c1efb5fc6687cc7b81307b1987a5,There are no dates or month names in it.,Mà chả thấy đề ngày lẫn ghi tháng gì.,,,x
-,,,,,x
-story.Prologue_Ending_K7_1.misc_cart.text.a8220075d01a471f228e09bc7f3cc5af2c36e2a8,A cleaning cart.,Xe quét dọn.,,,x
-story.Prologue_Ending_K7_1.misc_cart.text.b16e18cc2dbcbbcb23afb5b2d57f6c31f5918f80,It's sparkling clean.,Là đồ mới cáu.,,,x
-,,,,,x
-story.Prologue_Ending_K7_1.misc_lamp.text.1f394b6ec4b0a5e7a9cf351de471b295fdd7a344,A lamp. There's no light bulb nor a slot to place one.,Cái đèn. Không có cả bóng đèn lẫn chỗ gắn bóng đèn.,,,x
-,,,,,x
-story.Prologue_Ending_K7_1.misc_locker.text.2f3f0a894ed469f0261aacf7de74e212411d5f02,A large locker. It's sealed shut.,Tủ đồ lớn. Đang bị khóa cứng.,,,x
-,,,,,x
-story.Prologue_Ending_K7_1.misc_trashcan.text.406e8de4edf72479f74a3d0bc85e931de7b6c3e2,A trash can. You can't see the bottom.,Thùng rác. Không thấy được đáy.,,,x
-,,,,,x
-story.Prologue_Ending_K7_1.move_enter.text.0af2b1efe17a154c8aac69d7ed25ddb4b5191854,That's… weird.,Sao… kì ta?,Kat,surprised2,x
-story.Prologue_Ending_K7_1.move_enter.text.67b27ba7cae3087f50852f5d595d8366f43e6620,What is?,Gì kì?,Saki,confused,x
-story.Prologue_Ending_K7_1.move_enter.text.81c2ccda4d0c09e1d1cb42c69564ce633f992ac3,The existence of this room… makes no sense.,Sự tồn tại của căn phòng này… rất phi lý.,Kat,,x
-story.Prologue_Ending_K7_1.move_enter.text.c0ce14ad7f8d6951d59a3cdd7db2e3e97e45f14e,What do you mean?,Ý mày là sao?,Juli,,x
-story.Prologue_Ending_K7_1.move_enter.text.5bf630841af8514183e221887a77a42348c3a2dd,"Based on the shape of the school, there can't be a room here. It would be floating in the air when seen from outside.",Xét về hình dáng ngôi trường thì không thể có căn phòng nào ở đây được. Chứ mà nhìn từ ngoài thì căn phòng sẽ trông như đang lơ lửng trên không.,Kat,explain3,x
-story.Prologue_Ending_K7_1.move_enter.text.ecd6a5986385efcf5bec044c0d6741039a6580ab,Interesting…,Thú vị đấy…,Juli,annoyed3,x
-story.Prologue_Ending_K7_1.move_enter.text.d7bd4cd80255a55a50ef92f27469bb4dd132ed6f,But… we didn't even finish the ritual! What's happening?,Ơ mà… nghi thức đã xong đâu! Rốt cuộc là sao đây?,Saki,shocked,x
-story.Prologue_Ending_K7_1.move_enter.text.4b7756c8d52cf14b776380c4774aaacb10de35e0,I don't know…,Chịu…,Kat,surprised2,x
-story.Prologue_Ending_K7_1.move_enter.text.7992c11e2676c7a1e2c5a5fc16775b66e484de29,Isn't it exciting!?,Mà không thấy háo hức à!?,Kat,excited,x
-story.Prologue_Ending_K7_1.move_enter.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Saki,annoyed,x
-story.Prologue_Ending_K7_1.move_enter.text.22512c206e545134321f610f9b18ad8186bbe665,Let's keep going.,Tiến lên phía trước thôi.,Kat,catface,x
+﻿,en,vi,char,
+story.Prologue_Ending_K7_1.event_no_keyhole.text.aecad3ff7b4af0c42e2710d35ceb14792a064551,This locker has no keyhole.,Tủ đồ này không có lỗ khóa.,,
+,,,,
+story.Prologue_Ending_K7_1.item_scissors_on_boxes.text.b6889f0a1ff221cb8841961a1abaf22d434ce435,"They're already open, so there's nothing to cut.","Thùng mở cả rồi, không có cái gì để cắt.",,
+,,,,
+story.Prologue_Ending_K7_1.misc_boxes1.text.ca59167d81785b6da69f84b8e4e37946d8297236,Boxes filled to the brim with cleaning products.,Mấy cái thùng đầy ắp dụng cụ quét dọn.,,
+,,,,
+story.Prologue_Ending_K7_1.misc_boxes2.text.5592470be91225441367fdd2a5aa6d93db461145,It's packed with white chalk and nothing else.,Nhồi chật cứng trong thùng toàn là phấn viết màu trắng mà thôi.,,
+story.Prologue_Ending_K7_1.misc_boxes2.text.4956dded14c271e496140a9d136d2f798b3e7e34,This must be like… a year's supply.,Thế này hẳn là… phần cho một năm luôn ấy.,Kat,
+story.Prologue_Ending_K7_1.misc_boxes2.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,
+story.Prologue_Ending_K7_1.misc_boxes2.text.1adbacc8b2ff5c7c295b84d9f258b0eec709842a,"They're packed too tightly, I can't pull any out.","Bị nhồi chặt cứng ngắc, chả lôi cái gì ra được.",Kat,
+,,,,
+story.Prologue_Ending_K7_1.misc_boxes3.text.f33cf17c3067c5ad3ea69aa16bbcc298c9d5a633,Some boxes filled with left shoes and lighters.,Vài cái thùng chứa đầy giày trái và bật lửa.,,
+,,,,
+story.Prologue_Ending_K7_1.misc_brooms.text.898d7d7d7ccda994b25de655f61663cc9d6282ea,Some brand new brooms.,Vài cây chổi mới tinh.,,
+,,,,
+story.Prologue_Ending_K7_1.misc_calendar.text.06f8c3fcf0edcd4f0c3e0b0594681d7de85059a1,A calendar… probably.,Bộ lịch… chắc thế.,,
+story.Prologue_Ending_K7_1.misc_calendar.text.4bf7153e7387c1efb5fc6687cc7b81307b1987a5,There are no dates or month names in it.,Mà chả thấy đề ngày lẫn ghi tháng gì.,,
+,,,,
+story.Prologue_Ending_K7_1.misc_cart.text.a8220075d01a471f228e09bc7f3cc5af2c36e2a8,A cleaning cart.,Xe quét dọn.,,
+story.Prologue_Ending_K7_1.misc_cart.text.b16e18cc2dbcbbcb23afb5b2d57f6c31f5918f80,It's sparkling clean.,Là đồ mới cáu.,,
+,,,,
+story.Prologue_Ending_K7_1.misc_lamp.text.1f394b6ec4b0a5e7a9cf351de471b295fdd7a344,A lamp. There's no light bulb nor a slot to place one.,Cái đèn. Không có cả bóng đèn lẫn chỗ gắn bóng đèn.,,
+,,,,
+story.Prologue_Ending_K7_1.misc_locker.text.2f3f0a894ed469f0261aacf7de74e212411d5f02,A large locker. It's sealed shut.,Tủ đồ lớn. Đang bị khóa cứng.,,
+,,,,
+story.Prologue_Ending_K7_1.misc_trashcan.text.406e8de4edf72479f74a3d0bc85e931de7b6c3e2,A trash can. You can't see the bottom.,Thùng rác. Không thấy được đáy.,,
+,,,,
+story.Prologue_Ending_K7_1.move_enter.text.0af2b1efe17a154c8aac69d7ed25ddb4b5191854,That's… weird.,Sao… kì ta?,Kat,surprised2
+story.Prologue_Ending_K7_1.move_enter.text.67b27ba7cae3087f50852f5d595d8366f43e6620,What is?,Gì kì?,Saki,confused
+story.Prologue_Ending_K7_1.move_enter.text.81c2ccda4d0c09e1d1cb42c69564ce633f992ac3,The existence of this room… makes no sense.,Sự tồn tại của căn phòng này… rất phi lý.,Kat,
+story.Prologue_Ending_K7_1.move_enter.text.c0ce14ad7f8d6951d59a3cdd7db2e3e97e45f14e,What do you mean?,Ý mày là sao?,Juli,
+story.Prologue_Ending_K7_1.move_enter.text.5bf630841af8514183e221887a77a42348c3a2dd,"Based on the shape of the school, there can't be a room here. It would be floating in the air when seen from outside.",Xét về hình dáng ngôi trường thì không thể có căn phòng nào ở đây được. Chứ mà nhìn từ ngoài thì căn phòng sẽ trông như đang lơ lửng trên không.,Kat,explain3
+story.Prologue_Ending_K7_1.move_enter.text.ecd6a5986385efcf5bec044c0d6741039a6580ab,Interesting…,Thú vị đấy…,Juli,annoyed3
+story.Prologue_Ending_K7_1.move_enter.text.d7bd4cd80255a55a50ef92f27469bb4dd132ed6f,But… we didn't even finish the ritual! What's happening?,Ơ mà… nghi thức đã xong đâu! Rốt cuộc là sao đây?,Saki,shocked
+story.Prologue_Ending_K7_1.move_enter.text.4b7756c8d52cf14b776380c4774aaacb10de35e0,I don't know…,Chịu…,Kat,surprised2
+story.Prologue_Ending_K7_1.move_enter.text.7992c11e2676c7a1e2c5a5fc16775b66e484de29,Isn't it exciting!?,Mà không thấy háo hức à!?,Kat,excited
+story.Prologue_Ending_K7_1.move_enter.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Saki,annoyed
+story.Prologue_Ending_K7_1.move_enter.text.22512c206e545134321f610f9b18ad8186bbe665,Let's keep going.,Tiến lên phía trước thôi.,Kat,catface

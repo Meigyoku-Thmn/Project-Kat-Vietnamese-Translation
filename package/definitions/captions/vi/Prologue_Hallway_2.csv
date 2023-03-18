@@ -1,8 +1,8 @@
-﻿,en,vi,char,
-story.Prologue_Hallway_2.event_confused.text.0f908a4006b456c691ea2d7446fcf898600a4afc,Wait a moment.,Chờ tí.,Juli,
-story.Prologue_Hallway_2.event_confused.text.a3949754c983ec8df6656cc830de355419716cfb,This doesn't look right. We should've come across stairs a while back.,Kì cục vậy. Hồi nãy đúng ra phải đi ngang qua cầu thang rồi chứ.,Juli,
-story.Prologue_Hallway_2.event_confused.text.22193acf051b0af9fcdbb8535de61d888ff06000,That's true.,Đúng thế.,Kat,
-story.Prologue_Hallway_2.event_confused.text.175daa26c02850f3d3aaac5090958fd37b23bb57,Maybe we took a wrong turn somewhere…?,Hay lộn đường chỗ nào đó chăng…?,Juli,concerned
-story.Prologue_Hallway_2.event_confused.text.55b8dd2670bef87bbac26fb9713727b6138302e4,Let's just keep going.,Gì thì cứ đi tiếp thôi nào.,Kat,explain3
-,,,,
-story.Prologue_Hallway_2.event_prevent_exit.text.fd525a9583efa833cfac41e09bad53f6f91f5c65,I want to see what's on the other side of this hallway.,Mình muốn thấy được đằng bên kia hành lang có cái gì.,Kat,
+﻿,en,vi,char,,
+story.Prologue_Hallway_2.event_confused.text.0f908a4006b456c691ea2d7446fcf898600a4afc,Wait a moment.,Chờ tí.,Juli,,
+story.Prologue_Hallway_2.event_confused.text.a3949754c983ec8df6656cc830de355419716cfb,This doesn't look right. We should've come across stairs a while back.,Kì cục vậy. Hồi nãy đúng ra phải đi ngang qua cầu thang rồi chứ.,Juli,,
+story.Prologue_Hallway_2.event_confused.text.22193acf051b0af9fcdbb8535de61d888ff06000,That's true.,Đúng thế.,Kat,,
+story.Prologue_Hallway_2.event_confused.text.175daa26c02850f3d3aaac5090958fd37b23bb57,Maybe we took a wrong turn somewhere…?,Hay lộn đường chỗ nào đó chăng…?,Juli,concerned,
+story.Prologue_Hallway_2.event_confused.text.55b8dd2670bef87bbac26fb9713727b6138302e4,Let's just keep going.,Gì thì cứ đi tiếp thôi nào.,Kat,explain3,
+,,,,,
+story.Prologue_Hallway_2.event_prevent_exit.text.fd525a9583efa833cfac41e09bad53f6f91f5c65,I want to see what's on the other side of this hallway.,Mình muốn thấy được đằng bên kia hành lang có cái gì.,Kat,,x

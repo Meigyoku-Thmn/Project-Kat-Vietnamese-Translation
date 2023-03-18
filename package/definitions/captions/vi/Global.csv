@@ -12,12 +12,12 @@ story.Global.prologue_check_plants_cut.text.be9de4cb21c061133a2d908557b21c5a8b41
 story.Global.prologue_check_plants_cut.text.14823da364c5b4ffe05585bf06e9182d494771ac,"If this ritual involves the mass genocide of harmless plants, then I want nothing to do with it.",Nếu nghi thức hay gì đấy mà phải thảm sát cây cối vô hại thế này thì tao không có muốn dính dáng gì hết nhá.,Saki,
 story.Global.prologue_check_plants_cut.text.f965096ab02c7c90ddc4f72df5ebd77885ea3387,Agreed.,Đồng tình.,Juli,
 ,,,,
-story.Global.prologue_check_plants_cut.text.8799a772c4fb396e35f00a4b0f74e8928980c961,Are you seriously going to go around killing all the plants?,Thiệt tình mày tính lòng vòng giết cho hết cây cối vậy luôn hả?,Saki,x
-story.Global.prologue_check_plants_cut.text.d2b100e7d08f55aeecc15e13110b72d7aabbc9d5,I knew you were a psychopath…,Quả nhiên mày bị tâm thần rồi…,Saki,x
-story.Global.prologue_check_plants_cut.text.ef3aada0e2404993532733408a29bc6d65522cab,"Sorry Kat, but we didn't sign up for this.","Xin lỗi nha Kat, bọn tao không có tham dự để làm cái chuyện này đâu.",Juli,x
-story.Global.prologue_check_plants_cut.text.80f3007acea925bd534b9a7cb9354a891d6b8eab,I don't like this ritual anymore…,Tao không có muốn coi nghi thức nữa…,Kaya,x
-story.Global.prologue_check_plants_cut.text.be9e520a9337bc2952919f7d9d0ece6283f51964,"Don't worry Kaya, we're going home now.","Không sao Kaya, giờ mình đi về luôn.",Juli,x
-story.Global.prologue_check_plants_cut.text.35f1a0ab71339bc315e57b1aeddeeea76e10bade,Don't talk to us again.,Đừng có mà bắt chuyện bọn tao nữa.,Saki,x
+story.Global.prologue_check_plants_cut.text.8799a772c4fb396e35f00a4b0f74e8928980c961,Are you seriously going to go around killing all the plants?,Thiệt tình mày tính lòng vòng giết cho hết cây cối vậy luôn hả?,Saki,
+story.Global.prologue_check_plants_cut.text.d2b100e7d08f55aeecc15e13110b72d7aabbc9d5,I knew you were a psychopath…,Quả nhiên mày bị tâm thần rồi…,Saki,
+story.Global.prologue_check_plants_cut.text.ef3aada0e2404993532733408a29bc6d65522cab,"Sorry Kat, but we didn't sign up for this.","Xin lỗi nha Kat, bọn tao không có tham dự để làm cái chuyện này đâu.",Juli,
+story.Global.prologue_check_plants_cut.text.80f3007acea925bd534b9a7cb9354a891d6b8eab,I don't like this ritual anymore…,Tao không có muốn coi nghi thức nữa…,Kaya,
+story.Global.prologue_check_plants_cut.text.be9e520a9337bc2952919f7d9d0ece6283f51964,"Don't worry Kaya, we're going home now.","Không sao Kaya, giờ mình đi về luôn.",Juli,
+story.Global.prologue_check_plants_cut.text.35f1a0ab71339bc315e57b1aeddeeea76e10bade,Don't talk to us again.,Đừng có mà bắt chuyện bọn tao nữa.,Saki,
 ,,,,
 story.Global.prologue_classroom_misc_cubicles.text.24a04612760725bc6b9a45f8a60a34fa9e573db8,Shelves for the students to place their school bags.,Kệ tủ cho học sinh để cặp táp.,,
 story.Global.prologue_classroom_misc_cubicles.text.7141dd76d5f74b98e7baa6a346b65f5424b3c338,There are no bags right now though.,Mà giờ không có cái cặp nào cả.,,
@@ -38,8 +38,8 @@ story.Global.prologue_cutscene_ritual_1.text.c340ab10b73ed4cef65ccbef5eca63c2cd3
 story.Global.prologue_cutscene_ritual_1.text.8e33ef65600bfca2ec27cda6f29f0b160902c765,"You're not gonna find him this way, you know?",Có làm thế này cũng không tìm ra được người đó đâu mày biết không?,???,
 story.Global.prologue_cutscene_ritual_1.text.379d48c305c7044e33627aab25c95c82a28ff95e,"You'll just do whatever you want no matter what I say, won't you?",Mà giờ tao có bảo gì thì mày cũng cứ làm gì mày muốn làm thôi nhỉ?,???,
 story.Global.prologue_cutscene_ritual_1.text.742ab30bd3058011598b73e57eb7ee1f371bdbbd,It's possible.,Có khi đấy.,Kat,
-story.Global.prologue_cutscene_ritual_1.text.ad04058a6b1fe6a6c9b6e8f8b7f5c2197d4e4820,Stubborn idiot.,Cái con khùng ngoan cố.,???,x
-story.Global.prologue_cutscene_ritual_1.text.89534cb67434b171a18c04c55327348cfa482d5b,"I prefer ""ambitious idiot"".","Gọi là ""Con khùng có khát vọng"" thì tao ưng hơn.",Kat,x
+story.Global.prologue_cutscene_ritual_1.text.ad04058a6b1fe6a6c9b6e8f8b7f5c2197d4e4820,Stubborn idiot.,Cái con khùng ngoan cố.,???,
+story.Global.prologue_cutscene_ritual_1.text.89534cb67434b171a18c04c55327348cfa482d5b,"I prefer ""ambitious idiot"".","Gọi là ""con khùng có khát vọng"" thì tao ưng hơn.",Kat,
 story.Global.prologue_cutscene_ritual_1.text.39269f96fa2dacef17188e1f5dcff8394c5a8c82,So… will you tell me where the letter is?,Thế… mày cho tao biết thư ở đâu được chưa?,Kat,
 story.Global.prologue_cutscene_ritual_1.text.76aadae4874b4a90af00dfac5ad2f8a0ddf3ca58,"You exhaust me Kat, you know that?",Tao hết hơi với mày rồi đấy Kat mày biết không?,???,
 story.Global.prologue_cutscene_ritual_1.text.06c89242f9cc19584850e1b9eff4a7b7cc385b2f,And yet here we are.,Thế mà vẫn ấy đây này.,Kat,
@@ -122,40 +122,40 @@ story.Global.prologue_draw_chalk.text.5a053350f6b83e0f6b083698c6c4c35858dd38b2,"
 story.Global.prologue_draw_chalk.text.c6387a980df306afaac67616985533cf376033fb,I need to do this in all three rooms.,Cần làm thế này hết cả ba phòng thì mới được.,,
 story.Global.prologue_draw_chalk.text.b29396525f24fbe7ad65c8f824655c0ea82d59ad,"Two down, one to go.","Xong hai rồi, còn một thôi.",,
 ,,,,
-story.Global.prologue_ending_k2.text.a7f4a8991d8b9edf5f397781c6891c4c4a821f78,"That night… I got cold feet, I guess.","Đêm đó… mình bị nhát quá, chắc vậy.",,x
-story.Global.prologue_ending_k2.text.453e77b4d7d5b7cdaa716bbe7c273236d5bb4754,I went home without completing the ritual.,Nghi thức hãy chưa xong mà đã về nhà rồi.,,x
-story.Global.prologue_ending_k2.text.899676bc9ee27a7eb0ddb2ffef68513153b440a6,"Despite that, I made plans to try again.","Dẫu vậy, mình đã lập kế hoạch thử sức lại.",,x
-story.Global.prologue_ending_k2.text.13d445dc136b68ee35d5592f937d5a138c74da5e,"However, both my notes and the letter had disappeared without a trace.","Thế nhưng, cả ghi chú lẫn thư của mình đều biến mất tiêu không một dấu vết.",,x
-story.Global.prologue_ending_k2.text.9c6806e368df7cac1664af6e0667d347196b7b5a,I tried telling myself that maybe the ritual was a scam anyways…,Mình tự nhủ bản thân rằng cái nghi thức đó đằng nào cũng là bịp thôi…,,x
-story.Global.prologue_ending_k2.text.6069f127223610f828c0bb834e13b00f7fb65212,But now… how will I ever know?,Nhưng mà ngộ nhỡ… thì sao?,,x
-story.Global.prologue_ending_k2.text.448474fd6f3cf8f077c86efad23a4d1df14eec9e,Dead End K2 - Cold Kat Feet,Kết Đứt K2 – Nhát Meo,,x
-,,,,x
-story.Global.prologue_ending_k3.text.5ec90e03adac13c26c70a0f18fb22b00a704c941,What's… going on?,Rốt cuộc… là sao đây?,,x
-story.Global.prologue_ending_k3.text.7c24fec035c27d28c9facc402b14e29a8c961852,These stairs are making no sense right now.,Cầu thang này cứ kì kì ấy.,,x
-story.Global.prologue_ending_k3.text.c6eb6366d092e365582ffe29b8e2156c8cffab88,This building has only 3 floors. I've taken these stairs every day…,Trường có 3 tầng thôi. Thang mình đi mỗi ngày cơ mà…,,x
-story.Global.prologue_ending_k3.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,,x
-story.Global.prologue_ending_k3.text.ffe8092755554f948d96549dfd89f84a367015d1,I must be really tired. I'll just go down without thinking.,Hẳn mình mệt lắm rồi. Cứ đi xuống đừng nghĩ sâu xa vậy.,,x
-story.Global.prologue_ending_k3.text.357ca62ff09f0bd75252c36764cb58d2af7f3a4e,I can't… get anywhere…,Không ra được… đâu cả…,,x
-story.Global.prologue_ending_k3.text.5c20c2c8d65fea9cf9b0f46d8bf06151419b6954,Am I dreaming right now?,Đang nằm mơ hay sao trời?,,x
-story.Global.prologue_ending_k3.text.18267c3683cd57be130cae9149dad441e6a7a9d1,I think I'll just… rest here.,Thôi gì thì… nghỉ đây đã.,,x
-story.Global.prologue_ending_k3.text.c74685cc0e5821d48377e92e437ede148e75bfb5,Tomorrow morning… someone will wake me up.,Đến sáng… ai đó gọi mình dậy thôi.,,x
-story.Global.prologue_ending_k3.text.d2367e10c90397c4383f247e46d48580fe87eb23,"Hopefully at home, in my own bed.","Nếu được thì, trên giường nhà mình.",,x
-story.Global.prologue_ending_k3.text.2883d5ef81c1db09562b0b8d77b3e8c7d896ff7b,"The next time I woke up, I was still in the same place.","Sau đó lúc tỉnh lại, tôi vẫn ở đúng chỗ này.",,x
-story.Global.prologue_ending_k3.text.440f67107d599d20783ddfaee2ba9d94690d1c8c,"I tried again. Going up, going down… it made no difference.","Tôi cố thử lại. Đi lên, đi xuống… Chẳng gì thay đổi.",,x
-story.Global.prologue_ending_k3.text.f7745e562735a7ca48a43588623ec796a18533c5,I decided to make an experiment with chalk.,"Thành ra, tôi quyết định lấy phấn thí nghiệm xem.",,x
-story.Global.prologue_ending_k3.text.f9a5c2bd90ffb99555b553709dd52d3acdfb2a4a,Logic would dictate that this X isn't here if I go up or down a floor.,Tuân theo logic thì dấu X này phải không ở đây sau khi mình đi lên hay đi xuống.,,x
+story.Global.prologue_ending_k2.text.a7f4a8991d8b9edf5f397781c6891c4c4a821f78,"That night… I got cold feet, I guess.","Đêm đó… mình bị nhát quá, chắc vậy.",,
+story.Global.prologue_ending_k2.text.453e77b4d7d5b7cdaa716bbe7c273236d5bb4754,I went home without completing the ritual.,Nghi thức hãy chưa xong mà đã về nhà rồi.,,
+story.Global.prologue_ending_k2.text.899676bc9ee27a7eb0ddb2ffef68513153b440a6,"Despite that, I made plans to try again.","Dẫu vậy, mình đã lập kế hoạch thử sức lại.",,
+story.Global.prologue_ending_k2.text.13d445dc136b68ee35d5592f937d5a138c74da5e,"However, both my notes and the letter had disappeared without a trace.","Thế nhưng, cả ghi chú lẫn thư của mình đều biến mất tiêu không một dấu vết.",,
+story.Global.prologue_ending_k2.text.9c6806e368df7cac1664af6e0667d347196b7b5a,I tried telling myself that maybe the ritual was a scam anyways…,Mình tự nhủ bản thân rằng cái nghi thức đó đằng nào cũng là bịp thôi…,,
+story.Global.prologue_ending_k2.text.6069f127223610f828c0bb834e13b00f7fb65212,But now… how will I ever know?,Nhưng mà ngộ nhỡ… thì sao?,,
+story.Global.prologue_ending_k2.text.448474fd6f3cf8f077c86efad23a4d1df14eec9e,Dead End K2 - Cold Kat Feet,Kết Đứt K2 – Nhát Meo,,
 ,,,,
-story.Global.prologue_ending_k3_pt2.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,,x
-story.Global.prologue_ending_k3_pt2.text.f1f173c2b0c85eed09c9fbc9091c443f407069b0,I'm… trapped…,Mình… bị kẹt rồi…,,x
-story.Global.prologue_ending_k3_pt2.text.76147416d1febf63ccd6e5b3f3057e222408b294,I don't think I'm going to make it home tonight either…,Có vẻ đêm nay cũng không về được nhà luôn rồi…,,x
-story.Global.prologue_ending_k3_pt2.text.cb032a9f62589faa5f11e5776478c318abeb7ba2,Sorry Mom.,Con xin lỗi mẹ.,,x
-story.Global.prologue_ending_k3_pt2.text.a20ebfaa8efc301dc73ad1956e11e2c35037ce14,Dead End K3 - Academic Spiral,Kết Đứt K3 – Trường Xoáy,,x
+story.Global.prologue_ending_k3.text.5ec90e03adac13c26c70a0f18fb22b00a704c941,What's… going on?,Rốt cuộc… là sao đây?,,
+story.Global.prologue_ending_k3.text.7c24fec035c27d28c9facc402b14e29a8c961852,These stairs are making no sense right now.,Cầu thang này cứ kì kì ấy.,,
+story.Global.prologue_ending_k3.text.c6eb6366d092e365582ffe29b8e2156c8cffab88,This building has only 3 floors. I've taken these stairs every day…,Trường có 3 tầng thôi. Thang mình đi mỗi ngày cơ mà…,,
+story.Global.prologue_ending_k3.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,,
+story.Global.prologue_ending_k3.text.ffe8092755554f948d96549dfd89f84a367015d1,I must be really tired. I'll just go down without thinking.,Hẳn mình mệt lắm rồi. Cứ đi xuống đừng nghĩ sâu xa vậy.,,
+story.Global.prologue_ending_k3.text.357ca62ff09f0bd75252c36764cb58d2af7f3a4e,I can't… get anywhere…,Không ra được… đâu cả…,,
+story.Global.prologue_ending_k3.text.5c20c2c8d65fea9cf9b0f46d8bf06151419b6954,Am I dreaming right now?,Đang nằm mơ hay sao trời?,,
+story.Global.prologue_ending_k3.text.18267c3683cd57be130cae9149dad441e6a7a9d1,I think I'll just… rest here.,Thôi gì thì… nghỉ đây đã.,,
+story.Global.prologue_ending_k3.text.c74685cc0e5821d48377e92e437ede148e75bfb5,Tomorrow morning… someone will wake me up.,Đến sáng… ai đó gọi mình dậy thôi.,,
+story.Global.prologue_ending_k3.text.d2367e10c90397c4383f247e46d48580fe87eb23,"Hopefully at home, in my own bed.","Nếu được thì, trên giường nhà mình.",,
+story.Global.prologue_ending_k3.text.2883d5ef81c1db09562b0b8d77b3e8c7d896ff7b,"The next time I woke up, I was still in the same place.","Sau đó lúc tỉnh lại, tôi vẫn ở đúng chỗ này.",,
+story.Global.prologue_ending_k3.text.440f67107d599d20783ddfaee2ba9d94690d1c8c,"I tried again. Going up, going down… it made no difference.","Tôi cố thử lại. Đi lên, đi xuống… Chẳng gì thay đổi.",,
+story.Global.prologue_ending_k3.text.f7745e562735a7ca48a43588623ec796a18533c5,I decided to make an experiment with chalk.,"Thành ra, tôi quyết định lấy phấn thí nghiệm xem.",,
+story.Global.prologue_ending_k3.text.f9a5c2bd90ffb99555b553709dd52d3acdfb2a4a,Logic would dictate that this X isn't here if I go up or down a floor.,Tuân theo logic thì dấu X này phải không ở đây sau khi mình đi lên hay đi xuống.,,
 ,,,,
-story.Global.prologue_ending_k4.text.ad08572b11066fa1409d4000078d5f724ef0dd09,"And so, we went home without completing the ritual.","Và rồi, bọn tôi cứ thế về nhà mà không làm xong nghi thức đấy.",,x
-story.Global.prologue_ending_k4.text.8cf9812954c97fee678942f0fb77b95634a568d4,"For some reason, I lost interest after that.","Do sao đó, sau lần ấy tôi mất hứng luôn.",,x
-story.Global.prologue_ending_k4.text.ed70d04c7aa6ddd501bda35a91779c39ae4dc453,"In exchange, I gained some new people to talk to.","Nhưng thay vào đó, tôi có được mấy người cùng trò chuyện mới.",,x
-story.Global.prologue_ending_k4.text.8cd40009ea9f87bdf90b06f0449c5d83fa27a2af,"Well, I suppose the ritual couldn't have been that important anyways.","Ôi dào, đằng nào nghi thức đó cũng có phải gì quan trọng mấy đâu.",,x
-story.Global.prologue_ending_k4.text.f8d684cf65bb786433e6c29f6a11364e3c3ec4eb,Dead End K4 - Nevermind Forever,Kết Đứt K4 – Vĩnh Bất Niệm,,x
+story.Global.prologue_ending_k3_pt2.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,,
+story.Global.prologue_ending_k3_pt2.text.f1f173c2b0c85eed09c9fbc9091c443f407069b0,I'm… trapped…,Mình… bị kẹt rồi…,,
+story.Global.prologue_ending_k3_pt2.text.76147416d1febf63ccd6e5b3f3057e222408b294,I don't think I'm going to make it home tonight either…,Có vẻ đêm nay cũng không về được nhà luôn rồi…,,
+story.Global.prologue_ending_k3_pt2.text.cb032a9f62589faa5f11e5776478c318abeb7ba2,Sorry Mom.,Con xin lỗi mẹ.,,
+story.Global.prologue_ending_k3_pt2.text.a20ebfaa8efc301dc73ad1956e11e2c35037ce14,Dead End K3 - Academic Spiral,Kết Đứt K3 – Trường Xoáy,,
+,,,,
+story.Global.prologue_ending_k4.text.ad08572b11066fa1409d4000078d5f724ef0dd09,"And so, we went home without completing the ritual.","Và rồi, bọn tôi cứ thế về nhà mà không làm xong nghi thức đấy.",,
+story.Global.prologue_ending_k4.text.8cf9812954c97fee678942f0fb77b95634a568d4,"For some reason, I lost interest after that.","Do sao đó, sau lần ấy tôi mất hứng luôn.",,
+story.Global.prologue_ending_k4.text.ed70d04c7aa6ddd501bda35a91779c39ae4dc453,"In exchange, I gained some new people to talk to.","Nhưng thay vào đó, tôi có được mấy người cùng trò chuyện mới.",,
+story.Global.prologue_ending_k4.text.8cd40009ea9f87bdf90b06f0449c5d83fa27a2af,"Well, I suppose the ritual couldn't have been that important anyways.","Ôi dào, đằng nào nghi thức đó cũng có phải gì quan trọng mấy đâu.",,
+story.Global.prologue_ending_k4.text.f8d684cf65bb786433e6c29f6a11364e3c3ec4eb,Dead End K4 - Nevermind Forever,Kết Đứt K4 – Vĩnh Bất Niệm,,
 ,,,,
 story.Global.prologue_ending_k5.text.648ea3e9db14318a79d3ad4291b6080d76493ff3,"You know, despite the rules,","Ái chả, mặc dù có luật rồi,",,
 story.Global.prologue_ending_k5.text.137ae09f0c4e5df2ca0377491d7fc9eb7fa6f11f,every so often some moron thinks they can bring in an entire group.,thi thoảng lại có mấy đứa ngốc nghĩ rằng có thể dắt cả bọn vào cơ đấy.,,
@@ -166,39 +166,39 @@ story.Global.prologue_ending_k5.text.e37b99ef62b4c4792fe603ed06f08cb60c1fe54e,Bu
 story.Global.prologue_ending_k5.text.1a4c965c08d02b772a9715d4a3a7e813285ce82b,What? Wait-!,Ê? Từ từ–?,Kat,
 story.Global.prologue_ending_k5.text.87cece88105f59cf36df372cccfa7bb269cf63f3,Dead End K5 - Party Wipe,Kết Đứt K5 – Sạch Bọn,,
 ,,,,
-story.Global.prologue_ending_k6.text.416ce944d4068566c5f09cf6e6a40427c699960b,"Once they were gone, I felt a bit guilty so I went home as well.","Sau khi bọn nó đi về, tôi thấy chút tội lỗi nên cũng về nhà luôn.",,x
-story.Global.prologue_ending_k6.text.7556ced05c7bb1aa9688e0fa3b800f3e24da4f39,"Maybe I'll try the ritual again, some other time.",Thôi nghi thức lúc nào đó làm lại vậy.,,x
-story.Global.prologue_ending_k6.text.9f55d20ac2f4c2ab9a99f63923a6d9681e83a56d,"Next time, I hope not to run into anyone.","Lần sau, cho dù ai thì tôi cũng cạch thôi.",,x
-story.Global.prologue_ending_k6.text.774565040c017d7c82eeed4ec753e5ce628d6e9a,Dead End K6 - Snip snip,Kết Đứt K6 – Xoạch Xoạch,,x
+story.Global.prologue_ending_k6.text.416ce944d4068566c5f09cf6e6a40427c699960b,"Once they were gone, I felt a bit guilty so I went home as well.","Sau khi bọn nó đi về, tôi thấy chút tội lỗi nên cũng về nhà luôn.",,
+story.Global.prologue_ending_k6.text.7556ced05c7bb1aa9688e0fa3b800f3e24da4f39,"Maybe I'll try the ritual again, some other time.",Thôi nghi thức lúc nào đó làm lại vậy.,,
+story.Global.prologue_ending_k6.text.9f55d20ac2f4c2ab9a99f63923a6d9681e83a56d,"Next time, I hope not to run into anyone.","Lần sau, cho dù ai thì tôi cũng cạch thôi.",,
+story.Global.prologue_ending_k6.text.774565040c017d7c82eeed4ec753e5ce628d6e9a,Dead End K6 - Snip snip,Kết Đứt K6 – Xoạch Xoạch,,
 ,,,,
-story.Global.prologue_ending_k7.text.1faf6ee8c43bd3f7f83824702bfa6cd9079f99bb,"And so, we left the school and walked home.","Và rồi, bọn tôi rời khỏi trường và lên đường về nhà.",Kat,x
-story.Global.prologue_ending_k7.text.4d1b355e80d9d842ff1a26fe9efdbbdfac8d806f,No one said anything for a while.,"Trong khoảng chốc lát, chẳng ai nói cái gì cả.",Kat,x
-story.Global.prologue_ending_k7.text.907838182d990909f8f5e5e8a7c142be8f83ab52,(I think Kat is feeling down…),(Thấy Kat nản lắm đó…),Kaya,x
-story.Global.prologue_ending_k7.text.ef61cdc800bd79da44754d0f5bcea2af848705cb,(Yeah.),(Ừ.),Saki,x
-story.Global.prologue_ending_k7.text.8cbf1b32fd90c465be5900317712e467d251be55,(Should we do something?),(Mình nên làm gì cho nó chăng?),Kaya,x
-story.Global.prologue_ending_k7.text.70090abb90491ec03c80856de5f7d41470fb1e41,(What's on your mind?),"(Bọn mày nghĩ sao, làm gì đây?)",Juli,x
-story.Global.prologue_ending_k7.text.0c97c13d16a5f3e38294ef6e2b1fc8196e18ba85,(I don't know…),(Không biết nữa…),Kaya,x
-story.Global.prologue_ending_k7.text.884f7ac1174030ede1347d792260f5342765472f,(Do you think Kat likes to sing?),(Con Kat không biết có thích hát karaoke không?),Saki,x
-story.Global.prologue_ending_k7.text.91fbe4ea81fd3d03a8efdb9d972054a6e43175d7,(Hmmm…),(Hừmmm…),Juli,x
-story.Global.prologue_ending_k7.text.afc2c43d835d6d238d10a8a9ef286bf73e23c624,"(Good idea, Saki!)",(Đi hát karaoke được đó Saki!),Kaya,x
-story.Global.prologue_ending_k7.text.922a788ffc9d0e6de4257c07aaabdbe39aa05249,"(Haven't seen you this excited about karaoke before, Kaya…)",(Hăm hở đi karaoke thế này lần đầu thấy đó Kaya…),Juli,x
-story.Global.prologue_ending_k7.text.afb42674fbfa842e149878bc03f27d023121f3a7,"(That's a yes, then?)",(Vậy là đi hát được đúng không?),Saki,x
-story.Global.prologue_ending_k7.text.ab7d36f2f9a7a7c2fbbed88e12147b8f0eee4b16,(Alright.),(Ờ.),Juli,x
-story.Global.prologue_ending_k7.text.c7572d80c587c5afc9d310549d578e2df0ee0d71,So…,Ê…,Saki,x
-story.Global.prologue_ending_k7.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,x
-story.Global.prologue_ending_k7.text.feb6c3a737798b01159cc78037f9ff846933372f,We were thinking of going to this place…,Bọn tao định tới chỗ này nè mà…,Saki,x
-story.Global.prologue_ending_k7.text.12775f7f3ee5ad0ca46f8240a8f2fdc54df04c80,(I can't do this! She's ignoring me!),(Tao nói không được! Nó lơ tao luôn!),Saki,x
-story.Global.prologue_ending_k7.text.a6994f91e52e1cc39934cd111c242a0b2cd789e3,Kat!,Kat!,Juli,x
-story.Global.prologue_ending_k7.text.e777cea75af6ed97e936e9232e0161af3deec82e,Hmm?,Hửmm?,Kat,x
-story.Global.prologue_ending_k7.text.470ed3ac582c3f926ff995b637c8bc241dffe029,Come with us.,Đi hát cùng bọn tao.,Juli,x
-story.Global.prologue_ending_k7.text.73fef01e230300ae6fc10ffd739157b067709157,Huh?,Hở?,Kat,x
-story.Global.prologue_ending_k7.text.0dfd56e8980ca5af124dfd0f239edf245e345ceb,Just come.,Cứ đi đi.,Juli,x
-story.Global.prologue_ending_k7.text.b9eb95fd69a10e7e704eea3ec036707e94f75521,"Sure, whatever.","Ừ thì đi, thế nào cũng được.",Kat,x
-story.Global.prologue_ending_k7.text.513b2c5b6fe87d3e8d7d1057569c029897216eb1,(You're so good!),(Được quá mày ơi!),Saki,x
-story.Global.prologue_ending_k7.text.39060fa865f06ea4f250f71a23d2f6445b4534db,(Are they trying… to cheer me up…?),(Bọn nó… đang muốn động viên mình hay sao…?),Kat,x
-story.Global.prologue_ending_k7.text.95741f01ba97bd1346a0081f0d435d592539f3b3,(Maybe… things are better this way.),(Có khi… cứ thế này là tốt hơn rồi.),Kat,x
-story.Global.prologue_ending_k7.text.33e594b2f4dbc10ffc99749b3fae1c0c0204d7f4,"(I need to believe that much, at least.)",(Ít ra cũng phải tin là thế.),Kat,x
-story.Global.prologue_ending_k7.text.2863dac37c7151d249f68af6ee435665b58f7361,Dead End K7 - Girls' Night Out,Kết Đứt K7 – Đám Nữ Chơi Đêm,,x
+story.Global.prologue_ending_k7.text.1faf6ee8c43bd3f7f83824702bfa6cd9079f99bb,"And so, we left the school and walked home.","Và rồi, bọn tôi rời khỏi trường và lên đường về nhà.",Kat,
+story.Global.prologue_ending_k7.text.4d1b355e80d9d842ff1a26fe9efdbbdfac8d806f,No one said anything for a while.,"Trong khoảng chốc lát, chẳng ai nói cái gì cả.",Kat,
+story.Global.prologue_ending_k7.text.907838182d990909f8f5e5e8a7c142be8f83ab52,(I think Kat is feeling down…),(Thấy Kat nản lắm đó…),Kaya,
+story.Global.prologue_ending_k7.text.ef61cdc800bd79da44754d0f5bcea2af848705cb,(Yeah.),(Ừ.),Saki,
+story.Global.prologue_ending_k7.text.8cbf1b32fd90c465be5900317712e467d251be55,(Should we do something?),(Mình nên làm gì cho nó chăng?),Kaya,
+story.Global.prologue_ending_k7.text.70090abb90491ec03c80856de5f7d41470fb1e41,(What's on your mind?),"(Bọn mày nghĩ sao, làm gì đây?)",Juli,
+story.Global.prologue_ending_k7.text.0c97c13d16a5f3e38294ef6e2b1fc8196e18ba85,(I don't know…),(Không biết nữa…),Kaya,
+story.Global.prologue_ending_k7.text.884f7ac1174030ede1347d792260f5342765472f,(Do you think Kat likes to sing?),(Con Kat không biết có thích hát karaoke không?),Saki,
+story.Global.prologue_ending_k7.text.91fbe4ea81fd3d03a8efdb9d972054a6e43175d7,(Hmmm…),(Hừmmm…),Juli,
+story.Global.prologue_ending_k7.text.afc2c43d835d6d238d10a8a9ef286bf73e23c624,"(Good idea, Saki!)",(Đi hát karaoke được đó Saki!),Kaya,
+story.Global.prologue_ending_k7.text.922a788ffc9d0e6de4257c07aaabdbe39aa05249,"(Haven't seen you this excited about karaoke before, Kaya…)",(Hăm hở đi karaoke thế này lần đầu thấy đó Kaya…),Juli,
+story.Global.prologue_ending_k7.text.afb42674fbfa842e149878bc03f27d023121f3a7,"(That's a yes, then?)",(Vậy là đi hát được đúng không?),Saki,
+story.Global.prologue_ending_k7.text.ab7d36f2f9a7a7c2fbbed88e12147b8f0eee4b16,(Alright.),(Ờ.),Juli,
+story.Global.prologue_ending_k7.text.c7572d80c587c5afc9d310549d578e2df0ee0d71,So…,Ê…,Saki,
+story.Global.prologue_ending_k7.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,
+story.Global.prologue_ending_k7.text.feb6c3a737798b01159cc78037f9ff846933372f,We were thinking of going to this place…,Bọn tao định tới chỗ này nè mà…,Saki,
+story.Global.prologue_ending_k7.text.12775f7f3ee5ad0ca46f8240a8f2fdc54df04c80,(I can't do this! She's ignoring me!),(Tao nói không được! Nó lơ tao luôn!),Saki,
+story.Global.prologue_ending_k7.text.a6994f91e52e1cc39934cd111c242a0b2cd789e3,Kat!,Kat!,Juli,
+story.Global.prologue_ending_k7.text.e777cea75af6ed97e936e9232e0161af3deec82e,Hmm?,Hửmm?,Kat,
+story.Global.prologue_ending_k7.text.470ed3ac582c3f926ff995b637c8bc241dffe029,Come with us.,Đi hát cùng bọn tao.,Juli,
+story.Global.prologue_ending_k7.text.73fef01e230300ae6fc10ffd739157b067709157,Huh?,Hở?,Kat,
+story.Global.prologue_ending_k7.text.0dfd56e8980ca5af124dfd0f239edf245e345ceb,Just come.,Cứ đi đi.,Juli,
+story.Global.prologue_ending_k7.text.b9eb95fd69a10e7e704eea3ec036707e94f75521,"Sure, whatever.","Ừ thì đi, thế nào cũng được.",Kat,
+story.Global.prologue_ending_k7.text.513b2c5b6fe87d3e8d7d1057569c029897216eb1,(You're so good!),(Được quá mày ơi!),Saki,
+story.Global.prologue_ending_k7.text.39060fa865f06ea4f250f71a23d2f6445b4534db,(Are they trying… to cheer me up…?),(Bọn nó… đang muốn động viên mình hay sao…?),Kat,
+story.Global.prologue_ending_k7.text.95741f01ba97bd1346a0081f0d435d592539f3b3,(Maybe… things are better this way.),(Có khi… cứ thế này là tốt hơn rồi.),Kat,
+story.Global.prologue_ending_k7.text.33e594b2f4dbc10ffc99749b3fae1c0c0204d7f4,"(I need to believe that much, at least.)",(Ít ra cũng phải tin là thế.),Kat,
+story.Global.prologue_ending_k7.text.2863dac37c7151d249f68af6ee435665b58f7361,Dead End K7 - Girls' Night Out,Kết Đứt K7 – Đám Nữ Chơi Đêm,,
 ,,,,
 story.Global.prologue_ending_k8.text.aadb3c228ce36e4bd6a5b91c1b9af0295c221ed1,I didn't hear from the voice again.,Sau đó không nghe thấy giọng ấy nữa.,,
 story.Global.prologue_ending_k8.text.011cf5f485dda252a5db605095168574100eec84,"But, no matter how much I wanted to, I didn't scream for help.","Nhưng cho dù có muốn khóc thét khôn cùng, tôi không hề gào lên kêu cứu.",,
@@ -206,10 +206,10 @@ story.Global.prologue_ending_k8.text.a85defd134c6ca4337254087d04c2d2177af347a,So
 story.Global.prologue_ending_k8.text.1215744cbb42a3f53737c44a88eac5aed283de43,I just know it.,Tôi cứ biết là thế.,,
 story.Global.prologue_ending_k8.text.2fd2dad3266f20c1f944788ddc4f880332d8b52b,Dead End K8 - My Way,Kết Đứt K8 – Đường Ta Ta Đi,,
 ,,,,
-story.Global.prologue_event_attempted_exit_girls.text.2d1147175f6d5d127925dd07225512b2f8b07e0d,We're… back here?,Quay lại đây… sao?,Juli,x
-story.Global.prologue_event_attempted_exit_girls.text.c81fe5e920aca4e4d853deb47f4e771e37dce1f6,"Maybe this is the school's way of saying ""You can't leave now.""","Có khi là trường đang bảo ""Không ra được đâu"" chăng.",Kat,x
-story.Global.prologue_event_attempted_exit_girls.text.00ae205e25c912628e5a4f8cb5c410e415536ba4,How can you just say something like that?,Sao lại nói điều như thế chứ?,Saki,x
-story.Global.prologue_event_attempted_exit_girls.text.37f0039c54a1e51837084fcf9e29b6f3481de199,Are we going home soon…?,Sắp được về nhà chưa thế…?,Kaya,x
+story.Global.prologue_event_attempted_exit_girls.text.2d1147175f6d5d127925dd07225512b2f8b07e0d,We're… back here?,Quay lại đây… sao?,Juli,
+story.Global.prologue_event_attempted_exit_girls.text.c81fe5e920aca4e4d853deb47f4e771e37dce1f6,"Maybe this is the school's way of saying ""You can't leave now.""","Có khi là trường đang bảo ""Giờ đừng hòng thoát ra"" chăng.",Kat,
+story.Global.prologue_event_attempted_exit_girls.text.00ae205e25c912628e5a4f8cb5c410e415536ba4,How can you just say something like that?,Sao lại nói điều như thế chứ?,Saki,
+story.Global.prologue_event_attempted_exit_girls.text.37f0039c54a1e51837084fcf9e29b6f3481de199,Are we going home soon…?,Sắp được về nhà chưa thế…?,Kaya,
 ,,,,
 story.Global.prologue_event_sit_with_girls.text.28180a9bb790b972e3fbe0f59c1d6d904c052c9d,What are you doing? I thought you were busy.,Làm gì đó? Tưởng mày bận cơ mà.,Juli,
 story.Global.prologue_event_sit_with_girls.text.6bcbb02d937ec25095efec431109deaf9da90b8e,I'm just taking a break.,Ngồi nghỉ xíu thôi.,Kat,
@@ -224,12 +224,12 @@ story.Global.prologue_event_sit_with_girls.text.033b205074155231d5e3dfae0b781e96
 story.Global.prologue_event_sit_with_girls.text.c3e9d2ea53efa91a565e62bdb6a96974f85914ff,"Well, the rules say…","Nhưng mà, theo luật thì…",Kat,
 story.Global.prologue_event_sit_with_girls.text.49cbcaaefe9016eddbceee5b087374bdfaf41fd7,"Oh come on, you don't ACTUALLY think it's gonna work, do you? It's just a game, as you said.","Cái gì đó, mày cũng đâu có thực sự nghĩ ba cái trò đó sẽ thành công đâu đúng không? Như mày nói là trò chơi thôi mà gì đâu.",Saki,
 story.Global.prologue_event_sit_with_girls.text.6cdcae6600a2e2c8c28356bb5b80f487b77e2c02,The rules don't actually matter.,"Thành thử, kệ bà ba cái luật gì đó đi.",Saki,
-story.Global.prologue_event_sit_with_girls.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,x
-story.Global.prologue_event_sit_with_girls.text.cc523523e6c9525733e32983eafcc406747a4d89,I suppose not.,Thế cũng đúng.,Kat,x
-story.Global.prologue_event_sit_with_girls.text.a183bf089d90c341b4636dd8bc976b71f03c60b3,"Then it's decided, we will tag along with you.","Vậy là quyết định nhé, bọn tao đi theo mày.",Juli,x
-story.Global.prologue_event_sit_with_girls.text.7e044b515cf648e1fe0f1de4aab42fa7e0914aa1,You're tasked with entertaining us now.,Cố gắng hết mình cho bọn tao vui nha.,Juli,x
-story.Global.prologue_event_sit_with_girls.text.1477c7c6da8527cfd566cd2f5a868015bb88870b,"Well, I suppose it can't be helped.","Chà, đành vậy thôi chứ sao.",Kat,x
-story.Global.prologue_event_sit_with_girls.text.3fca5477fa872a76a953cd6fde6bb02a5f073ce5,"Let's go, then.",Ta đi thôi.,Kat,x
+story.Global.prologue_event_sit_with_girls.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,
+story.Global.prologue_event_sit_with_girls.text.cc523523e6c9525733e32983eafcc406747a4d89,I suppose not.,Thế cũng đúng.,Kat,
+story.Global.prologue_event_sit_with_girls.text.a183bf089d90c341b4636dd8bc976b71f03c60b3,"Then it's decided, we will tag along with you.","Vậy là quyết định nhé, bọn tao đi theo mày.",Juli,
+story.Global.prologue_event_sit_with_girls.text.7e044b515cf648e1fe0f1de4aab42fa7e0914aa1,You're tasked with entertaining us now.,Cố gắng hết mình cho bọn tao vui nha.,Juli,
+story.Global.prologue_event_sit_with_girls.text.1477c7c6da8527cfd566cd2f5a868015bb88870b,"Well, I suppose it can't be helped.","Chà, đành vậy thôi chứ sao.",Kat,
+story.Global.prologue_event_sit_with_girls.text.3fca5477fa872a76a953cd6fde6bb02a5f073ce5,"Let's go, then.",Ta đi thôi.,Kat,
 ,,,,
 story.Global.prologue_hod_event_wake_up.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,,
 story.Global.prologue_hod_event_wake_up.text.5c63ff31864c31803e6e16cbd7f2e8361ab99123,I'm back in this hallway…,Về lại hành lang này rồi…,,
@@ -285,14 +285,14 @@ story.Global.prologue_item_chalk_get.text.59a38df9efa8b663acdc42eed3b4b771b1058a
 ,,,,
 story.Global.prologue_item_chalk_get.text.91880d269b7c303f2492f5768525adb2cff8f5a3,Do I really need all of this chalk…?,Có cần phấn đến nhường này không nhỉ…?,Kat,
 ,,,,
-story.Global.prologue_item_curtains_on_wrong_window.text.fb2d41d9de9ffb9d4f4d9b210f62b288a52a7d3b,This window already has curtains.,Cửa sổ này đã mắc rèm rồi.,,x
+story.Global.prologue_item_curtains_on_wrong_window.text.fb2d41d9de9ffb9d4f4d9b210f62b288a52a7d3b,This window already has curtains.,Cửa sổ này đã mắc rèm rồi.,,
 ,,,,
 story.Global.prologue_item_lighter_on_plant.text.ba57dc5b65436266ce63060ed298e9e28bd1f98d,The thought of its burning beauty charms you.,Tưởng tượng cái vẻ đẹp khi cây bị cháy mà thấy quyến rũ ghê.,,
 story.Global.prologue_item_lighter_on_plant.text.13e7c99c448e036b88626da6d4785e0b2d0a510c,"I really shouldn't, though.",Mà thôi không nên làm vậy.,,
 ,,,,
 story.Global.prologue_item_notebook.text.452d0e455e1fd507821ab387ea105db875bbc7c7,It looks like a private journal.,Có vẻ là nhật ký.,,
 ,,,,
-story.Global.prologue_item_notebook.text.d5adb19ac37e74fc0812089aeb873e8678f109fc,This looks like that girl's private journal.,Hình như là nhật ký của cái con đó nè.,,x
+story.Global.prologue_item_notebook.text.d5adb19ac37e74fc0812089aeb873e8678f109fc,This looks like that girl's private journal.,Hình như là nhật ký của cái con đó nè.,,
 ,,,,
 story.Global.prologue_item_notebook.choice.text.b12c232a4005e91d394de9ab6965418fee437693,Look through it?,Lật ra xem chứ?,,
 story.Global.prologue_item_notebook.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Xem,,
@@ -305,8 +305,8 @@ story.Global.prologue_item_notebook.text.71ca50e7baa83505f6b5e6492bb07129818e24f
 story.Global.prologue_item_notebook.text.d4bb8c0668eed38119a5c8b6381fd6ce87d00f8b,A math notebook. Nothing worth looking through.,Là vở môn toán. Chả đáng lướt qua.,,
 ,,,,
 story.Global.prologue_item_notes.text.aa75d6edf5104c9b684055c37aaec4d4c51fe085,"(Alright, so I need to search the school for the items first.)","(Được rồi, trước tiên loanh quanh trong trường thu thập nguyên liệu nào.)",,
-story.Global.prologue_item_notes.text.f529f7413af21949f3f26140290a1e3e0ec54b38,(The rune should be in this room…),(Cái rune hẳn có trong phòng này…),,x
-story.Global.prologue_item_notes.text.a96b5fccf3cb71a42313671f2fef090aeed565b5,(…somewhere.),(…hay đâu đó không biết nữa.),,x
+story.Global.prologue_item_notes.text.f529f7413af21949f3f26140290a1e3e0ec54b38,(The rune should be in this room…),(Cái rune hẳn có trong phòng này…),,
+story.Global.prologue_item_notes.text.a96b5fccf3cb71a42313671f2fef090aeed565b5,(…somewhere.),(…hay đâu đó không biết nữa.),,
 ,,,,
 story.Global.prologue_item_scissors.text.80f0585437b706612010d41fb9af91e109df19fb,"Well, I need a tuft of hair for the ritual…","Hừm, cần một nhúm tóc cho nghi thức cơ…",,
 ,,,,
@@ -317,11 +317,11 @@ story.Global.prologue_item_scissors.choice.2d5f5b0553b68392fe5836efa5e0f9f90f568
 story.Global.prologue_item_scissors.text.a02d057a764ee283c5f00e69709935565643195a,Sigh…,Hầy…,Kat,
 story.Global.prologue_item_scissors.text.b6ec1c5bd6f96b16a291a513b560b1983297a61d,"Here I go, I suppose…",Chắc là cắt vậy…,Kat,
 story.Global.prologue_item_scissors.text.6ebeaa4751257aa77168c77473d8692a0199152d,I never want to do that again.,Mình không muốn làm thế lần nào nữa đâu.,Kat,
-story.Global.prologue_item_scissors.text.78513c428da3e82b3d9c0e31eaa6102d16f7c005,"You're so brave, Kat.",Can đảm quá Kat ơi.,Kaya,x
+story.Global.prologue_item_scissors.text.78513c428da3e82b3d9c0e31eaa6102d16f7c005,"You're so brave, Kat.",Can đảm quá Kat ơi.,Kaya,
 ,,,,
 story.Global.prologue_item_scissors.text.3ff88283e120b72b59210fe456db1fc6a4c74fdb,Of course not.,Tất nhiên là không.,Kat,
 ,,,,
-story.Global.prologue_item_scissors.text.32646a8dbfe784832b3847f9b024f87205853d07,I already have enough hair.,Có đủ tóc rồi mà.,Kat,x
+story.Global.prologue_item_scissors.text.32646a8dbfe784832b3847f9b024f87205853d07,I already have enough hair.,Có đủ tóc rồi mà.,Kat,
 ,,,,
 story.Global.prologue_item_scissors.text.79e6a54246ee62a14f305087f065be2ea7a2b604,(Nah.),(Hông.),Kat,
 story.Global.prologue_item_scissors.text.e0d56e99f7f18c0f7f197515332e77d24b1068e9,Um… any takers?,Ờ… đứa nào tình nguyện không?,Kat,

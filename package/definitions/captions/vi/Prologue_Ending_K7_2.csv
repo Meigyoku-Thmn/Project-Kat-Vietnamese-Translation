@@ -1,96 +1,96 @@
 ﻿,en,vi,char,,
-story.Prologue_Ending_K7_2.event_already_open.text.968cf294d2af6de9dd83458665405ede889fc78c,It's already unlocked.,Khóa đã mở rồi.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.event_check_secret_open.text.69851c726ce9e637dcadf0296c0a917ad54d47a0,…but there's nothing inside.,…song bên trong chả cất gì cả.,,,x
-,,,,,x
+story.Prologue_Ending_K7_2.event_already_open.text.968cf294d2af6de9dd83458665405ede889fc78c,It's already unlocked.,Khóa đã mở rồi.,,,
+,,,,,
+story.Prologue_Ending_K7_2.event_check_secret_open.text.69851c726ce9e637dcadf0296c0a917ad54d47a0,…but there's nothing inside.,…song bên trong chả cất gì cả.,,,
+,,,,,
 story.Prologue_Ending_K7_2.event_check_secret_open.text.065e84d428f9061a0f9e2bdd5b2b5ea32f3ce38d,There's some schematics for some sort of machine you don't really understand.,Có lược đồ của cái máy móc nào đó mà bạn nhìn chả hiểu gì sất.,,,x
 story.Prologue_Ending_K7_2.event_check_secret_open.text.2669cc23ec9a922ca884004193bd4d8e1e422462,What's that?,Đó là cái gì?,Juli,annoyed3,x
 story.Prologue_Ending_K7_2.event_check_secret_open.text.0c3ed6989600027bf834b5dbdae6827da3e4d4be,Not a clue… but I'm taking it.,Bó tay… nhưng mà tao cầm đi thôi.,Kat,,x
-,,,,,x
-story.Prologue_Ending_K7_2.event_read_documents.text.b6d244c0e8be2cce7eda1c8f8cb17b9403609fb7,There's some official-looking documents here.,Có mấy giấy tờ trông như là công văn ở đây.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.event_read_documents.choice.text.669a9ddb15528f0c9e0a315083c81df92b8ff096,Read them?,Đọc chứ?,,,x
-story.Prologue_Ending_K7_2.event_read_documents.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Đọc,,,x
-story.Prologue_Ending_K7_2.event_read_documents.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.event_read_documents.text.a5ca1b97a1d069b86e0927db82527e5d7e1bd2ab,${img:stamp_council} MEETING 176 NOTES,${img:stamp_council} BIÊN BẢN CUỘC HỌP 176,,,x
-story.Prologue_Ending_K7_2.event_read_documents.text.dc1e8cf357a7552a09f1c308741b2556785d773a,"""…disagreements on the distribution of the….""","""…bất nhất trí về sự phân bố của…""",,,x
-story.Prologue_Ending_K7_2.event_read_documents.text.1d80b08628c2a209bcba2bc7c76a233ab49cf275,"""…is still not participating in our…""","""…thì vẫn chưa tham gia vào… của chúng ta…""",,,x
-story.Prologue_Ending_K7_2.event_read_documents.text.4d0f59cdc6688ae030f8d700c2d5f613168c5ecc,"""…the secondary duty of guardians…""","""…trách vụ thứ yếu của người hộ vệ…""",,,x
-story.Prologue_Ending_K7_2.event_read_documents.text.cf254c0dae43bb11b82ce3b653d2e38ef10e9f2e,"""…collection of stones from every…""","""…thu thập thạch đá từ tất thảy….""",,,x
-story.Prologue_Ending_K7_2.event_read_documents.text.38044dad011511ac1b7b0d254e9d631fe371af5b,The document continues making little sense for several pages.,Nội dung nối tiếp suốt mấy trang hầu như chả ra cái nghĩa gì hết.,,,x
-story.Prologue_Ending_K7_2.event_read_documents.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,,x
-story.Prologue_Ending_K7_2.event_read_documents.text.ef64927c0bf5c8cbe1cdaea41eacb7d07a69075f,What the hell am I reading?,Mình đang đọc cái quái gì đây?,Kat,,x
-,,,,,x
-story.Prologue_Ending_K7_2.event_read_documents.text.fa49cb307a80bc610227416132f07cab1aeb96d4,There's nothing else of interest.,Chẳng có thứ gì khác hấp dẫn.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.item_hairpin_on_locker.text.2b8fda9ac1cebeb67f7ea62bcc3893c4f740d7a4,The hairpin doesn't fit into this lock.,Kẹp tóc không khít với khóa này.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.item_locker_key_on_locker_0.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.item_locker_key_on_locker_1.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.item_locker_key_on_locker_2.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.item_locker_key_on_locker_3.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.item_locker_key_on_locker_4.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.item_locker_key_on_locker_5.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.item_scissors_on_box.text.cba0c319a35c611ede5affd4f780250d381eb0bb,They're already open.,Đã mở rồi.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.item_scissors_on_boxes.text.5aec51140ff6d1854154a6cd35bdb15fc52f54ea,"Despite your best efforts, you can't seem to cut through it with your scissors.","Cho dù cố gắng thế nào, không có vẻ dùng kéo mà có thể cắt mở được.",,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_box.text.1fb8cc1aca928f0182605a85cb73810dcaf39011,The box contains an assortment of differently sized blue cans.,Trong thùng gom chứa các loại lon màu xanh cỡ lớn đủ kiểu.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_boxes.text.acdf8964d0362810fc7d3502e004502935bab29a,A pile of boxes.,Núi thùng.,,,x
-story.Prologue_Ending_K7_2.misc_boxes.text.16739b61c5a3940f01aa28b51a8457767a5e884c,They seem to be stuck together.,Dường như là chúng bị dính lại với nhau.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_0.text.94a4dd129aa729d334c0ac9fd8bce27178a7a923,A large locker.,Tủ đồ lớn.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_0.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Đang bị khóa rồi.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_1.text.94a4dd129aa729d334c0ac9fd8bce27178a7a923,A large locker.,Tủ đồ lớn.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_1.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Đang bị khóa rồi.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_1.text.fd51e733316179af56612c97466a9b4d726d899e,It's empty.,Bên trong trống không.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_2.text.94a4dd129aa729d334c0ac9fd8bce27178a7a923,A large locker.,Tủ đồ lớn.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_2.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Đang bị khóa rồi.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_2.text.fd51e733316179af56612c97466a9b4d726d899e,It's empty.,Bên trong trống không.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_3.text.94a4dd129aa729d334c0ac9fd8bce27178a7a923,A large locker.,Tủ đồ lớn.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_3.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Đang bị khóa rồi.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_3.text.fd51e733316179af56612c97466a9b4d726d899e,It's empty.,Bên trong trống không.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_4.text.94a4dd129aa729d334c0ac9fd8bce27178a7a923,A large locker.,Tủ đồ lớn.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_4.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Đang bị khóa rồi.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_4.text.fd51e733316179af56612c97466a9b4d726d899e,It's empty.,Bên trong trống không.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_5.text.94a4dd129aa729d334c0ac9fd8bce27178a7a923,A large locker.,Tủ đồ lớn.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_5.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Đang bị khóa rồi.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_locker_5.text.fd51e733316179af56612c97466a9b4d726d899e,It's empty.,Bên trong trống không.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_trashcan.text.c151769c9b7c94a0bc56d85aa96edce07f38d4be,A trash can.,A trash can.,,,x
-story.Prologue_Ending_K7_2.misc_trashcan.text.d9caba56ca74e503dd949c7f046065cdc0baeced,Some black goo can be seen at the bottom.,Ở đáy thấy cái thứ nhơm nhớp gì đó màu đen.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.misc_trashcans.text.524ba9242b167d28e4d3d5615933c89db8318513,A pile of trash cans.,Núi thùng rác.,,,x
-story.Prologue_Ending_K7_2.misc_trashcans.text.16739b61c5a3940f01aa28b51a8457767a5e884c,They seem to be stuck together.,Dường như là chúng bị dính lại với nhau.,,,x
-,,,,,x
-story.Prologue_Ending_K7_2.move_enter.text.0d760fca65be9738a45f425251b44d19a6361ebf,So… maybe the ritual worked?,Vậy… không khéo nghi thức đã thành công rồi?,Saki,concerned,x
-story.Prologue_Ending_K7_2.move_enter.text.bcbcd2ecd528289215e2b6121962cc4527ffeaa4,But the ritual wasn't finished.,Nhưng mà nghi thức đã xong đâu.,Kat,,x
-story.Prologue_Ending_K7_2.move_enter.text.7344407b3355bbb7fcc931167e97e2f0d3b3529d,"Which means either the school has a bunch of cursed-looking rooms and a dark secret, or this isn't the school anymore.","Tức là hoặc trường này có vô số căn phòng trông có vẻ bị nguyền rủa cùng với bí mật đen tối này nọ, hoặc có khi đây không phải là trường học nữa.",Kat,,x
-story.Prologue_Ending_K7_2.move_enter.text.abc7624541537b0f7c2de0907516ceaf9b2d647e,"If it's not the school, then what is it?",Nếu đây không phải là trường học thì rốt cuộc là gì?,Saki,scared,x
-story.Prologue_Ending_K7_2.move_enter.text.f6d83edc45f0b5db67760927a6156b71e8e91b28,No idea.,Chịu à.,Kat,catface2,x
-story.Prologue_Ending_K7_2.move_enter.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Saki,uuugh,x
-story.Prologue_Ending_K7_2.move_enter.text.72192521ede59e8e0711d87f59e11e46de95adea,"In any case, it doesn't feel too dangerous, so let's continue.","Mà dù thế nào thì thấy đâu có nguy hiểm gì lắm đâu, tiếp tục tiến lên thôi.",Kat,catface3,x
+,,,,,
+story.Prologue_Ending_K7_2.event_read_documents.text.b6d244c0e8be2cce7eda1c8f8cb17b9403609fb7,There's some official-looking documents here.,Có mấy giấy tờ trông như là công văn ở đây.,,,
+,,,,,
+story.Prologue_Ending_K7_2.event_read_documents.choice.text.669a9ddb15528f0c9e0a315083c81df92b8ff096,Read them?,Đọc chứ?,,,
+story.Prologue_Ending_K7_2.event_read_documents.choice.5397e0583f14f6c88de06b1ef28f460a1fb5b0ae,Yes,Đọc,,,
+story.Prologue_Ending_K7_2.event_read_documents.choice.816c52fd2bdd94a63cd0944823a6c0aa9384c103,No,Thôi,,,
+,,,,,
+story.Prologue_Ending_K7_2.event_read_documents.text.a5ca1b97a1d069b86e0927db82527e5d7e1bd2ab,${img:stamp_council} MEETING 176 NOTES,${img:stamp_council} BIÊN BẢN CUỘC HỌP 176,,,
+story.Prologue_Ending_K7_2.event_read_documents.text.dc1e8cf357a7552a09f1c308741b2556785d773a,"""…disagreements on the distribution of the….""","""…bất nhất trí về sự phân bố của…""",,,
+story.Prologue_Ending_K7_2.event_read_documents.text.1d80b08628c2a209bcba2bc7c76a233ab49cf275,"""…is still not participating in our…""","""…thì vẫn chưa tham gia vào… của chúng ta…""",,,
+story.Prologue_Ending_K7_2.event_read_documents.text.4d0f59cdc6688ae030f8d700c2d5f613168c5ecc,"""…the secondary duty of guardians…""","""…trách vụ thứ yếu của người hộ vệ…""",,,
+story.Prologue_Ending_K7_2.event_read_documents.text.cf254c0dae43bb11b82ce3b653d2e38ef10e9f2e,"""…collection of stones from every…""","""…thu thập thạch đá từ tất thảy….""",,,
+story.Prologue_Ending_K7_2.event_read_documents.text.38044dad011511ac1b7b0d254e9d631fe371af5b,The document continues making little sense for several pages.,Nội dung nối tiếp suốt mấy trang hầu như chả ra cái nghĩa gì hết.,,,
+story.Prologue_Ending_K7_2.event_read_documents.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Kat,,
+story.Prologue_Ending_K7_2.event_read_documents.text.ef64927c0bf5c8cbe1cdaea41eacb7d07a69075f,What the hell am I reading?,Mình đang đọc cái quái gì đây?,Kat,,
+,,,,,
+story.Prologue_Ending_K7_2.event_read_documents.text.fa49cb307a80bc610227416132f07cab1aeb96d4,There's nothing else of interest.,Chẳng có thứ gì khác hấp dẫn.,,,
+,,,,,
+story.Prologue_Ending_K7_2.item_hairpin_on_locker.text.2b8fda9ac1cebeb67f7ea62bcc3893c4f740d7a4,The hairpin doesn't fit into this lock.,Kẹp tóc không khít với khóa này.,,,
+,,,,,
+story.Prologue_Ending_K7_2.item_locker_key_on_locker_0.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!,,,
+,,,,,
+story.Prologue_Ending_K7_2.item_locker_key_on_locker_1.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!,,,
+,,,,,
+story.Prologue_Ending_K7_2.item_locker_key_on_locker_2.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!,,,
+,,,,,
+story.Prologue_Ending_K7_2.item_locker_key_on_locker_3.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!,,,
+,,,,,
+story.Prologue_Ending_K7_2.item_locker_key_on_locker_4.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!,,,
+,,,,,
+story.Prologue_Ending_K7_2.item_locker_key_on_locker_5.text.fb381db7c0a340bf5cd960965b3dd6f01f4faf62,The key fits!,Chìa khít rồi!,,,
+,,,,,
+story.Prologue_Ending_K7_2.item_scissors_on_box.text.cba0c319a35c611ede5affd4f780250d381eb0bb,They're already open.,Đã mở rồi.,,,
+,,,,,
+story.Prologue_Ending_K7_2.item_scissors_on_boxes.text.5aec51140ff6d1854154a6cd35bdb15fc52f54ea,"Despite your best efforts, you can't seem to cut through it with your scissors.","Cho dù cố gắng thế nào, không có vẻ dùng kéo mà có thể cắt mở được.",,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_box.text.1fb8cc1aca928f0182605a85cb73810dcaf39011,The box contains an assortment of differently sized blue cans.,Trong thùng gom chứa các loại lon màu xanh cỡ lớn đủ kiểu.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_boxes.text.acdf8964d0362810fc7d3502e004502935bab29a,A pile of boxes.,Đống thùng.,,,
+story.Prologue_Ending_K7_2.misc_boxes.text.16739b61c5a3940f01aa28b51a8457767a5e884c,They seem to be stuck together.,Dường như là chúng bị dính lại với nhau.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_0.text.94a4dd129aa729d334c0ac9fd8bce27178a7a923,A large locker.,Tủ đồ lớn.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_0.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Đang bị khóa rồi.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_1.text.94a4dd129aa729d334c0ac9fd8bce27178a7a923,A large locker.,Tủ đồ lớn.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_1.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Đang bị khóa rồi.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_1.text.fd51e733316179af56612c97466a9b4d726d899e,It's empty.,Bên trong trống không.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_2.text.94a4dd129aa729d334c0ac9fd8bce27178a7a923,A large locker.,Tủ đồ lớn.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_2.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Đang bị khóa rồi.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_2.text.fd51e733316179af56612c97466a9b4d726d899e,It's empty.,Bên trong trống không.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_3.text.94a4dd129aa729d334c0ac9fd8bce27178a7a923,A large locker.,Tủ đồ lớn.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_3.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Đang bị khóa rồi.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_3.text.fd51e733316179af56612c97466a9b4d726d899e,It's empty.,Bên trong trống không.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_4.text.94a4dd129aa729d334c0ac9fd8bce27178a7a923,A large locker.,Tủ đồ lớn.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_4.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Đang bị khóa rồi.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_4.text.fd51e733316179af56612c97466a9b4d726d899e,It's empty.,Bên trong trống không.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_5.text.94a4dd129aa729d334c0ac9fd8bce27178a7a923,A large locker.,Tủ đồ lớn.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_5.text.8bbfaac51fdeac34b90b0708bc95d7c6b2fe3ec0,It's locked.,Đang bị khóa rồi.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_locker_5.text.fd51e733316179af56612c97466a9b4d726d899e,It's empty.,Bên trong trống không.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_trashcan.text.c151769c9b7c94a0bc56d85aa96edce07f38d4be,A trash can.,Thùng rác.,,,
+story.Prologue_Ending_K7_2.misc_trashcan.text.d9caba56ca74e503dd949c7f046065cdc0baeced,Some black goo can be seen at the bottom.,Ở đáy thấy cái thứ nhơm nhớp gì đó màu đen.,,,
+,,,,,
+story.Prologue_Ending_K7_2.misc_trashcans.text.524ba9242b167d28e4d3d5615933c89db8318513,A pile of trash cans.,Núi thùng rác.,,,
+story.Prologue_Ending_K7_2.misc_trashcans.text.16739b61c5a3940f01aa28b51a8457767a5e884c,They seem to be stuck together.,Dường như là chúng bị dính lại với nhau.,,,
+,,,,,
+story.Prologue_Ending_K7_2.move_enter.text.0d760fca65be9738a45f425251b44d19a6361ebf,So… maybe the ritual worked?,Vậy… không khéo nghi thức đã thành công rồi?,Saki,concerned,
+story.Prologue_Ending_K7_2.move_enter.text.bcbcd2ecd528289215e2b6121962cc4527ffeaa4,But the ritual wasn't finished.,Nhưng mà nghi thức đã xong đâu.,Kat,,
+story.Prologue_Ending_K7_2.move_enter.text.7344407b3355bbb7fcc931167e97e2f0d3b3529d,"Which means either the school has a bunch of cursed-looking rooms and a dark secret, or this isn't the school anymore.","Tức là hoặc trường này có vô số căn phòng trông có vẻ bị nguyền rủa cùng với bí mật đen tối này nọ, hoặc có khi đây không phải là trường học nữa.",Kat,,
+story.Prologue_Ending_K7_2.move_enter.text.abc7624541537b0f7c2de0907516ceaf9b2d647e,"If it's not the school, then what is it?",Nếu đây không phải là trường học thì rốt cuộc là gì?,Saki,scared,
+story.Prologue_Ending_K7_2.move_enter.text.f6d83edc45f0b5db67760927a6156b71e8e91b28,No idea.,Chịu à.,Kat,catface2,
+story.Prologue_Ending_K7_2.move_enter.text.6eae3a5b062c6d0d79f070c26e6d62486b40cb46,…,…,Saki,uuugh,
+story.Prologue_Ending_K7_2.move_enter.text.72192521ede59e8e0711d87f59e11e46de95adea,"In any case, it doesn't feel too dangerous, so let's continue.","Mà dù thế nào thì thấy đâu có nguy hiểm gì lắm đâu, tiếp tục tiến lên thôi.",Kat,catface3,
